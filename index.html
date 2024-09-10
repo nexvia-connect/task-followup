@@ -27,12 +27,16 @@
       width: 100%;
       table-layout: fixed;
       border-collapse: collapse;
-      margin-top: 20px; /* Adjusts the distance from the top */
+      margin-top: 0px; /* Adjusts the distance from the top */
     }
 
     td {
       padding: 5px; /* Reduce space between rows */
       vertical-align: top; /* Align content to the top */
+    }
+
+    tr {
+      border-bottom: 1px solid #eee; /* Adds a light divider between rows */
     }
 
     .left-column {
@@ -45,6 +49,10 @@
       text-align: right;
       font-weight: 300; /* Open Sans Light */
       font-size: 18px;
+    }
+
+    tr:last-child {
+      border-bottom: none; /* Remove border from last row */
     }
   </style>
 </head>

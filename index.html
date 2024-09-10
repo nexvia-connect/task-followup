@@ -16,65 +16,68 @@
       height: 100%;
       width: 100%;
       font-family: 'Open Sans', sans-serif;
+      background: transparent; /* Make background transparent */
     }
 
-    body {
-      display: flex;
-      flex-direction: column;
-      justify-content: flex-start; /* Align to top */
-      align-items: flex-start; /* Align to top */
+    .section {
+      margin: 10px 15px !important;
+      padding: 0px !important;
+      position: relative;
+      right: 0px;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      background: #fff;
+      padding-bottom: 10px !important;
     }
 
-    table {
-      width: 100%;
-      table-layout: fixed;
-      border-collapse: collapse;
-      margin-top: 0px; /* Adjusts the distance from the top */
-    }
-
-    td {
-      padding: 5px; /* Reduce space between rows */
-      vertical-align: top; /* Align content to the top */
-    }
-
-    tr:first-child {
-      margin-bottom: 0px; /* No spacing before the first section */
-    }
-
-    .left-column {
-      text-align: left;
+    .section-title {
+      font-size: 13pt;
+      color: #444;
       font-weight: bold;
-      font-size: 18px;
+      position: relative;
+      display: flex;
+      align-items: center;
+      padding: 10px;
     }
 
-    .right-column {
-      text-align: right;
-      font-weight: 300; /* Open Sans Light */
-      font-size: 18px;
+    .section-title .material-icons {
+      font-family: "Material Icons";
+      font-size: 13pt;
+      margin-right: 8px;
+      background: linear-gradient(135deg, #1F4099, #FC3366);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
     }
 
-    tr:last-child {
-      border-bottom: none; /* Remove border from last row */
+    .section-title::before {
+      content: '';
+      position: absolute;
+      top: 40px;
+      width: 100%;
+      height: 1px;
+      background-color: #ddd;
+      left: -3px;
     }
 
     .task-list {
       width: 100%;
-      padding: 0; /* No padding above and below */
+      margin: 0;
+      padding: 0;
     }
 
     .task-item {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      margin-bottom: 10px;
-      padding: 10px;
+      padding: 5px 2px;
+      margin: 0px 5px;
       border-radius: 5px;
       cursor: pointer;
       transition: background-color 0.2s;
     }
 
     .task-item:hover {
-      background-color: #eee; /* Mouseover background color */
+      background-color: #eee;
     }
 
     .task-info {
@@ -83,9 +86,10 @@
     }
 
     .task-icon {
-      color: #378b29; /* Green check icon */
-      font-size: 10px;
+      color: #378b29;
+      font-size: 14px;
       margin-right: 8px;
+      margin-left: 4px;
     }
 
     .task-name {
@@ -101,32 +105,30 @@
     }
 
     .avatar {
-      width: 30px;
-      height: 30px;
+      width: 35px;
+      height: 35px;
       border-radius: 50%;
       background-size: cover;
       background-position: center;
-    }
-
-    /* Keep margin before the second section */
-    tr:nth-child(2) {
-      margin-top: 20px; /* Added spacing above "Your ongoing tasks" */
+      margin-right: 5px;
     }
   </style>
 </head>
 <body>
-  <table>
-    <tr>
-      <td class="left-column">Current tasks in the pipeline</td>
-      <td class="right-column" id="taskCount">Loading...</td>
-    </tr>
-    <tr>
-      <td class="left-column">Your ongoing tasks</td>
-      <td class="right-column">Operator</td>
-    </tr>
-  </table>
+  <div class="section">
+    <div class="section-title">
+      <span class="material-icons">fact_check</span>
+      Current tasks in the pipeline: <span id="taskCount">Loading...</span>
+    </div>
+  </div>
 
-  <div class="task-list" id="taskList"></div> <!-- Task list will be inserted here -->
+  <div class="section">
+    <div class="section-title">
+      <span class="material-icons">person_add</span>
+      Your ongoing tasks
+    </div>
+    <div class="task-list" id="taskList"></div> <!-- Task list will be inserted here -->
+  </div>
 
   <script>
     // Function to get URL parameters
@@ -145,17 +147,17 @@
 
       let interval = Math.floor(seconds / 86400); // days
       if (interval > 1) {
-        return `${interval} days ago`;
+        return ${interval} days ago;
       }
 
       interval = Math.floor(seconds / 3600); // hours
       if (interval > 1) {
-        return `${interval} hours ago`;
+        return ${interval} hours ago;
       }
 
       interval = Math.floor(seconds / 60); // minutes
       if (interval > 1) {
-        return `${interval} minutes ago`;
+        return ${interval} minutes ago;
       }
 
       return 'Just now';
@@ -193,11 +195,11 @@
           const taskText = document.createElement('div');
           const taskName = document.createElement('span');
           taskName.classList.add('task-name');
-          taskName.textContent = task.name;
+          taskName.textContent = task.nameShort;
 
           const taskLastModified = document.createElement('span');
           taskLastModified.classList.add('task-last-modified');
-          taskLastModified.textContent = `Last modified: ${timeSince(task.lastModified)}`;
+          taskLastModified.textContent = Last modified: ${timeSince(task.lastModified)};
 
           taskText.appendChild(taskName);
           taskText.appendChild(document.createTextNode(' ')); // Space between name and last modified
@@ -210,7 +212,7 @@
           // Avatar
           const avatar = document.createElement('div');
           avatar.classList.add('avatar');
-          avatar.style.backgroundImage = `url(${task.avatarUrl})`;
+          avatar.style.backgroundImage = url(${task.avatarUrls});
 
           // Append taskInfo and avatar to taskItem
           taskItem.appendChild(taskInfo);

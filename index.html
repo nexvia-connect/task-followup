@@ -56,7 +56,7 @@
       width: 100%;
       height: 1px;
       background-color: #ddd;
-      left: -2px;
+      left: -5px;
     }
 
     .task-list {
@@ -95,7 +95,7 @@
     .task-name {
       font-size: 14px;
       color: #333;
-      margin-right: 5px;
+      margin-right: 10px;
     }
 
     .task-last-modified {
@@ -105,12 +105,12 @@
     }
 
     .avatar {
-      width: 35px;
-      height: 35px;
+      width: 30px;
+      height: 30px;
       border-radius: 50%;
       background-size: cover;
       background-position: center;
-      margin-right: 5px;
+      margin-right: 10px;
     }
   </style>
 </head>
@@ -147,17 +147,17 @@
 
       let interval = Math.floor(seconds / 86400); // days
       if (interval > 1) {
-        return ${interval} days ago;
+        return `${interval} days ago`;
       }
 
       interval = Math.floor(seconds / 3600); // hours
       if (interval > 1) {
-        return ${interval} hours ago;
+        return `${interval} hours ago`;
       }
 
       interval = Math.floor(seconds / 60); // minutes
       if (interval > 1) {
-        return ${interval} minutes ago;
+        return `${interval} minutes ago`;
       }
 
       return 'Just now';
@@ -199,7 +199,7 @@
 
           const taskLastModified = document.createElement('span');
           taskLastModified.classList.add('task-last-modified');
-          taskLastModified.textContent = Last modified: ${timeSince(task.lastModified)};
+          taskLastModified.textContent = `Last modified: ${timeSince(task.lastModified)}`;
 
           taskText.appendChild(taskName);
           taskText.appendChild(document.createTextNode(' ')); // Space between name and last modified
@@ -212,7 +212,7 @@
           // Avatar
           const avatar = document.createElement('div');
           avatar.classList.add('avatar');
-          avatar.style.backgroundImage = url(${task.avatarUrls});
+          avatar.style.backgroundImage = `url(${task.avatarUrls})`;
 
           // Append taskInfo and avatar to taskItem
           taskItem.appendChild(taskInfo);

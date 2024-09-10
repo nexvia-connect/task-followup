@@ -37,6 +37,10 @@
       vertical-align: top; /* Align content to the top */
     }
 
+    tr:first-child {
+      margin-bottom: 20px; /* Increased separation between row 1 and row 2 */
+    }
+
     tr {
       border-bottom: 1px solid #eee; /* Adds a light divider between rows */
     }
@@ -59,7 +63,7 @@
 
     .task-list {
       width: 100%;
-      padding: 10px 0;
+      margin: 0; /* Removed padding above and below */
     }
 
     .task-item {

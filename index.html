@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Task Pipeline</title>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> <!-- Link for Material Icons -->
   <style>
     * {
       margin: 0;
@@ -59,7 +60,6 @@
     .task-list {
       width: 100%;
       padding: 10px 0;
-      border-top: 1px solid #eee;
     }
 
     .task-item {
@@ -67,6 +67,17 @@
       justify-content: space-between;
       align-items: center;
       margin-bottom: 10px;
+    }
+
+    .task-info {
+      display: flex;
+      align-items: center;
+    }
+
+    .task-icon {
+      color: #378b29; /* Green check icon */
+      font-size: 20px;
+      margin-right: 8px;
     }
 
     .task-name {
@@ -132,6 +143,15 @@
           const taskItem = document.createElement('div');
           taskItem.classList.add('task-item');
 
+          // Task info with icon and name/last modified
+          const taskInfo = document.createElement('div');
+          taskInfo.classList.add('task-info');
+
+          // Material icon
+          const taskIcon = document.createElement('span');
+          taskIcon.classList.add('material-icons', 'task-icon');
+          taskIcon.textContent = 'check_circle'; // Green check icon
+
           // Task name and last modified
           const taskText = document.createElement('div');
           const taskName = document.createElement('span');
@@ -146,13 +166,17 @@
           taskText.appendChild(document.createTextNode(' ')); // Space between name and last modified
           taskText.appendChild(taskLastModified);
 
+          // Append icon and taskText to taskInfo
+          taskInfo.appendChild(taskIcon);
+          taskInfo.appendChild(taskText);
+
           // Avatar
           const avatar = document.createElement('div');
           avatar.classList.add('avatar');
           avatar.style.backgroundImage = `url(${task.avatarUrl})`;
 
-          // Append taskText and avatar to taskItem
-          taskItem.appendChild(taskText);
+          // Append taskInfo and avatar to taskItem
+          taskItem.appendChild(taskInfo);
           taskItem.appendChild(avatar);
 
           // Append the taskItem to the taskList

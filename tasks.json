@@ -29,6 +29,34 @@
       ]
     },
     {
+      "id": "66e099a92126262afad7d88d",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Missing link to associate in Pipedrive",
+      "nameShort": "> Missing link to associate in Pipedrive",
+      "url": "https://trello.com/c/wx7okDyW/5616-missing-link-to-associate-in-pipedrive",
+      "lastModified": "2024-09-10T19:10:34.095Z",
+      "associatedAdviser": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "66e09e5039d2a342c50f63bc",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Missing deal Pipedrive information: Rota - Frisange (Maeva)",
+      "nameShort": "> Missing deal Pipedrive information: Rota - Frisange",
+      "url": "https://trello.com/c/jl1mlo7q/5617-missing-deal-pipedrive-information-rota-frisange-maeva",
+      "lastModified": "2024-09-10T19:30:26.199Z",
+      "associatedAdviser": "Maeva",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "66e01b7537dbb33a7753511f",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -37,20 +65,6 @@
       "nameShort": "> Put listing in window displays: Schleich - Hautcharage",
       "url": "https://trello.com/c/5Wma90bQ/5613-put-listing-in-window-displays-schleich-hautcharage-rudy",
       "lastModified": "2024-09-10T10:12:09.273Z",
-      "associatedAdviser": "Rudy",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "66e01b99c838cf2b44388d7f",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Publish listing to platforms: Schleich - Hautcharage (Rudy)",
-      "nameShort": "> Publish listing to platforms: Schleich - Hautcharage",
-      "url": "https://trello.com/c/E2XdEFSf/5614-publish-listing-to-platforms-schleich-hautcharage-rudy",
-      "lastModified": "2024-09-10T10:13:06.249Z",
       "associatedAdviser": "Rudy",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"

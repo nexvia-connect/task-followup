@@ -124,6 +124,30 @@
       };
     }
 
+    // Function to calculate time since last modification
+    function timeSince(date) {
+      const now = new Date();
+      const modifiedDate = new Date(date);
+      const seconds = Math.floor((now - modifiedDate) / 1000);
+
+      let interval = Math.floor(seconds / 86400); // days
+      if (interval > 1) {
+        return `${interval} days ago`;
+      }
+
+      interval = Math.floor(seconds / 3600); // hours
+      if (interval > 1) {
+        return `${interval} hours ago`;
+      }
+
+      interval = Math.floor(seconds / 60); // minutes
+      if (interval > 1) {
+        return `${interval} minutes ago`;
+      }
+
+      return 'Just now';
+    }
+
     // Fetch the tasks.json file from the GitHub repository
     fetch('https://raw.githubusercontent.com/nexvia-connect/task-followup/main/tasks.json')
       .then(response => response.json())
@@ -160,7 +184,7 @@
 
           const taskLastModified = document.createElement('span');
           taskLastModified.classList.add('task-last-modified');
-          taskLastModified.textContent = `Last modified: ${task.lastModified}`;
+          taskLastModified.textContent = `Last modified: ${timeSince(task.lastModified)}`;
 
           taskText.appendChild(taskName);
           taskText.appendChild(document.createTextNode(' ')); // Space between name and last modified

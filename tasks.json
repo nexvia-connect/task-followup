@@ -1,1 +1,103 @@
-{"cards":[{"id":"66a9e17ad74acaec068bfd81","idMembers":["5ce414ac7678a40557510d74"],"name":"Prepare + print notary docs for Holtgen - Tétange (Rudy)","url":"https://trello.com/c/YVysRsuN/5173-prepare-print-notary-docs-for-holtgen-t%C3%A9tange-rudy","lastModified":"2024-07-31T07:04:07.200Z","associatedAdviser":"Rudy","avatarUrl":null},{"id":"66d43c96c41581f49dc1d1f2","idMembers":["56f10d02921bc403c6d626d1"],"name":"> Update inventory","url":"https://trello.com/c/IOy2GTCX/5525-update-inventory","lastModified":"2024-09-10T12:53:05.910Z","associatedAdviser":null,"avatarUrl":null},{"id":"66e01b7537dbb33a7753511f","idMembers":["5ce414ac7678a40557510d74"],"name":"> Put listing in window displays: Schleich - Hautcharage (Rudy)","url":"https://trello.com/c/5Wma90bQ/5613-put-listing-in-window-displays-schleich-hautcharage-rudy","lastModified":"2024-09-10T10:12:09.273Z","associatedAdviser":"Rudy","avatarUrl":null},{"id":"66e01b99c838cf2b44388d7f","idMembers":["5ce414ac7678a40557510d74"],"name":"> Publish listing to platforms: Schleich - Hautcharage (Rudy)","url":"https://trello.com/c/E2XdEFSf/5614-publish-listing-to-platforms-schleich-hautcharage-rudy","lastModified":"2024-09-10T10:13:06.249Z","associatedAdviser":"Rudy","avatarUrl":null},{"id":"64243606c586efdda6b161fc","idMembers":["5ce414ac7678a40557510d74"],"name":"🔒 Weekly newsletter [Do not move]","url":"https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move","lastModified":"2024-09-10T08:00:25.851Z","associatedAdviser":null,"avatarUrl":null},{"id":"66c59ed7fa06cc39f943a5e8","idMembers":["56f10d02921bc403c6d626d1"],"name":"> Upload and audit drone assets","url":"https://trello.com/c/AkRSkLL4/5390-upload-and-audit-drone-assets","lastModified":"2024-08-21T08:01:28.467Z","associatedAdviser":null,"avatarUrl":null},{"id":"66d4e1b944599173a15d1de1","idMembers":["633c32f9683d840066a4bf60"],"name":"Order business cards (Anas)","url":"https://trello.com/c/w2nNBuhk/5527-order-business-cards-anas","lastModified":"2024-09-02T08:39:50.372Z","associatedAdviser":"Anas","avatarUrl":null},{"id":"66c7104a71d131f3338a9094","idMembers":["633c32f9683d840066a4bf60"],"name":"Order 250 business cards (Aurore)","url":"https://trello.com/c/P9PFXmne/5412-order-250-business-cards-aurore","lastModified":"2024-08-22T10:19:25.659Z","associatedAdviser":"Aurore","avatarUrl":null},{"id":"66d5c57d8ac4ec651aedc655","idMembers":["5ce414ac7678a40557510d74"],"name":"Reimburse expense (Xavier)","url":"https://trello.com/c/pOUsImYb/5538-reimburse-expense-xavier","lastModified":"2024-09-05T16:23:31.651Z","associatedAdviser":"Xavier","avatarUrl":null}]}
+{
+  "cards": [
+    {
+      "id": "66a9e17ad74acaec068bfd81",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Prepare + print notary docs for Holtgen - Tétange (Rudy)",
+      "url": "https://trello.com/c/YVysRsuN/5173-prepare-print-notary-docs-for-holtgen-t%C3%A9tange-rudy",
+      "lastModified": "2024-07-31T07:04:07.200Z",
+      "associatedAdviser": "Rudy",
+      "avatarUrl": null
+    },
+    {
+      "id": "66d43c96c41581f49dc1d1f2",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Update inventory",
+      "url": "https://trello.com/c/IOy2GTCX/5525-update-inventory",
+      "lastModified": "2024-09-10T12:53:05.910Z",
+      "associatedAdviser": null,
+      "avatarUrl": null
+    },
+    {
+      "id": "66e01b7537dbb33a7753511f",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Put listing in window displays: Schleich - Hautcharage (Rudy)",
+      "url": "https://trello.com/c/5Wma90bQ/5613-put-listing-in-window-displays-schleich-hautcharage-rudy",
+      "lastModified": "2024-09-10T10:12:09.273Z",
+      "associatedAdviser": "Rudy",
+      "avatarUrl": null
+    },
+    {
+      "id": "66e01b99c838cf2b44388d7f",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Publish listing to platforms: Schleich - Hautcharage (Rudy)",
+      "url": "https://trello.com/c/E2XdEFSf/5614-publish-listing-to-platforms-schleich-hautcharage-rudy",
+      "lastModified": "2024-09-10T10:13:06.249Z",
+      "associatedAdviser": "Rudy",
+      "avatarUrl": null
+    },
+    {
+      "id": "64243606c586efdda6b161fc",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "🔒 Weekly newsletter [Do not move]",
+      "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
+      "lastModified": "2024-09-10T08:00:25.851Z",
+      "associatedAdviser": null,
+      "avatarUrl": null
+    },
+    {
+      "id": "66c59ed7fa06cc39f943a5e8",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Upload and audit drone assets",
+      "url": "https://trello.com/c/AkRSkLL4/5390-upload-and-audit-drone-assets",
+      "lastModified": "2024-08-21T08:01:28.467Z",
+      "associatedAdviser": null,
+      "avatarUrl": null
+    },
+    {
+      "id": "66d4e1b944599173a15d1de1",
+      "idMembers": [
+        "633c32f9683d840066a4bf60"
+      ],
+      "name": "Order business cards (Anas)",
+      "url": "https://trello.com/c/w2nNBuhk/5527-order-business-cards-anas",
+      "lastModified": "2024-09-02T08:39:50.372Z",
+      "associatedAdviser": "Anas",
+      "avatarUrl": null
+    },
+    {
+      "id": "66c7104a71d131f3338a9094",
+      "idMembers": [
+        "633c32f9683d840066a4bf60"
+      ],
+      "name": "Order 250 business cards (Aurore)",
+      "url": "https://trello.com/c/P9PFXmne/5412-order-250-business-cards-aurore",
+      "lastModified": "2024-08-22T10:19:25.659Z",
+      "associatedAdviser": "Aurore",
+      "avatarUrl": null
+    },
+    {
+      "id": "66d5c57d8ac4ec651aedc655",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Reimburse expense (Xavier)",
+      "url": "https://trello.com/c/pOUsImYb/5538-reimburse-expense-xavier",
+      "lastModified": "2024-09-05T16:23:31.651Z",
+      "associatedAdviser": "Xavier",
+      "avatarUrl": null
+    }
+  ]
+}

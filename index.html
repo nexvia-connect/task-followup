@@ -67,6 +67,14 @@
       justify-content: space-between;
       align-items: center;
       margin-bottom: 10px;
+      padding: 10px;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.2s;
+    }
+
+    .task-item:hover {
+      background-color: #eee; /* Mouseover background color */
     }
 
     .task-info {
@@ -202,6 +210,11 @@
           // Append taskInfo and avatar to taskItem
           taskItem.appendChild(taskInfo);
           taskItem.appendChild(avatar);
+
+          // Add click event to open the task URL in a new tab
+          taskItem.addEventListener('click', () => {
+            window.open(task.url, '_blank');
+          });
 
           // Append the taskItem to the taskList
           taskList.appendChild(taskItem);

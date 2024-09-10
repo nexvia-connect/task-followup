@@ -49,7 +49,7 @@
       -webkit-text-fill-color: transparent;
     }
 
-    .section-title::before {
+    .section-title:not(:first-of-type)::before {
       content: '';
       position: absolute;
       top: 40px;
@@ -57,6 +57,10 @@
       height: 1px;
       background-color: #ddd;
       left: -5px;
+    }
+
+    .section-title:not(:first-of-type) {
+      padding-bottom: 10px !important;
     }
 
     .task-list {
@@ -112,13 +116,18 @@
       background-position: center;
       margin-right: 10px;
     }
+
+    .task-count {
+      font-weight: normal;
+      color: #444;
+    }
   </style>
 </head>
 <body>
   <div class="section">
     <div class="section-title">
       <span class="material-icons">fact_check</span>
-      Current tasks in the pipeline: <span id="taskCount">Loading...</span>
+      Current tasks in the pipeline: <span id="taskCount" class="task-count">Loading...</span>
     </div>
   </div>
 

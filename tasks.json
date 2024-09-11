@@ -6,11 +6,11 @@
         "5ce414ac7678a40557510d74"
       ],
       "name": "Prepare + print notary docs for Holtgen - Tétange (Rudy)",
-      "nameShort": "Prepare + print notary docs for Holtgen - Tétange (Rudy)",
-      "pipedriveDealName": null,
+      "nameShort": "Prepare + print notary docs for Holtgen",
+      "pipedriveDealName": "Prepare + print notary docs for Holtgen - Tétange",
+      "associatedAdviser": "Rudy",
       "url": "https://trello.com/c/YVysRsuN/5173-prepare-print-notary-docs-for-holtgen-t%C3%A9tange-rudy",
       "lastModified": "2024-07-31T07:04:07.200Z",
-      "associatedAdviser": "Rudy",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -23,9 +23,9 @@
       "name": "> Update inventory",
       "nameShort": "Update inventory",
       "pipedriveDealName": null,
+      "associatedAdviser": null,
       "url": "https://trello.com/c/IOy2GTCX/5525-update-inventory",
       "lastModified": "2024-09-10T12:53:05.910Z",
-      "associatedAdviser": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
@@ -38,9 +38,9 @@
       "name": "> Missing link to associate in Pipedrive",
       "nameShort": "Missing link to associate in Pipedrive",
       "pipedriveDealName": null,
+      "associatedAdviser": null,
       "url": "https://trello.com/c/wx7okDyW/5616-missing-link-to-associate-in-pipedrive",
       "lastModified": "2024-09-10T19:10:34.095Z",
-      "associatedAdviser": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
@@ -51,11 +51,11 @@
         "56f10d02921bc403c6d626d1"
       ],
       "name": "> Missing deal Pipedrive information: Rota - Frisange (Maeva)",
-      "nameShort": "Missing deal Pipedrive information",
-      "pipedriveDealName": "Rota - Frisange",
+      "nameShort": "Missing deal Pipedrive information: Rota",
+      "pipedriveDealName": "> Missing deal Pipedrive information: Rota - Frisange",
+      "associatedAdviser": "Maeva",
       "url": "https://trello.com/c/jl1mlo7q/5617-missing-deal-pipedrive-information-rota-frisange-maeva",
       "lastModified": "2024-09-10T19:30:26.199Z",
-      "associatedAdviser": "Maeva",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
@@ -66,11 +66,11 @@
         "5ce414ac7678a40557510d74"
       ],
       "name": "> Put listing in window displays: Martins - Bascharage (Rudy)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Martins - Bascharage",
+      "nameShort": "Put listing in window displays: Martins",
+      "pipedriveDealName": "> Put listing in window displays: Martins - Bascharage",
+      "associatedAdviser": "Rudy",
       "url": "https://trello.com/c/JpmwSOLW/5621-put-listing-in-window-displays-martins-bascharage-rudy",
       "lastModified": "2024-09-11T10:11:25.103Z",
-      "associatedAdviser": "Rudy",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -83,9 +83,9 @@
       "name": "🔒 Weekly newsletter [Do not move]",
       "nameShort": "🔒 Weekly newsletter [Do not move]",
       "pipedriveDealName": null,
+      "associatedAdviser": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
       "lastModified": "2024-09-11T07:59:46.744Z",
-      "associatedAdviser": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -98,9 +98,9 @@
       "name": "> Upload and audit drone assets",
       "nameShort": "Upload and audit drone assets",
       "pipedriveDealName": null,
+      "associatedAdviser": null,
       "url": "https://trello.com/c/AkRSkLL4/5390-upload-and-audit-drone-assets",
       "lastModified": "2024-08-21T08:01:28.467Z",
-      "associatedAdviser": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
@@ -113,9 +113,9 @@
       "name": "Order business cards (Anas)",
       "nameShort": "Order business cards (Anas)",
       "pipedriveDealName": null,
+      "associatedAdviser": "Anas",
       "url": "https://trello.com/c/w2nNBuhk/5527-order-business-cards-anas",
       "lastModified": "2024-09-02T08:39:50.372Z",
-      "associatedAdviser": "Anas",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/633c32f9683d840066a4bf60/a4f32db27aed0d86864747f1338e0f08/170.png"
       ]
@@ -128,9 +128,9 @@
       "name": "Order 250 business cards (Aurore)",
       "nameShort": "Order 250 business cards (Aurore)",
       "pipedriveDealName": null,
+      "associatedAdviser": "Aurore",
       "url": "https://trello.com/c/P9PFXmne/5412-order-250-business-cards-aurore",
       "lastModified": "2024-08-22T10:19:25.659Z",
-      "associatedAdviser": "Aurore",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/633c32f9683d840066a4bf60/a4f32db27aed0d86864747f1338e0f08/170.png"
       ]
@@ -143,9 +143,9 @@
       "name": "Reimburse expense (Xavier)",
       "nameShort": "Reimburse expense (Xavier)",
       "pipedriveDealName": null,
+      "associatedAdviser": "Xavier",
       "url": "https://trello.com/c/pOUsImYb/5538-reimburse-expense-xavier",
       "lastModified": "2024-09-05T16:23:31.651Z",
-      "associatedAdviser": "Xavier",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -156,11 +156,11 @@
         "5ce414ac7678a40557510d74"
       ],
       "name": "> Put listing in window displays: Schleich - Hautcharage (Rudy)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Schleich - Hautcharage",
+      "nameShort": "Put listing in window displays: Schleich",
+      "pipedriveDealName": "> Put listing in window displays: Schleich - Hautcharage",
+      "associatedAdviser": "Rudy",
       "url": "https://trello.com/c/5Wma90bQ/5613-put-listing-in-window-displays-schleich-hautcharage-rudy",
       "lastModified": "2024-09-11T09:54:42.292Z",
-      "associatedAdviser": "Rudy",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

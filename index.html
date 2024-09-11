@@ -113,6 +113,10 @@
       margin: 0px 10px;
     }
 
+    .no-before::before {
+      display: none !important;
+    }
+
     #taskCount {
       margin-left: 5px;
       font-weight: 400;
@@ -141,7 +145,7 @@
   </div>
 
   <div class="section" style="padding: 0 !important;">
-    <div class="section-title" style="content: none !important;">
+    <div class="section-title no-before">
       <span class="material-icons">fact_check</span>
       Current pipeline tasks: <span id="taskCount">Loading...</span>
     </div>

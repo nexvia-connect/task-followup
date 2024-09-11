@@ -49,7 +49,7 @@
       -webkit-text-fill-color: transparent;
     }
 
-    .section-title::before {
+    .section-title.current-tasks::before {
       content: '';
       position: absolute;
       top: 40px;
@@ -57,6 +57,10 @@
       height: 1px;
       background-color: #ddd;
       left: -1px;
+    }
+
+    .section-title.current-tasks {
+      padding-bottom: 0px;
     }
 
     .task-list {
@@ -102,6 +106,14 @@
       font-size: 10px;
       font-weight: bold;
       color: #999;
+      display: flex;
+      align-items: center;
+    }
+
+    .task-last-modified .material-icons {
+      font-size: 10px;
+      color: #999;
+      margin-right: 4px;
     }
 
     .avatar {
@@ -112,13 +124,17 @@
       background-position: center;
       margin: 0px 10px;
     }
+
+    .light-text {
+      color: #999;
+    }
   </style>
 </head>
 <body>
   <div class="section">
-    <div class="section-title">
+    <div class="section-title current-tasks">
       <span class="material-icons">fact_check</span>
-      Current pipeline tasks: <span id="taskCount">Loading...</span>
+      Current pipeline tasks: <span id="taskCount" class="light-text">Loading...</span>
     </div>
   </div>
 
@@ -199,10 +215,15 @@
 
           const taskLastModified = document.createElement('span');
           taskLastModified.classList.add('task-last-modified');
-          taskLastModified.textContent = `Last modified: ${timeSince(task.lastModified)}`;
+
+          const historyIcon = document.createElement('span');
+          historyIcon.classList.add('material-icons');
+          historyIcon.textContent = 'history';
+
+          taskLastModified.appendChild(historyIcon);
+          taskLastModified.appendChild(document.createTextNode(` Last modified: ${timeSince(task.lastModified)}`));
 
           taskText.appendChild(taskName);
-          taskText.appendChild(document.createTextNode(' ')); // Space between name and last modified
           taskText.appendChild(taskLastModified);
 
           // Append icon and taskText to taskInfo

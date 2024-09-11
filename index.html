@@ -449,12 +449,12 @@
     document.getElementById('adviserName').textContent = adviserName || 'Unknown';
   
     // Fetch the tasks.json file from the GitHub repository
-    fetch('https://raw.githubusercontent.com/nexvia-connect/task-followup/main/tasks.json')
+    fetch(`https://raw.githubusercontent.com/nexvia-connect/task-followup/main/tasks.json?cache_buster=${new Date().getTime()}`)
       .then(response => response.json())
       .then(data => {
         const taskCount = data.cards.length;
         document.getElementById('taskCount').textContent = taskCount;
-  
+      
         // Filter tasks that match the associated adviser
         const tasksForAdviser = data.cards.filter(card => card.associatedAdviser === adviserName);
   

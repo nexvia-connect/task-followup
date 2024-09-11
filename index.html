@@ -262,112 +262,117 @@
   </div>
 
   <script>
-    // Function to get URL parameters
-    function getQueryParams() {
-      const params = new URLSearchParams(window.location.search);
-      return {
-        adviserName: params.get('ADVISERNAME')
-      };
+  // Function to get URL parameters
+  function getQueryParams() {
+    const params = new URLSearchParams(window.location.search);
+    return {
+      adviserName: params.get('ADVISERNAME')
+    };
+  }
+
+  // Function to calculate time since last modification
+  function timeSince(date) {
+    const now = new Date();
+    const modifiedDate = new Date(date);
+    const seconds = Math.floor((now - modifiedDate) / 1000);
+
+    let interval = Math.floor(seconds / 86400); // days
+    if (interval > 1) {
+      return `${interval} days ago`;
     }
 
-    // Function to calculate time since last modification
-    function timeSince(date) {
-      const now = new Date();
-      const modifiedDate = new Date(date);
-      const seconds = Math.floor((now - modifiedDate) / 1000);
-
-      let interval = Math.floor(seconds / 86400); // days
-      if (interval > 1) {
-        return `${interval} days ago`;
-      }
-
-      interval = Math.floor(seconds / 3600); // hours
-      if (interval > 1) {
-        return `${interval} hours ago`;
-      }
-
-      interval = Math.floor(seconds / 60); // minutes
-      if (interval > 1) {
-        return `${interval} minutes ago`;
-      }
-
-      return 'Just now';
+    interval = Math.floor(seconds / 3600); // hours
+    if (interval > 1) {
+      return `${interval} hours ago`;
     }
 
-    // Set adviser name from URL parameter
-    const { adviserName } = getQueryParams();
-    document.getElementById('adviserName').textContent = adviserName || 'Unknown';
+    interval = Math.floor(seconds / 60); // minutes
+    if (interval > 1) {
+      return `${interval} minutes ago`;
+    }
 
-    // Fetch the tasks.json file from the GitHub repository
-    fetch('https://raw.githubusercontent.com/nexvia-connect/task-followup/main/tasks.json')
-      .then(response => response.json())
-      .then(data => {
-        const taskCount = data.cards.length;
-        document.getElementById('taskCount').textContent = taskCount;
+    return 'Just now';
+  }
 
-        // Filter tasks that match the associated adviser
-        const tasksForAdviser = data.cards.filter(card => card.associatedAdviser === adviserName);
+  // Set adviser name from URL parameter
+  const { adviserName } = getQueryParams();
+  document.getElementById('adviserName').textContent = adviserName || 'Unknown';
 
-        // Display the filtered tasks
-        const taskList = document.getElementById('taskList');
-        tasksForAdviser.forEach(task => {
-          const taskItem = document.createElement('div');
-          taskItem.classList.add('task-item');
+  // Fetch the tasks.json file from the GitHub repository
+  fetch('https://raw.githubusercontent.com/nexvia-connect/task-followup/main/tasks.json')
+    .then(response => response.json())
+    .then(data => {
+      const taskCount = data.cards.length;
+      document.getElementById('taskCount').textContent = taskCount;
 
-          // Task info with icon and name/last modified
-          const taskInfo = document.createElement('div');
-          taskInfo.classList.add('task-info');
+      // Filter tasks that match the associated adviser
+      const tasksForAdviser = data.cards.filter(card => card.associatedAdviser === adviserName);
 
-          // Material icon
-          const taskIcon = document.createElement('span');
-          taskIcon.classList.add('material-icons', 'task-icon');
-          taskIcon.textContent = 'check_circle'; // Green check icon
+      // Display the filtered tasks
+      const taskList = document.getElementById('taskList');
+      tasksForAdviser.forEach(task => {
+        const taskItem = document.createElement('div');
+        taskItem.classList.add('task-item');
 
-          // Task name and last modified
-          const taskText = document.createElement('div');
-          const taskName = document.createElement('span');
-          taskName.classList.add('task-name');
-          taskName.textContent = task.nameShort;
-          
-          // Icon for last modified
-          const taskLastModifiedIcon = document.createElement('span');
-          taskLastModifiedIcon.classList.add('material-icons', 'task-last-modified-icon');
-          taskLastModifiedIcon.textContent = 'history'; // History icon
-          
-          // Last modified text
-          const taskLastModified = document.createElement('span');
-          taskLastModified.classList.add('task-last-modified');
-          taskLastModified.textContent = `Last modified: ${timeSince(task.lastModified)}`;
-          
-          // Append icon and last modified text
-          taskText.appendChild(taskName);
-          taskText.appendChild(document.createTextNode(' '));
-          taskText.appendChild(taskLastModifiedIcon);
-          taskText.appendChild(taskLastModified);
+        // Task info with icon and name/last modified
+        const taskInfo = document.createElement('div');
+        taskInfo.classList.add('task-info');
 
-          // Avatar
-          const avatar = document.createElement('div');
-          avatar.classList.add('avatar');
-          avatar.style.backgroundImage = `url(${task.avatarUrls})`;
+        // Material icon
+        const taskIcon = document.createElement('span');
+        taskIcon.classList.add('material-icons', 'task-icon');
+        taskIcon.textContent = 'check_circle'; // Green check icon
 
-          // Append taskInfo and avatar to taskItem
-          taskItem.appendChild(taskInfo);
-          taskItem.appendChild(avatar);
+        // Task name and last modified
+        const taskText = document.createElement('div');
+        const taskName = document.createElement('span');
+        taskName.classList.add('task-name');
+        taskName.textContent = task.nameShort;
 
-          // Add click event to open the task URL in a new tab
-          taskItem.addEventListener('click', () => {
-            window.open(task.url, '_blank');
-          });
+        // Icon for last modified
+        const taskLastModifiedIcon = document.createElement('span');
+        taskLastModifiedIcon.classList.add('material-icons', 'task-last-modified-icon');
+        taskLastModifiedIcon.textContent = 'history'; // History icon
 
-          // Append the taskItem to the taskList
-          taskList.appendChild(taskItem);
+        // Last modified text
+        const taskLastModified = document.createElement('span');
+        taskLastModified.classList.add('task-last-modified');
+        taskLastModified.textContent = `Last modified: ${timeSince(task.lastModified)}`;
+
+        // Append icon and last modified text
+        taskText.appendChild(taskName);
+        taskText.appendChild(document.createTextNode(' '));
+        taskText.appendChild(taskLastModifiedIcon);
+        taskText.appendChild(taskLastModified);
+
+        // Append icon and taskText to taskInfo
+        taskInfo.appendChild(taskIcon);
+        taskInfo.appendChild(taskText);
+
+        // Avatar
+        const avatar = document.createElement('div');
+        avatar.classList.add('avatar');
+        avatar.style.backgroundImage = `url(${task.avatarUrls})`;
+
+        // Append taskInfo and avatar to taskItem
+        taskItem.appendChild(taskInfo);
+        taskItem.appendChild(avatar);
+
+        // Add click event to open the task URL in a new tab
+        taskItem.addEventListener('click', () => {
+          window.open(task.url, '_blank');
         });
-      })
-      .catch(error => {
-        console.error('Error fetching tasks:', error);
-        document.getElementById('taskCount').textContent = 'Error loading tasks';
+
+        // Append the taskItem to the taskList
+        taskList.appendChild(taskItem);
       });
-  </script>
+    })
+    .catch(error => {
+      console.error('Error fetching tasks:', error);
+      document.getElementById('taskCount').textContent = 'Error loading tasks';
+    });
+</script>
+
 
 </body>
 </html>

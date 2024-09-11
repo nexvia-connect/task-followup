@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Task Pipeline</title>
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> <!-- Link for Material Icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <style>
     * {
       margin: 0;
@@ -16,7 +16,77 @@
       height: 100%;
       width: 100%;
       font-family: 'Open Sans', sans-serif;
-      background: transparent; /* Make background transparent */
+      background: transparent;
+    }
+
+    .header {
+      display: flex;
+      align-items: center;
+      height: 85px;
+      width: 100vw;
+      padding: 0 15px;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .header-logo {
+      flex: 0 0 15%;
+      display: flex;
+      justify-content: flex-start;
+    }
+
+    .header-logo img {
+      height: 75px;
+      min-height: 75px;
+    }
+
+    .header-title {
+      flex: 0 0 70%;
+      text-align: center;
+    }
+
+    .header-title h1 {
+      margin: 0;
+      font-size: 16px;
+      line-height: 1.2;
+      color: #333;
+      font-weight: 100;
+    }
+
+    .header-title h1 span {
+      background: linear-gradient(135deg, #1F4099, #FC3366);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-weight: 800;
+    }
+
+    .header-title h2 {
+      margin: 0;
+      font-size: 28px;
+      line-height: 1;
+    }
+
+    .header-info {
+      flex: 0 0 15%;
+      text-align: right;
+    }
+
+    .header-info p {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      background-color: #e5eafa;
+      border-radius: 20px;
+      display: inline-flex;
+      align-items: center;
+      padding: 5px 15px;
+      font-size: 14px;
+      transform: translateX(-50px);
+    }
+
+    .header-info span.material-icons {
+      color: #1f4099;
+      opacity: 0.7;
+      padding-right: 5px;
     }
 
     .section {
@@ -115,6 +185,21 @@
   </style>
 </head>
 <body>
+
+  <!-- Header section -->
+  <div class="header">
+    <div class="header-logo">
+      <img src="https://www.nexvia.lu/img/nexvia.svg" alt="Nexvia Logo">
+    </div>
+    <div class="header-title">
+      <h1>Nexvia <span>Connect</span></h1>
+      <h2>Purchases</h2>
+    </div>
+    <div class="header-info">
+      <p><span class="material-icons">person</span><span id="adviserName">Rudy</span></p>
+    </div>
+  </div>
+
   <div class="section">
     <div class="section-title">
       <span class="material-icons">fact_check</span>
@@ -127,7 +212,7 @@
       <span class="material-icons">pending_actions</span>
       Your ongoing tasks
     </div>
-    <div class="task-list" id="taskList"></div> <!-- Task list will be inserted here -->
+    <div class="task-list" id="taskList"></div>
   </div>
 
   <script>
@@ -147,17 +232,17 @@
 
       let interval = Math.floor(seconds / 86400); // days
       if (interval > 1) {
-        return ${interval} days ago;
+        return `${interval} days ago`;
       }
 
       interval = Math.floor(seconds / 3600); // hours
       if (interval > 1) {
-        return ${interval} hours ago;
+        return `${interval} hours ago`;
       }
 
       interval = Math.floor(seconds / 60); // minutes
       if (interval > 1) {
-        return ${interval} minutes ago;
+        return `${interval} minutes ago`;
       }
 
       return 'Just now';
@@ -199,10 +284,10 @@
 
           const taskLastModified = document.createElement('span');
           taskLastModified.classList.add('task-last-modified');
-          taskLastModified.textContent = Last modified: ${timeSince(task.lastModified)};
+          taskLastModified.textContent = `Last modified: ${timeSince(task.lastModified)}`;
 
           taskText.appendChild(taskName);
-          taskText.appendChild(document.createTextNode(' ')); // Space between name and last modified
+          taskText.appendChild(document.createTextNode(' '));
           taskText.appendChild(taskLastModified);
 
           // Append icon and taskText to taskInfo
@@ -212,7 +297,7 @@
           // Avatar
           const avatar = document.createElement('div');
           avatar.classList.add('avatar');
-          avatar.style.backgroundImage = url(${task.avatarUrls});
+          avatar.style.backgroundImage = `url(${task.avatarUrls})`;
 
           // Append taskInfo and avatar to taskItem
           taskItem.appendChild(taskInfo);
@@ -232,5 +317,6 @@
         document.getElementById('taskCount').textContent = 'Error loading tasks';
       });
   </script>
+
 </body>
 </html>

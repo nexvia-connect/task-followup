@@ -521,12 +521,16 @@
           taskIcon.classList.add('material-icons', 'task-icon');
           taskIcon.textContent = 'task_alt'; // Green check icon
   
-          // Task name and pipedrive deal
-          const taskText = document.createElement('div');
+          // Task name container
+          const taskTextContainer = document.createElement('div');
+          taskTextContainer.style.display = 'inline-flex';
+          taskTextContainer.style.alignItems = 'center';
+
+          // Task name
           const taskName = document.createElement('span');
           taskName.classList.add('task-name');
           taskName.textContent = task.nameShort;
-  
+
           // Create pipedrive info (added to the right of nameShort)
           if (task.pipedriveDealName) {
             const pipedriveInfo = document.createElement('div');
@@ -544,9 +548,13 @@
             // Append icon and deal name to pipedriveInfo
             pipedriveInfo.appendChild(pipedriveIcon);
             pipedriveInfo.appendChild(pipedriveDealName);
-    
-            // Append pipedriveInfo right after taskName
-            taskName.appendChild(pipedriveInfo);
+
+            // Append pipedriveInfo right after taskName in taskTextContainer
+            taskTextContainer.appendChild(taskName);
+            taskTextContainer.appendChild(pipedriveInfo);
+          } else {
+            // If no pipedriveDealName, just append the task name
+            taskTextContainer.appendChild(taskName);
           }
 
           // Create last-modified-section
@@ -572,9 +580,9 @@
           lastModifiedSection.appendChild(taskLastModified);
           lastModifiedSection.appendChild(taskLastModifiedTime);
   
-          // Append icon and taskText to taskInfo
+          // Append taskTextContainer (which contains name and pipedrive info) to taskInfo
           taskInfo.appendChild(taskIcon);
-          taskInfo.appendChild(taskText);
+          taskInfo.appendChild(taskTextContainer);
   
           // Avatar
           const avatar = document.createElement('div');

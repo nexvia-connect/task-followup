@@ -440,22 +440,22 @@
     
       let interval = Math.floor(seconds / 86400); // days
       if (interval >= 1) {
-        return `${interval} days ago`;
+        return `${interval} day${interval > 1 ? 's' : ''} ago`;
       }
     
       interval = Math.floor(seconds / 3600); // hours
       if (interval >= 1) {
-        return `${interval} hours ago`;
+        return `${interval} hour${interval > 1 ? 's' : ''} ago`;
       }
     
       interval = Math.floor(seconds / 60); // minutes
       if (interval >= 1) {
-        return `${interval} minutes ago`;
+        return `${interval} minute${interval > 1 ? 's' : ''} ago`;
       }
     
       return 'Just now';
     }
-  
+    
     // Set adviser name from URL parameter
     const { adviserName } = getQueryParams();
     document.getElementById('adviserName').textContent = adviserName || 'Unknown';

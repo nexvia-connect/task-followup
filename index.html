@@ -403,14 +403,14 @@
   <div class="section">
     <div class="section-title">
       <span class="material-icons">pending_actions</span>
-      Your ongoing tasks
+      Your <span id="totalTasksInList">0</span> ongoing tasks
       <span style="display: inline-block; font-size: 12px; font-weight: bold; background-color: #f0f6ed; color: #6aa84f; padding: 4px 15px; border-radius: 50px; border: 1px solid #6aa84f; vertical-align: middle; position: relative; margin-left: 10px;">
         <span class="material-icons" style="-webkit-text-fill-color: #6aa84f !important; font-size: 12px !important; margin-left: 0 !important; top: 1px !important;">info</span>
         Click task to open details
       </span>
     </div>
     <div class="task-list" id="taskList"></div>
-  </div>
+</div>
 
   <script>
     // Function to get URL parameters
@@ -458,7 +458,10 @@
       
         // Filter tasks that match the associated adviser
         const tasksForAdviser = data.cards.filter(card => card.associatedAdviser === adviserName);
-  
+
+        // Update totalTasksInList with the number of ongoing tasks
+        document.getElementById('totalTasksInList').textContent = tasksForAdviser.length;
+      
         // Display the filtered tasks
         const taskList = document.getElementById('taskList');
         tasksForAdviser.forEach(task => {

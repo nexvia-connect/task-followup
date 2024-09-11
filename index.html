@@ -19,76 +19,6 @@
       background: transparent;
     }
 
-    .header {
-      display: flex;
-      align-items: center;
-      height: 85px;
-      width: 100vw;
-      padding: 0 15px;
-      border-bottom: 1px solid #ddd;
-    }
-
-    .header-logo {
-      flex: 0 0 15%;
-      display: flex;
-      justify-content: flex-start;
-    }
-
-    .header-logo img {
-      height: 75px;
-      min-height: 75px;
-    }
-
-    .header-title {
-      flex: 0 0 70%;
-      text-align: center;
-    }
-
-    .header-title h1 {
-      margin: 0;
-      font-size: 16px;
-      line-height: 1.2;
-      color: #333;
-      font-weight: 100;
-    }
-
-    .header-title h1 span {
-      background: linear-gradient(135deg, #1F4099, #FC3366);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      font-weight: 800;
-    }
-
-    .header-title h2 {
-      margin: 0;
-      font-size: 28px;
-      line-height: 1;
-    }
-
-    .header-info {
-      flex: 0 0 15%;
-      text-align: right;
-    }
-
-    .header-info p {
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      background-color: #e5eafa;
-      border-radius: 20px;
-      display: inline-flex;
-      align-items: center;
-      padding: 5px 15px;
-      font-size: 14px;
-      transform: translateX(-50px);
-    }
-
-    .header-info span.material-icons {
-      color: #1f4099;
-      opacity: 0.7;
-      padding-right: 5px;
-    }
-
     .section {
       margin: 10px 15px !important;
       padding: 0px !important;
@@ -187,16 +117,21 @@
 <body>
 
   <!-- Header section -->
-  <div class="header">
-    <div class="header-logo">
-      <img src="https://www.nexvia.lu/img/nexvia.svg" alt="Nexvia Logo">
+  <div style="display: flex; align-items: center; height: 85px; width: 100vw;">
+    <div class="header-logo" style="flex: 0 0 15%; display: flex; justify-content: flex-start; padding: 0;">
+      <img style="height: 75px; min-height: 75px;" src="https://www.nexvia.lu/img/nexvia.svg" alt="Nexvia Logo">
     </div>
-    <div class="header-title">
-      <h1>Nexvia <span>Connect</span></h1>
-      <h2>Purchases</h2>
+    <div class="header-title" style="flex: 0 0 70%; text-align: center;">
+      <h1 style="margin: 0; font-size: 16px; line-height: 1.2; color: #333; font-weight: 100;">
+        Nexvia <span style="background: linear-gradient(135deg, #1F4099, #FC3366); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800;">Connect</span>
+      </h1>
+      <h2 style="margin: 0; font-size: 28px; line-height: 1;">Purchases</h2>
     </div>
-    <div class="header-info">
-      <p><span class="material-icons">person</span><span id="adviserName">Rudy</span></p>
+    <div class="header-info" style="flex: 0 0 15%; text-align: right;">
+      <p style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; background-color: #e5eafa; border-radius: 20px; display: inline-flex; align-items: center; padding: 5px 15px; font-size: 14px; transform: translateX(-50px);">
+        <span class="material-icons" style="color: #1f4099; opacity: 0.7; padding-right: 5px;">person</span>
+        <span style="color: #1f4099; white-space: nowrap;" id="adviserName"></span>
+      </p>
     </div>
   </div>
 
@@ -248,15 +183,16 @@
       return 'Just now';
     }
 
+    // Set adviser name from URL parameter
+    const { adviserName } = getQueryParams();
+    document.getElementById('adviserName').textContent = adviserName || 'Unknown';
+
     // Fetch the tasks.json file from the GitHub repository
     fetch('https://raw.githubusercontent.com/nexvia-connect/task-followup/main/tasks.json')
       .then(response => response.json())
       .then(data => {
         const taskCount = data.cards.length;
         document.getElementById('taskCount').textContent = taskCount;
-
-        // Get the adviser name from the URL parameters
-        const { adviserName } = getQueryParams();
 
         // Filter tasks that match the associated adviser
         const tasksForAdviser = data.cards.filter(card => card.associatedAdviser === adviserName);

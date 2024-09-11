@@ -107,6 +107,20 @@
       margin-right: 5px;
     }
 
+    .last-modified-section {
+      display: flex;
+      align-items: center;
+      margin-left: auto; /* Push to the right */
+      font-size: 10px;
+      color: #999;
+    }
+
+    .last-modified-section .material-icons {
+      font-size: 12px;
+      margin-right: 4px;
+      color: #999;
+    }
+
     .task-last-modified {
       font-size: 10px;
       font-weight: 400;
@@ -504,7 +518,7 @@
           taskIcon.classList.add('material-icons', 'task-icon');
           taskIcon.textContent = 'task_alt'; // Green check icon
         
-          // Task name and last modified
+          // Task name and pipedrive deal
           const taskText = document.createElement('div');
           const taskName = document.createElement('span');
           taskName.classList.add('task-name');
@@ -532,14 +546,17 @@
             taskName.appendChild(pipedriveInfo);
           }
         
+          // Create last-modified-section
+          const lastModifiedSection = document.createElement('div');
+          lastModifiedSection.classList.add('last-modified-section');
+        
           // Icon for last modified
           const taskLastModifiedIcon = document.createElement('span');
-          taskLastModifiedIcon.classList.add('material-icons', 'task-last-modified-icon');
+          taskLastModifiedIcon.classList.add('material-icons');
           taskLastModifiedIcon.textContent = 'history'; // History icon
         
           // Last modified text
           const taskLastModified = document.createElement('span');
-          taskLastModified.classList.add('task-last-modified');
           taskLastModified.textContent = 'Last modified: ';
         
           // Time part of last modified with font-weight 600
@@ -547,12 +564,10 @@
           taskLastModifiedTime.classList.add('task-last-modified-time');
           taskLastModifiedTime.textContent = timeSince(task.lastModified);
         
-          // Append icon and last modified text
-          taskText.appendChild(taskName);
-          taskText.appendChild(document.createTextNode(' '));
-          taskText.appendChild(taskLastModifiedIcon);
-          taskText.appendChild(taskLastModified);
-          taskText.appendChild(taskLastModifiedTime);
+          // Append elements to last-modified-section
+          lastModifiedSection.appendChild(taskLastModifiedIcon);
+          lastModifiedSection.appendChild(taskLastModified);
+          lastModifiedSection.appendChild(taskLastModifiedTime);
         
           // Append icon and taskText to taskInfo
           taskInfo.appendChild(taskIcon);
@@ -563,8 +578,9 @@
           avatar.classList.add('avatar');
           avatar.style.backgroundImage = `url(${task.avatarUrls})`;
         
-          // Append taskInfo and avatar to taskItem
+          // Append taskInfo, lastModifiedSection, and avatar to taskItem
           taskItem.appendChild(taskInfo);
+          taskItem.appendChild(lastModifiedSection);
           taskItem.appendChild(avatar);
         
           // Add click event to open the task URL in a new tab
@@ -575,7 +591,6 @@
           // Append the taskItem to the taskList
           taskList.appendChild(taskItem);
         });
-      })
       .catch(error => {
         console.error('Error fetching tasks:', error);
         document.getElementById('taskCount').textContent = 'Error loading tasks';

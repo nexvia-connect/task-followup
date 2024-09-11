@@ -252,14 +252,11 @@
     }
 
     .pipedrive-info {
-      background-color: #eee;
-      border-radius: 5px;
-      padding: 4px;
-      display: flex;
+      display: inline-flex;
       align-items: center;
-      margin-top: 5px;
+      margin-left: 10px; /* Space between task name and deal name */
     }
-
+    
     .pipedrive-info .material-icons {
       margin-right: 4px;
       color: #666;
@@ -490,88 +487,87 @@
         document.getElementById('totalTasksInList').textContent = tasksForAdviser.length;
       
         // Display the filtered tasks
-        const taskList = document.getElementById('taskList');
         tasksForAdviser.forEach(task => {
           const taskItem = document.createElement('div');
           taskItem.classList.add('task-item');
-  
+        
           // Task info with icon and name/last modified
           const taskInfo = document.createElement('div');
           taskInfo.classList.add('task-info');
-  
+        
           // Material icon
           const taskIcon = document.createElement('span');
           taskIcon.classList.add('material-icons', 'task-icon');
           taskIcon.textContent = 'task_alt'; // Green check icon
-  
+        
           // Task name and last modified
           const taskText = document.createElement('div');
           const taskName = document.createElement('span');
           taskName.classList.add('task-name');
           taskName.textContent = task.nameShort;
-  
+        
+          // Create pipedrive info (added to the right of nameShort)
+          if (task.pipedriveDealName) {
+            const pipedriveInfo = document.createElement('div');
+            pipedriveInfo.classList.add('pipedrive-info');
+        
+            // Person icon
+            const pipedriveIcon = document.createElement('span');
+            pipedriveIcon.classList.add('material-icons');
+            pipedriveIcon.textContent = 'person'; // Person icon
+        
+            // Deal name
+            const pipedriveDealName = document.createElement('span');
+            pipedriveDealName.textContent = task.pipedriveDealName;
+        
+            // Append icon and deal name to pipedriveInfo
+            pipedriveInfo.appendChild(pipedriveIcon);
+            pipedriveInfo.appendChild(pipedriveDealName);
+        
+            // Append pipedriveInfo right after taskName
+            taskName.appendChild(pipedriveInfo);
+          }
+        
           // Icon for last modified
           const taskLastModifiedIcon = document.createElement('span');
           taskLastModifiedIcon.classList.add('material-icons', 'task-last-modified-icon');
           taskLastModifiedIcon.textContent = 'history'; // History icon
-  
+        
           // Last modified text
           const taskLastModified = document.createElement('span');
           taskLastModified.classList.add('task-last-modified');
           taskLastModified.textContent = 'Last modified: ';
-  
+        
           // Time part of last modified with font-weight 600
           const taskLastModifiedTime = document.createElement('span');
           taskLastModifiedTime.classList.add('task-last-modified-time');
           taskLastModifiedTime.textContent = timeSince(task.lastModified);
-  
+        
           // Append icon and last modified text
           taskText.appendChild(taskName);
           taskText.appendChild(document.createTextNode(' '));
           taskText.appendChild(taskLastModifiedIcon);
           taskText.appendChild(taskLastModified);
           taskText.appendChild(taskLastModifiedTime);
-
-          // Create pipedrive info
-          if (task.pipedriveDealName) {
-            const pipedriveInfo = document.createElement('div');
-            pipedriveInfo.classList.add('pipedrive-info');
-    
-            // Person icon
-            const pipedriveIcon = document.createElement('span');
-            pipedriveIcon.classList.add('material-icons');
-            pipedriveIcon.textContent = 'person'; // Person icon
-    
-            // Deal name
-            const pipedriveDealName = document.createElement('span');
-            pipedriveDealName.textContent = task.pipedriveDealName;
-    
-            // Append icon and deal name to pipedriveInfo
-            pipedriveInfo.appendChild(pipedriveIcon);
-            pipedriveInfo.appendChild(pipedriveDealName);
-    
-            // Append pipedriveInfo after taskName
-            taskText.appendChild(pipedriveInfo);
-          }
-  
+        
           // Append icon and taskText to taskInfo
           taskInfo.appendChild(taskIcon);
           taskInfo.appendChild(taskText);
-  
+        
           // Avatar
           const avatar = document.createElement('div');
           avatar.classList.add('avatar');
           avatar.style.backgroundImage = `url(${task.avatarUrls})`;
-  
+        
           // Append taskInfo and avatar to taskItem
           taskItem.appendChild(taskInfo);
           taskItem.appendChild(avatar);
-  
+        
           // Add click event to open the task URL in a new tab
           taskItem.addEventListener('click', () => {
             window.open(task.url, '_blank');
           });
-  
+        
           // Append the taskItem to the taskList
           taskList.appendChild(taskItem);
         });

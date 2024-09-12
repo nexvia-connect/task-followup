@@ -11,6 +11,7 @@
       "url": "https://trello.com/c/YVysRsuN/5173-prepare-print-notary-docs-holtgen-t%C3%A9tange-rudy",
       "lastModified": "2024-09-12T08:47:25.393Z",
       "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -26,6 +27,7 @@
       "url": "https://trello.com/c/MKWiaOG0/5624-prepare-print-notary-docs-rodriguez-reimberg-carolina",
       "lastModified": "2024-09-12T08:47:19.075Z",
       "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -41,6 +43,7 @@
       "url": "https://trello.com/c/gEcowGR8/5643-create-commune-description",
       "lastModified": "2024-09-12T09:05:54.856Z",
       "associatedAdviser": null,
+      "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
@@ -56,6 +59,23 @@
       "url": "https://trello.com/c/KcprEgMX/5644-create-commune-description",
       "lastModified": "2024-09-12T09:08:19.400Z",
       "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "66e30c791469c87fcbdee565",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Missing link to associate in Pipedrive",
+      "nameShort": "Missing link to associate in Pipedrive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/XSWRYfhQ/5650-missing-link-to-associate-in-pipedrive",
+      "lastModified": "2024-09-12T15:44:58.664Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
@@ -71,6 +91,7 @@
       "url": "https://trello.com/c/JpmwSOLW/5621-put-listing-in-window-displays-martins-bascharage-rudy",
       "lastModified": "2024-09-11T10:11:25.103Z",
       "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -86,6 +107,7 @@
       "url": "https://trello.com/c/cHbZwtmG/5626-listing-creation-niedercorn-ville-haute-romain",
       "lastModified": "2024-09-12T08:46:56.316Z",
       "associatedAdviser": "Romain",
+      "slackUserId": "U7BGBRJGH",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -101,6 +123,7 @@
       "url": "https://trello.com/c/9wqw74Xm/5647-put-listing-in-window-displays-de-donder-gasperich-rudy",
       "lastModified": "2024-09-12T10:11:46.449Z",
       "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -116,6 +139,7 @@
       "url": "https://trello.com/c/XUPS5Eko/5648-publish-listing-to-platforms-de-donder-gasperich-rudy",
       "lastModified": "2024-09-12T10:12:30.190Z",
       "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -131,8 +155,25 @@
       "url": "https://trello.com/c/3Uogsz3y/5625-floor-plan-name-modification-niedercorn-ville-haute-romain",
       "lastModified": "2024-09-12T08:48:20.379Z",
       "associatedAdviser": "Romain",
+      "slackUserId": "U7BGBRJGH",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66e30e241b2f4471cae16c93",
+      "idMembers": [
+        "633c32f9683d840066a4bf60"
+      ],
+      "name": "Photoshop request: Schinker - Dommeldange (Sandy)",
+      "nameShort": "Photoshop request",
+      "pipedriveDealName": "Schinker - Dommeldange",
+      "url": "https://trello.com/c/SxuuLh4V/5651-photoshop-request-schinker-dommeldange-sandy",
+      "lastModified": "2024-09-12T15:53:55.432Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/633c32f9683d840066a4bf60/a4f32db27aed0d86864747f1338e0f08/170.png"
       ]
     },
     {
@@ -146,6 +187,7 @@
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
       "lastModified": "2024-09-12T12:00:40.412Z",
       "associatedAdviser": null,
+      "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -161,6 +203,7 @@
       "url": "https://trello.com/c/pOUsImYb/5538-reimburse-expense-xavier",
       "lastModified": "2024-09-05T16:23:31.651Z",
       "associatedAdviser": "Xavier",
+      "slackUserId": "U44HL0DMX",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -176,6 +219,7 @@
       "url": "https://trello.com/c/5Wma90bQ/5613-put-listing-in-window-displays-schleich-hautcharage-rudy",
       "lastModified": "2024-09-11T09:54:42.292Z",
       "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

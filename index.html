@@ -526,7 +526,7 @@
       
         // Display the filtered tasks
         const taskList = document.getElementById('taskList');
-        tasksForAdviser.forEach(task => {
+        tasksForAdviser.forEach((task, index) => {
           const taskItem = document.createElement('div');
           taskItem.classList.add('task-item');
   

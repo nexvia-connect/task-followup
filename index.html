@@ -472,9 +472,14 @@
     function getQueryParams() {
       const params = new URLSearchParams(window.location.search);
       return {
-        adviserName: params.get('ADVISERNAME')
+        adviserName: params.get('ADVISERNAME'),
+        slackUserId: params.get('SLACKUSERID')
       };
     }
+    
+    // Set adviser name and Slack user ID from URL parameters
+    const { adviserName, slackUserId } = getQueryParams();
+    document.getElementById('adviserName').textContent = adviserName || 'Unknown';
   
     // Function to calculate time since last modification
     function timeSince(date) {
@@ -511,9 +516,11 @@
         const taskCount = data.cards.length;
         document.getElementById('taskCount').textContent = taskCount;
       
-        // Filter tasks that match the associated adviser
-        const tasksForAdviser = data.cards.filter(card => card.associatedAdviser === adviserName);
-
+        // Filter tasks that match the associated adviser and Slack user ID
+        const tasksForAdviser = data.cards.filter(card => 
+          card.associatedAdviser === adviserName && card.slackUserId === slackUserId
+        );
+        
         // Update totalTasksInList with the number of ongoing tasks
         document.getElementById('totalTasksInList').textContent = tasksForAdviser.length;
       

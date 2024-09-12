@@ -476,10 +476,6 @@
         slackUserId: params.get('SLACKUSERID')
       };
     }
-    
-    // Set adviser name and Slack user ID from URL parameters
-    const { adviserName, slackUserId } = getQueryParams();
-    document.getElementById('adviserName').textContent = adviserName || 'Unknown';
   
     // Function to calculate time since last modification
     function timeSince(date) {
@@ -505,8 +501,8 @@
       return 'Just now';
     }
     
-    // Set adviser name from URL parameter
-    const { adviserName } = getQueryParams();
+    // Set adviser name and Slack user ID from URL parameters
+    const { adviserName, slackUserId } = getQueryParams();
     document.getElementById('adviserName').textContent = adviserName || 'Unknown';
   
     // Fetch the tasks.json file from the GitHub repository

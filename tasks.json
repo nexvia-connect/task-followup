@@ -6,7 +6,7 @@
         "5ce414ac7678a40557510d74"
       ],
       "name": "Prepare + print notary docs for Holtgen - Tétange (Rudy)",
-      "nameShort": "Prepare + print notary docs for Holtgen - Tétange",
+      "nameShort": "Prepare + print notary docs for Holtgen - Tétange (Rudy)",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/YVysRsuN/5173-prepare-print-notary-docs-for-holtgen-t%C3%A9tange-rudy",
       "lastModified": "2024-07-31T07:04:07.200Z",
@@ -51,11 +51,41 @@
         "56f10d02921bc403c6d626d1"
       ],
       "name": "> Missing deal Pipedrive information: Rota - Frisange (Maeva)",
-      "nameShort": "Missing deal Pipedrive information: Rota - Frisange",
+      "nameShort": "Missing deal Pipedrive information",
       "pipedriveDealName": "Rota - Frisange",
       "url": "https://trello.com/c/jl1mlo7q/5617-missing-deal-pipedrive-information-rota-frisange-maeva",
       "lastModified": "2024-09-10T19:30:26.199Z",
       "associatedAdviser": "Maeva",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "66e1ed2a81c90f0567c7ab72",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Prepare + print notary docs for Rodriguez - Reimberg (Carolina)",
+      "nameShort": "Prepare + print notary docs for Rodriguez - Reimberg (Carolina)",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/MKWiaOG0/5624-prepare-print-notary-docs-for-rodriguez-reimberg-carolina",
+      "lastModified": "2024-09-11T19:20:42.215Z",
+      "associatedAdviser": "Carolina",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66e2932a9823d71f680b8aa3",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Missing link to associate in Pipedrive",
+      "nameShort": "Missing link to associate in Pipedrive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/8aPYARjf/5628-missing-link-to-associate-in-pipedrive",
+      "lastModified": "2024-09-12T07:07:23.112Z",
+      "associatedAdviser": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
@@ -66,13 +96,238 @@
         "5ce414ac7678a40557510d74"
       ],
       "name": "> Put listing in window displays: Martins - Bascharage (Rudy)",
-      "nameShort": "Put listing in window displays: Martins - Bascharage",
+      "nameShort": "Put listing in window displays",
       "pipedriveDealName": "Martins - Bascharage",
       "url": "https://trello.com/c/JpmwSOLW/5621-put-listing-in-window-displays-martins-bascharage-rudy",
       "lastModified": "2024-09-11T10:11:25.103Z",
       "associatedAdviser": "Rudy",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66e1f72fb742613849e231fa",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing creation for Niedercorn - Ville-Haute (Romain)",
+      "nameShort": "Listing creation for Niedercorn - Ville-Haute (Romain)",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/cHbZwtmG/5626-listing-creation-for-niedercorn-ville-haute-romain",
+      "lastModified": "2024-09-11T20:04:45.646Z",
+      "associatedAdviser": "Romain",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66e29afd4ab2f6223856be34",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Unhide listing: Febvey - Merl (Romain)",
+      "nameShort": "Unhide listing",
+      "pipedriveDealName": "Febvey - Merl",
+      "url": "https://trello.com/c/M57Wt4q1/5630-unhide-listing-febvey-merl-romain",
+      "lastModified": "2024-09-12T07:40:47.972Z",
+      "associatedAdviser": "Romain",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66e29fb1a02303257ae84e4d",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Share listing on FB and Linkedin: Horilla - Soleuvre (Vinciane)",
+      "nameShort": "Share listing on FB and Linkedin",
+      "pipedriveDealName": "Horilla - Soleuvre",
+      "url": "https://trello.com/c/qPwRyLlI/5638-share-listing-on-fb-and-linkedin-horilla-soleuvre-vinciane",
+      "lastModified": "2024-09-12T08:00:53.024Z",
+      "associatedAdviser": "Vinciane",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "66e1f6ed8f35198430286b3d",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Floor plan name modification for Niedercorn - Ville-Haute (Romain)",
+      "nameShort": "Floor plan name modification for Niedercorn - Ville-Haute (Romain)",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/3Uogsz3y/5625-floor-plan-name-modification-for-niedercorn-ville-haute-romain",
+      "lastModified": "2024-09-11T20:04:24.707Z",
+      "associatedAdviser": "Romain",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66e2194e130ff2a088154f17",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Upload Giraffe assets to Drive (Vinciane)",
+      "nameShort": "Upload Giraffe assets to Drive (Vinciane)",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/kNwvHwaX/5627-upload-giraffe-assets-to-drive-vinciane",
+      "lastModified": "2024-09-11T22:27:28.270Z",
+      "associatedAdviser": "Vinciane",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66e29e4fdbfa21faeae3bd53",
+      "idMembers": [
+        "633c32f9683d840066a4bf60"
+      ],
+      "name": "Photoshop request for Schinker - Dommeldange (Sandy)",
+      "nameShort": "Photoshop request for Schinker - Dommeldange (Sandy)",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/sWUPohUg/5631-photoshop-request-for-schinker-dommeldange-sandy",
+      "lastModified": "2024-09-12T07:56:54.700Z",
+      "associatedAdviser": "Sandy",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/633c32f9683d840066a4bf60/a4f32db27aed0d86864747f1338e0f08/170.png"
+      ]
+    },
+    {
+      "id": "66e29e5ad409f75b64752258",
+      "idMembers": [
+        "633c32f9683d840066a4bf60"
+      ],
+      "name": "Photoshop request for Schinker - Dommeldange (Sandy)",
+      "nameShort": "Photoshop request for Schinker - Dommeldange (Sandy)",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/xORTF92V/5632-photoshop-request-for-schinker-dommeldange-sandy",
+      "lastModified": "2024-09-12T07:56:54.875Z",
+      "associatedAdviser": "Sandy",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/633c32f9683d840066a4bf60/a4f32db27aed0d86864747f1338e0f08/170.png"
+      ]
+    },
+    {
+      "id": "66e29e6d334f866d5984aba9",
+      "idMembers": [
+        "633c32f9683d840066a4bf60"
+      ],
+      "name": "Photoshop request for Schinker - Dommeldange (Sandy)",
+      "nameShort": "Photoshop request for Schinker - Dommeldange (Sandy)",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/0pRrvyb6/5633-photoshop-request-for-schinker-dommeldange-sandy",
+      "lastModified": "2024-09-12T07:56:55.744Z",
+      "associatedAdviser": "Sandy",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/633c32f9683d840066a4bf60/a4f32db27aed0d86864747f1338e0f08/170.png"
+      ]
+    },
+    {
+      "id": "66e29ea097561ad9cee29fca",
+      "idMembers": [
+        "633c32f9683d840066a4bf60"
+      ],
+      "name": "Photoshop request for Schinker - Dommeldange (Sandy)",
+      "nameShort": "Photoshop request for Schinker - Dommeldange (Sandy)",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/MDHN7vZB/5634-photoshop-request-for-schinker-dommeldange-sandy",
+      "lastModified": "2024-09-12T07:57:54.981Z",
+      "associatedAdviser": "Sandy",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/633c32f9683d840066a4bf60/a4f32db27aed0d86864747f1338e0f08/170.png"
+      ]
+    },
+    {
+      "id": "66e29ef79882caff95930d7c",
+      "idMembers": [
+        "633c32f9683d840066a4bf60"
+      ],
+      "name": "Photoshop request for Schinker - Dommeldange (Sandy)",
+      "nameShort": "Photoshop request for Schinker - Dommeldange (Sandy)",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/gcl9i0GD/5635-photoshop-request-for-schinker-dommeldange-sandy",
+      "lastModified": "2024-09-12T07:58:53.380Z",
+      "associatedAdviser": "Sandy",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/633c32f9683d840066a4bf60/a4f32db27aed0d86864747f1338e0f08/170.png"
+      ]
+    },
+    {
+      "id": "66e29f380515a60d32beaa9b",
+      "idMembers": [
+        "633c32f9683d840066a4bf60"
+      ],
+      "name": "Photoshop request for Schinker - Dommeldange (Sandy)",
+      "nameShort": "Photoshop request for Schinker - Dommeldange (Sandy)",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/DXN5X3jZ/5636-photoshop-request-for-schinker-dommeldange-sandy",
+      "lastModified": "2024-09-12T08:01:01.258Z",
+      "associatedAdviser": "Sandy",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/633c32f9683d840066a4bf60/a4f32db27aed0d86864747f1338e0f08/170.png"
+      ]
+    },
+    {
+      "id": "66e29f61c4adb4cddb845b40",
+      "idMembers": [
+        "633c32f9683d840066a4bf60"
+      ],
+      "name": "Photoshop request for Schinker - Dommeldange (Sandy)",
+      "nameShort": "Photoshop request for Schinker - Dommeldange (Sandy)",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/XZS9mQnq/5637-photoshop-request-for-schinker-dommeldange-sandy",
+      "lastModified": "2024-09-12T08:01:02.476Z",
+      "associatedAdviser": "Sandy",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/633c32f9683d840066a4bf60/a4f32db27aed0d86864747f1338e0f08/170.png"
+      ]
+    },
+    {
+      "id": "66e29fc5bcb3815c712f2126",
+      "idMembers": [
+        "633c32f9683d840066a4bf60"
+      ],
+      "name": "Photoshop request for Schinker - Dommeldange (Sandy)",
+      "nameShort": "Photoshop request for Schinker - Dommeldange (Sandy)",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/H96i8ewT/5639-photoshop-request-for-schinker-dommeldange-sandy",
+      "lastModified": "2024-09-12T08:03:06.234Z",
+      "associatedAdviser": "Sandy",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/633c32f9683d840066a4bf60/a4f32db27aed0d86864747f1338e0f08/170.png"
+      ]
+    },
+    {
+      "id": "66e29ff4cca1ef8c163eea8f",
+      "idMembers": [
+        "633c32f9683d840066a4bf60"
+      ],
+      "name": "Photoshop request for Schinker - Dommeldange (Sandy)",
+      "nameShort": "Photoshop request for Schinker - Dommeldange (Sandy)",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/T5J9RH14/5640-photoshop-request-for-schinker-dommeldange-sandy",
+      "lastModified": "2024-09-12T08:04:00.819Z",
+      "associatedAdviser": "Sandy",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/633c32f9683d840066a4bf60/a4f32db27aed0d86864747f1338e0f08/170.png"
+      ]
+    },
+    {
+      "id": "66e2a0084b3850181548e6ee",
+      "idMembers": [
+        "633c32f9683d840066a4bf60"
+      ],
+      "name": "Photoshop request for Schinker - Dommeldange (Sandy)",
+      "nameShort": "Photoshop request for Schinker - Dommeldange (Sandy)",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/Va4pThh1/5641-photoshop-request-for-schinker-dommeldange-sandy",
+      "lastModified": "2024-09-12T08:04:00.513Z",
+      "associatedAdviser": "Sandy",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/633c32f9683d840066a4bf60/a4f32db27aed0d86864747f1338e0f08/170.png"
       ]
     },
     {
@@ -84,7 +339,7 @@
       "nameShort": "🔒 Weekly newsletter [Do not move]",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-09-11T07:59:46.744Z",
+      "lastModified": "2024-09-12T08:00:24.020Z",
       "associatedAdviser": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
@@ -111,7 +366,7 @@
         "633c32f9683d840066a4bf60"
       ],
       "name": "Order business cards (Anas)",
-      "nameShort": "Order business cards",
+      "nameShort": "Order business cards (Anas)",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/w2nNBuhk/5527-order-business-cards-anas",
       "lastModified": "2024-09-02T08:39:50.372Z",
@@ -126,7 +381,7 @@
         "633c32f9683d840066a4bf60"
       ],
       "name": "Order 250 business cards (Aurore)",
-      "nameShort": "Order 250 business cards",
+      "nameShort": "Order 250 business cards (Aurore)",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/P9PFXmne/5412-order-250-business-cards-aurore",
       "lastModified": "2024-08-22T10:19:25.659Z",
@@ -141,7 +396,7 @@
         "5ce414ac7678a40557510d74"
       ],
       "name": "Reimburse expense (Xavier)",
-      "nameShort": "Reimburse expense",
+      "nameShort": "Reimburse expense (Xavier)",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/pOUsImYb/5538-reimburse-expense-xavier",
       "lastModified": "2024-09-05T16:23:31.651Z",
@@ -156,7 +411,7 @@
         "5ce414ac7678a40557510d74"
       ],
       "name": "> Put listing in window displays: Schleich - Hautcharage (Rudy)",
-      "nameShort": "Put listing in window displays: Schleich - Hautcharage",
+      "nameShort": "Put listing in window displays",
       "pipedriveDealName": "Schleich - Hautcharage",
       "url": "https://trello.com/c/5Wma90bQ/5613-put-listing-in-window-displays-schleich-hautcharage-rudy",
       "lastModified": "2024-09-11T09:54:42.292Z",

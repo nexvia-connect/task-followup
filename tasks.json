@@ -97,6 +97,22 @@
       ]
     },
     {
+      "id": "66e3ebf425dc10044f15b0ae",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Set listing as signed: Thines - Uebersyren (Rudy)",
+      "nameShort": "Set listing as signed",
+      "pipedriveDealName": "Thines - Uebersyren",
+      "url": "https://trello.com/c/ezrVhwwT/5658-set-listing-as-signed-thines-uebersyren-rudy",
+      "lastModified": "2024-09-13T07:38:31.558Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "66e16cc92e6bcefd3ccecae5",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -140,6 +156,22 @@
       "lastModified": "2024-09-12T10:12:30.190Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66e3eb2d72c2b49c468ded60",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Schinker - Dommeldange (Sandy)",
+      "nameShort": "Listing modifications: Schinker - Dommeldange",
+      "pipedriveDealName": "Schinker - Dommeldange",
+      "url": "https://trello.com/c/JEahLdWY/5657-listing-modification-schinker-dommeldange-sandy",
+      "lastModified": "2024-09-13T07:36:47.747Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

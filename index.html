@@ -88,16 +88,13 @@
       cursor: pointer !important;
       opacity: 0;
       animation: fadeIn 0.5s ease forwards;
-      transition: background-color 0.1s, transform 10s ease-in-out;
-      transform: translateY(0); /* Start position */
-      will-change: transform; /* Optimize for transform changes */
+      transition: background-color 0.1s;
     }
     
     .task-item:hover {
       background-color: #f4f4f4;
       border-left: 5px solid #26611c !important;
       box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 4px;
-      transform: translateY(-5px) !important; /* Ensure hover applies the transform */
     }
 
     .task-info {

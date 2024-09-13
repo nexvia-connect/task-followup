@@ -113,6 +113,22 @@
       ]
     },
     {
+      "id": "66e40813784854f83873fcfa",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Create commune description",
+      "nameShort": "Create commune description",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/WWYtVzPi/5663-create-commune-description",
+      "lastModified": "2024-09-13T09:38:27.988Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "66e16cc92e6bcefd3ccecae5",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -177,6 +193,38 @@
       ]
     },
     {
+      "id": "66e3f3a9f8bfbe2bf5c15fb2",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Put listing in window displays: Hazir - Gasperich (Thomas)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Hazir - Gasperich",
+      "url": "https://trello.com/c/WAutF3O8/5660-put-listing-in-window-displays-hazir-gasperich-thomas",
+      "lastModified": "2024-09-13T08:11:26.040Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66e3f3ca7af91732cc11c11c",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Publish listing to platforms: Hazir - Gasperich (Thomas)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Hazir - Gasperich",
+      "url": "https://trello.com/c/ai6maWfK/5661-publish-listing-to-platforms-hazir-gasperich-thomas",
+      "lastModified": "2024-09-13T08:12:11.763Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -185,7 +233,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-09-13T00:26:05.386Z",
+      "lastModified": "2024-09-13T07:59:47.015Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

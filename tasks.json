@@ -1,6 +1,22 @@
 {
   "cards": [
     {
+      "id": "66e4293bddb35a118130e534",
+      "idMembers": [
+        "633c32f9683d840066a4bf60"
+      ],
+      "name": "Create statistics report: Hottua - Bertrange (Thomas)",
+      "nameShort": "Statistics report",
+      "pipedriveDealName": "Hottua - Bertrange",
+      "url": "https://trello.com/c/o6BCJ4mQ/5669-create-statistics-report-hottua-bertrange-thomas",
+      "lastModified": "2024-09-13T12:02:15.316Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/633c32f9683d840066a4bf60/a4f32db27aed0d86864747f1338e0f08/170.png"
+      ]
+    },
+    {
       "id": "66a9e17ad74acaec068bfd81",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -33,54 +49,6 @@
       ]
     },
     {
-      "id": "66e2aef2cfb49c3785c04546",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Create commune description",
-      "nameShort": "Create commune description",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/gEcowGR8/5643-create-commune-description",
-      "lastModified": "2024-09-12T09:05:54.856Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "66e2af828c41fd3017672777",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Create commune description",
-      "nameShort": "Create commune description",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/KcprEgMX/5644-create-commune-description",
-      "lastModified": "2024-09-12T09:08:19.400Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "66e30c791469c87fcbdee565",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Missing link to associate in Pipedrive",
-      "nameShort": "Missing link to associate in Pipedrive",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/XSWRYfhQ/5650-missing-link-to-associate-in-pipedrive",
-      "lastModified": "2024-09-12T15:44:58.664Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "66e3e2549b3c2902fa1fe3d2",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -94,54 +62,6 @@
       "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "66e40813784854f83873fcfa",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Create commune description",
-      "nameShort": "Create commune description",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/WWYtVzPi/5663-create-commune-description",
-      "lastModified": "2024-09-13T09:38:27.988Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "66e409eaee2cf1b365b2634a",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Create commune description",
-      "nameShort": "Create commune description",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/UzguuhA2/5664-create-commune-description",
-      "lastModified": "2024-09-13T09:46:19.736Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "66e40b151a0aa2b940310984",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Create commune description",
-      "nameShort": "Create commune description",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/2lquBVHO/5666-create-commune-description",
-      "lastModified": "2024-09-13T09:51:18.186Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
     {
@@ -172,6 +92,22 @@
       "lastModified": "2024-09-13T08:12:11.763Z",
       "associatedAdviser": "Thomas",
       "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66e4100ebd1fcae1ecb24bf3",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Publish listing to platforms: Horilla - Soleuvre (Vinciane)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Horilla - Soleuvre",
+      "url": "https://trello.com/c/SKY8tG16/5668-publish-listing-to-platforms-horilla-soleuvre-vinciane",
+      "lastModified": "2024-09-13T10:12:46.441Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -252,6 +188,22 @@
       "lastModified": "2024-09-13T09:57:42.753Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66e40fef92f239a873658a0c",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Put listing in window displays: Horilla - Soleuvre (Vinciane)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Horilla - Soleuvre",
+      "url": "https://trello.com/c/xgXXnsps/5667-put-listing-in-window-displays-horilla-soleuvre-vinciane",
+      "lastModified": "2024-09-13T10:17:43.104Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

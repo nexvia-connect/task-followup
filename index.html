@@ -534,6 +534,7 @@
         tasksForAdviser.forEach((task, index) => {
           const taskItem = document.createElement('div');
           taskItem.classList.add('task-item');
+          taskItem.style.cursor = 'pointer';
   
           // Task info with icon and name/last modified
           const taskInfo = document.createElement('div');

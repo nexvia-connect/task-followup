@@ -506,8 +506,7 @@
     document.getElementById('adviserName').textContent = adviserName || 'Unknown';
 
     // Check if both ADVISERNAME and SLACKUSERID are missing, then hide sections
-    if (!adviserName && !slackUserId) {
-      document.querySelector('.header-info').style.display = 'none';
+    if (!adviserName || !slackUserId) {
       document.querySelector('.section').style.display = 'none';
     }
   

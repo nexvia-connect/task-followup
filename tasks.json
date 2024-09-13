@@ -86,10 +86,10 @@
         "5ce414ac7678a40557510d74"
       ],
       "name": "Prepare + print notary docs: Amorim - Kayl (Rudy)",
-      "nameShort": "Prepare + print notary docs for Amorim - Kayl",
+      "nameShort": "Prepare + print notary docs",
       "pipedriveDealName": "Amorim - Kayl",
       "url": "https://trello.com/c/9zBiqU55/5654-prepare-print-notary-docs-amorim-kayl-rudy",
-      "lastModified": "2024-09-13T06:59:14.837Z",
+      "lastModified": "2024-09-13T10:01:02.478Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
       "avatarUrls": [
@@ -145,22 +145,6 @@
       ]
     },
     {
-      "id": "66e2be7d09ef9fbb0bbb9fcd",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Publish listing to platforms: De Donder - Gasperich (Rudy)",
-      "nameShort": "Publish listing to platforms",
-      "pipedriveDealName": "De Donder - Gasperich",
-      "url": "https://trello.com/c/XUPS5Eko/5648-publish-listing-to-platforms-de-donder-gasperich-rudy",
-      "lastModified": "2024-09-13T09:56:51.944Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "66e3eb2d72c2b49c468ded60",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -169,7 +153,7 @@
       "nameShort": "Listing modifications: Schinker - Dommeldange",
       "pipedriveDealName": "Schinker - Dommeldange",
       "url": "https://trello.com/c/JEahLdWY/5657-listing-modification-schinker-dommeldange-sandy",
-      "lastModified": "2024-09-13T07:36:47.747Z",
+      "lastModified": "2024-09-13T10:11:10.597Z",
       "associatedAdviser": "Sandy",
       "slackUserId": "UBK5HTKFF",
       "avatarUrls": [

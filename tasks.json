@@ -129,6 +129,38 @@
       ]
     },
     {
+      "id": "66e409eaee2cf1b365b2634a",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Create commune description",
+      "nameShort": "Create commune description",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/UzguuhA2/5664-create-commune-description",
+      "lastModified": "2024-09-13T09:46:19.736Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "66e40b151a0aa2b940310984",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Create commune description",
+      "nameShort": "Create commune description",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/2lquBVHO/5666-create-commune-description",
+      "lastModified": "2024-09-13T09:51:18.186Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "66e16cc92e6bcefd3ccecae5",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -169,7 +201,7 @@
       "nameShort": "Publish listing to platforms",
       "pipedriveDealName": "De Donder - Gasperich",
       "url": "https://trello.com/c/XUPS5Eko/5648-publish-listing-to-platforms-de-donder-gasperich-rudy",
-      "lastModified": "2024-09-12T10:12:30.190Z",
+      "lastModified": "2024-09-13T09:56:46.946Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
       "avatarUrls": [

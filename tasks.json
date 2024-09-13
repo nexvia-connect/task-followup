@@ -97,35 +97,67 @@
       ]
     },
     {
-      "id": "66e435cadbf02cddb60b10ad",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Listing creation: Almeida - Wasserbillig (Carolina)",
-      "nameShort": "Listing creation",
-      "pipedriveDealName": "Almeida - Wasserbillig",
-      "url": "https://trello.com/c/ycneALzz/5670-listing-creation-almeida-wasserbillig-carolina",
-      "lastModified": "2024-09-13T12:55:35.873Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "66e464a01f57865c3d83920e",
+      "id": "66e4717c4668cfca187dda3d",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
       ],
-      "name": "> Schedule newsletter: Schinker - Dommeldange (Sandy)",
-      "nameShort": "Schedule newsletter",
-      "pipedriveDealName": "Schinker - Dommeldange",
-      "url": "https://trello.com/c/gQE31oeS/5683-schedule-newsletter-schinker-dommeldange-sandy",
-      "lastModified": "2024-09-13T16:13:23.150Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
+      "name": "> Missing link to associate in Pipedrive",
+      "nameShort": "Missing link to associate in Pipedrive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/KQw3TCkK/5684-missing-link-to-associate-in-pipedrive",
+      "lastModified": "2024-09-13T17:08:13.449Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "66e471950f950fabeb4477d4",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Missing link to associate in Pipedrive",
+      "nameShort": "Missing link to associate in Pipedrive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/yAyvsfxc/5685-missing-link-to-associate-in-pipedrive",
+      "lastModified": "2024-09-13T17:08:37.679Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "66e477e919284c9bf84464b8",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Missing link to associate in Pipedrive",
+      "nameShort": "Missing link to associate in Pipedrive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/OKhby58n/5686-missing-link-to-associate-in-pipedrive",
+      "lastModified": "2024-09-13T17:35:38.646Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "66e47a66426166e591de2339",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Set atHome Premiere: Hottua - Bertrange (Thomas)",
+      "nameShort": "Set atHome Premiere",
+      "pipedriveDealName": "Hottua - Bertrange",
+      "url": "https://trello.com/c/2XEZDRMm/5687-set-athome-premiere-hottua-bertrange-thomas",
+      "lastModified": "2024-09-13T17:47:42.241Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {

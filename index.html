@@ -451,7 +451,7 @@
   <div class="section" style="padding: 0 !important;">
     <div class="section-title no-before">
       <span class="material-icons">fact_check</span>
-      Total ongoing tasks: <span id="taskCount">You are not connected properly.</span>
+      Total ongoing tasks: <span id="taskCount">Loading...</span>
     </div>
   </div>
 
@@ -504,6 +504,13 @@
     // Set adviser name and Slack user ID from URL parameters
     const { adviserName, slackUserId } = getQueryParams();
     document.getElementById('adviserName').textContent = adviserName || 'Unknown';
+
+    // Check if both ADVISERNAME and SLACKUSERID are missing, then hide sections
+    if (!adviserName && !slackUserId) {
+      document.querySelector('.header-info').style.display = 'none';
+      document.querySelector('.section').style.display = 'none';
+      document.querySelector('#sidebar').style.display = 'none';
+    }
   
     // Fetch the tasks.json file from the GitHub repository
     fetch(`https://raw.githubusercontent.com/nexvia-connect/task-followup/main/tasks.json?cache_buster=${new Date().getTime()}`)

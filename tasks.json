@@ -65,6 +65,38 @@
       ]
     },
     {
+      "id": "66e43610213c01bd77cbbc0a",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Set Apple Mail e-mail signature (Melissa)",
+      "nameShort": "Set Apple Mail e-mail signature",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/mL68VilZ/5672-set-apple-mail-e-mail-signature-melissa",
+      "lastModified": "2024-09-13T12:56:36.032Z",
+      "associatedAdviser": "Melissa",
+      "slackUserId": "U44GYBHT2",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "66e43dbb9321c0ffe6abcab7",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Missing link to associate in Pipedrive",
+      "nameShort": "Missing link to associate in Pipedrive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/0PZmgfoK/5674-missing-link-to-associate-in-pipedrive",
+      "lastModified": "2024-09-13T13:27:24.279Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "66e3eb2d72c2b49c468ded60",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -110,6 +142,70 @@
       "slackUserId": "U01S0CAN9QT",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66e435cadbf02cddb60b10ad",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing creation: Almeida - Wasserbillig (Carolina)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": "Almeida - Wasserbillig",
+      "url": "https://trello.com/c/ycneALzz/5670-listing-creation-almeida-wasserbillig-carolina",
+      "lastModified": "2024-09-13T12:55:35.873Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66e441b99c882b0c24b4a6b6",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Schinker - Dommeldange (Sandy)",
+      "nameShort": "Listing modifications",
+      "pipedriveDealName": "Schinker - Dommeldange",
+      "url": "https://trello.com/c/k2EaQxlv/5675-listing-modification-schinker-dommeldange-sandy",
+      "lastModified": "2024-09-13T13:45:53.911Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66e43600b3d3824cfb5c6862",
+      "idMembers": [
+        "633c32f9683d840066a4bf60"
+      ],
+      "name": "Photoshop request: Almeida - Wasserbillig (Carolina)",
+      "nameShort": "Photoshop request",
+      "pipedriveDealName": "Almeida - Wasserbillig",
+      "url": "https://trello.com/c/fdRoixiL/5671-photoshop-request-almeida-wasserbillig-carolina",
+      "lastModified": "2024-09-13T12:56:36.256Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/633c32f9683d840066a4bf60/a4f32db27aed0d86864747f1338e0f08/170.png"
+      ]
+    },
+    {
+      "id": "66e437034f8072ce71ed1785",
+      "idMembers": [
+        "633c32f9683d840066a4bf60"
+      ],
+      "name": "Photoshop request: Almeida - Wasserbillig (Carolina)",
+      "nameShort": "Photoshop request",
+      "pipedriveDealName": "Almeida - Wasserbillig",
+      "url": "https://trello.com/c/ekGTg1SC/5673-photoshop-request-almeida-wasserbillig-carolina",
+      "lastModified": "2024-09-13T13:00:54.914Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/633c32f9683d840066a4bf60/a4f32db27aed0d86864747f1338e0f08/170.png"
       ]
     },
     {

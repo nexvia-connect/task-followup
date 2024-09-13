@@ -507,7 +507,7 @@
 
     // Check if both ADVISERNAME and SLACKUSERID are missing, then hide sections
     if (!adviserName || !slackUserId) {
-      document.querySelector('.section').style.display = 'none !important';
+      document.querySelector('.section').style.display = 'none';
     }
   
     // Fetch the tasks.json file from the GitHub repository

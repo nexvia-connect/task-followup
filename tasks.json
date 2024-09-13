@@ -81,6 +81,22 @@
       ]
     },
     {
+      "id": "66e3e2549b3c2902fa1fe3d2",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Prepare + print notary docs: Amorim - Kayl (Rudy)",
+      "nameShort": "Prepare + print notary docs for Amorim - Kayl",
+      "pipedriveDealName": "Amorim - Kayl",
+      "url": "https://trello.com/c/9zBiqU55/5654-prepare-print-notary-docs-amorim-kayl-rudy",
+      "lastModified": "2024-09-13T06:59:14.837Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "66e16cc92e6bcefd3ccecae5",
       "idMembers": [
         "5ce414ac7678a40557510d74"

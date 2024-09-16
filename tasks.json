@@ -1,6 +1,22 @@
 {
   "cards": [
     {
+      "id": "66e87f88468b947ffff0f904",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Create statistics report: Wollscheid - Steinfort (Thomas)",
+      "nameShort": "Statistics report",
+      "pipedriveDealName": "Wollscheid - Steinfort",
+      "url": "https://trello.com/c/fKMLt5A9/5710-create-statistics-report-wollscheid-steinfort-thomas",
+      "lastModified": "2024-09-16T18:59:12.079Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "66a9e17ad74acaec068bfd81",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -81,22 +97,6 @@
       ]
     },
     {
-      "id": "66e7eaa4c54e705d8b112e6f",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Prepare + print notary docs: Marques - Steinfort (Sandy)",
-      "nameShort": "Prepare + print notary docs",
-      "pipedriveDealName": "Marques - Steinfort",
-      "url": "https://trello.com/c/BIfGNlRZ/5702-prepare-print-notary-docs-marques-steinfort-sandy",
-      "lastModified": "2024-09-16T08:23:38.498Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "66e81944555f96d59b656e83",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -113,22 +113,6 @@
       ]
     },
     {
-      "id": "66e84137b0ec4ff12ab54c78",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Photoshop request: Almeida - Wasserbillig (Carolina)",
-      "nameShort": "Photoshop request",
-      "pipedriveDealName": "Almeida - Wasserbillig",
-      "url": "https://trello.com/c/isPEM53U/5708-photoshop-request-almeida-wasserbillig-carolina",
-      "lastModified": "2024-09-16T14:33:19.963Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -142,6 +126,22 @@
       "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66e84137b0ec4ff12ab54c78",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop request: Almeida - Wasserbillig (Carolina)",
+      "nameShort": "Photoshop request",
+      "pipedriveDealName": "Almeida - Wasserbillig",
+      "url": "https://trello.com/c/isPEM53U/5708-photoshop-request-almeida-wasserbillig-carolina",
+      "lastModified": "2024-09-16T16:10:24.493Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {

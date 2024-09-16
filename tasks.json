@@ -225,6 +225,38 @@
       ]
     },
     {
+      "id": "66e7f84f545b07b7de85692f",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Missing link to associate in Pipedrive",
+      "nameShort": "Missing link to associate in Pipedrive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/rOCktc3e/5703-missing-link-to-associate-in-pipedrive",
+      "lastModified": "2024-09-16T09:20:16.247Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "66e7f8929b52a483fc727582",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Missing link to associate in Pipedrive",
+      "nameShort": "Missing link to associate in Pipedrive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/SoTT13CI/5704-missing-link-to-associate-in-pipedrive",
+      "lastModified": "2024-09-16T09:21:23.261Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "66e47a66426166e591de2339",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -313,7 +345,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-09-16T08:00:06.642Z",
+      "lastModified": "2024-09-16T09:25:04.045Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

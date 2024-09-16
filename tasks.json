@@ -65,38 +65,6 @@
       ]
     },
     {
-      "id": "66e5223228bd620ad9509f6c",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Missing link to associate in Pipedrive",
-      "nameShort": "Missing link to associate in Pipedrive",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/nt7dSsWL/5690-missing-link-to-associate-in-pipedrive",
-      "lastModified": "2024-09-14T05:42:10.886Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "66e6d125f2f7aedd2286517a",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Missing link to associate in Pipedrive",
-      "nameShort": "Missing link to associate in Pipedrive",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/CV9KOIsd/5692-missing-link-to-associate-in-pipedrive",
-      "lastModified": "2024-09-15T12:20:54.194Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "66e79045100f90d3a2fbbb95",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -220,9 +188,7 @@
       "lastModified": "2024-09-16T07:46:01.467Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "66e7e239014d2525d71493da",
@@ -252,9 +218,7 @@
       "lastModified": "2024-09-16T07:46:02.649Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "64243606c586efdda6b161fc",
@@ -268,9 +232,7 @@
       "lastModified": "2024-09-16T09:25:04.045Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "66e01b7537dbb33a7753511f",
@@ -284,9 +246,7 @@
       "lastModified": "2024-09-11T09:54:42.292Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "66e3f3a9f8bfbe2bf5c15fb2",
@@ -316,9 +276,7 @@
       "lastModified": "2024-09-13T09:57:33.508Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "66e2be5e0e0756273a8b4764",
@@ -332,9 +290,7 @@
       "lastModified": "2024-09-13T09:57:42.753Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "66e40fef92f239a873658a0c",
@@ -348,9 +304,7 @@
       "lastModified": "2024-09-13T10:17:43.104Z",
       "associatedAdviser": "Vinciane",
       "slackUserId": "U01S0CAN9QT",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "66e448141bc974235f4d77b5",
@@ -364,9 +318,7 @@
       "lastModified": "2024-09-13T14:15:40.993Z",
       "associatedAdviser": "Romain",
       "slackUserId": "U7BGBRJGH",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     }
   ]
 }

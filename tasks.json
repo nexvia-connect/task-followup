@@ -12,7 +12,9 @@
       "lastModified": "2024-09-13T06:56:25.982Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "66e1ed2a81c90f0567c7ab72",
@@ -26,7 +28,9 @@
       "lastModified": "2024-09-12T08:47:19.075Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "66e3e2549b3c2902fa1fe3d2",
@@ -40,7 +44,9 @@
       "lastModified": "2024-09-13T10:01:02.478Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "66e43610213c01bd77cbbc0a",
@@ -54,7 +60,9 @@
       "lastModified": "2024-09-13T12:56:36.032Z",
       "associatedAdviser": "Melissa",
       "slackUserId": "U44GYBHT2",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
     },
     {
       "id": "66e7d9be6375accfd7f097e9",
@@ -68,7 +76,9 @@
       "lastModified": "2024-09-16T07:11:56.844Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "66e7eaa4c54e705d8b112e6f",
@@ -82,21 +92,41 @@
       "lastModified": "2024-09-16T08:23:38.498Z",
       "associatedAdviser": "Sandy",
       "slackUserId": "UBK5HTKFF",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
-      "id": "66e47a66426166e591de2339",
+      "id": "66e81944555f96d59b656e83",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Missing link to associate in Pipedrive",
+      "nameShort": "Missing link to associate in Pipedrive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/l8v8IL6f/5706-missing-link-to-associate-in-pipedrive",
+      "lastModified": "2024-09-16T11:40:52.770Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "66e8228ac94ac7ffbc6519d8",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Set atHome Premiere: Hottua - Bertrange (Thomas)",
-      "nameShort": "Set atHome Premiere",
-      "pipedriveDealName": "Hottua - Bertrange",
-      "url": "https://trello.com/c/2XEZDRMm/5687-set-athome-premiere-hottua-bertrange-thomas",
-      "lastModified": "2024-09-13T17:47:42.241Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": []
+      "name": "> Purchase item (Süleyman)",
+      "nameShort": "Purchase item",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/T9mWZalG/5707-purchase-item-s%C3%BCleyman",
+      "lastModified": "2024-09-16T12:20:27.544Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "66e7e2383b85b8acb631c1e0",
@@ -110,7 +140,9 @@
       "lastModified": "2024-09-16T07:46:01.467Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "66e7e239014d2525d71493da",
@@ -124,7 +156,9 @@
       "lastModified": "2024-09-16T07:46:02.091Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "66e7e2396d33f90af16101a4",
@@ -138,7 +172,9 @@
       "lastModified": "2024-09-16T07:46:02.649Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "64243606c586efdda6b161fc",
@@ -152,7 +188,9 @@
       "lastModified": "2024-09-16T09:25:04.045Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "66e01b7537dbb33a7753511f",
@@ -166,7 +204,9 @@
       "lastModified": "2024-09-11T09:54:42.292Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "66e3f3a9f8bfbe2bf5c15fb2",
@@ -180,7 +220,9 @@
       "lastModified": "2024-09-13T09:57:20.162Z",
       "associatedAdviser": "Thomas",
       "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "66e16cc92e6bcefd3ccecae5",
@@ -194,7 +236,9 @@
       "lastModified": "2024-09-13T09:57:33.508Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "66e2be5e0e0756273a8b4764",
@@ -208,7 +252,9 @@
       "lastModified": "2024-09-13T09:57:42.753Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "66e40fef92f239a873658a0c",
@@ -222,7 +268,9 @@
       "lastModified": "2024-09-13T10:17:43.104Z",
       "associatedAdviser": "Vinciane",
       "slackUserId": "U01S0CAN9QT",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "66e448141bc974235f4d77b5",
@@ -236,7 +284,9 @@
       "lastModified": "2024-09-13T14:15:40.993Z",
       "associatedAdviser": "Romain",
       "slackUserId": "U7BGBRJGH",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     }
   ]
 }

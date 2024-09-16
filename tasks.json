@@ -1,22 +1,6 @@
 {
   "cards": [
     {
-      "id": "66e4293bddb35a118130e534",
-      "idMembers": [
-        "633c32f9683d840066a4bf60"
-      ],
-      "name": "Create statistics report: Hottua - Bertrange (Thomas)",
-      "nameShort": "Statistics report",
-      "pipedriveDealName": "Hottua - Bertrange",
-      "url": "https://trello.com/c/o6BCJ4mQ/5669-create-statistics-report-hottua-bertrange-thomas",
-      "lastModified": "2024-09-13T12:02:15.316Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/633c32f9683d840066a4bf60/a4f32db27aed0d86864747f1338e0f08/170.png"
-      ]
-    },
-    {
       "id": "66a9e17ad74acaec068bfd81",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -209,6 +193,38 @@
       ]
     },
     {
+      "id": "66e7d9be6375accfd7f097e9",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Prepare + print notary docs: Achen - Mullendorf (Rudy)",
+      "nameShort": "Prepare + print notary docs",
+      "pipedriveDealName": "Achen - Mullendorf",
+      "url": "https://trello.com/c/W79C8DrA/5696-prepare-print-notary-docs-achen-mullendorf-rudy",
+      "lastModified": "2024-09-16T07:11:56.844Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66e7db4aa61e894de141989c",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Set listing as sold: Mathis - Gasperich (Rudy)",
+      "nameShort": "Set listing as sold",
+      "pipedriveDealName": "Mathis - Gasperich",
+      "url": "https://trello.com/c/xBHDExZk/5697-set-listing-as-sold-mathis-gasperich-rudy",
+      "lastModified": "2024-09-16T07:16:28.824Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "66e47a66426166e591de2339",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -220,6 +236,22 @@
       "lastModified": "2024-09-13T17:47:42.241Z",
       "associatedAdviser": "Thomas",
       "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66e7d8665d77c29530be1877",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Prepare weekly newsletter",
+      "nameShort": "Prepare weekly newsletter",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/rpUqzBIl/5695-prepare-weekly-newsletter",
+      "lastModified": "2024-09-16T07:22:03.926Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

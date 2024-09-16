@@ -113,51 +113,35 @@
       ]
     },
     {
-      "id": "66e7e2383b85b8acb631c1e0",
+      "id": "66e84ba6c8b570cb6952aad7",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "> Format change",
-      "nameShort": "Format change",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/dtEwUuWo/5698-format-change",
-      "lastModified": "2024-09-16T07:46:01.467Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
+      "name": "Change price: Skwara - Strassen (Thomas)",
+      "nameShort": "Change price for Skwara - Strassen",
+      "pipedriveDealName": "Skwara - Strassen",
+      "url": "https://trello.com/c/6bPO50PX/5709-change-price-skwara-strassen-thomas",
+      "lastModified": "2024-09-16T15:17:42.745Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
-      "id": "66e7e239014d2525d71493da",
+      "id": "66e84137b0ec4ff12ab54c78",
       "idMembers": [
-        "5ce414ac7678a40557510d74"
+        "66d5ca383da59bf7e67f324a"
       ],
-      "name": "> Format change",
-      "nameShort": "Format change",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/q8vA2c1r/5699-format-change",
-      "lastModified": "2024-09-16T07:46:02.091Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
+      "name": "Photoshop request: Almeida - Wasserbillig (Carolina)",
+      "nameShort": "Photoshop request",
+      "pipedriveDealName": "Almeida - Wasserbillig",
+      "url": "https://trello.com/c/isPEM53U/5708-photoshop-request-almeida-wasserbillig-carolina",
+      "lastModified": "2024-09-16T14:33:19.963Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "66e7e2396d33f90af16101a4",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Format change",
-      "nameShort": "Format change",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/Yfr1T6qt/5700-format-change",
-      "lastModified": "2024-09-16T07:46:02.649Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {
@@ -169,7 +153,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-09-16T09:25:04.045Z",
+      "lastModified": "2024-09-16T15:15:51.200Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

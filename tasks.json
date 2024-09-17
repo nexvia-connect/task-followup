@@ -129,6 +129,22 @@
       ]
     },
     {
+      "id": "66e971a7fbc9bce7dc83bca3",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Missing link to associate in Pipedrive",
+      "nameShort": "Missing link to associate in Pipedrive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/U3owkWyf/5732-missing-link-to-associate-in-pipedrive",
+      "lastModified": "2024-09-17T12:10:16.701Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "66e89f163230523b46c48d5b",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -185,7 +201,7 @@
       "nameShort": "Publish listing to platforms",
       "pipedriveDealName": "Schinker - Dommeldange",
       "url": "https://trello.com/c/R5mKPdPb/5727-publish-listing-to-platforms-schinker-dommeldange-sandy",
-      "lastModified": "2024-09-17T08:12:03.122Z",
+      "lastModified": "2024-09-17T13:28:53.067Z",
       "associatedAdviser": "Sandy",
       "slackUserId": "UBK5HTKFF",
       "avatarUrls": [
@@ -217,7 +233,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-09-17T08:49:35.912Z",
+      "lastModified": "2024-09-17T12:58:51.850Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

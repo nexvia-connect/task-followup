@@ -33,22 +33,6 @@
       ]
     },
     {
-      "id": "66e3e2549b3c2902fa1fe3d2",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Prepare + print notary docs: Amorim - Kayl (Rudy)",
-      "nameShort": "Prepare + print notary docs",
-      "pipedriveDealName": "Amorim - Kayl",
-      "url": "https://trello.com/c/9zBiqU55/5654-prepare-print-notary-docs-amorim-kayl-rudy",
-      "lastModified": "2024-09-17T21:05:09.378Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "66e43610213c01bd77cbbc0a",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -94,22 +78,6 @@
       "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "66e961c36243e8e318515ba2",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Set listing as signed: IW Huss - Waldbillig (Sandy)",
-      "nameShort": "Set listing as signed",
-      "pipedriveDealName": "IW Huss - Waldbillig",
-      "url": "https://trello.com/c/8PdpCh2i/5731-set-listing-as-signed-iw-huss-waldbillig-sandy",
-      "lastModified": "2024-09-17T11:02:29.502Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {

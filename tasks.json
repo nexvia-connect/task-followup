@@ -1,6 +1,22 @@
 {
   "cards": [
     {
+      "id": "66eaab06d08e6870e5d3bd8d",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Create statistics report: Steffen - Belair (Sandy)",
+      "nameShort": "Statistics report",
+      "pipedriveDealName": "Steffen - Belair",
+      "url": "https://trello.com/c/HSH7wqU1/5744-create-statistics-report-steffen-belair-sandy",
+      "lastModified": "2024-09-18T10:29:16.086Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "66a9e17ad74acaec068bfd81",
       "idMembers": [
         "5ce414ac7678a40557510d74"

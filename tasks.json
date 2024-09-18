@@ -65,35 +65,19 @@
       ]
     },
     {
-      "id": "66e81944555f96d59b656e83",
+      "id": "66ea938f6518bc4d7817e72b",
       "idMembers": [
-        "56f10d02921bc403c6d626d1"
+        "5ce414ac7678a40557510d74"
       ],
-      "name": "> Missing link to associate in Pipedrive",
-      "nameShort": "Missing link to associate in Pipedrive",
+      "name": "Reimburse expense (Xavier)",
+      "nameShort": "Reimburse expense",
       "pipedriveDealName": null,
-      "url": "https://trello.com/c/l8v8IL6f/5706-missing-link-to-associate-in-pipedrive",
-      "lastModified": "2024-09-16T11:40:52.770Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
+      "url": "https://trello.com/c/V91GzDcV/5742-reimburse-expense-xavier",
+      "lastModified": "2024-09-18T08:47:57.840Z",
+      "associatedAdviser": "Xavier",
+      "slackUserId": "U44HL0DMX",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "66e971a7fbc9bce7dc83bca3",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Missing link to associate in Pipedrive",
-      "nameShort": "Missing link to associate in Pipedrive",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/U3owkWyf/5732-missing-link-to-associate-in-pipedrive",
-      "lastModified": "2024-09-17T12:10:16.701Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
@@ -108,6 +92,22 @@
       "lastModified": "2024-09-17T17:59:38.267Z",
       "associatedAdviser": "Vinciane",
       "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66ea99031c55d7cc12676f22",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Schedule newsletter: Bormann - Colmar-Berg (Thomas)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Bormann - Colmar-Berg",
+      "url": "https://trello.com/c/tSgBhSYc/5743-schedule-newsletter-bormann-colmar-berg-thomas",
+      "lastModified": "2024-09-18T09:10:29.085Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -145,6 +145,22 @@
       ]
     },
     {
+      "id": "66ea8656b2b98ffe1000603d",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Complete photo session: Popescu - Strassen (Carolina)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Popescu - Strassen",
+      "url": "https://trello.com/c/2h3dC2yK/5741-complete-photo-session-popescu-strassen-carolina",
+      "lastModified": "2024-09-18T07:50:48.170Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -172,102 +188,6 @@
       "lastModified": "2024-09-11T09:54:42.292Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "66e3f3a9f8bfbe2bf5c15fb2",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Put listing in window displays: Hazir - Gasperich (Thomas)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Hazir - Gasperich",
-      "url": "https://trello.com/c/WAutF3O8/5660-put-listing-in-window-displays-hazir-gasperich-thomas",
-      "lastModified": "2024-09-13T09:57:20.162Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "66e16cc92e6bcefd3ccecae5",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Put listing in window displays: Martins - Bascharage (Rudy)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Martins - Bascharage",
-      "url": "https://trello.com/c/JpmwSOLW/5621-put-listing-in-window-displays-martins-bascharage-rudy",
-      "lastModified": "2024-09-13T09:57:33.508Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "66e2be5e0e0756273a8b4764",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Put listing in window displays: De Donder - Gasperich (Rudy)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "De Donder - Gasperich",
-      "url": "https://trello.com/c/9wqw74Xm/5647-put-listing-in-window-displays-de-donder-gasperich-rudy",
-      "lastModified": "2024-09-13T09:57:42.753Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "66e40fef92f239a873658a0c",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Put listing in window displays: Horilla - Soleuvre (Vinciane)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Horilla - Soleuvre",
-      "url": "https://trello.com/c/xgXXnsps/5667-put-listing-in-window-displays-horilla-soleuvre-vinciane",
-      "lastModified": "2024-09-13T10:17:43.104Z",
-      "associatedAdviser": "Vinciane",
-      "slackUserId": "U01S0CAN9QT",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "66e448141bc974235f4d77b5",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Put listing in window displays: Febvey - Merl (Romain)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Febvey - Merl",
-      "url": "https://trello.com/c/vvtnBYfA/5678-put-listing-in-window-displays-febvey-merl-romain",
-      "lastModified": "2024-09-13T14:15:40.993Z",
-      "associatedAdviser": "Romain",
-      "slackUserId": "U7BGBRJGH",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "66e939a0d3aaa004c8289720",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Put listing in window displays: Schinker - Dommeldange (Sandy)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Schinker - Dommeldange",
-      "url": "https://trello.com/c/3HqRoTzf/5726-put-listing-in-window-displays-schinker-dommeldange-sandy",
-      "lastModified": "2024-09-17T13:32:43.983Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

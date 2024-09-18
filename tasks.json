@@ -1,22 +1,6 @@
 {
   "cards": [
     {
-      "id": "66eaab06d08e6870e5d3bd8d",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Create statistics report: Steffen - Belair (Sandy)",
-      "nameShort": "Statistics report",
-      "pipedriveDealName": "Steffen - Belair",
-      "url": "https://trello.com/c/HSH7wqU1/5744-create-statistics-report-steffen-belair-sandy",
-      "lastModified": "2024-09-18T10:29:16.086Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
       "id": "66a9e17ad74acaec068bfd81",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -106,6 +90,22 @@
       "pipedriveDealName": "Pascual - Bonnevoie",
       "url": "https://trello.com/c/4W90v9XB/5747-prepare-notary-docs-pascual-bonnevoie-vinciane",
       "lastModified": "2024-09-18T13:46:05.817Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66eadda334ddaa837295c0bd",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Schedule newsletter: Czibula - Beggen (Vinciane)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Czibula - Beggen",
+      "url": "https://trello.com/c/FSGQie7M/5748-schedule-newsletter-czibula-beggen-vinciane",
+      "lastModified": "2024-09-18T14:03:18.578Z",
       "associatedAdviser": "Vinciane",
       "slackUserId": "U01S0CAN9QT",
       "avatarUrls": [

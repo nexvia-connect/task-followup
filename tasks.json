@@ -81,38 +81,6 @@
       ]
     },
     {
-      "id": "66ec481a146e68c2ef5e9739",
-      "idMembers": [
-        "4fe86ade26d156994a0bee7d"
-      ],
-      "name": "> Manage Easysolutions admin",
-      "nameShort": "Manage Easysolutions admin",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/7K6sxuCY/5775-manage-easysolutions-admin",
-      "lastModified": "2024-09-19T15:49:47.030Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
-      ]
-    },
-    {
-      "id": "66ec481bf9a507eee47f48bb",
-      "idMembers": [
-        "4fe86ade26d156994a0bee7d"
-      ],
-      "name": "> Manage Pipedrive admin",
-      "nameShort": "Manage Pipedrive admin",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/5rTZkoqL/5776-manage-pipedrive-admin",
-      "lastModified": "2024-09-19T15:49:47.975Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
-      ]
-    },
-    {
       "id": "66ec481d1c646efc23df76b6",
       "idMembers": [
         "56f10d02921bc403c6d626d1"

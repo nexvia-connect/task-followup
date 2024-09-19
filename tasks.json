@@ -17,15 +17,63 @@
       ]
     },
     {
-      "id": "66eb306d95bea83cb0b54c21",
+      "id": "66ec48110db09f55fed7a665",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Reset phone (Mounir)",
+      "nameShort": "Reset phone",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/L6CpatBC/5769-reset-phone-mounir",
+      "lastModified": "2024-09-19T15:50:01.898Z",
+      "associatedAdviser": "Mounir",
+      "slackUserId": "U042CUTBH6X",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "66ec4815eb8c0cff4e786441",
+      "idMembers": [
+        "4fe86ade26d156994a0bee7d"
+      ],
+      "name": "> Manage Nexvia website + default photo + payslip system",
+      "nameShort": "Manage Nexvia website + default photo + payslip system",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/nzGItt3r/5770-manage-nexvia-website-default-photo-payslip-system",
+      "lastModified": "2024-09-19T15:49:42.338Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
+      ]
+    },
+    {
+      "id": "66ec48158871ffe7b6c0bebc",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Manage Konica admin",
+      "nameShort": "Manage Konica admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/6dAmy8Mw/5771-manage-konica-admin",
+      "lastModified": "2024-09-19T15:50:02.273Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66ec4818a75d1cdbdde143a6",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
       ],
-      "name": "> Missing link to associate in Pipedrive",
-      "nameShort": "Missing link to associate in Pipedrive",
+      "name": "> Manage Microsoft admin",
+      "nameShort": "Manage Microsoft admin",
       "pipedriveDealName": null,
-      "url": "https://trello.com/c/eq3Wikdi/5754-missing-link-to-associate-in-pipedrive",
-      "lastModified": "2024-09-18T19:56:29.635Z",
+      "url": "https://trello.com/c/fsoHFpsn/5773-manage-microsoft-admin",
+      "lastModified": "2024-09-19T15:49:45.662Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [
@@ -33,15 +81,63 @@
       ]
     },
     {
-      "id": "66eb32fb285a352722289d6d",
+      "id": "66ec481a146e68c2ef5e9739",
+      "idMembers": [
+        "4fe86ade26d156994a0bee7d"
+      ],
+      "name": "> Manage Easysolutions admin",
+      "nameShort": "Manage Easysolutions admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/7K6sxuCY/5775-manage-easysolutions-admin",
+      "lastModified": "2024-09-19T15:49:47.030Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
+      ]
+    },
+    {
+      "id": "66ec481bf9a507eee47f48bb",
+      "idMembers": [
+        "4fe86ade26d156994a0bee7d"
+      ],
+      "name": "> Manage Pipedrive admin",
+      "nameShort": "Manage Pipedrive admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/5rTZkoqL/5776-manage-pipedrive-admin",
+      "lastModified": "2024-09-19T15:49:47.975Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
+      ]
+    },
+    {
+      "id": "66ec481d2c3fca311ca0d577",
+      "idMembers": [
+        "4fe86ade26d156994a0bee7d"
+      ],
+      "name": "> Manage Slack admin",
+      "nameShort": "Manage Slack admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/PsEJ7YlQ/5777-manage-slack-admin",
+      "lastModified": "2024-09-19T15:49:50.029Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
+      ]
+    },
+    {
+      "id": "66ec481d1c646efc23df76b6",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
       ],
-      "name": "> Missing link to associate in Pipedrive",
-      "nameShort": "Missing link to associate in Pipedrive",
+      "name": "> Manage Nuki admin",
+      "nameShort": "Manage Nuki admin",
       "pipedriveDealName": null,
-      "url": "https://trello.com/c/0tRHGgBm/5755-missing-link-to-associate-in-pipedrive",
-      "lastModified": "2024-09-18T20:07:24.503Z",
+      "url": "https://trello.com/c/7EAq5TzD/5778-manage-nuki-admin",
+      "lastModified": "2024-09-19T15:49:50.168Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [
@@ -49,19 +145,163 @@
       ]
     },
     {
-      "id": "66ebb1cf83e3baa1d985ff2a",
+      "id": "66ec481d55da0005aac48878",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
       ],
-      "name": "> Missing link to associate in Pipedrive",
-      "nameShort": "Missing link to associate in Pipedrive",
+      "name": "> Manage Mailchimp admin",
+      "nameShort": "Manage Mailchimp admin",
       "pipedriveDealName": null,
-      "url": "https://trello.com/c/8UYYGp0t/5756-missing-link-to-associate-in-pipedrive",
-      "lastModified": "2024-09-19T05:08:32.664Z",
+      "url": "https://trello.com/c/R0nFSLYk/5779-manage-mailchimp-admin",
+      "lastModified": "2024-09-19T15:49:50.518Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "66ec4820dac039a234643e06",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Manage Trello admin",
+      "nameShort": "Manage Trello admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/oYf3URA6/5780-manage-trello-admin",
+      "lastModified": "2024-09-19T15:49:52.829Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "66ec4821325acaf99a0198df",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Manage Giraffe admin",
+      "nameShort": "Manage Giraffe admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/cGqUN8GH/5781-manage-giraffe-admin",
+      "lastModified": "2024-09-19T15:49:54.658Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "66ec48259c5a03f6bf62aafb",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Manage YCBM admin",
+      "nameShort": "Manage YCBM admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/Ziywys34/5782-manage-ycbm-admin",
+      "lastModified": "2024-09-19T15:49:57.752Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "66ec484b6b05383dcf166829",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Reset laptop (Mounir)",
+      "nameShort": "Reset laptop",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/zZPDjnVF/5783-reset-laptop-mounir",
+      "lastModified": "2024-09-19T15:51:56.739Z",
+      "associatedAdviser": "Mounir",
+      "slackUserId": "U042CUTBH6X",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "66ec487e0c83897700cda71d",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Manage transponder (Mounir)",
+      "nameShort": "Manage transponder",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/pdc51DTF/5784-manage-transponder-mounir",
+      "lastModified": "2024-09-19T15:51:44.485Z",
+      "associatedAdviser": "Mounir",
+      "slackUserId": "U042CUTBH6X",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66ec48a038ce6e4fa1baeacb",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Manage laser (Mounir)",
+      "nameShort": "Manage laser",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/NbYJatg9/5785-manage-laser-mounir",
+      "lastModified": "2024-09-19T15:52:01.731Z",
+      "associatedAdviser": "Mounir",
+      "slackUserId": "U042CUTBH6X",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66ec48bcc16cda8cf5db88e6",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Recycle business cards (Mounir)",
+      "nameShort": "Recycle business cards",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/poD3xFD4/5786-recycle-business-cards-mounir",
+      "lastModified": "2024-09-19T15:52:29.571Z",
+      "associatedAdviser": "Mounir",
+      "slackUserId": "U042CUTBH6X",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66ec4b83dcedb7c38d0bc6d5",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Purchase item (Vinciane)",
+      "nameShort": "Purchase item",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/Bi6g62c3/5788-purchase-item-vinciane",
+      "lastModified": "2024-09-19T16:04:21.157Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66ec4bab1e9aa2850b83782a",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Purchase item (Vinciane)",
+      "nameShort": "Purchase item",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/3JdM6Gyf/5789-purchase-item-vinciane",
+      "lastModified": "2024-09-19T16:05:00.498Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
@@ -76,6 +316,22 @@
       "lastModified": "2024-09-19T12:21:27.115Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "66ec49c7f5c1cec62fc175f0",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Upload Giraffe assets to Drive: Popescu - Strassen (Carolina)",
+      "nameShort": "Upload Giraffe assets to Drive",
+      "pipedriveDealName": "Popescu - Strassen",
+      "url": "https://trello.com/c/S5YcUW1q/5787-upload-giraffe-assets-to-drive-popescu-strassen-carolina",
+      "lastModified": "2024-09-19T15:56:57.128Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]

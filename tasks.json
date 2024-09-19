@@ -97,6 +97,22 @@
       ]
     },
     {
+      "id": "66ec194a1ee0963487c302be",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Prepare + print notary docs: Collot - Gare (Süleyman)",
+      "nameShort": "Prepare + print notary docs",
+      "pipedriveDealName": "Collot - Gare",
+      "url": "https://trello.com/c/pLyCfSZG/5768-prepare-print-notary-docs-collot-gare-s%C3%BCleyman",
+      "lastModified": "2024-09-19T12:31:44.450Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "66ebda2356cfb11b1abd9047",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -129,17 +145,33 @@
       ]
     },
     {
-      "id": "66ec06d7cecd263cba5a0fa6",
+      "id": "66ec126f71e327046db14d70",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
       ],
-      "name": "Photoshop request: Almeida - Wasserbillig (Carolina)",
-      "nameShort": "Photoshop request",
-      "pipedriveDealName": "Almeida - Wasserbillig",
-      "url": "https://trello.com/c/MGL9qzgG/5763-photoshop-request-almeida-wasserbillig-carolina",
-      "lastModified": "2024-09-19T11:13:40.591Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
+      "name": "> Share listing on FB and Linkedin: Czibula - Beggen (Vinciane)",
+      "nameShort": "Share listing on FB and Linkedin",
+      "pipedriveDealName": "Czibula - Beggen",
+      "url": "https://trello.com/c/AXTlllFa/5766-share-listing-on-fb-and-linkedin-czibula-beggen-vinciane",
+      "lastModified": "2024-09-19T12:00:49.847Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "66ec17453afd7ada8818540e",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Complete photo session: Cherrier - Trintange (Rudy)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Cherrier - Trintange",
+      "url": "https://trello.com/c/QmtsnMlp/5767-complete-photo-session-cherrier-trintange-rudy",
+      "lastModified": "2024-09-19T12:21:27.115Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
@@ -153,7 +185,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-09-19T08:00:05.735Z",
+      "lastModified": "2024-09-19T12:00:22.158Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

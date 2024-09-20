@@ -145,17 +145,33 @@
       ]
     },
     {
-      "id": "66ed2e5c13956f5f0f1c7ce0",
+      "id": "66ed78b54a2be965316f94ce",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "> Publish listing to platforms: Bormann - Colmar-Berg (Thomas)",
-      "nameShort": "Publish listing to platforms",
-      "pipedriveDealName": "Bormann - Colmar-Berg",
-      "url": "https://trello.com/c/jjeReZ9o/5793-publish-listing-to-platforms-bormann-colmar-berg-thomas",
-      "lastModified": "2024-09-20T08:12:27.865Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
+      "name": "> Set booking page offline: Baziadoly - Gasperich (Aurore)",
+      "nameShort": "Set booking page offline",
+      "pipedriveDealName": "Baziadoly - Gasperich",
+      "url": "https://trello.com/c/aqYtKAj6/5803-set-booking-page-offline-baziadoly-gasperich-aurore",
+      "lastModified": "2024-09-20T13:29:27.689Z",
+      "associatedAdviser": "Aurore",
+      "slackUserId": "U079GJ0BU1E",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66ed78d3c333dab2443bd902",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Set booking page offline: Karger - Heisdorf (Aurore)",
+      "nameShort": "Set booking page offline",
+      "pipedriveDealName": "Karger - Heisdorf",
+      "url": "https://trello.com/c/OYU2IOmR/5804-set-booking-page-offline-karger-heisdorf-aurore",
+      "lastModified": "2024-09-20T13:29:57.078Z",
+      "associatedAdviser": "Aurore",
+      "slackUserId": "U079GJ0BU1E",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

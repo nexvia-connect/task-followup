@@ -145,22 +145,6 @@
       ]
     },
     {
-      "id": "66ed79077b642b10c99ba696",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Check tenant payment: Baziadoly - Gasperich (Aurore)",
-      "nameShort": "Check tenant payment",
-      "pipedriveDealName": "Baziadoly - Gasperich",
-      "url": "https://trello.com/c/Bak29dhh/5805-check-tenant-payment-baziadoly-gasperich-aurore",
-      "lastModified": "2024-09-20T13:31:05.304Z",
-      "associatedAdviser": "Aurore",
-      "slackUserId": "U079GJ0BU1E",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "66ed791fc5556d70856b4a06",
       "idMembers": [
         "5ce414ac7678a40557510d74"

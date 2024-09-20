@@ -57,27 +57,11 @@
       "nameShort": "Manage Konica admin",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/6dAmy8Mw/5771-manage-konica-admin",
-      "lastModified": "2024-09-19T15:50:02.273Z",
+      "lastModified": "2024-09-20T07:40:06.732Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "66ec4818a75d1cdbdde143a6",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Manage Microsoft admin",
-      "nameShort": "Manage Microsoft admin",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/fsoHFpsn/5773-manage-microsoft-admin",
-      "lastModified": "2024-09-19T15:49:45.662Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
     {
@@ -193,22 +177,6 @@
       ]
     },
     {
-      "id": "66ec48a038ce6e4fa1baeacb",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Manage laser (Mounir)",
-      "nameShort": "Manage laser",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/NbYJatg9/5785-manage-laser-mounir",
-      "lastModified": "2024-09-19T15:52:01.731Z",
-      "associatedAdviser": "Mounir",
-      "slackUserId": "U042CUTBH6X",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "66ec48bcc16cda8cf5db88e6",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -257,6 +225,54 @@
       ]
     },
     {
+      "id": "66ec7e7ffaf9ed4b43c718c9",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Missing link to associate in Pipedrive",
+      "nameShort": "Missing link to associate in Pipedrive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/1jDDKfNi/5790-missing-link-to-associate-in-pipedrive",
+      "lastModified": "2024-09-19T19:41:52.436Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "66ed2e2a1bfb3241f74d3219",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Put listing in window displays: Bormann - Colmar-Berg (Thomas)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Bormann - Colmar-Berg",
+      "url": "https://trello.com/c/uviuyURf/5792-put-listing-in-window-displays-bormann-colmar-berg-thomas",
+      "lastModified": "2024-09-20T08:11:27.116Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66ed2e5c13956f5f0f1c7ce0",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Publish listing to platforms: Bormann - Colmar-Berg (Thomas)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Bormann - Colmar-Berg",
+      "url": "https://trello.com/c/jjeReZ9o/5793-publish-listing-to-platforms-bormann-colmar-berg-thomas",
+      "lastModified": "2024-09-20T08:12:27.865Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "66ec17453afd7ada8818540e",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -270,6 +286,38 @@
       "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "66ed223545a99bb96c2eb14f",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Complete photo session: Mergen - Lamadelaine (Vinciane)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Mergen - Lamadelaine",
+      "url": "https://trello.com/c/pwFs51jI/5791-complete-photo-session-mergen-lamadelaine-vinciane",
+      "lastModified": "2024-09-20T07:20:22.755Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "66ed3073e44399eb21d46b56",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Complete photo session: Velcea - Schifflange (Carolina)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Velcea - Schifflange",
+      "url": "https://trello.com/c/l7w9ogHV/5794-complete-photo-session-velcea-schifflange-carolina",
+      "lastModified": "2024-09-20T08:21:08.858Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {

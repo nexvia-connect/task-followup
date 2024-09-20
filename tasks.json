@@ -145,15 +145,15 @@
       ]
     },
     {
-      "id": "66ed78b54a2be965316f94ce",
+      "id": "66ed79077b642b10c99ba696",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "> Set booking page offline: Baziadoly - Gasperich (Aurore)",
-      "nameShort": "Set booking page offline",
+      "name": "> Check tenant payment: Baziadoly - Gasperich (Aurore)",
+      "nameShort": "Check tenant payment",
       "pipedriveDealName": "Baziadoly - Gasperich",
-      "url": "https://trello.com/c/aqYtKAj6/5803-set-booking-page-offline-baziadoly-gasperich-aurore",
-      "lastModified": "2024-09-20T13:29:27.689Z",
+      "url": "https://trello.com/c/Bak29dhh/5805-check-tenant-payment-baziadoly-gasperich-aurore",
+      "lastModified": "2024-09-20T13:31:05.304Z",
       "associatedAdviser": "Aurore",
       "slackUserId": "U079GJ0BU1E",
       "avatarUrls": [
@@ -161,15 +161,15 @@
       ]
     },
     {
-      "id": "66ed78d3c333dab2443bd902",
+      "id": "66ed791fc5556d70856b4a06",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "> Set booking page offline: Karger - Heisdorf (Aurore)",
-      "nameShort": "Set booking page offline",
+      "name": "> Check tenant payment: Karger - Heisdorf (Aurore)",
+      "nameShort": "Check tenant payment",
       "pipedriveDealName": "Karger - Heisdorf",
-      "url": "https://trello.com/c/OYU2IOmR/5804-set-booking-page-offline-karger-heisdorf-aurore",
-      "lastModified": "2024-09-20T13:29:57.078Z",
+      "url": "https://trello.com/c/AsYA0Kh4/5806-check-tenant-payment-karger-heisdorf-aurore",
+      "lastModified": "2024-09-20T13:31:34.883Z",
       "associatedAdviser": "Aurore",
       "slackUserId": "U079GJ0BU1E",
       "avatarUrls": [

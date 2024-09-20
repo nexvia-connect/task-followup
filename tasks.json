@@ -65,22 +65,6 @@
       ]
     },
     {
-      "id": "66ec4820dac039a234643e06",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Manage Trello admin",
-      "nameShort": "Manage Trello admin",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/oYf3URA6/5780-manage-trello-admin",
-      "lastModified": "2024-09-19T15:49:52.829Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "66ec48259c5a03f6bf62aafb",
       "idMembers": [
         "56f10d02921bc403c6d626d1"

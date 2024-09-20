@@ -65,22 +65,6 @@
       ]
     },
     {
-      "id": "66ec481d1c646efc23df76b6",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Manage Nuki admin",
-      "nameShort": "Manage Nuki admin",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/7EAq5TzD/5778-manage-nuki-admin",
-      "lastModified": "2024-09-19T15:49:50.168Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "66ec481d55da0005aac48878",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -145,22 +129,6 @@
       ]
     },
     {
-      "id": "66ec484b6b05383dcf166829",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "> Reset laptop (Mounir)",
-      "nameShort": "Reset laptop",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/zZPDjnVF/5783-reset-laptop-mounir",
-      "lastModified": "2024-09-19T15:51:56.739Z",
-      "associatedAdviser": "Mounir",
-      "slackUserId": "U042CUTBH6X",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
       "id": "66ec487e0c83897700cda71d",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -170,22 +138,6 @@
       "pipedriveDealName": null,
       "url": "https://trello.com/c/pdc51DTF/5784-manage-transponder-mounir",
       "lastModified": "2024-09-19T15:51:44.485Z",
-      "associatedAdviser": "Mounir",
-      "slackUserId": "U042CUTBH6X",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "66ec48bcc16cda8cf5db88e6",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Recycle business cards (Mounir)",
-      "nameShort": "Recycle business cards",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/poD3xFD4/5786-recycle-business-cards-mounir",
-      "lastModified": "2024-09-19T15:52:29.571Z",
       "associatedAdviser": "Mounir",
       "slackUserId": "U042CUTBH6X",
       "avatarUrls": [
@@ -222,22 +174,6 @@
       "slackUserId": "U01S0CAN9QT",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "66ec7e7ffaf9ed4b43c718c9",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Missing link to associate in Pipedrive",
-      "nameShort": "Missing link to associate in Pipedrive",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/1jDDKfNi/5790-missing-link-to-associate-in-pipedrive",
-      "lastModified": "2024-09-19T19:41:52.436Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
     {

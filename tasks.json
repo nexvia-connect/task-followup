@@ -113,17 +113,33 @@
       ]
     },
     {
-      "id": "66ed2e2a1bfb3241f74d3219",
+      "id": "66ed6804211a4278c0abeb66",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "> Put listing in window displays: Bormann - Colmar-Berg (Thomas)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Bormann - Colmar-Berg",
-      "url": "https://trello.com/c/uviuyURf/5792-put-listing-in-window-displays-bormann-colmar-berg-thomas",
-      "lastModified": "2024-09-20T08:11:27.116Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
+      "name": "Prepare notary docs: Duchêne - Cessange (Carolina)",
+      "nameShort": "Prepare notary docs",
+      "pipedriveDealName": "Duchêne - Cessange",
+      "url": "https://trello.com/c/u3YDOWt2/5800-prepare-notary-docs-duch%C3%AAne-cessange-carolina",
+      "lastModified": "2024-09-20T12:19:40.215Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66ed6d3fe27a236ed6f8295b",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Prepare notary docs: Parthasarathi - Dommeldange (Carolina)",
+      "nameShort": "Prepare notary docs",
+      "pipedriveDealName": "Parthasarathi - Dommeldange",
+      "url": "https://trello.com/c/xxhsEUPj/5801-prepare-notary-docs-parthasarathi-dommeldange-carolina",
+      "lastModified": "2024-09-20T12:42:26.752Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -140,6 +156,22 @@
       "lastModified": "2024-09-20T08:12:27.865Z",
       "associatedAdviser": "Thomas",
       "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66ed66ba68381b8b7762a354",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Publish listing to platforms: Czibula - Beggen (Vinciane)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Czibula - Beggen",
+      "url": "https://trello.com/c/ZFR1TmyC/5799-publish-listing-to-platforms-czibula-beggen-vinciane",
+      "lastModified": "2024-09-20T12:13:00.078Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -172,6 +204,22 @@
       "lastModified": "2024-09-20T07:20:22.755Z",
       "associatedAdviser": "Vinciane",
       "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "66ed6ec9f765495d21f1d07f",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Upload Giraffe assets to Drive: Cherrier - Trintange (Rudy)",
+      "nameShort": "Upload Giraffe assets to Drive",
+      "pipedriveDealName": "Cherrier - Trintange",
+      "url": "https://trello.com/c/5zsnR1yh/5802-upload-giraffe-assets-to-drive-cherrier-trintange-rudy",
+      "lastModified": "2024-09-20T12:47:06.747Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
@@ -225,17 +273,33 @@
       ]
     },
     {
-      "id": "66ec007ff90b46623224aab0",
+      "id": "66ed2e2a1bfb3241f74d3219",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Pay invoice (Xavier)",
-      "nameShort": "Pay invoice",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/yWJbp2RV/5762-pay-invoice-xavier",
-      "lastModified": "2024-09-19T15:19:08.628Z",
-      "associatedAdviser": "Xavier",
-      "slackUserId": "U44HL0DMX",
+      "name": "> Put listing in window displays: Bormann - Colmar-Berg (Thomas)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Bormann - Colmar-Berg",
+      "url": "https://trello.com/c/uviuyURf/5792-put-listing-in-window-displays-bormann-colmar-berg-thomas",
+      "lastModified": "2024-09-20T12:46:28.450Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66ed668a0c830dcfb89bb6bc",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Put listing in window displays: Czibula - Beggen (Vinciane)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Czibula - Beggen",
+      "url": "https://trello.com/c/M29AAxv3/5798-put-listing-in-window-displays-czibula-beggen-vinciane",
+      "lastModified": "2024-09-20T12:46:36.106Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

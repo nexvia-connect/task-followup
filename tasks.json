@@ -67,17 +67,17 @@
     {
       "id": "66ec487e0c83897700cda71d",
       "idMembers": [
-        "56f10d02921bc403c6d626d1"
+        "5ce414ac7678a40557510d74"
       ],
       "name": "> Manage transponder (Mounir)",
       "nameShort": "Manage transponder",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/pdc51DTF/5784-manage-transponder-mounir",
-      "lastModified": "2024-09-23T10:07:22.967Z",
+      "lastModified": "2024-09-23T14:16:55.667Z",
       "associatedAdviser": "Mounir",
       "slackUserId": "U042CUTBH6X",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
@@ -97,19 +97,51 @@
       ]
     },
     {
-      "id": "66f129415aef817e805b2e23",
+      "id": "66f17037d5653ef889864687",
       "idMembers": [
-        "5ce414ac7678a40557510d74"
+        "56f10d02921bc403c6d626d1"
       ],
-      "name": "Listing creation: Cherrier - Trintange (Rudy)",
-      "nameShort": "Listing creation",
-      "pipedriveDealName": "Cherrier - Trintange",
-      "url": "https://trello.com/c/CSxsruJt/5829-listing-creation-cherrier-trintange-rudy",
-      "lastModified": "2024-09-23T08:40:42.667Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
+      "name": "> Missing link to associate in Pipedrive",
+      "nameShort": "Missing link to associate in Pipedrive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/hU1jvAXi/5834-missing-link-to-associate-in-pipedrive",
+      "lastModified": "2024-09-23T13:42:16.325Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "66f1707bf9568e688f967166",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Missing link to associate in Pipedrive",
+      "nameShort": "Missing link to associate in Pipedrive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/R4XALvVl/5835-missing-link-to-associate-in-pipedrive",
+      "lastModified": "2024-09-23T13:43:23.631Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "66f170c742bbc5dd4be8d8b9",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Missing link to associate in Pipedrive",
+      "nameShort": "Missing link to associate in Pipedrive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/8TRQ2X78/5836-missing-link-to-associate-in-pipedrive",
+      "lastModified": "2024-09-23T13:44:40.243Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
     {

@@ -1,6 +1,22 @@
 {
   "cards": [
     {
+      "id": "66ec48110db09f55fed7a665",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Reset phone (Mounir)",
+      "nameShort": "Reset phone",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/L6CpatBC/5769-reset-phone-mounir",
+      "lastModified": "2024-09-23T09:35:02.869Z",
+      "associatedAdviser": "Mounir",
+      "slackUserId": "U042CUTBH6X",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "66e43610213c01bd77cbbc0a",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -14,22 +30,6 @@
       "slackUserId": "U44GYBHT2",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "66ec48110db09f55fed7a665",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Reset phone (Mounir)",
-      "nameShort": "Reset phone",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/L6CpatBC/5769-reset-phone-mounir",
-      "lastModified": "2024-09-23T08:09:08.698Z",
-      "associatedAdviser": "Mounir",
-      "slackUserId": "U042CUTBH6X",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
     {
@@ -67,17 +67,17 @@
     {
       "id": "66ec487e0c83897700cda71d",
       "idMembers": [
-        "5ce414ac7678a40557510d74"
+        "56f10d02921bc403c6d626d1"
       ],
       "name": "> Manage transponder (Mounir)",
       "nameShort": "Manage transponder",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/pdc51DTF/5784-manage-transponder-mounir",
-      "lastModified": "2024-09-23T08:29:30.338Z",
+      "lastModified": "2024-09-23T10:07:22.967Z",
       "associatedAdviser": "Mounir",
       "slackUserId": "U042CUTBH6X",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
     {
@@ -193,19 +193,19 @@
       ]
     },
     {
-      "id": "66f12e13f97c58cff65dbec5",
+      "id": "66f141511d5f39358a736cf0",
       "idMembers": [
-        "56f10d02921bc403c6d626d1"
+        "5ce414ac7678a40557510d74"
       ],
-      "name": "3D render request: Gil - Bettembourg (Vinciane)",
-      "nameShort": "3D render request",
-      "pipedriveDealName": "Gil - Bettembourg",
-      "url": "https://trello.com/c/G989Pz0w/5831-3d-render-request-gil-bettembourg-vinciane",
-      "lastModified": "2024-09-23T09:08:18.676Z",
-      "associatedAdviser": "Vinciane",
-      "slackUserId": "U01S0CAN9QT",
+      "name": "> Upload Giraffe assets to Drive: Velcea - Schifflange (Carolina)",
+      "nameShort": "Upload Giraffe assets to Drive",
+      "pipedriveDealName": "Velcea - Schifflange",
+      "url": "https://trello.com/c/xdKWlfeE/5833-upload-giraffe-assets-to-drive-velcea-schifflange-carolina",
+      "lastModified": "2024-09-23T10:22:11.262Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
@@ -222,38 +222,6 @@
       "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "66ec126f71e327046db14d70",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "> Share listing on FB and Linkedin: Czibula - Beggen (Vinciane)",
-      "nameShort": "Share listing on FB and Linkedin",
-      "pipedriveDealName": "Czibula - Beggen",
-      "url": "https://trello.com/c/AXTlllFa/5766-share-listing-on-fb-and-linkedin-czibula-beggen-vinciane",
-      "lastModified": "2024-09-19T14:46:52.604Z",
-      "associatedAdviser": "Vinciane",
-      "slackUserId": "U01S0CAN9QT",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "66ebda2356cfb11b1abd9047",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "> Share listing on FB and Linkedin: Bormann - Colmar-Berg (Thomas)",
-      "nameShort": "Share listing on FB and Linkedin",
-      "pipedriveDealName": "Bormann - Colmar-Berg",
-      "url": "https://trello.com/c/B0exaYEV/5761-share-listing-on-fb-and-linkedin-bormann-colmar-berg-thomas",
-      "lastModified": "2024-09-19T14:46:58.111Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {
@@ -302,6 +270,22 @@
       "slackUserId": "UBK5HTKFF",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66f12e13f97c58cff65dbec5",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "3D render request: Gil - Bettembourg (Vinciane)",
+      "nameShort": "3D render request",
+      "pipedriveDealName": "Gil - Bettembourg",
+      "url": "https://trello.com/c/G989Pz0w/5831-3d-render-request-gil-bettembourg-vinciane",
+      "lastModified": "2024-09-23T09:09:50.694Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     }
   ]

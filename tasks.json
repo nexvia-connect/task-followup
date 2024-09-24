@@ -97,38 +97,6 @@
       ]
     },
     {
-      "id": "66f2896349c0adbb286f2566",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Missing link to associate in Pipedrive",
-      "nameShort": "Missing link to associate in Pipedrive",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/8vS2oM8V/5863-missing-link-to-associate-in-pipedrive",
-      "lastModified": "2024-09-24T09:41:55.953Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "66f185ac13017480c2fe96ef",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Listing creation: Calin - Rodange (Thomas)",
-      "nameShort": "Listing creation",
-      "pipedriveDealName": "Calin - Rodange",
-      "url": "https://trello.com/c/bjIFE8Kf/5839-listing-creation-calin-rodange-thomas",
-      "lastModified": "2024-09-23T15:15:26.361Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "66f25fb380f900b5db755946",
       "idMembers": [
         "5ce414ac7678a40557510d74"

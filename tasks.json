@@ -113,20 +113,16 @@
       ]
     },
     {
-      "id": "66f2aa1ab2f6b20e2cbdd967",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "> Share listing on FB and Linkedin: Niedercorn - Ville-Haute (Romain)",
-      "nameShort": "Share listing on FB and Linkedin",
-      "pipedriveDealName": "Niedercorn - Ville-Haute",
-      "url": "https://trello.com/c/LVYVR1A2/5864-share-listing-on-fb-and-linkedin-niedercorn-ville-haute-romain",
-      "lastModified": "2024-09-24T12:01:33.849Z",
-      "associatedAdviser": "Romain",
-      "slackUserId": "U7BGBRJGH",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
+      "id": "66f2b63a19b0b399e559dd30",
+      "idMembers": [],
+      "name": "Change price: Steffen - Belair (Sandy)",
+      "nameShort": "Change price for Steffen - Belair",
+      "pipedriveDealName": "Steffen - Belair",
+      "url": "https://trello.com/c/JtjeJoWk/5866-change-price-steffen-belair-sandy",
+      "lastModified": "2024-09-24T12:53:16.332Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": []
     },
     {
       "id": "64243606c586efdda6b161fc",
@@ -137,7 +133,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-09-24T12:00:31.623Z",
+      "lastModified": "2024-09-24T12:53:14.491Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

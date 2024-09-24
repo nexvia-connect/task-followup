@@ -97,17 +97,33 @@
       ]
     },
     {
-      "id": "66f2b63a19b0b399e559dd30",
+      "id": "66f2bb7972dd516a702f4318",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Change price: Steffen - Belair (Sandy)",
-      "nameShort": "Change price for Steffen - Belair",
-      "pipedriveDealName": "Steffen - Belair",
-      "url": "https://trello.com/c/JtjeJoWk/5866-change-price-steffen-belair-sandy",
-      "lastModified": "2024-09-24T12:54:40.159Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
+      "name": "> Set listing as signed: Le Bras - Alzingen (Carolina)",
+      "nameShort": "Set listing as signed",
+      "pipedriveDealName": "Le Bras - Alzingen",
+      "url": "https://trello.com/c/6w1Ovnjh/5867-set-listing-as-signed-le-bras-alzingen-carolina",
+      "lastModified": "2024-09-24T13:15:39.214Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66f2bd810728d1d8156ec044",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Mergen - Lamadelaine (Vinciane)",
+      "nameShort": "Listing modifications",
+      "pipedriveDealName": "Mergen - Lamadelaine",
+      "url": "https://trello.com/c/QI2gW6gI/5868-listing-modification-mergen-lamadelaine-vinciane",
+      "lastModified": "2024-09-24T13:25:43.396Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

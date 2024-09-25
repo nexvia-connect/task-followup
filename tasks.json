@@ -81,6 +81,22 @@
       ]
     },
     {
+      "id": "66f2d35d485713fe1ba2c1dc",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Floor plan architectural modification: Mendes - Gosseldange (Vinciane)",
+      "nameShort": "Floor plan architecture modification: Mendes - Gosseldange",
+      "pipedriveDealName": "Mendes - Gosseldange",
+      "url": "https://trello.com/c/PBHQYvJR/5870-floor-plan-architectural-modification-mendes-gosseldange-vinciane",
+      "lastModified": "2024-09-24T15:24:20.616Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"

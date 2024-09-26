@@ -1,22 +1,6 @@
 {
   "cards": [
     {
-      "id": "66f47f86f37e967555778842",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Create statistics report: Siebenaler - Mamer (Süleyman)",
-      "nameShort": "Statistics report",
-      "pipedriveDealName": "Siebenaler - Mamer",
-      "url": "https://trello.com/c/ri6L9zsC/5889-create-statistics-report-siebenaler-mamer-s%C3%BCleyman",
-      "lastModified": "2024-09-25T21:26:04.799Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
       "id": "66ec4815eb8c0cff4e786441",
       "idMembers": [
         "4fe86ade26d156994a0bee7d"
@@ -65,6 +49,22 @@
       ]
     },
     {
+      "id": "66f54cf1768b5642d68b87b0",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Share listing on FB and Linkedin: Calin - Rodange (Thomas)",
+      "nameShort": "Share listing on FB and Linkedin",
+      "pipedriveDealName": "Calin - Rodange",
+      "url": "https://trello.com/c/R3Auaev5/5896-share-listing-on-fb-and-linkedin-calin-rodange-thomas",
+      "lastModified": "2024-09-26T12:00:53.484Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "66f2d35d485713fe1ba2c1dc",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -89,7 +89,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-09-26T08:00:14.923Z",
+      "lastModified": "2024-09-26T12:00:13.334Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

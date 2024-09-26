@@ -49,19 +49,35 @@
       ]
     },
     {
-      "id": "66f54cf1768b5642d68b87b0",
+      "id": "66f54f9848e77462bd140e90",
       "idMembers": [
-        "66d5ca383da59bf7e67f324a"
+        "5ce414ac7678a40557510d74"
       ],
-      "name": "> Share listing on FB and Linkedin: Calin - Rodange (Thomas)",
-      "nameShort": "Share listing on FB and Linkedin",
-      "pipedriveDealName": "Calin - Rodange",
-      "url": "https://trello.com/c/R3Auaev5/5896-share-listing-on-fb-and-linkedin-calin-rodange-thomas",
-      "lastModified": "2024-09-26T12:00:53.484Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
+      "name": "> Put listing in window displays: Almeida - Wasserbillig (Carolina)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Almeida - Wasserbillig",
+      "url": "https://trello.com/c/wgYOLI6y/5897-put-listing-in-window-displays-almeida-wasserbillig-carolina",
+      "lastModified": "2024-09-26T12:12:12.936Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66f54fccd032a677e98fb176",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Publish listing to platforms: Almeida - Wasserbillig (Carolina)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Almeida - Wasserbillig",
+      "url": "https://trello.com/c/LNuKvXDX/5898-publish-listing-to-platforms-almeida-wasserbillig-carolina",
+      "lastModified": "2024-09-26T12:13:16.762Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {

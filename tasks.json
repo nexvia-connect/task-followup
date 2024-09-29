@@ -49,6 +49,38 @@
       ]
     },
     {
+      "id": "66f81b836ea697d31bd3d1d0",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Missing link to associate in Pipedrive",
+      "nameShort": "Missing link to associate in Pipedrive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/CZmuueav/5932-missing-link-to-associate-in-pipedrive",
+      "lastModified": "2024-09-28T15:06:44.052Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "66f86aac269caf8cbe137bae",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Missing link to associate in Pipedrive",
+      "nameShort": "Missing link to associate in Pipedrive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/44iC84bo/5933-missing-link-to-associate-in-pipedrive",
+      "lastModified": "2024-09-28T20:44:29.113Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "66f6d9ea612120359702d215",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -60,6 +92,22 @@
       "lastModified": "2024-09-27T16:16:27.006Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66f905b5bab423fe9b86dc03",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Format change",
+      "nameShort": "Format change",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/wygm2HpH/5934-format-change",
+      "lastModified": "2024-09-29T07:45:57.946Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

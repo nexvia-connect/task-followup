@@ -161,6 +161,22 @@
       ]
     },
     {
+      "id": "66fa8fa7d6c4c5cbee124dee",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Format change",
+      "nameShort": "Format change",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/rphiR8Tv/5944-format-change",
+      "lastModified": "2024-09-30T11:46:48.531Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "66f56a14741bdfae9b7af73c",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -201,7 +217,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-09-30T11:35:56.293Z",
+      "lastModified": "2024-09-30T11:40:13.445Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

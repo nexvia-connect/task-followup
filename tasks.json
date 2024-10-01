@@ -81,22 +81,6 @@
       ]
     },
     {
-      "id": "66fac9f213304cf14f844651",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Check tenant payment: Chataignier - Belval (Maeva)",
-      "nameShort": "Check tenant payment",
-      "pipedriveDealName": "Chataignier - Belval",
-      "url": "https://trello.com/c/GI8P0gAg/5952-check-tenant-payment-chataignier-belval-maeva",
-      "lastModified": "2024-09-30T15:55:44.074Z",
-      "associatedAdviser": "Maeva",
-      "slackUserId": "U044CKLT9HD",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "66faca30e64dee7119e2cdff",
       "idMembers": [
         "5ce414ac7678a40557510d74"

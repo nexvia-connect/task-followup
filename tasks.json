@@ -1,22 +1,6 @@
 {
   "cards": [
     {
-      "id": "66fbe97d22476bc2c0b1b5d4",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Create statistics report: Halmes - Belvaux bis (Rudy)",
-      "nameShort": "Statistics report",
-      "pipedriveDealName": "Halmes - Belvaux bis",
-      "url": "https://trello.com/c/YyqfsGJq/5959-create-statistics-report-halmes-belvaux-bis-rudy",
-      "lastModified": "2024-10-01T12:24:14.701Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
       "id": "66ec4815eb8c0cff4e786441",
       "idMembers": [
         "4fe86ade26d156994a0bee7d"

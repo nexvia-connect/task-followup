@@ -145,32 +145,20 @@
       ]
     },
     {
-      "id": "66fcc1dee76f5d4a7fcae76d",
+      "id": "66fd0fe33c446a6a11a420b8",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Listing creation: Velcea - Schifflange (Carolina)",
-      "nameShort": "Listing creation",
-      "pipedriveDealName": "Velcea - Schifflange",
-      "url": "https://trello.com/c/Gnh3X0yx/5970-listing-creation-velcea-schifflange-carolina",
-      "lastModified": "2024-10-02T03:47:14.329Z",
+      "name": "Listing modification: Raguin INV - Strassen (Carolina)",
+      "nameShort": "Listing modifications",
+      "pipedriveDealName": "Raguin INV - Strassen",
+      "url": "https://trello.com/c/EKS07Iiv/5972-listing-modification-raguin-inv-strassen-carolina",
+      "lastModified": "2024-10-02T09:20:03.541Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
-    },
-    {
-      "id": "66fd0fe33c446a6a11a420b8",
-      "idMembers": [],
-      "name": "Listing modification for Raguin INV - Strassen (Carolina)",
-      "nameShort": "Listing modifications",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/EKS07Iiv/5972-listing-modification-for-raguin-inv-strassen-carolina",
-      "lastModified": "2024-10-02T09:18:28.848Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": []
     },
     {
       "id": "66faca30e64dee7119e2cdff",

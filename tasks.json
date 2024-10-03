@@ -177,22 +177,6 @@
       ]
     },
     {
-      "id": "66fe3f912fccb94abe5f5cd3",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Unpublish listing: Leclère - Belair (Romain)",
-      "nameShort": "Unpublish listing: Leclère - Belair",
-      "pipedriveDealName": "Leclère - Belair",
-      "url": "https://trello.com/c/dV7H5uLA/5982-unpublish-listing-lecl%C3%A8re-belair-romain",
-      "lastModified": "2024-10-03T06:56:05.912Z",
-      "associatedAdviser": "Romain",
-      "slackUserId": "U7BGBRJGH",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "66fd5dca368852dfc8e81245",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"

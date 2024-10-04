@@ -209,22 +209,6 @@
       ]
     },
     {
-      "id": "66ffa36466ec3e3a4ca3406f",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Put listing in window displays: Popescu - Strassen (Carolina)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Popescu - Strassen",
-      "url": "https://trello.com/c/QBiLkSf0/6006-put-listing-in-window-displays-popescu-strassen-carolina",
-      "lastModified": "2024-10-04T08:12:24.972Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "66ffa3b3741262cc86a7b604",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -586,6 +570,22 @@
       "pipedriveDealName": "Velcea - Schifflange",
       "url": "https://trello.com/c/kt0QwFE6/6005-put-listing-in-window-displays-velcea-schifflange-carolina",
       "lastModified": "2024-10-04T12:24:54.601Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66ffa36466ec3e3a4ca3406f",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Put listing in window displays: Popescu - Strassen (Carolina)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Popescu - Strassen",
+      "url": "https://trello.com/c/QBiLkSf0/6006-put-listing-in-window-displays-popescu-strassen-carolina",
+      "lastModified": "2024-10-04T12:25:04.129Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
       "avatarUrls": [

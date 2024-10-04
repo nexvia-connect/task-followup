@@ -241,22 +241,6 @@
       ]
     },
     {
-      "id": "66fbfff2f96409093ab64b5b",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Check tenant payment: Karger - Heisdorf (Aurore)",
-      "nameShort": "Check tenant payment",
-      "pipedriveDealName": "Karger - Heisdorf",
-      "url": "https://trello.com/c/utlSS6Mq/5961-check-tenant-payment-karger-heisdorf-aurore",
-      "lastModified": "2024-10-01T15:38:18.063Z",
-      "associatedAdviser": "Aurore",
-      "slackUserId": "U079GJ0BU1E",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"

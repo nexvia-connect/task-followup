@@ -209,6 +209,22 @@
       ]
     },
     {
+      "id": "670392a483e9f8c71f0c54c8",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Format change",
+      "nameShort": "Format change",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/AUp0BYrk/6030-format-change",
+      "lastModified": "2024-10-07T07:49:56.817Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "66faca30e64dee7119e2cdff",
       "idMembers": [
         "5ce414ac7678a40557510d74"

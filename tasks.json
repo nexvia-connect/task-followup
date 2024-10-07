@@ -49,22 +49,6 @@
       ]
     },
     {
-      "id": "67000b526122fec2647fd31e",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "> Answer positive Google review",
-      "nameShort": "Answer positive Google review",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/iBO890SS/6024-answer-positive-google-review",
-      "lastModified": "2024-10-04T15:36:17.238Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
       "id": "67011de59391d98ad3f90768",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -76,6 +60,22 @@
       "lastModified": "2024-10-05T11:07:18.512Z",
       "associatedAdviser": "Xavier",
       "slackUserId": "U44HL0DMX",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "6703f09d1501d43f552f6334",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Answer positive Google review",
+      "nameShort": "Answer positive Google review",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/gxaSEGXp/6039-answer-positive-google-review",
+      "lastModified": "2024-10-07T14:31:22.703Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]

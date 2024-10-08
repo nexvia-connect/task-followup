@@ -65,6 +65,70 @@
       ]
     },
     {
+      "id": "67042f85a579ff45f44681a3",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Missing link to associate in Pipedrive",
+      "nameShort": "Missing link to associate in Pipedrive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/yTxiGHpL/6045-missing-link-to-associate-in-pipedrive",
+      "lastModified": "2024-10-07T18:59:17.795Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "6704349f5c629e5dde224180",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Set listing as sold: Michels - Boevange (Thomas)",
+      "nameShort": "Set listing as sold",
+      "pipedriveDealName": "Michels - Boevange",
+      "url": "https://trello.com/c/MeuSlAVz/6046-set-listing-as-sold-michels-boevange-thomas",
+      "lastModified": "2024-10-07T19:21:05.476Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6704ae61cd8d3a18e322cb16",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Moderate Facebook comments under property posts",
+      "nameShort": "Moderate Facebook comments under property posts",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/iiPVIY1K/6047-moderate-facebook-comments-under-property-posts",
+      "lastModified": "2024-10-08T04:00:33.908Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "6704c5f635f346521c08e262",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Unhide listing: Benabadji - Strassen (Romain)",
+      "nameShort": "Unhide listing",
+      "pipedriveDealName": "Benabadji - Strassen",
+      "url": "https://trello.com/c/ylXIv3HJ/6048-unhide-listing-benabadji-strassen-romain",
+      "lastModified": "2024-10-08T05:41:12.777Z",
+      "associatedAdviser": "Romain",
+      "slackUserId": "U7BGBRJGH",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "67039b4ab8d4a9685e37b73f",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -76,6 +140,70 @@
       "lastModified": "2024-10-07T08:26:51.012Z",
       "associatedAdviser": null,
       "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "67042cffe06928bb9bc62484",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop request: Harrabi - Esch (Thomas)",
+      "nameShort": "Photoshop request",
+      "pipedriveDealName": "Harrabi - Esch",
+      "url": "https://trello.com/c/0YLUqtRE/6041-photoshop-request-harrabi-esch-thomas",
+      "lastModified": "2024-10-07T18:50:04.940Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "67042d0fa943e161de574ef8",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop request: Harrabi - Esch (Thomas)",
+      "nameShort": "Photoshop request",
+      "pipedriveDealName": "Harrabi - Esch",
+      "url": "https://trello.com/c/APlRvh9G/6042-photoshop-request-harrabi-esch-thomas",
+      "lastModified": "2024-10-07T18:50:04.692Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "67042d2ca611fdc8bbad23bd",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop request: Harrabi - Esch (Thomas)",
+      "nameShort": "Photoshop request",
+      "pipedriveDealName": "Harrabi - Esch",
+      "url": "https://trello.com/c/M3SREI0z/6043-photoshop-request-harrabi-esch-thomas",
+      "lastModified": "2024-10-07T18:51:00.546Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "67042d40faed2ebc906cc3c0",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop request: Harrabi - Esch (Thomas)",
+      "nameShort": "Photoshop request",
+      "pipedriveDealName": "Harrabi - Esch",
+      "url": "https://trello.com/c/7VahiKcN/6044-photoshop-request-harrabi-esch-thomas",
+      "lastModified": "2024-10-07T18:51:00.731Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
@@ -108,38 +236,6 @@
       "lastModified": "2024-10-07T07:04:41.268Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "66ed2e2a1bfb3241f74d3219",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Put listing in window displays: Bormann - Colmar-Berg (Thomas)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Bormann - Colmar-Berg",
-      "url": "https://trello.com/c/uviuyURf/5792-put-listing-in-window-displays-bormann-colmar-berg-thomas",
-      "lastModified": "2024-09-20T12:46:28.450Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "66f3c5c090bf1b60bb074392",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Put listing in window displays: Lahire - Cessange (Thomas)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Lahire - Cessange",
-      "url": "https://trello.com/c/mTFFFzqQ/5877-put-listing-in-window-displays-lahire-cessange-thomas",
-      "lastModified": "2024-09-25T08:52:20.554Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -188,22 +284,6 @@
       "lastModified": "2024-09-27T08:13:47.215Z",
       "associatedAdviser": "Thomas",
       "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "66f668c3a8e1c1a1d2e92376",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Put listing in window displays: Mergen - Lamadelaine (Vinciane)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Mergen - Lamadelaine",
-      "url": "https://trello.com/c/VVfL8fIy/5911-put-listing-in-window-displays-mergen-lamadelaine-vinciane",
-      "lastModified": "2024-09-27T08:13:52.229Z",
-      "associatedAdviser": "Vinciane",
-      "slackUserId": "U01S0CAN9QT",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

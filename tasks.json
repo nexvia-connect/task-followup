@@ -81,22 +81,6 @@
       ]
     },
     {
-      "id": "67064128eab2b59748707610",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Order new transponder",
-      "nameShort": "Order new transponder",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/LB38Brjq/6062-order-new-transponder",
-      "lastModified": "2024-10-09T08:39:05.422Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67064128ebb5cd972d26f9d2",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -110,22 +94,6 @@
       "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67063ad4df46fa72f089b0b3",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Put listing in window displays: Benabadji - Strassen (Romain)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Benabadji - Strassen",
-      "url": "https://trello.com/c/m7Fsk1Mz/6059-put-listing-in-window-displays-benabadji-strassen-romain",
-      "lastModified": "2024-10-09T08:12:08.780Z",
-      "associatedAdviser": "Romain",
-      "slackUserId": "U7BGBRJGH",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {

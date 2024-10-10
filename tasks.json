@@ -65,22 +65,6 @@
       ]
     },
     {
-      "id": "67078fc774a5951ed6206c87",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Missing link to associate in Pipedrive",
-      "nameShort": "Missing link to associate in Pipedrive",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/dMKCGqdQ/6091-missing-link-to-associate-in-pipedrive",
-      "lastModified": "2024-10-10T08:26:47.800Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "67070d7bc800cfafefe62f83",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -97,35 +81,35 @@
       ]
     },
     {
-      "id": "6706e03396d19abc80ad94f2",
+      "id": "66fe722b816f447c8b77249e",
       "idMembers": [
-        "56f10d02921bc403c6d626d1"
+        "66d5ca383da59bf7e67f324a"
       ],
-      "name": "3D render request: Leesch - Bonnevoie (Süleyman)",
-      "nameShort": "3D render request",
-      "pipedriveDealName": "Leesch - Bonnevoie",
-      "url": "https://trello.com/c/3hIncHXs/6079-3d-render-request-leesch-bonnevoie-s%C3%BCleyman",
-      "lastModified": "2024-10-10T13:10:55.153Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
+      "name": "Upload and audit drone assets: Bohva - Kirchberg (Carolina)",
+      "nameShort": "Upload and audit drone assets: Bohva - Kirchberg",
+      "pipedriveDealName": "Bohva - Kirchberg",
+      "url": "https://trello.com/c/6ZZfDNqA/5988-upload-and-audit-drone-assets-bohva-kirchberg-carolina",
+      "lastModified": "2024-10-10T13:26:18.495Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {
-      "id": "6706e0be4ad5d625295fd352",
+      "id": "66fd27b56946edaa2e2ff5ab",
       "idMembers": [
-        "56f10d02921bc403c6d626d1"
+        "66d5ca383da59bf7e67f324a"
       ],
-      "name": "3D render request: Leesch - Bonnevoie (Süleyman)",
-      "nameShort": "3D render request",
-      "pipedriveDealName": "Leesch - Bonnevoie",
-      "url": "https://trello.com/c/LHg8SAeD/6080-3d-render-request-leesch-bonnevoie-s%C3%BCleyman",
-      "lastModified": "2024-10-10T13:11:06.052Z",
+      "name": "Upload and audit drone assets: White - Mamer (Süleyman)",
+      "nameShort": "Upload and audit drone assets: White - Mamer",
+      "pipedriveDealName": "White - Mamer",
+      "url": "https://trello.com/c/QDNaI1mR/5973-upload-and-audit-drone-assets-white-mamer-s%C3%BCleyman",
+      "lastModified": "2024-10-10T13:26:21.032Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {
@@ -161,35 +145,35 @@
       ]
     },
     {
-      "id": "6706f1f4f93328cbffd87627",
+      "id": "6706e03396d19abc80ad94f2",
       "idMembers": [
-        "5ce414ac7678a40557510d74"
+        "56f10d02921bc403c6d626d1"
       ],
-      "name": "Floor plan name modification: Leesch - Bonnevoie (Süleyman)",
-      "nameShort": "Floor plan name modification: Leesch - Bonnevoie",
+      "name": "3D render request: Leesch - Bonnevoie (Süleyman)",
+      "nameShort": "3D render request",
       "pipedriveDealName": "Leesch - Bonnevoie",
-      "url": "https://trello.com/c/xcqW412K/6086-floor-plan-name-modification-leesch-bonnevoie-s%C3%BCleyman",
-      "lastModified": "2024-10-09T21:15:09.605Z",
+      "url": "https://trello.com/c/3hIncHXs/6079-3d-render-request-leesch-bonnevoie-s%C3%BCleyman",
+      "lastModified": "2024-10-10T13:30:14.423Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
     {
-      "id": "6706f23bef7fd7f852761658",
+      "id": "6706e0be4ad5d625295fd352",
       "idMembers": [
-        "5ce414ac7678a40557510d74"
+        "56f10d02921bc403c6d626d1"
       ],
-      "name": "Floor plan name modification: Leesch - Bonnevoie (Süleyman)",
-      "nameShort": "Floor plan name modification: Leesch - Bonnevoie",
+      "name": "3D render request: Leesch - Bonnevoie (Süleyman)",
+      "nameShort": "3D render request",
       "pipedriveDealName": "Leesch - Bonnevoie",
-      "url": "https://trello.com/c/ciK319iq/6087-floor-plan-name-modification-leesch-bonnevoie-s%C3%BCleyman",
-      "lastModified": "2024-10-09T21:16:13.445Z",
+      "url": "https://trello.com/c/LHg8SAeD/6080-3d-render-request-leesch-bonnevoie-s%C3%BCleyman",
+      "lastModified": "2024-10-10T13:30:11.066Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
     {
@@ -206,38 +190,6 @@
       "slackUserId": "U044CKLT9HD",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "66fd27b56946edaa2e2ff5ab",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Upload and audit drone assets: White - Mamer (Süleyman)",
-      "nameShort": "Upload and audit drone assets: White - Mamer",
-      "pipedriveDealName": "White - Mamer",
-      "url": "https://trello.com/c/QDNaI1mR/5973-upload-and-audit-drone-assets-white-mamer-s%C3%BCleyman",
-      "lastModified": "2024-10-09T11:24:01.876Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "66fe722b816f447c8b77249e",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Upload and audit drone assets: Bohva - Kirchberg (Carolina)",
-      "nameShort": "Upload and audit drone assets: Bohva - Kirchberg",
-      "pipedriveDealName": "Bohva - Kirchberg",
-      "url": "https://trello.com/c/6ZZfDNqA/5988-upload-and-audit-drone-assets-bohva-kirchberg-carolina",
-      "lastModified": "2024-10-10T13:11:40.183Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {

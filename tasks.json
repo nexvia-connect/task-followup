@@ -1,6 +1,22 @@
 {
   "cards": [
     {
+      "id": "6706e0d85acb27c921d32287",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Create statistics report: Alves - Oberkorn (Thomas)",
+      "nameShort": "Statistics report",
+      "pipedriveDealName": "Alves - Oberkorn",
+      "url": "https://trello.com/c/iXMlCJ0D/6081-create-statistics-report-alves-oberkorn-thomas",
+      "lastModified": "2024-10-09T20:02:34.153Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "66ec4815eb8c0cff4e786441",
       "idMembers": [
         "4fe86ade26d156994a0bee7d"
@@ -49,37 +65,275 @@
       ]
     },
     {
+      "id": "67070d7bc800cfafefe62f83",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing creation: Leesch - Bonnevoie (Süleyman)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": "Leesch - Bonnevoie",
+      "url": "https://trello.com/c/P0Q90cts/6088-listing-creation-leesch-bonnevoie-s%C3%BCleyman",
+      "lastModified": "2024-10-09T23:12:28.557Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "670719069c0dd9b1750e1bc8",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Change price: Leclère - Belair (Romain)",
+      "nameShort": "Change price for Leclère - Belair",
+      "pipedriveDealName": "Leclère - Belair",
+      "url": "https://trello.com/c/4R3YX1kh/6089-change-price-lecl%C3%A8re-belair-romain",
+      "lastModified": "2024-10-10T00:02:29.994Z",
+      "associatedAdviser": "Romain",
+      "slackUserId": "U7BGBRJGH",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6707190da111a6284ed13ef5",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Republish listing: Leclère - Belair (Romain)",
+      "nameShort": "Republish listing for Leclère - Belair",
+      "pipedriveDealName": "Leclère - Belair",
+      "url": "https://trello.com/c/telDnRDd/6090-republish-listing-lecl%C3%A8re-belair-romain",
+      "lastModified": "2024-10-10T00:02:30.281Z",
+      "associatedAdviser": "Romain",
+      "slackUserId": "U7BGBRJGH",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "6704f16c25291b59353cd26e",
       "idMembers": [
-        "66d5ca383da59bf7e67f324a",
-        "56f10d02921bc403c6d626d1"
+        "66d5ca383da59bf7e67f324a"
       ],
       "name": "Photoshop request: Siebenaler - Mamer (Süleyman)",
       "nameShort": "Photoshop request",
       "pipedriveDealName": "Siebenaler - Mamer",
       "url": "https://trello.com/c/7ORYM7H3/6052-photoshop-request-siebenaler-mamer-s%C3%BCleyman",
-      "lastModified": "2024-10-08T16:01:43.411Z",
+      "lastModified": "2024-10-10T06:19:10.999Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png",
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {
-      "id": "67063d0a738c7aa609955131",
+      "id": "6706dd6c8e8972a86d740976",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
       ],
-      "name": "> Complete photo session: Goniva - Gasperich (Thomas)",
-      "nameShort": "Complete photo session",
-      "pipedriveDealName": "Goniva - Gasperich",
-      "url": "https://trello.com/c/sspvJ1vm/6061-complete-photo-session-goniva-gasperich-thomas",
-      "lastModified": "2024-10-09T08:21:32.501Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
+      "name": "Photoshop request: Leesch - Bonnevoie (Süleyman)",
+      "nameShort": "Photoshop request",
+      "pipedriveDealName": "Leesch - Bonnevoie",
+      "url": "https://trello.com/c/duPU8bf5/6074-photoshop-request-leesch-bonnevoie-s%C3%BCleyman",
+      "lastModified": "2024-10-09T19:47:50.221Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "6706dd7ac9326d133a483fe8",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop request: Leesch - Bonnevoie (Süleyman)",
+      "nameShort": "Photoshop request",
+      "pipedriveDealName": "Leesch - Bonnevoie",
+      "url": "https://trello.com/c/nd5HMjp9/6075-photoshop-request-leesch-bonnevoie-s%C3%BCleyman",
+      "lastModified": "2024-10-09T19:47:50.082Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "6706ddbed6a8d44abe45a9d3",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop request: Leesch - Bonnevoie (Süleyman)",
+      "nameShort": "Photoshop request",
+      "pipedriveDealName": "Leesch - Bonnevoie",
+      "url": "https://trello.com/c/lQ2k9mZl/6076-photoshop-request-leesch-bonnevoie-s%C3%BCleyman",
+      "lastModified": "2024-10-09T19:48:50.569Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "6706ddde229b9e765ae8802d",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop request: Leesch - Bonnevoie (Süleyman)",
+      "nameShort": "Photoshop request",
+      "pipedriveDealName": "Leesch - Bonnevoie",
+      "url": "https://trello.com/c/5AG1hSYx/6077-photoshop-request-leesch-bonnevoie-s%C3%BCleyman",
+      "lastModified": "2024-10-09T19:49:53.690Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "6706ddf64cda17dfa9cde291",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop request: Leesch - Bonnevoie (Süleyman)",
+      "nameShort": "Photoshop request",
+      "pipedriveDealName": "Leesch - Bonnevoie",
+      "url": "https://trello.com/c/p90akQRO/6078-photoshop-request-leesch-bonnevoie-s%C3%BCleyman",
+      "lastModified": "2024-10-09T19:49:52.792Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "6706e03396d19abc80ad94f2",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "3D render request: Leesch - Bonnevoie (Süleyman)",
+      "nameShort": "3D render request",
+      "pipedriveDealName": "Leesch - Bonnevoie",
+      "url": "https://trello.com/c/3hIncHXs/6079-3d-render-request-leesch-bonnevoie-s%C3%BCleyman",
+      "lastModified": "2024-10-09T19:59:13.648Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "6706e0be4ad5d625295fd352",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "3D render request: Leesch - Bonnevoie (Süleyman)",
+      "nameShort": "3D render request",
+      "pipedriveDealName": "Leesch - Bonnevoie",
+      "url": "https://trello.com/c/LHg8SAeD/6080-3d-render-request-leesch-bonnevoie-s%C3%BCleyman",
+      "lastModified": "2024-10-09T20:01:26.804Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "6706e4f1f0b7826a4ae3d76a",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop request: Leesch - Bonnevoie (Süleyman)",
+      "nameShort": "Photoshop request",
+      "pipedriveDealName": "Leesch - Bonnevoie",
+      "url": "https://trello.com/c/VoUJxIFK/6082-photoshop-request-leesch-bonnevoie-s%C3%BCleyman",
+      "lastModified": "2024-10-09T20:18:54.314Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "6706e71aead0d71f1434d4e8",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop request: White - Mamer (Süleyman)",
+      "nameShort": "Photoshop request",
+      "pipedriveDealName": "White - Mamer",
+      "url": "https://trello.com/c/NEevK6h0/6083-photoshop-request-white-mamer-s%C3%BCleyman",
+      "lastModified": "2024-10-09T20:29:21.727Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "6706f146494d46e3cc4b0f65",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Floor plan name modification: Leesch - Bonnevoie (Süleyman)",
+      "nameShort": "Floor plan name modification: Leesch - Bonnevoie",
+      "pipedriveDealName": "Leesch - Bonnevoie",
+      "url": "https://trello.com/c/sLrO7Y0k/6084-floor-plan-name-modification-leesch-bonnevoie-s%C3%BCleyman",
+      "lastModified": "2024-10-09T21:12:02.326Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6706f192af5f51268a27c571",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Floor plan name modification: Leesch - Bonnevoie (Süleyman)",
+      "nameShort": "Floor plan name modification: Leesch - Bonnevoie",
+      "pipedriveDealName": "Leesch - Bonnevoie",
+      "url": "https://trello.com/c/SJnumpcx/6085-floor-plan-name-modification-leesch-bonnevoie-s%C3%BCleyman",
+      "lastModified": "2024-10-09T21:13:06.315Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6706f1f4f93328cbffd87627",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Floor plan name modification: Leesch - Bonnevoie (Süleyman)",
+      "nameShort": "Floor plan name modification: Leesch - Bonnevoie",
+      "pipedriveDealName": "Leesch - Bonnevoie",
+      "url": "https://trello.com/c/xcqW412K/6086-floor-plan-name-modification-leesch-bonnevoie-s%C3%BCleyman",
+      "lastModified": "2024-10-09T21:15:09.605Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6706f23bef7fd7f852761658",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Floor plan name modification: Leesch - Bonnevoie (Süleyman)",
+      "nameShort": "Floor plan name modification: Leesch - Bonnevoie",
+      "pipedriveDealName": "Leesch - Bonnevoie",
+      "url": "https://trello.com/c/ciK319iq/6087-floor-plan-name-modification-leesch-bonnevoie-s%C3%BCleyman",
+      "lastModified": "2024-10-09T21:16:13.445Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
@@ -139,27 +393,11 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-10-08T08:01:01.657Z",
+      "lastModified": "2024-10-10T00:00:35.666Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "66ffabad7c43379628e07910",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "> Upload and audit drone assets (Xavier)",
-      "nameShort": "Upload and audit drone assets",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/34UxKfdF/6012-upload-and-audit-drone-assets-xavier",
-      "lastModified": "2024-10-04T08:47:42.796Z",
-      "associatedAdviser": "Xavier",
-      "slackUserId": "U44HL0DMX",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {

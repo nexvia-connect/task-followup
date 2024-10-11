@@ -145,22 +145,6 @@
       ]
     },
     {
-      "id": "6708d7faa3c69ebd31cda5a2",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Format change",
-      "nameShort": "Format change",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/ZFchvAtt/6108-format-change",
-      "lastModified": "2024-10-11T07:47:07.099Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "6708ddab1374b64b059da7a0",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -190,6 +174,22 @@
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6709139175abc048e82423c0",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Share listing on FB and Linkedin: White - Mamer (Süleyman)",
+      "nameShort": "Share listing on FB and Linkedin",
+      "pipedriveDealName": "White - Mamer",
+      "url": "https://trello.com/c/ZUjo41Lo/6116-share-listing-on-fb-and-linkedin-white-mamer-s%C3%BCleyman",
+      "lastModified": "2024-10-11T12:01:24.610Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {
@@ -297,7 +297,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-10-10T08:42:31.807Z",
+      "lastModified": "2024-10-11T12:00:42.254Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

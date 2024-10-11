@@ -161,22 +161,6 @@
       ]
     },
     {
-      "id": "6708ba539190156509069854",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Unhide listing: White - Mamer (Süleyman)",
-      "nameShort": "Unhide listing",
-      "pipedriveDealName": "White - Mamer",
-      "url": "https://trello.com/c/eX6PtijS/6106-unhide-listing-white-mamer-s%C3%BCleyman",
-      "lastModified": "2024-10-11T05:40:38.041Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "6708d7faa3c69ebd31cda5a2",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -236,22 +220,6 @@
       "lastModified": "2024-10-10T13:26:18.495Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "66fd27b56946edaa2e2ff5ab",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Upload and audit drone assets: White - Mamer (Süleyman)",
-      "nameShort": "Upload and audit drone assets: White - Mamer",
-      "pipedriveDealName": "White - Mamer",
-      "url": "https://trello.com/c/QDNaI1mR/5973-upload-and-audit-drone-assets-white-mamer-s%C3%BCleyman",
-      "lastModified": "2024-10-10T13:26:21.032Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
@@ -334,6 +302,22 @@
       "slackUserId": "U044CKLT9HD",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "66fd27b56946edaa2e2ff5ab",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Upload and audit drone assets: White - Mamer (Süleyman)",
+      "nameShort": "Upload and audit drone assets: White - Mamer",
+      "pipedriveDealName": "White - Mamer",
+      "url": "https://trello.com/c/QDNaI1mR/5973-upload-and-audit-drone-assets-white-mamer-s%C3%BCleyman",
+      "lastModified": "2024-10-11T11:16:45.917Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {

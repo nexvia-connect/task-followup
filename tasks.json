@@ -241,19 +241,19 @@
       ]
     },
     {
-      "id": "6708ddd34cf7dc57c7c8b853",
+      "id": "670b8cb32355b89c2bada268",
       "idMembers": [
-        "5ce414ac7678a40557510d74"
+        "56f10d02921bc403c6d626d1"
       ],
-      "name": "> Publish listing to platforms: White - Mamer (Süleyman)",
-      "nameShort": "Publish listing to platforms",
-      "pipedriveDealName": "White - Mamer",
-      "url": "https://trello.com/c/MoDhJiNU/6110-publish-listing-to-platforms-white-mamer-s%C3%BCleyman",
-      "lastModified": "2024-10-11T08:12:17.450Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
+      "name": "> Missing link to associate in Pipedrive",
+      "nameShort": "Missing link to associate in Pipedrive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/0j0cZINM/6127-missing-link-to-associate-in-pipedrive",
+      "lastModified": "2024-10-13T09:02:44.137Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
     {

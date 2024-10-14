@@ -81,38 +81,6 @@
       ]
     },
     {
-      "id": "670956c4b56c2992eab673cd",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Missing link to associate in Pipedrive",
-      "nameShort": "Missing link to associate in Pipedrive",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/YXA1VnF9/6121-missing-link-to-associate-in-pipedrive",
-      "lastModified": "2024-10-11T16:48:05.474Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67096d8883581abde98dd680",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Missing link to associate in Pipedrive",
-      "nameShort": "Missing link to associate in Pipedrive",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/ZaOvTXUk/6122-missing-link-to-associate-in-pipedrive",
-      "lastModified": "2024-10-11T18:25:13.334Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "670980e0f03d265f7a0cf575",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -209,6 +177,22 @@
       ]
     },
     {
+      "id": "670ccc757f0c3e5d69dced32",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Schedule newsletter: Leesch - Bonnevoie (Süleyman)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Leesch - Bonnevoie",
+      "url": "https://trello.com/c/jtZ0YSlk/6131-schedule-newsletter-leesch-bonnevoie-s%C3%BCleyman",
+      "lastModified": "2024-10-14T07:47:04.035Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "66fe722b816f447c8b77249e",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -238,6 +222,22 @@
       "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "670cc8b592ed72390048939e",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Upload Giraffe assets to Drive: Jacquemot - Howald (Süleyman)",
+      "nameShort": "Upload Giraffe assets to Drive",
+      "pipedriveDealName": "Jacquemot - Howald",
+      "url": "https://trello.com/c/hbpAZaia/6130-upload-giraffe-assets-to-drive-jacquemot-howald-s%C3%BCleyman",
+      "lastModified": "2024-10-14T07:31:03.921Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {

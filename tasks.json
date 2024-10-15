@@ -129,22 +129,6 @@
       ]
     },
     {
-      "id": "670d6cd8cdd487301eea025b",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Listing modification: Dugard - Merl (Thomas)",
-      "nameShort": "Listing modifications",
-      "pipedriveDealName": "Dugard - Merl",
-      "url": "https://trello.com/c/6WQzi77E/6147-listing-modification-dugard-merl-thomas",
-      "lastModified": "2024-10-14T19:13:17.942Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "670e0079396343afc17fc97c",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -154,6 +138,22 @@
       "pipedriveDealName": "Harrabi - Esch",
       "url": "https://trello.com/c/CaHSs7Pn/6154-unhide-listing-harrabi-esch-thomas",
       "lastModified": "2024-10-15T05:41:15.213Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "670e3b889a06745708e7f398",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing creation: Goniva - Gasperich (Thomas)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": "Goniva - Gasperich",
+      "url": "https://trello.com/c/K0Zgu4oN/6159-listing-creation-goniva-gasperich-thomas",
+      "lastModified": "2024-10-15T09:55:06.024Z",
       "associatedAdviser": "Thomas",
       "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [

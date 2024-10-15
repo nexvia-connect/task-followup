@@ -17,22 +17,6 @@
       ]
     },
     {
-      "id": "67011de59391d98ad3f90768",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "> Transport item from Royal to Theatre (Xavier)",
-      "nameShort": "Transport item from Royal to Theatre",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/hqbQq1vL/6025-transport-item-from-royal-to-theatre-xavier",
-      "lastModified": "2024-10-05T11:07:18.512Z",
-      "associatedAdviser": "Xavier",
-      "slackUserId": "U44HL0DMX",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
       "id": "6708e0abd8848c2b8d6d6905",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -97,38 +81,6 @@
       ]
     },
     {
-      "id": "670e09d343d7e3d069c62515",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Missing link to associate in Pipedrive",
-      "nameShort": "Missing link to associate in Pipedrive",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/jKmlvJCa/6156-missing-link-to-associate-in-pipedrive",
-      "lastModified": "2024-10-15T06:21:08.424Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "670e0c95e32c006aee402a22",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Missing link to associate in Pipedrive",
-      "nameShort": "Missing link to associate in Pipedrive",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/mBVqegGG/6157-missing-link-to-associate-in-pipedrive",
-      "lastModified": "2024-10-15T06:32:54.516Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "670d9bd93c8bc1160ae7770c",
       "idMembers": [
         "66d5ca383da59bf7e67f324a",
@@ -161,38 +113,6 @@
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png",
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "6706e03396d19abc80ad94f2",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "3D render request: Leesch - Bonnevoie (Süleyman)",
-      "nameShort": "3D render request",
-      "pipedriveDealName": "Leesch - Bonnevoie",
-      "url": "https://trello.com/c/3hIncHXs/6079-3d-render-request-leesch-bonnevoie-s%C3%BCleyman",
-      "lastModified": "2024-10-10T13:30:14.423Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "6706e0be4ad5d625295fd352",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "3D render request: Leesch - Bonnevoie (Süleyman)",
-      "nameShort": "3D render request",
-      "pipedriveDealName": "Leesch - Bonnevoie",
-      "url": "https://trello.com/c/LHg8SAeD/6080-3d-render-request-leesch-bonnevoie-s%C3%BCleyman",
-      "lastModified": "2024-10-10T13:30:11.066Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
@@ -274,22 +194,6 @@
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "670d06569af34cb11243ef32",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Audit and upload render assets: Michels - Dudelange (Sandy)",
-      "nameShort": "Audit and upload render assets",
-      "pipedriveDealName": "Michels - Dudelange",
-      "url": "https://trello.com/c/Vshltgg6/6137-audit-and-upload-render-assets-michels-dudelange-sandy",
-      "lastModified": "2024-10-14T11:54:02.684Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
     {

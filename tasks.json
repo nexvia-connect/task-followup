@@ -65,6 +65,150 @@
       ]
     },
     {
+      "id": "670d50409960d74dfb82010a",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Set listing as sold: Duchêne - Cessange (Carolina)",
+      "nameShort": "Set listing as sold",
+      "pipedriveDealName": "Duchêne - Cessange",
+      "url": "https://trello.com/c/dgwK5Xlh/6145-set-listing-as-sold-duch%C3%AAne-cessange-carolina",
+      "lastModified": "2024-10-14T17:09:22.830Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "670de8d88f04a78dcc2d533b",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Moderate Facebook comments",
+      "nameShort": "Moderate Facebook comments",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/1gJzW6vm/6152-moderate-facebook-comments",
+      "lastModified": "2024-10-15T04:00:25.326Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "670e09564658bab5990d00b7",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Prepare + print notary docs: Torres - Gasperich1 (Rudy)",
+      "nameShort": "Prepare + print notary docs",
+      "pipedriveDealName": "Torres - Gasperich1",
+      "url": "https://trello.com/c/20aLJyGG/6155-prepare-print-notary-docs-torres-gasperich1-rudy",
+      "lastModified": "2024-10-15T06:21:14.514Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "670e09d343d7e3d069c62515",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Missing link to associate in Pipedrive",
+      "nameShort": "Missing link to associate in Pipedrive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/jKmlvJCa/6156-missing-link-to-associate-in-pipedrive",
+      "lastModified": "2024-10-15T06:21:08.424Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "670e0c95e32c006aee402a22",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Missing link to associate in Pipedrive",
+      "nameShort": "Missing link to associate in Pipedrive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/mBVqegGG/6157-missing-link-to-associate-in-pipedrive",
+      "lastModified": "2024-10-15T06:32:54.516Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "670d481d2a8d2dcf3d9d26d6",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Change price: Mendes - Gosseldange (Vinciane)",
+      "nameShort": "Change price for Mendes - Gosseldange",
+      "pipedriveDealName": "Mendes - Gosseldange",
+      "url": "https://trello.com/c/sRnTewZ6/6144-change-price-mendes-gosseldange-vinciane",
+      "lastModified": "2024-10-14T16:35:46.153Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "670d5bdec35d3932b369547b",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Schedule newsletter: Harrabi - Esch (Thomas)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Harrabi - Esch",
+      "url": "https://trello.com/c/rn5AH2Pi/6146-schedule-newsletter-harrabi-esch-thomas",
+      "lastModified": "2024-10-14T17:58:56.451Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "670d6cd8cdd487301eea025b",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Dugard - Merl (Thomas)",
+      "nameShort": "Listing modifications",
+      "pipedriveDealName": "Dugard - Merl",
+      "url": "https://trello.com/c/6WQzi77E/6147-listing-modification-dugard-merl-thomas",
+      "lastModified": "2024-10-14T19:13:17.942Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "670e0079396343afc17fc97c",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Unhide listing: Harrabi - Esch (Thomas)",
+      "nameShort": "Unhide listing",
+      "pipedriveDealName": "Harrabi - Esch",
+      "url": "https://trello.com/c/CaHSs7Pn/6154-unhide-listing-harrabi-esch-thomas",
+      "lastModified": "2024-10-15T05:41:15.213Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "66fe722b816f447c8b77249e",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -78,6 +222,70 @@
       "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "670d9848cb2cd733c0483955",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop request: Jacquemot - Howald (Süleyman)",
+      "nameShort": "Photoshop request",
+      "pipedriveDealName": "Jacquemot - Howald",
+      "url": "https://trello.com/c/McJ2W1R9/6148-photoshop-request-jacquemot-howald-s%C3%BCleyman",
+      "lastModified": "2024-10-14T22:18:17.892Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "670d9bd93c8bc1160ae7770c",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "3D render request: Jacquemot - Howald (Süleyman)",
+      "nameShort": "3D render request",
+      "pipedriveDealName": "Jacquemot - Howald",
+      "url": "https://trello.com/c/FuuEO7mJ/6149-3d-render-request-jacquemot-howald-s%C3%BCleyman",
+      "lastModified": "2024-10-14T22:33:26.046Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "670d9c02b4670f88b57c918f",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "3D render request: Jacquemot - Howald (Süleyman)",
+      "nameShort": "3D render request",
+      "pipedriveDealName": "Jacquemot - Howald",
+      "url": "https://trello.com/c/OgbTEvQd/6150-3d-render-request-jacquemot-howald-s%C3%BCleyman",
+      "lastModified": "2024-10-14T22:34:28.179Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "670d9cbdaf54d1d7f8a33d8b",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Floor plan name modification: Jacquemot - Howald (Süleyman)",
+      "nameShort": "Floor plan name modification: Jacquemot - Howald",
+      "pipedriveDealName": "Jacquemot - Howald",
+      "url": "https://trello.com/c/pVz4UwqX/6151-floor-plan-name-modification-jacquemot-howald-s%C3%BCleyman",
+      "lastModified": "2024-10-14T22:37:40.314Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {

@@ -81,6 +81,38 @@
       ]
     },
     {
+      "id": "670f3a52d4d45fb7edd6545f",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Audit weekly marketing expenses",
+      "nameShort": "Audit weekly marketing expenses",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/Gy76wMqT/6164-audit-weekly-marketing-expenses",
+      "lastModified": "2024-10-16T04:00:18.781Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "670f6c34fef2c026a831ee75",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Set listing as signed: Schinker - Dommeldange (Sandy)",
+      "nameShort": "Set listing as signed",
+      "pipedriveDealName": "Schinker - Dommeldange",
+      "url": "https://trello.com/c/BlprvvZU/6166-set-listing-as-signed-schinker-dommeldange-sandy",
+      "lastModified": "2024-10-16T07:33:10.292Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "670d9bd93c8bc1160ae7770c",
       "idMembers": [
         "66d5ca383da59bf7e67f324a",

@@ -81,22 +81,6 @@
       ]
     },
     {
-      "id": "670f3a52d4d45fb7edd6545f",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Audit weekly marketing expenses",
-      "nameShort": "Audit weekly marketing expenses",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/Gy76wMqT/6164-audit-weekly-marketing-expenses",
-      "lastModified": "2024-10-16T04:00:18.781Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "670f6dd02b30fd103238c68f",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -145,40 +129,48 @@
       ]
     },
     {
-      "id": "670d9bd93c8bc1160ae7770c",
+      "id": "670f81c940770d66f4e7c534",
       "idMembers": [
-        "66d5ca383da59bf7e67f324a",
-        "56f10d02921bc403c6d626d1"
+        "5ce414ac7678a40557510d74"
       ],
-      "name": "3D render request: Jacquemot - Howald (Süleyman)",
-      "nameShort": "3D render request",
-      "pipedriveDealName": "Jacquemot - Howald",
-      "url": "https://trello.com/c/FuuEO7mJ/6149-3d-render-request-jacquemot-howald-s%C3%BCleyman",
-      "lastModified": "2024-10-15T09:09:29.645Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
+      "name": "Listing modification: Goniva - Gasperich (Thomas)",
+      "nameShort": "Listing modifications",
+      "pipedriveDealName": "Goniva - Gasperich",
+      "url": "https://trello.com/c/QVqVazns/6174-listing-modification-goniva-gasperich-thomas",
+      "lastModified": "2024-10-16T09:07:12.362Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png",
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
-      "id": "670d9c02b4670f88b57c918f",
+      "id": "670f7e7f8a27cf905ae18930",
       "idMembers": [
-        "66d5ca383da59bf7e67f324a",
-        "56f10d02921bc403c6d626d1"
+        "5ce414ac7678a40557510d74"
       ],
-      "name": "3D render request: Jacquemot - Howald (Süleyman)",
-      "nameShort": "3D render request",
-      "pipedriveDealName": "Jacquemot - Howald",
-      "url": "https://trello.com/c/OgbTEvQd/6150-3d-render-request-jacquemot-howald-s%C3%BCleyman",
-      "lastModified": "2024-10-15T09:09:44.363Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
+      "name": "> Complete photo session: Isebaert - Noerdange (Sandy)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Isebaert - Noerdange",
+      "url": "https://trello.com/c/7BZs8L3D/6172-complete-photo-session-isebaert-noerdange-sandy",
+      "lastModified": "2024-10-16T08:51:12.791Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png",
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
+    },
+    {
+      "id": "670f7eb282e1abb54b99ddb5",
+      "idMembers": [],
+      "name": "3D render request: Michels - Dudelange (Sandy)",
+      "nameShort": "3D render request",
+      "pipedriveDealName": "Michels - Dudelange",
+      "url": "https://trello.com/c/Wi8ihqvR/6173-3d-render-request-michels-dudelange-sandy",
+      "lastModified": "2024-10-16T08:54:08.688Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": []
     },
     {
       "id": "66faca30e64dee7119e2cdff",

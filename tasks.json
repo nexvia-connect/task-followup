@@ -113,18 +113,6 @@
       ]
     },
     {
-      "id": "670f72e6af0d867adb85bd7a",
-      "idMembers": [],
-      "name": "> Share listing on FB and Linkedin: Dugard - Merl (Thomas)",
-      "nameShort": "Share listing on FB and Linkedin",
-      "pipedriveDealName": "Dugard - Merl",
-      "url": "https://trello.com/c/L3UQiXtf/6168-share-listing-on-fb-and-linkedin-dugard-merl-thomas",
-      "lastModified": "2024-10-16T08:01:44.538Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": []
-    },
-    {
       "id": "670f753255adb12097e87d9e",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -134,6 +122,22 @@
       "pipedriveDealName": "Leesch - Bonnevoie",
       "url": "https://trello.com/c/x4hygA76/6170-put-listing-in-window-displays-leesch-bonnevoie-s%C3%BCleyman",
       "lastModified": "2024-10-16T08:11:34.662Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "670f7589835fb7295e8909b2",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Publish listing to platforms: Leesch - Bonnevoie (Süleyman)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Leesch - Bonnevoie",
+      "url": "https://trello.com/c/qFhMwvXV/6171-publish-listing-to-platforms-leesch-bonnevoie-s%C3%BCleyman",
+      "lastModified": "2024-10-16T08:13:28.031Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [

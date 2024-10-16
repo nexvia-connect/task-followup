@@ -113,6 +113,22 @@
       ]
     },
     {
+      "id": "670fba4f3fef0a4afe235b07",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Schedule newsletter: Goniva - Gasperich (Thomas)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Goniva - Gasperich",
+      "url": "https://trello.com/c/5xig7nOb/6180-schedule-newsletter-goniva-gasperich-thomas",
+      "lastModified": "2024-10-16T13:06:25.735Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "670f7eb282e1abb54b99ddb5",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -122,22 +138,6 @@
       "pipedriveDealName": "Michels - Dudelange",
       "url": "https://trello.com/c/Wi8ihqvR/6173-3d-render-request-michels-dudelange-sandy",
       "lastModified": "2024-10-16T09:27:08.447Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "670fa895d5a1d07850ac6c81",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "> Complete photo session: Fondeur - Limpertsberg (Sandy)",
-      "nameShort": "Complete photo session",
-      "pipedriveDealName": "Fondeur - Limpertsberg",
-      "url": "https://trello.com/c/uv6Xvc0v/6177-complete-photo-session-fondeur-limpertsberg-sandy",
-      "lastModified": "2024-10-16T11:50:46.595Z",
       "associatedAdviser": "Sandy",
       "slackUserId": "UBK5HTKFF",
       "avatarUrls": [

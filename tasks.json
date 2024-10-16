@@ -97,22 +97,6 @@
       ]
     },
     {
-      "id": "670fad83f8ca4539233418a1",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Publish listing to platforms: Harrabi - Esch (Thomas)",
-      "nameShort": "Publish listing to platforms",
-      "pipedriveDealName": "Harrabi - Esch",
-      "url": "https://trello.com/c/bv0hZbyn/6179-publish-listing-to-platforms-harrabi-esch-thomas",
-      "lastModified": "2024-10-16T16:13:36.741Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "670f7eb282e1abb54b99ddb5",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -156,6 +140,22 @@
       "lastModified": "2024-10-16T16:17:20.991Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "670fad83f8ca4539233418a1",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Publish listing to platforms: Harrabi - Esch (Thomas)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Harrabi - Esch",
+      "url": "https://trello.com/c/bv0hZbyn/6179-publish-listing-to-platforms-harrabi-esch-thomas",
+      "lastModified": "2024-10-16T16:17:37.367Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

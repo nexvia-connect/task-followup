@@ -81,22 +81,6 @@
       ]
     },
     {
-      "id": "670fcfc05e9af2f0c0e1acc2",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Missing link to associate in Pipedrive",
-      "nameShort": "Missing link to associate in Pipedrive",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/yjhhw0s1/6181-missing-link-to-associate-in-pipedrive",
-      "lastModified": "2024-10-16T14:37:53.033Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "67101facfa7a8bcabb1af8df",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -106,6 +90,54 @@
       "pipedriveDealName": "Mergen - Petange",
       "url": "https://trello.com/c/cdI7DDom/6183-prepare-print-notary-docs-mergen-petange-thomas",
       "lastModified": "2024-10-16T20:20:43.431Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67103a055dec24917897a4d5",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing creation: Bohva - Kirchberg (Carolina)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": "Bohva - Kirchberg",
+      "url": "https://trello.com/c/rn9EGJ0c/6185-listing-creation-bohva-kirchberg-carolina",
+      "lastModified": "2024-10-16T22:12:44.985Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "671050372ee3e897cc9eaeb3",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Boost listings on Athome",
+      "nameShort": "Boost listings on Athome",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/VseZcdVw/6186-boost-listings-on-athome",
+      "lastModified": "2024-10-16T23:46:00.620Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6710a36d76ff21fdcd8b94ab",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Unhide listing: Goniva - Gasperich (Thomas)",
+      "nameShort": "Unhide listing",
+      "pipedriveDealName": "Goniva - Gasperich",
+      "url": "https://trello.com/c/ljE81Tth/6187-unhide-listing-goniva-gasperich-thomas",
+      "lastModified": "2024-10-17T05:41:04.062Z",
       "associatedAdviser": "Thomas",
       "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
@@ -140,6 +172,22 @@
       "lastModified": "2024-10-16T17:15:17.217Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6710bc74274c85ee239f4933",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Upload Giraffe assets to Drive: Isebaert - Noerdange (Sandy)",
+      "nameShort": "Upload Giraffe assets to Drive",
+      "pipedriveDealName": "Isebaert - Noerdange",
+      "url": "https://trello.com/c/hMSO5IET/6189-upload-giraffe-assets-to-drive-isebaert-noerdange-sandy",
+      "lastModified": "2024-10-17T07:27:49.826Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

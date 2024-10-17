@@ -65,6 +65,22 @@
       ]
     },
     {
+      "id": "6710cf4b859e0f89f7f4f3be",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Prepare + print notary docs: Bruneau - Merl (Süleyman)",
+      "nameShort": "Prepare + print notary docs",
+      "pipedriveDealName": "Bruneau - Merl",
+      "url": "https://trello.com/c/rZlr9BFB/6194-prepare-print-notary-docs-bruneau-merl-s%C3%BCleyman",
+      "lastModified": "2024-10-17T08:49:44.240Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "67103a055dec24917897a4d5",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -129,22 +145,6 @@
       ]
     },
     {
-      "id": "670f7eb282e1abb54b99ddb5",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "3D render request: Michels - Dudelange (Sandy)",
-      "nameShort": "3D render request",
-      "pipedriveDealName": "Michels - Dudelange",
-      "url": "https://trello.com/c/Wi8ihqvR/6173-3d-render-request-michels-dudelange-sandy",
-      "lastModified": "2024-10-16T09:27:08.447Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
       "id": "670ff423ac6034c76f20f21a",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -156,22 +156,6 @@
       "lastModified": "2024-10-16T17:15:17.217Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "6710bc74274c85ee239f4933",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Upload Giraffe assets to Drive: Isebaert - Noerdange (Sandy)",
-      "nameShort": "Upload Giraffe assets to Drive",
-      "pipedriveDealName": "Isebaert - Noerdange",
-      "url": "https://trello.com/c/hMSO5IET/6189-upload-giraffe-assets-to-drive-isebaert-noerdange-sandy",
-      "lastModified": "2024-10-17T07:27:49.826Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -220,6 +204,22 @@
       "lastModified": "2024-10-15T15:38:34.897Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "670f7eb282e1abb54b99ddb5",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "3D render request: Michels - Dudelange (Sandy)",
+      "nameShort": "3D render request",
+      "pipedriveDealName": "Michels - Dudelange",
+      "url": "https://trello.com/c/Wi8ihqvR/6173-3d-render-request-michels-dudelange-sandy",
+      "lastModified": "2024-10-17T08:42:56.059Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]

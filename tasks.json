@@ -129,22 +129,6 @@
       ]
     },
     {
-      "id": "6712505d5905f496039dc358",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Put listing in window displays: Goniva - Gasperich (Thomas)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Goniva - Gasperich",
-      "url": "https://trello.com/c/qJTb23AG/6217-put-listing-in-window-displays-goniva-gasperich-thomas",
-      "lastModified": "2024-10-18T12:11:13.764Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67125077c83aa14e7e7fa4e8",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -282,6 +266,22 @@
       "pipedriveDealName": "Wolsfeld - Esch-sur-Alzette",
       "url": "https://trello.com/c/vAytKKGz/6212-put-listing-in-window-displays-wolsfeld-esch-sur-alzette-thomas",
       "lastModified": "2024-10-18T08:31:17.978Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6712505d5905f496039dc358",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Put listing in window displays: Goniva - Gasperich (Thomas)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Goniva - Gasperich",
+      "url": "https://trello.com/c/qJTb23AG/6217-put-listing-in-window-displays-goniva-gasperich-thomas",
+      "lastModified": "2024-10-18T12:17:17.946Z",
       "associatedAdviser": "Thomas",
       "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [

@@ -81,19 +81,99 @@
       ]
     },
     {
-      "id": "671122096891201c1962dc38",
+      "id": "6711dd870c6dd782a5306b8b",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
       ],
-      "name": "Photoshop request: Bohva - Kirchberg (Carolina)",
-      "nameShort": "Photoshop request",
-      "pipedriveDealName": "Bohva - Kirchberg",
-      "url": "https://trello.com/c/BnXDJshO/6202-photoshop-request-bohva-kirchberg-carolina",
-      "lastModified": "2024-10-17T14:42:35.526Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
+      "name": "> Moderate Facebook comments",
+      "nameShort": "Moderate Facebook comments",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/sdl4ntSb/6208-moderate-facebook-comments",
+      "lastModified": "2024-10-18T04:01:12.148Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "6711e82d183f2d272aa00dda",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Schedule newsletter: Isebaert - Noerdange (Melissa)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Isebaert - Noerdange",
+      "url": "https://trello.com/c/px41MKsy/6209-schedule-newsletter-isebaert-noerdange-melissa",
+      "lastModified": "2024-10-18T04:46:39.541Z",
+      "associatedAdviser": "Melissa",
+      "slackUserId": "U44GYBHT2",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6711e974b5eb1ce453c146cd",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Isebaert - Noerdange (Sandy)",
+      "nameShort": "Listing modifications",
+      "pipedriveDealName": "Isebaert - Noerdange",
+      "url": "https://trello.com/c/LJOW7cBV/6210-listing-modification-isebaert-noerdange-sandy",
+      "lastModified": "2024-10-18T04:53:43.135Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67121288a01fd1217f41b114",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Format change",
+      "nameShort": "Format change",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/PvNkpLSr/6211-format-change",
+      "lastModified": "2024-10-18T07:47:21.119Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67121827b93911ddcb566b01",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Put listing in window displays: Wolsfeld - Esch-sur-Alzette (Thomas)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Wolsfeld - Esch-sur-Alzette",
+      "url": "https://trello.com/c/vAytKKGz/6212-put-listing-in-window-displays-wolsfeld-esch-sur-alzette-thomas",
+      "lastModified": "2024-10-18T08:11:24.193Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6712184c3c32abe5e9d945c2",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Publish listing to platforms: Wolsfeld - Esch-sur-Alzette (Thomas)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Wolsfeld - Esch-sur-Alzette",
+      "url": "https://trello.com/c/SCd8fkPI/6213-publish-listing-to-platforms-wolsfeld-esch-sur-alzette-thomas",
+      "lastModified": "2024-10-18T08:12:17.914Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {

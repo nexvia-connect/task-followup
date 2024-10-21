@@ -273,6 +273,38 @@
       ]
     },
     {
+      "id": "67160ee770eabe7322a8c68e",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "3D render request: Jacquemot - Howald (Süleyman)",
+      "nameShort": "3D render request",
+      "pipedriveDealName": "Jacquemot - Howald",
+      "url": "https://trello.com/c/5Uhz31ur/6235-3d-render-request-jacquemot-howald-s%C3%BCleyman",
+      "lastModified": "2024-10-21T08:49:15.000Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "67160f37c8e823a24cd1706c",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "3D render request: Jacquemot - Howald (Süleyman)",
+      "nameShort": "3D render request",
+      "pipedriveDealName": "Jacquemot - Howald",
+      "url": "https://trello.com/c/yxwUAmFL/6236-3d-render-request-jacquemot-howald-s%C3%BCleyman",
+      "lastModified": "2024-10-21T08:48:58.013Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "66fe722b816f447c8b77249e",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"

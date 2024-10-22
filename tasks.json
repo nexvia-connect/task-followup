@@ -81,22 +81,6 @@
       ]
     },
     {
-      "id": "67173aef3ab7675b09b8a606",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Unhide listing: Bovha - Kirchberg (Carolina)",
-      "nameShort": "Unhide listing",
-      "pipedriveDealName": "Bovha - Kirchberg",
-      "url": "https://trello.com/c/z4h0Df7b/6239-unhide-listing-bovha-kirchberg-carolina",
-      "lastModified": "2024-10-22T05:41:05.692Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67175e68a47a18f0b71e63d8",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -108,6 +92,38 @@
       "lastModified": "2024-10-22T08:12:37.330Z",
       "associatedAdviser": "Sandy",
       "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6717838a5629ff49d3afaccb",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Complete photo session: Seron - Gasperich (Maeva)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Seron - Gasperich",
+      "url": "https://trello.com/c/e2ZlRrpe/6243-complete-photo-session-seron-gasperich-maeva",
+      "lastModified": "2024-10-22T10:50:51.718Z",
+      "associatedAdviser": "Maeva",
+      "slackUserId": "U044CKLT9HD",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67178b6a6d6aae9c5cd023e4",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Upload Giraffe assets to Drive: Wollscheid - Steinfort (Thomas)",
+      "nameShort": "Upload Giraffe assets to Drive",
+      "pipedriveDealName": "Wollscheid - Steinfort",
+      "url": "https://trello.com/c/igOrF6Qy/6244-upload-giraffe-assets-to-drive-wollscheid-steinfort-thomas",
+      "lastModified": "2024-10-22T11:24:29.346Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

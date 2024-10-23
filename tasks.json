@@ -114,28 +114,48 @@
     },
     {
       "id": "6718ad8322d9903b5f35c58a",
-      "idMembers": [],
-      "name": "Listing modification for Bovha - Kirchberg (Carolina)",
-      "nameShort": "Listing modifications",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/Y6N9fgZx/6257-listing-modification-for-bovha-kirchberg-carolina",
-      "lastModified": "2024-10-23T08:02:12.971Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": []
-    },
-    {
-      "id": "6718a3e8fac9d8d00497495f",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "> Complete photo session: Gregoire - Dudelange (Sandy)",
-      "nameShort": "Complete photo session",
-      "pipedriveDealName": "Gregoire - Dudelange",
-      "url": "https://trello.com/c/m3lCPqc3/6255-complete-photo-session-gregoire-dudelange-sandy",
-      "lastModified": "2024-10-23T07:21:14.099Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
+      "name": "Listing modification: Bovha - Kirchberg (Carolina)",
+      "nameShort": "Listing modifications",
+      "pipedriveDealName": "Bovha - Kirchberg",
+      "url": "https://trello.com/c/Y6N9fgZx/6257-listing-modification-bovha-kirchberg-carolina",
+      "lastModified": "2024-10-23T08:05:01.645Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6718b4b96b4f22e0eee23fc8",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Change photo order: Jacquemot - Howald (Süleyman)",
+      "nameShort": "Change photo order",
+      "pipedriveDealName": "Jacquemot - Howald",
+      "url": "https://trello.com/c/YVuyxN9U/6258-change-photo-order-jacquemot-howald-s%C3%BCleyman",
+      "lastModified": "2024-10-23T08:34:48.058Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6718b52e3b563b1dd6b6746e",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Schedule newsletter: Jacquemot - Howald (Süleyman)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Jacquemot - Howald",
+      "url": "https://trello.com/c/SyOPvS7S/6259-schedule-newsletter-jacquemot-howald-s%C3%BCleyman",
+      "lastModified": "2024-10-23T08:34:56.604Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

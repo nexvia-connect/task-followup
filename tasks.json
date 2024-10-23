@@ -113,6 +113,18 @@
       ]
     },
     {
+      "id": "6718ad8322d9903b5f35c58a",
+      "idMembers": [],
+      "name": "Listing modification for Bovha - Kirchberg (Carolina)",
+      "nameShort": "Listing modifications",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/Y6N9fgZx/6257-listing-modification-for-bovha-kirchberg-carolina",
+      "lastModified": "2024-10-23T08:02:12.971Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": []
+    },
+    {
       "id": "6718a3e8fac9d8d00497495f",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -156,22 +168,6 @@
       "lastModified": "2024-10-15T15:38:34.897Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "670f7eb282e1abb54b99ddb5",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "3D render request: Michels - Dudelange (Sandy)",
-      "nameShort": "3D render request",
-      "pipedriveDealName": "Michels - Dudelange",
-      "url": "https://trello.com/c/Wi8ihqvR/6173-3d-render-request-michels-dudelange-sandy",
-      "lastModified": "2024-10-17T08:42:56.059Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]

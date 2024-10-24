@@ -49,15 +49,79 @@
       ]
     },
     {
-      "id": "67190833de12aec205c6982a",
+      "id": "671956a0d280a8f3176df3b0",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Listing creation: Fondeur - Limpertsberg (Sandy)",
-      "nameShort": "Listing creation",
-      "pipedriveDealName": "Fondeur - Limpertsberg",
-      "url": "https://trello.com/c/rPj15v6J/6263-listing-creation-fondeur-limpertsberg-sandy",
-      "lastModified": "2024-10-23T14:30:53.226Z",
+      "name": "Change price: Ficerai - Belvaux (Thomas)",
+      "nameShort": "Change price for Ficerai - Belvaux",
+      "pipedriveDealName": "Ficerai - Belvaux",
+      "url": "https://trello.com/c/XaTxIQny/6265-change-price-ficerai-belvaux-thomas",
+      "lastModified": "2024-10-23T20:05:12.099Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6719ddfd1d9afa779d324338",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Unhide listing: Jacquemot - Howald (Süleyman)",
+      "nameShort": "Unhide listing",
+      "pipedriveDealName": "Jacquemot - Howald",
+      "url": "https://trello.com/c/YDRzp3iz/6266-unhide-listing-jacquemot-howald-s%C3%BCleyman",
+      "lastModified": "2024-10-24T05:41:21.417Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6719f88e467beacc346ef1c5",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Jacquemot - Howald (Süleyman)",
+      "nameShort": "Listing modifications",
+      "pipedriveDealName": "Jacquemot - Howald",
+      "url": "https://trello.com/c/6QvpF1Gv/6267-listing-modification-jacquemot-howald-s%C3%BCleyman",
+      "lastModified": "2024-10-24T07:36:06.891Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6719fc4c00c8748edbeadafc",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Format change",
+      "nameShort": "Format change",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/3aA7S7NY/6268-format-change",
+      "lastModified": "2024-10-24T07:50:37.064Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "671a08f7352786bbb765d8f1",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Unpublish listing: Steffen - Belair (Sandy)",
+      "nameShort": "Unpublish listing: Steffen - Belair",
+      "pipedriveDealName": "Steffen - Belair",
+      "url": "https://trello.com/c/4aygXKKJ/6269-unpublish-listing-steffen-belair-sandy",
+      "lastModified": "2024-10-24T08:46:00.347Z",
       "associatedAdviser": "Sandy",
       "slackUserId": "UBK5HTKFF",
       "avatarUrls": [
@@ -137,7 +201,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-10-22T14:15:12.288Z",
+      "lastModified": "2024-10-23T20:03:44.979Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

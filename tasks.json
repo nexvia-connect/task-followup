@@ -129,6 +129,70 @@
       ]
     },
     {
+      "id": "67220c3dfab0ed3c7f3503e8",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Process email backup",
+      "nameShort": "Process email backup",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/6prPFk0c/6332-process-email-backup",
+      "lastModified": "2024-10-30T10:36:46.097Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "6722112ed847a5f9e7256e6d",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Process email backup",
+      "nameShort": "Process email backup",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/2XJutLW0/6333-process-email-backup",
+      "lastModified": "2024-10-30T10:57:51.110Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "6722133ffd4437b4a49e6b91",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Process email backup",
+      "nameShort": "Process email backup",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/q6U2AqdH/6334-process-email-backup",
+      "lastModified": "2024-10-30T11:06:40.564Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "672246608b13f1d105337d88",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Process email backup",
+      "nameShort": "Process email backup",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/v8amItLe/6337-process-email-backup",
+      "lastModified": "2024-10-30T14:44:48.843Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "6721f8333a14306879387b5b",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -145,17 +209,49 @@
       ]
     },
     {
-      "id": "6721f852ac2e540d213d8030",
+      "id": "6722080e4c1f74b6697eb946",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
       ],
-      "name": "> Publish listing to platforms: Gregoire - Dudelange (Sandy)",
-      "nameShort": "Publish listing to platforms",
-      "pipedriveDealName": "Gregoire - Dudelange",
-      "url": "https://trello.com/c/Ti64QuWI/6330-publish-listing-to-platforms-gregoire-dudelange-sandy",
-      "lastModified": "2024-10-30T09:55:20.729Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
+      "name": "> Schedule newsletter: Schons - Oberkorn (Thomas)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Schons - Oberkorn",
+      "url": "https://trello.com/c/1PmezhDa/6331-schedule-newsletter-schons-oberkorn-thomas",
+      "lastModified": "2024-10-30T10:18:56.620Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "6720f63ede0791f07c04d0cd",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Complete photo session: Seron - Gasperich (Maeva)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Seron - Gasperich",
+      "url": "https://trello.com/c/iAin2AMl/6319-complete-photo-session-seron-gasperich-maeva",
+      "lastModified": "2024-10-30T10:06:04.882Z",
+      "associatedAdviser": "Maeva",
+      "slackUserId": "U044CKLT9HD",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "67221689fe4d881ffea5740b",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Complete photo session: Jaoshvili - Remich (Süleyman)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Jaoshvili - Remich",
+      "url": "https://trello.com/c/OA8b5eaZ/6335-complete-photo-session-jaoshvili-remich-s%C3%BCleyman",
+      "lastModified": "2024-10-30T11:20:43.420Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
@@ -220,6 +316,22 @@
       "lastModified": "2024-10-28T09:11:27.942Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "6721f852ac2e540d213d8030",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Publish listing to platforms: Gregoire - Dudelange (Sandy)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Gregoire - Dudelange",
+      "url": "https://trello.com/c/Ti64QuWI/6330-publish-listing-to-platforms-gregoire-dudelange-sandy",
+      "lastModified": "2024-10-30T10:06:27.456Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]

@@ -193,6 +193,22 @@
       ]
     },
     {
+      "id": "672251bc327422ae7cced365",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Process email backup",
+      "nameShort": "Process email backup",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/GG8QjoFV/6338-process-email-backup",
+      "lastModified": "2024-10-30T15:33:17.415Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "6721f8333a14306879387b5b",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -206,22 +222,6 @@
       "slackUserId": "UBK5HTKFF",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "6722080e4c1f74b6697eb946",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "> Schedule newsletter: Schons - Oberkorn (Thomas)",
-      "nameShort": "Schedule newsletter",
-      "pipedriveDealName": "Schons - Oberkorn",
-      "url": "https://trello.com/c/1PmezhDa/6331-schedule-newsletter-schons-oberkorn-thomas",
-      "lastModified": "2024-10-30T10:18:56.620Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {

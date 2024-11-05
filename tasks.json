@@ -97,6 +97,18 @@
       ]
     },
     {
+      "id": "672a328ceb1926d917be74b2",
+      "idMembers": [],
+      "name": "Change price: Martins - Bascharage (Rudy)",
+      "nameShort": null,
+      "pipedriveDealName": "Martins - Bascharage",
+      "url": "https://trello.com/c/d9V6vHJY/6393-change-price-martins-bascharage-rudy",
+      "lastModified": "2024-11-05T14:58:21.065Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": []
+    },
+    {
       "id": "66faca30e64dee7119e2cdff",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -185,7 +197,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-11-04T09:47:25.326Z",
+      "lastModified": "2024-11-05T14:58:20.725Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

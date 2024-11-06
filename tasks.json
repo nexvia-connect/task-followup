@@ -49,6 +49,38 @@
       ]
     },
     {
+      "id": "672af7f971657650a5e0d339",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Audit weekly marketing expenses",
+      "nameShort": "Audit weekly marketing expenses",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/GVNPPUzd/6398-audit-weekly-marketing-expenses",
+      "lastModified": "2024-11-06T05:00:42.355Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "672b26d54792640ce5393c0d",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Check tenant payment: Niedercorn - Bonnevoie 1st floor (Maeva)",
+      "nameShort": "Check tenant payment",
+      "pipedriveDealName": "Niedercorn - Bonnevoie 1st floor",
+      "url": "https://trello.com/c/LbU0iNFv/6401-check-tenant-payment-niedercorn-bonnevoie-1st-floor-maeva",
+      "lastModified": "2024-11-06T08:20:53.660Z",
+      "associatedAdviser": "Maeva",
+      "slackUserId": "U044CKLT9HD",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "6721f8333a14306879387b5b",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -78,6 +110,70 @@
       "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "672a4ebab18efdd914727e25",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Set atHome Premiere: Wollscheid - Steinfort (Thomas)",
+      "nameShort": "Set atHome Premiere",
+      "pipedriveDealName": "Wollscheid - Steinfort",
+      "url": "https://trello.com/c/hklUaINm/6396-set-athome-premiere-wollscheid-steinfort-thomas",
+      "lastModified": "2024-11-05T17:00:27.399Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "672a758bfa83ad876179afcf",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Listing modification: Seron - Gasperich (Sandy)",
+      "nameShort": "Listing modifications",
+      "pipedriveDealName": "Seron - Gasperich",
+      "url": "https://trello.com/c/WIhJKSDv/6397-listing-modification-seron-gasperich-sandy",
+      "lastModified": "2024-11-05T19:45:37.602Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "672b018006558a1a7692c6a7",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Unhide listing: Seron - Gasperich (Sandy)",
+      "nameShort": "Unhide listing",
+      "pipedriveDealName": "Seron - Gasperich",
+      "url": "https://trello.com/c/uqr6RJol/6399-unhide-listing-seron-gasperich-sandy",
+      "lastModified": "2024-11-06T05:41:22.495Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "672b25cefdaf25a98d7ae2b2",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Upload Giraffe assets to Drive: Delbare - Weimershof (Vinciane)",
+      "nameShort": "Upload Giraffe assets to Drive",
+      "pipedriveDealName": "Delbare - Weimershof",
+      "url": "https://trello.com/c/0ygcBfp2/6400-upload-giraffe-assets-to-drive-delbare-weimershof-vinciane",
+      "lastModified": "2024-11-06T08:16:15.834Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {

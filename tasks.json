@@ -81,17 +81,33 @@
       ]
     },
     {
-      "id": "672c7365697011499ce8d343",
+      "id": "672ccce1ca1adefb7f71e926",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Create commune description: Gattini - B - Kirchberg (Carolina)",
+      "nameShort": "Create commune description",
+      "pipedriveDealName": "Gattini - B - Kirchberg",
+      "url": "https://trello.com/c/TICKRbZd/6419-create-commune-description-gattini-b-kirchberg-carolina",
+      "lastModified": "2024-11-07T14:21:23.751Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "672cd8cb8621311be2fd9143",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
       ],
-      "name": "> Set listing as signed: Ficerai - Belvaux (Thomas)",
-      "nameShort": "Set listing as signed",
-      "pipedriveDealName": "Ficerai - Belvaux",
-      "url": "https://trello.com/c/X9w99zn5/6412-set-listing-as-signed-ficerai-belvaux-thomas",
-      "lastModified": "2024-11-07T07:59:39.041Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
+      "name": "> Set listing as sold: Grysolle - Bonnevoie (Carolina)",
+      "nameShort": "Set listing as sold",
+      "pipedriveDealName": "Grysolle - Bonnevoie",
+      "url": "https://trello.com/c/Q6ksyugc/6420-set-listing-as-sold-grysolle-bonnevoie-carolina",
+      "lastModified": "2024-11-07T15:12:13.262Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]

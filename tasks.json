@@ -1,22 +1,6 @@
 {
   "cards": [
     {
-      "id": "672c256e75f1afe595962d0a",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Create statistics report: Mores - Nagem (Süleyman)",
-      "nameShort": "Statistics report",
-      "pipedriveDealName": "Mores - Nagem",
-      "url": "https://trello.com/c/Pur5uPOn/6410-create-statistics-report-mores-nagem-s%C3%BCleyman",
-      "lastModified": "2024-11-07T02:28:29.503Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
       "id": "672c82360248874d2d9446e4",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"

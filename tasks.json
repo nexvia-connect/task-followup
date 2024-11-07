@@ -129,6 +129,54 @@
       ]
     },
     {
+      "id": "672cbc8e06df8401dbdd0ebe",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Put listing in window displays: Seron - Gasperich (Sandy)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Seron - Gasperich",
+      "url": "https://trello.com/c/Ffb1zsXf/6417-put-listing-in-window-displays-seron-gasperich-sandy",
+      "lastModified": "2024-11-07T13:11:47.823Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "672cbcb42f1ce4da0710111e",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Publish listing to platforms: Seron - Gasperich (Sandy)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Seron - Gasperich",
+      "url": "https://trello.com/c/AZURkmap/6418-publish-listing-to-platforms-seron-gasperich-sandy",
+      "lastModified": "2024-11-07T13:12:35.076Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "672c9b6f22bfed48cc126bed",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Complete photo session: Gurusamy - Bascharage (Süleyman)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Gurusamy - Bascharage",
+      "url": "https://trello.com/c/ys1rPaSI/6416-complete-photo-session-gurusamy-bascharage-s%C3%BCleyman",
+      "lastModified": "2024-11-07T10:50:25.154Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "66faca30e64dee7119e2cdff",
       "idMembers": [
         "5ce414ac7678a40557510d74"

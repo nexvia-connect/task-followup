@@ -49,22 +49,6 @@
       ]
     },
     {
-      "id": "6731c719f175d8d9ba1b91d6",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Order champagne bags",
-      "nameShort": "Order champagne bags",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/E2kopRTI/6447-order-champagne-bags",
-      "lastModified": "2024-11-11T08:58:02.031Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "6731c7190e72e64e7fce29e0",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -318,22 +302,6 @@
       "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "673228572e284a23e4dd3cf4",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Photoshop request: Leroy - Greisch (Rudy)",
-      "nameShort": "Photoshop request",
-      "pipedriveDealName": "Leroy - Greisch",
-      "url": "https://trello.com/c/nAz5aN03/6464-photoshop-request-leroy-greisch-rudy",
-      "lastModified": "2024-11-11T15:55:03.810Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {

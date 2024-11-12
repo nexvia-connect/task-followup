@@ -97,22 +97,6 @@
       ]
     },
     {
-      "id": "6731eda8179eb85e9f63b0e9",
-      "idMembers": [
-        "4fe86ade26d156994a0bee7d"
-      ],
-      "name": "> Manage Google admin",
-      "nameShort": "Manage Google admin",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/sGcojX1w/6451-manage-google-admin",
-      "lastModified": "2024-11-11T11:42:34.080Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
-      ]
-    },
-    {
       "id": "6731eda984eb2dcfb9344c82",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -298,6 +282,22 @@
       "pipedriveDealName": "Schinker - Dommeldange",
       "url": "https://trello.com/c/AeXevQ0K/6481-prepare-print-notary-docs-schinker-dommeldange-sandy",
       "lastModified": "2024-11-12T11:31:29.678Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67339b35c95c711938e1ff5f",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Rozenbaum - Gasperich (Sandy)",
+      "nameShort": "Listing modifications",
+      "pipedriveDealName": "Rozenbaum - Gasperich",
+      "url": "https://trello.com/c/hmAPNyAC/6486-listing-modification-rozenbaum-gasperich-sandy",
+      "lastModified": "2024-11-12T18:18:10.550Z",
       "associatedAdviser": "Sandy",
       "slackUserId": "UBK5HTKFF",
       "avatarUrls": [

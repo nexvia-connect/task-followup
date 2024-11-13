@@ -289,6 +289,70 @@
       ]
     },
     {
+      "id": "6734a0e104db0f2b88ba9460",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Put listing in window displays: Gilbertz - Hagelsdorf (Thomas)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Gilbertz - Hagelsdorf",
+      "url": "https://trello.com/c/oEJC3hUr/6499-put-listing-in-window-displays-gilbertz-hagelsdorf-thomas",
+      "lastModified": "2024-11-13T12:51:49.937Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6734a100d1d2b4c5a0cd1f79",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Publish listing to platforms: Gilbertz - Hagelsdorf (Thomas)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Gilbertz - Hagelsdorf",
+      "url": "https://trello.com/c/xFDEria7/6500-publish-listing-to-platforms-gilbertz-hagelsdorf-thomas",
+      "lastModified": "2024-11-13T12:52:36.390Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6734a26314c77dbea51ffafc",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Leroy - Greisch (Rudy)",
+      "nameShort": "Listing modifications",
+      "pipedriveDealName": "Leroy - Greisch",
+      "url": "https://trello.com/c/UFwBRm2P/6501-listing-modification-leroy-greisch-rudy",
+      "lastModified": "2024-11-13T13:01:25.058Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6734a481cb889b8b568f9603",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Schedule newsletter: Leroy - Greisch (Rudy)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Leroy - Greisch",
+      "url": "https://trello.com/c/YRmuj8m1/6503-schedule-newsletter-leroy-greisch-rudy",
+      "lastModified": "2024-11-13T13:07:15.522Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "673228d5ba0b22bed9ec2f15",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -380,6 +444,22 @@
       "lastModified": "2024-11-13T08:53:35.094Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6734a812acf9a108783b3dc3",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Complete photo session: Masson - Neudorf (Thomas)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Masson - Neudorf",
+      "url": "https://trello.com/c/TgMZouJ7/6504-complete-photo-session-masson-neudorf-thomas",
+      "lastModified": "2024-11-13T13:22:27.876Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

@@ -257,22 +257,6 @@
       ]
     },
     {
-      "id": "67346d7e1c46323813a9f0a5",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Put listing in window displays: Delbare - Weimershof (Vinciane)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Delbare - Weimershof",
-      "url": "https://trello.com/c/n33QpLoC/6491-put-listing-in-window-displays-delbare-weimershof-vinciane",
-      "lastModified": "2024-11-13T09:12:35.287Z",
-      "associatedAdviser": "Vinciane",
-      "slackUserId": "U01S0CAN9QT",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67346da9dc5eaa803b9ea4f4",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -281,41 +265,9 @@
       "nameShort": "Publish listing to platforms",
       "pipedriveDealName": "Delbare - Weimershof",
       "url": "https://trello.com/c/W8Rx873R/6492-publish-listing-to-platforms-delbare-weimershof-vinciane",
-      "lastModified": "2024-11-13T09:13:35.661Z",
+      "lastModified": "2024-11-13T17:17:38.877Z",
       "associatedAdviser": "Vinciane",
       "slackUserId": "U01S0CAN9QT",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "6734a0e104db0f2b88ba9460",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Put listing in window displays: Gilbertz - Hagelsdorf (Thomas)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Gilbertz - Hagelsdorf",
-      "url": "https://trello.com/c/oEJC3hUr/6499-put-listing-in-window-displays-gilbertz-hagelsdorf-thomas",
-      "lastModified": "2024-11-13T12:51:49.937Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "6734a100d1d2b4c5a0cd1f79",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Publish listing to platforms: Gilbertz - Hagelsdorf (Thomas)",
-      "nameShort": "Publish listing to platforms",
-      "pipedriveDealName": "Gilbertz - Hagelsdorf",
-      "url": "https://trello.com/c/xFDEria7/6500-publish-listing-to-platforms-gilbertz-hagelsdorf-thomas",
-      "lastModified": "2024-11-13T12:52:36.390Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -444,6 +396,38 @@
       "lastModified": "2024-11-11T15:35:46.572Z",
       "associatedAdviser": "Aurore",
       "slackUserId": "U079GJ0BU1E",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67346d7e1c46323813a9f0a5",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Put listing in window displays: Delbare - Weimershof (Vinciane)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Delbare - Weimershof",
+      "url": "https://trello.com/c/n33QpLoC/6491-put-listing-in-window-displays-delbare-weimershof-vinciane",
+      "lastModified": "2024-11-13T17:21:03.671Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6734a0e104db0f2b88ba9460",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Put listing in window displays: Gilbertz - Hagelsdorf (Thomas)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Gilbertz - Hagelsdorf",
+      "url": "https://trello.com/c/oEJC3hUr/6499-put-listing-in-window-displays-gilbertz-hagelsdorf-thomas",
+      "lastModified": "2024-11-13T17:21:11.717Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

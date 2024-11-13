@@ -337,22 +337,6 @@
       ]
     },
     {
-      "id": "673228d5ba0b22bed9ec2f15",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Photoshop request: Leroy - Greisch (Rudy)",
-      "nameShort": "Photoshop request",
-      "pipedriveDealName": "Leroy - Greisch",
-      "url": "https://trello.com/c/2dxKGZRO/6466-photoshop-request-leroy-greisch-rudy",
-      "lastModified": "2024-11-11T15:57:06.808Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
       "id": "673229b5b6512df3046d3b85",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -430,6 +414,22 @@
       "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6734c26d4f55225db53cd1ec",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Audit and upload render assets: Roll - Dudelange (Süleyman)",
+      "nameShort": "Audit and upload render assets",
+      "pipedriveDealName": "Roll - Dudelange",
+      "url": "https://trello.com/c/vqaQwHw2/6505-audit-and-upload-render-assets-roll-dudelange-s%C3%BCleyman",
+      "lastModified": "2024-11-13T15:14:55.343Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
     {

@@ -225,6 +225,22 @@
       ]
     },
     {
+      "id": "673432fb08812e165d437e8b",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Audit weekly marketing expenses",
+      "nameShort": "Audit weekly marketing expenses",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/dADrKP7Q/6487-audit-weekly-marketing-expenses",
+      "lastModified": "2024-11-13T05:02:52.186Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "67339b35c95c711938e1ff5f",
       "idMembers": [
         "5ce414ac7678a40557510d74"

@@ -65,22 +65,6 @@
       ]
     },
     {
-      "id": "6731c7190e72e64e7fce29e0",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Order champagne",
-      "nameShort": "Order champagne",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/bblErtFG/6448-order-champagne",
-      "lastModified": "2024-11-11T08:58:02.373Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "6731eda8207119ee05df3ef2",
       "idMembers": [
         "4fe86ade26d156994a0bee7d"
@@ -241,6 +225,118 @@
       ]
     },
     {
+      "id": "67347ce3d236a0c8ad5edccd",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Purchase item (Rudy)",
+      "nameShort": "Purchase item",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/N0lBx9t6/6493-purchase-item-rudy",
+      "lastModified": "2024-11-13T10:18:13.186Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67347ce9713638d371cb652f",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Purchase item (Rudy)",
+      "nameShort": "Purchase item",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/Mg9afYjt/6494-purchase-item-rudy",
+      "lastModified": "2024-11-13T10:18:18.238Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67347cf117a64ddc46ae9b5c",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "> Purchase item on Amazon.fr (Rudy)",
+      "nameShort": "Purchase item on Amazon.fr",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/Xc91nKVt/6495-purchase-item-on-amazonfr-rudy",
+      "lastModified": "2024-11-13T10:18:26.712Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67346d7e1c46323813a9f0a5",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Put listing in window displays: Delbare - Weimershof (Vinciane)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Delbare - Weimershof",
+      "url": "https://trello.com/c/n33QpLoC/6491-put-listing-in-window-displays-delbare-weimershof-vinciane",
+      "lastModified": "2024-11-13T09:12:35.287Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67346da9dc5eaa803b9ea4f4",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Publish listing to platforms: Delbare - Weimershof (Vinciane)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Delbare - Weimershof",
+      "url": "https://trello.com/c/W8Rx873R/6492-publish-listing-to-platforms-delbare-weimershof-vinciane",
+      "lastModified": "2024-11-13T09:13:35.661Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67347f53ea90aaaa9575671c",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Jung - Mondorf-les-Bains (Rudy)",
+      "nameShort": "Listing modifications",
+      "pipedriveDealName": "Jung - Mondorf-les-Bains",
+      "url": "https://trello.com/c/8aPUvWFi/6496-listing-modification-jung-mondorf-les-bains-rudy",
+      "lastModified": "2024-11-13T10:30:08.807Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67348d4b674cc4c6249b06a7",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Schedule newsletter: Roll - Dudelange (Süleyman)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Roll - Dudelange",
+      "url": "https://trello.com/c/qPtoG2Qh/6497-schedule-newsletter-roll-dudelange-s%C3%BCleyman",
+      "lastModified": "2024-11-13T11:28:13.367Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "673228d5ba0b22bed9ec2f15",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -321,6 +417,38 @@
       ]
     },
     {
+      "id": "6734690d61c3bf28fecf8aaa",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Complete photo session: Saudmont - Rodange (Süleyman)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Saudmont - Rodange",
+      "url": "https://trello.com/c/pXGbdG41/6489-complete-photo-session-saudmont-rodange-s%C3%BCleyman",
+      "lastModified": "2024-11-13T08:53:35.094Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "64243606c586efdda6b161fc",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "🔒 Weekly newsletter [Do not move]",
+      "nameShort": "Weekly newsletter",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
+      "lastModified": "2024-11-13T09:29:51.877Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "66fd27b56946edaa2e2ff5ab",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -366,22 +494,6 @@
       "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "64243606c586efdda6b161fc",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "🔒 Weekly newsletter [Do not move]",
-      "nameShort": "Weekly newsletter",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-11-12T14:34:00.692Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {

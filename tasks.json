@@ -209,22 +209,6 @@
       ]
     },
     {
-      "id": "67347ce3d236a0c8ad5edccd",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Purchase item (Rudy)",
-      "nameShort": "Purchase item",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/N0lBx9t6/6493-purchase-item-rudy",
-      "lastModified": "2024-11-13T10:18:13.186Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67347cf117a64ddc46ae9b5c",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -238,38 +222,6 @@
       "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "6735b8d43a53632f192fefe2",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Set listing as sold: Manes - Canach (Rudy)",
-      "nameShort": "Set listing as sold",
-      "pipedriveDealName": "Manes - Canach",
-      "url": "https://trello.com/c/MIrGYrH7/6509-set-listing-as-sold-manes-canach-rudy",
-      "lastModified": "2024-11-14T08:46:14.660Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "6735ba250b194f9a5a417375",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Set listing as sold: Thines - Uebersyren (Rudy)",
-      "nameShort": "Set listing as sold",
-      "pipedriveDealName": "Thines - Uebersyren",
-      "url": "https://trello.com/c/UL3NZch6/6510-set-listing-as-sold-thines-uebersyren-rudy",
-      "lastModified": "2024-11-14T08:51:51.695Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
@@ -316,22 +268,6 @@
       "lastModified": "2024-11-14T05:40:27.176Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "6735ba2c8a99790de73b7e42",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Put listing in window displays: Gurusamy - Bascharage (Süleyman)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Gurusamy - Bascharage",
-      "url": "https://trello.com/c/UqHgkVRP/6511-put-listing-in-window-displays-gurusamy-bascharage-s%C3%BCleyman",
-      "lastModified": "2024-11-14T08:52:00.603Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -556,6 +492,22 @@
       "lastModified": "2024-11-13T17:21:11.717Z",
       "associatedAdviser": "Thomas",
       "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6735ba2c8a99790de73b7e42",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Put listing in window displays: Gurusamy - Bascharage (Süleyman)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Gurusamy - Bascharage",
+      "url": "https://trello.com/c/UqHgkVRP/6511-put-listing-in-window-displays-gurusamy-bascharage-s%C3%BCleyman",
+      "lastModified": "2024-11-14T12:02:30.747Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

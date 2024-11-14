@@ -257,6 +257,38 @@
       ]
     },
     {
+      "id": "673517e811f6489d67108d59",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Set listing as signed: Dugard - Merl (Thomas)",
+      "nameShort": "Set listing as signed",
+      "pipedriveDealName": "Dugard - Merl",
+      "url": "https://trello.com/c/0054rLyb/6506-set-listing-as-signed-dugard-merl-thomas",
+      "lastModified": "2024-11-13T21:19:37.825Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67358d49e749a876e55fd8e4",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Unhide listing: Leroy - Greisch (Rudy)",
+      "nameShort": "Unhide listing",
+      "pipedriveDealName": "Leroy - Greisch",
+      "url": "https://trello.com/c/2Hpp2qT5/6507-unhide-listing-leroy-greisch-rudy",
+      "lastModified": "2024-11-14T05:40:27.176Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "6734c26d4f55225db53cd1ec",
       "idMembers": [
         "56f10d02921bc403c6d626d1"

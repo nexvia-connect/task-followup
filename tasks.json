@@ -1,22 +1,6 @@
 {
   "cards": [
     {
-      "id": "673356ed5b5c0f22bc50c5ae",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Create statistics report: Cintrão - Clemency (Sandy)",
-      "nameShort": "Statistics report",
-      "pipedriveDealName": "Cintrão - Clemency",
-      "url": "https://trello.com/c/UGazocsR/6483-create-statistics-report-cintr%C3%A3o-clemency-sandy",
-      "lastModified": "2024-11-12T13:25:51.891Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
       "id": "672af7f971657650a5e0d339",
       "idMembers": [
         "56f10d02921bc403c6d626d1"

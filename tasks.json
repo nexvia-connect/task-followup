@@ -81,22 +81,6 @@
       ]
     },
     {
-      "id": "6731edb1e8faa764729bf7ff",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Manage Nuki admin",
-      "nameShort": "Manage Nuki admin",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/FEZOK8om/6457-manage-nuki-admin",
-      "lastModified": "2024-11-11T11:42:41.991Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "6731edb77a8ae749f8ec271e",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -257,6 +241,262 @@
       ]
     },
     {
+      "id": "67367f43f73f0568d153f3f5",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Update profile photo",
+      "nameShort": "Update profile photo",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/0HpkGRp5/6527-update-profile-photo",
+      "lastModified": "2024-11-14T22:52:51.980Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "67367f44de5b2004a91e90e6",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Set-up laptop security",
+      "nameShort": "Set-up laptop security",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/p0JWhRyF/6528-set-up-laptop-security",
+      "lastModified": "2024-11-14T22:53:44.155Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67367f9a667e7be96725ce94",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Set-up laptop software",
+      "nameShort": "Set-up laptop software",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/ELKtvXev/6529-set-up-laptop-software",
+      "lastModified": "2024-11-14T22:54:37.264Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67367fbccf76f37baa402254",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Set-up phone security",
+      "nameShort": "Set-up phone security",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/MUVHcoP0/6530-set-up-phone-security",
+      "lastModified": "2024-11-14T22:55:11.129Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67367fe29fd4d10cf846c342",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Set-up phone software",
+      "nameShort": "Set-up phone software",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/yMBDsfOL/6531-set-up-phone-software",
+      "lastModified": "2024-11-14T22:56:22.836Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "6736d5c6a8e272a9462377f9",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Moderate Facebook comments",
+      "nameShort": "Moderate Facebook comments",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/HzgGl7jU/6532-moderate-facebook-comments",
+      "lastModified": "2024-11-15T05:01:59.621Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "673718ec38f0b4900d4705c6",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Manage Microsoft admin",
+      "nameShort": "Manage Microsoft admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/gurt9iv9/6541-manage-microsoft-admin",
+      "lastModified": "2024-11-15T09:48:29.384Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "673718f3a982144eb1322d97",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Manage Nuki admin",
+      "nameShort": "Manage Nuki admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/IQavLMI8/6542-manage-nuki-admin",
+      "lastModified": "2024-11-15T09:48:36.862Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "673718f9a4aa607e569475cb",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Manage Konica admin",
+      "nameShort": "Manage Konica admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/ikLpS9Hy/6543-manage-konica-admin",
+      "lastModified": "2024-11-15T09:49:48.766Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6737191bc29acdcad563089e",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Buy new laptop",
+      "nameShort": "Buy new laptop",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/2jfCPe8m/6544-buy-new-laptop",
+      "lastModified": "2024-11-15T09:49:16.028Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67370419b63508f35e75f479",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Listing modification: Gurusamy - Bascharage (Süleyman)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "Gurusamy - Bascharage",
+      "url": "https://trello.com/c/z2yKnsk3/6533-listing-modification-gurusamy-bascharage-s%C3%BCleyman",
+      "lastModified": "2024-11-15T08:21:09.850Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67370bce1cc80e35d2f6f361",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Format change",
+      "nameShort": "Format change",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/1JKeCFIf/6534-format-change",
+      "lastModified": "2024-11-15T08:52:31.616Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67370bfeca9b17e8b3eedb4a",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Roll - Dudelange (Süleyman)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Roll - Dudelange",
+      "url": "https://trello.com/c/vmItv9Tp/6537-put-listing-in-window-displays-roll-dudelange-s%C3%BCleyman",
+      "lastModified": "2024-11-15T08:53:22.869Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67370c59e92aaea5e3d39eed",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Publish listing to platforms: Roll - Dudelange (Süleyman)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Roll - Dudelange",
+      "url": "https://trello.com/c/BwMMHJwq/6538-publish-listing-to-platforms-roll-dudelange-s%C3%BCleyman",
+      "lastModified": "2024-11-15T08:55:13.386Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67371365e2fdef5901cc65dc",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Listing modification: Cruz - Fentange (Rudy)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "Cruz - Fentange",
+      "url": "https://trello.com/c/NcKLsdV4/6539-listing-modification-cruz-fentange-rudy",
+      "lastModified": "2024-11-15T09:26:35.779Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67371653db462b51feb672ab",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Listing modification: White - Mamer (Süleyman)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "White - Mamer",
+      "url": "https://trello.com/c/jCe6wHK7/6540-listing-modification-white-mamer-s%C3%BCleyman",
+      "lastModified": "2024-11-15T09:38:36.798Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "6734c26d4f55225db53cd1ec",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -270,6 +510,38 @@
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67370be13ba938da699c588d",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Complete photo session: Strutz - Koerich (Thomas)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Strutz - Koerich",
+      "url": "https://trello.com/c/1lFEIUCT/6535-complete-photo-session-strutz-koerich-thomas",
+      "lastModified": "2024-11-15T08:52:50.376Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "67370bf9e4b058b6b3e34449",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Complete photo session: Leifgen - Remich (Carolina)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Leifgen - Remich",
+      "url": "https://trello.com/c/rhPhofM2/6536-complete-photo-session-leifgen-remich-carolina",
+      "lastModified": "2024-11-15T08:53:14.715Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {

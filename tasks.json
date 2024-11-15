@@ -81,38 +81,6 @@
       ]
     },
     {
-      "id": "6731edb77a8ae749f8ec271e",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Buy new laptop",
-      "nameShort": "Buy new laptop",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/JicUaJsl/6458-buy-new-laptop",
-      "lastModified": "2024-11-11T11:42:58.905Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "6731edd8b6512df304f5f820",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Buy new phone",
-      "nameShort": "Buy new phone",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/HXtDGMCf/6459-buy-new-phone",
-      "lastModified": "2024-11-11T11:43:33.056Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "6731ee20b1a3fd9409d4fc42",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -377,7 +345,7 @@
       "nameShort": "Buy new laptop",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/2jfCPe8m/6544-buy-new-laptop",
-      "lastModified": "2024-11-15T09:49:16.028Z",
+      "lastModified": "2024-11-15T09:50:12.644Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

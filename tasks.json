@@ -241,38 +241,6 @@
       ]
     },
     {
-      "id": "673742aba1a0f1aaff9de1d6",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Format change (Task)",
-      "nameShort": "Format change",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/IIsLycFo/6549-format-change-task",
-      "lastModified": "2024-11-15T12:46:36.521Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "67374482279dad496c89be10",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Publish listing to platforms: Leroy - Greisch (Rudy)",
-      "nameShort": "Publish listing to platforms",
-      "pipedriveDealName": "Leroy - Greisch",
-      "url": "https://trello.com/c/Ydn5efUH/6551-publish-listing-to-platforms-leroy-greisch-rudy",
-      "lastModified": "2024-11-15T12:55:23.452Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67370be13ba938da699c588d",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -412,6 +380,22 @@
       "lastModified": "2024-11-15T10:27:39.117Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6737440930c34535dc61ba65",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Leroy - Greisch (Rudy)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Leroy - Greisch",
+      "url": "https://trello.com/c/u84vxfQj/6550-put-listing-in-window-displays-leroy-greisch-rudy",
+      "lastModified": "2024-11-15T13:06:34.728Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

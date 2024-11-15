@@ -1,6 +1,22 @@
 {
   "cards": [
     {
+      "id": "6731ee20b1a3fd9409d4fc42",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "> Assign laser",
+      "nameShort": "Assign laser",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/ZK6wI5so/6461-assign-laser",
+      "lastModified": "2024-11-15T09:56:44.397Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "6731c2dc9ae86059b3ba5fb6",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -12,7 +28,9 @@
       "lastModified": "2024-11-11T08:41:56.276Z",
       "associatedAdviser": "Romain",
       "slackUserId": "U7BGBRJGH",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "6731c2f87808419ef73ffaa1",
@@ -26,7 +44,9 @@
       "lastModified": "2024-11-11T08:41:56.633Z",
       "associatedAdviser": "Romain",
       "slackUserId": "U7BGBRJGH",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "6731eda8207119ee05df3ef2",
@@ -40,7 +60,9 @@
       "lastModified": "2024-11-11T11:42:33.292Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
+      ]
     },
     {
       "id": "6731eda984eb2dcfb9344c82",
@@ -54,21 +76,9 @@
       "lastModified": "2024-11-11T11:42:47.741Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": []
-    },
-    {
-      "id": "6731ee20b1a3fd9409d4fc42",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "> Assign laser",
-      "nameShort": "Assign laser",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/ZK6wI5so/6461-assign-laser",
-      "lastModified": "2024-11-11T11:44:32.962Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "67333c3ca3ed3060c4ed3a1e",
@@ -82,7 +92,9 @@
       "lastModified": "2024-11-12T11:31:29.678Z",
       "associatedAdviser": "Sandy",
       "slackUserId": "UBK5HTKFF",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "673432fb08812e165d437e8b",
@@ -128,7 +140,9 @@
       "lastModified": "2024-11-14T14:34:13.403Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "6735d1736dd2883e218e7ab3",
@@ -142,7 +156,9 @@
       "lastModified": "2024-11-14T10:31:40.313Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
     },
     {
       "id": "673623d93f9e983ad6669ff8",
@@ -156,7 +172,9 @@
       "lastModified": "2024-11-14T16:23:16.022Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
     },
     {
       "id": "67367f43f73f0568d153f3f5",
@@ -170,7 +188,9 @@
       "lastModified": "2024-11-14T22:52:51.980Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
     },
     {
       "id": "67367f44de5b2004a91e90e6",
@@ -248,7 +268,9 @@
       "lastModified": "2024-11-15T05:01:59.621Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
     },
     {
       "id": "673718f9a4aa607e569475cb",
@@ -262,7 +284,9 @@
       "lastModified": "2024-11-15T09:49:48.766Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "6737191bc29acdcad563089e",
@@ -305,10 +329,28 @@
       "nameShort": "Assign transponder",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/VMyljUFN/6546-assign-transponder",
-      "lastModified": "2024-11-15T09:54:00.537Z",
+      "lastModified": "2024-11-15T09:55:36.909Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67371b0a0fc580f73ef17116",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Assign laser",
+      "nameShort": "Assign laser",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/maDp5ylw/6547-assign-laser",
+      "lastModified": "2024-11-15T09:57:31.367Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
     },
     {
       "id": "67370419b63508f35e75f479",
@@ -338,7 +380,9 @@
       "lastModified": "2024-11-15T08:52:31.616Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "67370bfeca9b17e8b3eedb4a",
@@ -352,7 +396,9 @@
       "lastModified": "2024-11-15T08:53:22.869Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "67370c59e92aaea5e3d39eed",
@@ -366,7 +412,9 @@
       "lastModified": "2024-11-15T08:55:13.386Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "67371365e2fdef5901cc65dc",
@@ -401,22 +449,6 @@
       ]
     },
     {
-      "id": "6734c26d4f55225db53cd1ec",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "> Audit and upload render assets: Roll - Dudelange (Süleyman)",
-      "nameShort": "Audit and upload render assets",
-      "pipedriveDealName": "Roll - Dudelange",
-      "url": "https://trello.com/c/vqaQwHw2/6505-audit-and-upload-render-assets-roll-dudelange-s%C3%BCleyman",
-      "lastModified": "2024-11-13T15:14:55.343Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "67370be13ba938da699c588d",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -428,7 +460,9 @@
       "lastModified": "2024-11-15T08:52:50.376Z",
       "associatedAdviser": "Thomas",
       "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
     },
     {
       "id": "67370bf9e4b058b6b3e34449",
@@ -442,7 +476,9 @@
       "lastModified": "2024-11-15T08:53:14.715Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "64243606c586efdda6b161fc",
@@ -456,7 +492,9 @@
       "lastModified": "2024-11-14T13:00:50.760Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "66fd27b56946edaa2e2ff5ab",
@@ -470,7 +508,9 @@
       "lastModified": "2024-10-15T15:38:34.897Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
     },
     {
       "id": "671b8f7521cc268bd604be7e",
@@ -484,7 +524,9 @@
       "lastModified": "2024-10-28T09:11:27.942Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
     },
     {
       "id": "66fe722b816f447c8b77249e",
@@ -498,7 +540,9 @@
       "lastModified": "2024-10-15T13:06:53.426Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
     },
     {
       "id": "6704f16c25291b59353cd26e",
@@ -512,7 +556,9 @@
       "lastModified": "2024-10-10T12:34:31.181Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
     },
     {
       "id": "6720f237ccd7e418fd4df659",
@@ -526,7 +572,9 @@
       "lastModified": "2024-10-29T15:02:26.880Z",
       "associatedAdviser": "Aurore",
       "slackUserId": "U079GJ0BU1E",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "6720f237450b19e776708a7c",
@@ -540,7 +588,9 @@
       "lastModified": "2024-11-11T15:35:46.572Z",
       "associatedAdviser": "Aurore",
       "slackUserId": "U079GJ0BU1E",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     }
   ]
 }

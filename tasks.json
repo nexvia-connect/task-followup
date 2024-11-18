@@ -209,35 +209,19 @@
       ]
     },
     {
-      "id": "673b3091aacedd301da6d5bf",
+      "id": "673b469bd26b3443d11489ad",
       "idMembers": [
-        "5ce414ac7678a40557510d74"
+        "66d5ca383da59bf7e67f324a"
       ],
-      "name": "Check tenant payment: Karger Reuter - Heisdorf (Aurore)",
-      "nameShort": "Check tenant payment",
-      "pipedriveDealName": "Karger Reuter - Heisdorf",
-      "url": "https://trello.com/c/QLdzvocZ/6575-check-tenant-payment-karger-reuter-heisdorf-aurore",
-      "lastModified": "2024-11-18T12:19:44.844Z",
-      "associatedAdviser": "Aurore",
-      "slackUserId": "U079GJ0BU1E",
+      "name": "Complete photo session: Jung - Fentange (Rudy)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Jung - Fentange",
+      "url": "https://trello.com/c/vtYhfBZk/6579-complete-photo-session-jung-fentange-rudy",
+      "lastModified": "2024-11-18T13:52:29.190Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "673b309f8a65e2c99d85cb3f",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Check tenant payment: d'Esposito - Filsdorf (Aurore)",
-      "nameShort": "Check tenant payment",
-      "pipedriveDealName": "d'Esposito - Filsdorf",
-      "url": "https://trello.com/c/8rYMzUrE/6576-check-tenant-payment-desposito-filsdorf-aurore",
-      "lastModified": "2024-11-18T12:20:06.867Z",
-      "associatedAdviser": "Aurore",
-      "slackUserId": "U079GJ0BU1E",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {

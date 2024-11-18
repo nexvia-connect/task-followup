@@ -225,22 +225,6 @@
       ]
     },
     {
-      "id": "673ae822c188495578a9a5fd",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Prepare weekly newsletter (Task)",
-      "nameShort": "Prepare weekly newsletter",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/mrAM66fK/6571-prepare-weekly-newsletter-task",
-      "lastModified": "2024-11-18T07:09:22.766Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -249,7 +233,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-11-14T13:00:50.760Z",
+      "lastModified": "2024-11-18T09:59:03.844Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

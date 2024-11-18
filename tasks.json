@@ -113,22 +113,6 @@
       ]
     },
     {
-      "id": "6735d1736dd2883e218e7ab3",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "> Answer positive Google review",
-      "nameShort": "Answer positive Google review",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/X3Q3bmYF/6518-answer-positive-google-review",
-      "lastModified": "2024-11-14T10:31:40.313Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
       "id": "673623d93f9e983ad6669ff8",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -225,6 +209,102 @@
       ]
     },
     {
+      "id": "673a73a4cf13db49b83b8290",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Update profile photo (Task)",
+      "nameShort": "Update profile photo",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/Q2hMzgTW/6564-update-profile-photo-task",
+      "lastModified": "2024-11-17T22:52:21.484Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "673a73b8ff9b2630af162c39",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Set-up laptop security (Task)",
+      "nameShort": "Set-up laptop security",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/1IDr8Ajq/6565-set-up-laptop-security-task",
+      "lastModified": "2024-11-17T22:53:52.854Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "673a7453410744c96852aaec",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Set-up laptop software (Task)",
+      "nameShort": "Set-up laptop software",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/8aeyQdVM/6566-set-up-laptop-software-task",
+      "lastModified": "2024-11-17T22:56:02.993Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "673a74d14d1b38ff8ead1e59",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Set-up phone security (Task)",
+      "nameShort": "Set-up phone security",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/5q0bnbZ8/6567-set-up-phone-security-task",
+      "lastModified": "2024-11-17T22:58:14.594Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "673a7542b931b9c8cdef3758",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Set-up phone software (Task)",
+      "nameShort": "Set-up phone software",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/xxRA4JMX/6568-set-up-phone-software-task",
+      "lastModified": "2024-11-17T23:01:34.008Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "673ad0fb75a9ee3257547e8e",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Set listing as signed: Schilling - Ville Haute (Romain)",
+      "nameShort": "Set listing as signed",
+      "pipedriveDealName": "Schilling - Ville Haute",
+      "url": "https://trello.com/c/oYBo8aoO/6570-set-listing-as-signed-schilling-ville-haute-romain",
+      "lastModified": "2024-11-18T05:30:36.843Z",
+      "associatedAdviser": "Romain",
+      "slackUserId": "U7BGBRJGH",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "67385d349fbcb8cc45b32955",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -234,6 +314,86 @@
       "pipedriveDealName": null,
       "url": "https://trello.com/c/tC8Wb4lA/6558-format-change-task",
       "lastModified": "2024-11-16T08:52:04.636Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6739ae3426aca0a111dccafd",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Format change (Task)",
+      "nameShort": "Format change",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/d5s9sXuv/6561-format-change-task",
+      "lastModified": "2024-11-17T08:49:56.493Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6739e5e44977a6bef4e87cf2",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Format change (Task)",
+      "nameShort": "Format change",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/oGNLjWlZ/6562-format-change-task",
+      "lastModified": "2024-11-17T12:47:33.493Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "673a0e7236fd58b90a9c15e4",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Change listing price: Calin - Rodange (Thomas)",
+      "nameShort": "Change listing price",
+      "pipedriveDealName": "Calin - Rodange",
+      "url": "https://trello.com/c/iLrCmL7o/6563-change-listing-price-calin-rodange-thomas",
+      "lastModified": "2024-11-17T15:41:49.046Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "673a801d264eb257df916089",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Boost listings on Athome (Task)",
+      "nameShort": "Boost listings on Athome",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/3wqs2BfU/6569-boost-listings-on-athome-task",
+      "lastModified": "2024-11-17T23:45:34.239Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "673ae822c188495578a9a5fd",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Prepare weekly newsletter (Task)",
+      "nameShort": "Prepare weekly newsletter",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/mrAM66fK/6571-prepare-weekly-newsletter-task",
+      "lastModified": "2024-11-18T07:09:22.766Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

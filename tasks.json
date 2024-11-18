@@ -65,22 +65,6 @@
       ]
     },
     {
-      "id": "6731eda984eb2dcfb9344c82",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Manage Konica admin",
-      "nameShort": "Manage Konica admin",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/rlBF2ucM/6452-manage-konica-admin",
-      "lastModified": "2024-11-11T11:42:47.741Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67333c3ca3ed3060c4ed3a1e",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -126,22 +110,6 @@
       "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "673718f9a4aa607e569475cb",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Manage Konica admin",
-      "nameShort": "Manage Konica admin",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/ikLpS9Hy/6543-manage-konica-admin",
-      "lastModified": "2024-11-15T09:49:48.766Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
@@ -241,22 +209,6 @@
       ]
     },
     {
-      "id": "673ad0fb75a9ee3257547e8e",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Set listing as signed: Schilling - Ville Haute (Romain)",
-      "nameShort": "Set listing as signed",
-      "pipedriveDealName": "Schilling - Ville Haute",
-      "url": "https://trello.com/c/oYBo8aoO/6570-set-listing-as-signed-schilling-ville-haute-romain",
-      "lastModified": "2024-11-18T05:30:36.843Z",
-      "associatedAdviser": "Romain",
-      "slackUserId": "U7BGBRJGH",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "6739e5e44977a6bef4e87cf2",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -350,6 +302,38 @@
       "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "6731eda984eb2dcfb9344c82",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "> Manage Konica admin",
+      "nameShort": "Manage Konica admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/rlBF2ucM/6452-manage-konica-admin",
+      "lastModified": "2024-11-18T09:54:33.272Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "673718f9a4aa607e569475cb",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Manage Konica admin",
+      "nameShort": "Manage Konica admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/ikLpS9Hy/6543-manage-konica-admin",
+      "lastModified": "2024-11-18T09:54:19.167Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {

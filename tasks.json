@@ -257,22 +257,6 @@
       ]
     },
     {
-      "id": "6739ae3426aca0a111dccafd",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Format change (Task)",
-      "nameShort": "Format change",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/d5s9sXuv/6561-format-change-task",
-      "lastModified": "2024-11-17T08:49:56.493Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "6739e5e44977a6bef4e87cf2",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -284,22 +268,6 @@
       "lastModified": "2024-11-17T12:47:33.493Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "673a0e7236fd58b90a9c15e4",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Change listing price: Calin - Rodange (Thomas)",
-      "nameShort": "Change listing price",
-      "pipedriveDealName": "Calin - Rodange",
-      "url": "https://trello.com/c/iLrCmL7o/6563-change-listing-price-calin-rodange-thomas",
-      "lastModified": "2024-11-17T15:41:49.046Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

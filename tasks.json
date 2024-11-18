@@ -209,6 +209,22 @@
       ]
     },
     {
+      "id": "673b5f74561963d714c650ce",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Create commune description: Bizau - Steinheim (Carolina)",
+      "nameShort": "Create commune description",
+      "pipedriveDealName": "Bizau - Steinheim",
+      "url": "https://trello.com/c/tqtpsERc/6580-create-commune-description-bizau-steinheim-carolina",
+      "lastModified": "2024-11-18T15:38:29.721Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "673b469bd26b3443d11489ad",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -316,22 +332,6 @@
       "lastModified": "2024-10-15T13:06:53.426Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "6704f16c25291b59353cd26e",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Photoshop request: Siebenaler - Mamer (Süleyman)",
-      "nameShort": "Photoshop request",
-      "pipedriveDealName": "Siebenaler - Mamer",
-      "url": "https://trello.com/c/7ORYM7H3/6052-photoshop-request-siebenaler-mamer-s%C3%BCleyman",
-      "lastModified": "2024-10-10T12:34:31.181Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]

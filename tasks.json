@@ -1,22 +1,6 @@
 {
   "cards": [
     {
-      "id": "6731ee20b1a3fd9409d4fc42",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "> Assign laser",
-      "nameShort": "Assign laser",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/ZK6wI5so/6461-assign-laser",
-      "lastModified": "2024-11-15T09:56:44.397Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
       "id": "6731c2dc9ae86059b3ba5fb6",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -97,22 +81,6 @@
       ]
     },
     {
-      "id": "67371b0a0fc580f73ef17116",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Assign laser",
-      "nameShort": "Assign laser",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/maDp5ylw/6547-assign-laser",
-      "lastModified": "2024-11-15T09:57:31.367Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
       "id": "673a73a4cf13db49b83b8290",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -126,22 +94,6 @@
       "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "673a7453410744c96852aaec",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Set-up laptop software (Task)",
-      "nameShort": "Set-up laptop software",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/8aeyQdVM/6566-set-up-laptop-software-task",
-      "lastModified": "2024-11-19T10:33:26.308Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
     {
@@ -174,6 +126,70 @@
       "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "673c9fb0e857fb5e392f1a81",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "{TEST} Order business cards (Omer)",
+      "nameShort": "Order business cards",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/SHk5WEHB/6591-test-order-business-cards-omer",
+      "lastModified": "2024-11-19T14:25:12.551Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "673c9fbc1ae830087d943191",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "{TEST} Order business cards (Maéva)",
+      "nameShort": "Order business cards",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/b1DJvKDK/6592-test-order-business-cards-ma%C3%A9va",
+      "lastModified": "2024-11-19T14:25:07.574Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U42NKHH5L",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "673ca0b506370eaf4b2c3fbc",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Set e-mail signature (Omer)",
+      "nameShort": "Set e-mail signature",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/2M2BXHiG/6593-set-e-mail-signature-omer",
+      "lastModified": "2024-11-19T14:29:11.958Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "673ca0c211263eefe3cb89dc",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Set e-mail signature (Maeva)",
+      "nameShort": "Set e-mail signature",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/y2n4714n/6594-set-e-mail-signature-maeva",
+      "lastModified": "2024-11-19T14:29:23.983Z",
+      "associatedAdviser": "Maeva",
+      "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {

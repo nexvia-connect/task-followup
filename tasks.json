@@ -197,11 +197,11 @@
       "idMembers": [
         "56f10d02921bc403c6d626d1"
       ],
-      "name": "{TEST} Manage online classes (Omer)",
+      "name": "Manage online classes (Omer)",
       "nameShort": "Manage online classes",
       "pipedriveDealName": null,
-      "url": "https://trello.com/c/n2MsadoV/6596-test-manage-online-classes-omer",
-      "lastModified": "2024-11-19T15:46:00.282Z",
+      "url": "https://trello.com/c/n2MsadoV/6596-manage-online-classes-omer",
+      "lastModified": "2024-11-19T18:49:40.623Z",
       "associatedAdviser": "Omer",
       "slackUserId": "U080CU2EX62",
       "avatarUrls": [
@@ -225,6 +225,54 @@
       ]
     },
     {
+      "id": "673cc9e449c772a95dfaf0f0",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "{TEST} Manage online classes (Maéva)",
+      "nameShort": "Manage online classes",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/2rEBjKzh/6599-test-manage-online-classes-ma%C3%A9va",
+      "lastModified": "2024-11-19T17:24:54.234Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "673cca8e846a19be8d67edfc",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Check tenant payment: Teixeira - Grund (Maeva)",
+      "nameShort": "Check tenant payment",
+      "pipedriveDealName": "Teixeira - Grund",
+      "url": "https://trello.com/c/qW9zoHCg/6600-check-tenant-payment-teixeira-grund-maeva",
+      "lastModified": "2024-11-19T17:28:02.246Z",
+      "associatedAdviser": "Maeva",
+      "slackUserId": "U044CKLT9HD",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "673ccac28ac2327c484df10c",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Set booking page offline: Teixeira - Grund (Maeva)",
+      "nameShort": "Set booking page offline",
+      "pipedriveDealName": "Teixeira - Grund",
+      "url": "https://trello.com/c/NZlfvauv/6601-set-booking-page-offline-teixeira-grund-maeva",
+      "lastModified": "2024-11-19T17:28:35.899Z",
+      "associatedAdviser": "Maeva",
+      "slackUserId": "U044CKLT9HD",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "673cb30c700be14f72b38b7c",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -241,19 +289,19 @@
       ]
     },
     {
-      "id": "673c76fdfd0dd5d5b81b341c",
+      "id": "673cdc799bf02545205c3aa8",
       "idMembers": [
-        "56f10d02921bc403c6d626d1"
+        "5ce414ac7678a40557510d74"
       ],
-      "name": "Audit and upload render assets: Gurusamy - Bascharage (Süleyman)",
-      "nameShort": "Audit and upload render assets",
-      "pipedriveDealName": "Gurusamy - Bascharage",
-      "url": "https://trello.com/c/IbA92jgE/6588-audit-and-upload-render-assets-gurusamy-bascharage-s%C3%BCleyman",
-      "lastModified": "2024-11-19T11:31:12.622Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
+      "name": "Listing creation for Masson - Neudorf (Thomas)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/An1BLPkH/6602-listing-creation-for-masson-neudorf-thomas",
+      "lastModified": "2024-11-19T18:44:12.439Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {

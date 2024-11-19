@@ -177,22 +177,6 @@
       ]
     },
     {
-      "id": "673c8cd81157e1d0af01f79f",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Listing creation for Strutz - Koerich (Thomas)",
-      "nameShort": "Listing creation",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/4uYFuYZn/6589-listing-creation-for-strutz-koerich-thomas",
-      "lastModified": "2024-11-19T13:05:04.407Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "673c76fdfd0dd5d5b81b341c",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -206,6 +190,22 @@
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "673c98b332eadcecce86a6b2",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Upload Giraffe assets to Drive: Jung - Fentange (Rudy)",
+      "nameShort": "Upload Giraffe assets to Drive",
+      "pipedriveDealName": "Jung - Fentange",
+      "url": "https://trello.com/c/61LrH1zt/6590-upload-giraffe-assets-to-drive-jung-fentange-rudy",
+      "lastModified": "2024-11-19T13:55:00.851Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {
@@ -238,6 +238,22 @@
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "673c8cd81157e1d0af01f79f",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing creation for Strutz - Koerich (Thomas)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/4uYFuYZn/6589-listing-creation-for-strutz-koerich-thomas",
+      "lastModified": "2024-11-19T14:09:01.765Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {

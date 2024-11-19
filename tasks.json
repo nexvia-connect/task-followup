@@ -145,22 +145,6 @@
       ]
     },
     {
-      "id": "673a73b8ff9b2630af162c39",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Set-up laptop security (Task)",
-      "nameShort": "Set-up laptop security",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/1IDr8Ajq/6565-set-up-laptop-security-task",
-      "lastModified": "2024-11-17T22:53:52.854Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "673a7453410744c96852aaec",
       "idMembers": [
         "56f10d02921bc403c6d626d1"

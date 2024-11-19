@@ -185,7 +185,7 @@
       "nameShort": "Set-up phone security",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/5q0bnbZ8/6567-set-up-phone-security-task",
-      "lastModified": "2024-11-17T22:58:14.594Z",
+      "lastModified": "2024-11-19T09:10:46.165Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [
@@ -222,6 +222,22 @@
       "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "673c51bb076e17f02a936855",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Complete photo session: Muhovic - Belvaux (Sandy)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Muhovic - Belvaux",
+      "url": "https://trello.com/c/NQoGSxXQ/6586-complete-photo-session-muhovic-belvaux-sandy",
+      "lastModified": "2024-11-19T08:52:12.917Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {

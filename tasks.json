@@ -117,11 +117,11 @@
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
       ],
-      "name": "{TEST} Order business cards (Omer)",
+      "name": "Order business cards (Omer)",
       "nameShort": "Order business cards",
       "pipedriveDealName": null,
-      "url": "https://trello.com/c/SHk5WEHB/6591-test-order-business-cards-omer",
-      "lastModified": "2024-11-19T14:25:12.551Z",
+      "url": "https://trello.com/c/SHk5WEHB/6591-order-business-cards-omer",
+      "lastModified": "2024-11-19T15:16:55.548Z",
       "associatedAdviser": "Omer",
       "slackUserId": "U080CU2EX62",
       "avatarUrls": [
@@ -133,11 +133,11 @@
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
       ],
-      "name": "{TEST} Order business cards (Maéva)",
+      "name": "Order business cards (Maéva)",
       "nameShort": "Order business cards",
       "pipedriveDealName": null,
-      "url": "https://trello.com/c/b1DJvKDK/6592-test-order-business-cards-ma%C3%A9va",
-      "lastModified": "2024-11-19T14:25:07.574Z",
+      "url": "https://trello.com/c/b1DJvKDK/6592-order-business-cards-ma%C3%A9va",
+      "lastModified": "2024-11-19T15:17:07.619Z",
       "associatedAdviser": "Maéva",
       "slackUserId": "U42NKHH5L",
       "avatarUrls": [
@@ -177,6 +177,70 @@
       ]
     },
     {
+      "id": "673cb1f5d947c55001013ac5",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Purchase item on Amazon.fr (Maéva)",
+      "nameShort": "Purchase item on Amazon.fr",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/4rcBJph1/6595-purchase-item-on-amazonfr-ma%C3%A9va",
+      "lastModified": "2024-11-19T15:42:46.765Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "673cb2b6545137a12c9210e2",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "{TEST} Manage online classes (Omer)",
+      "nameShort": "Manage online classes",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/n2MsadoV/6596-test-manage-online-classes-omer",
+      "lastModified": "2024-11-19T15:46:00.282Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "673cb3c23962f8295b2528e6",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Purchase item on Amazon.fr (Maéva)",
+      "nameShort": "Purchase item on Amazon.fr",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/fCMNobLG/6598-purchase-item-on-amazonfr-ma%C3%A9va",
+      "lastModified": "2024-11-19T15:50:27.195Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "673cb30c700be14f72b38b7c",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing creation for Silva - Cents (Thomas)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/tEUt8rxs/6597-listing-creation-for-silva-cents-thomas",
+      "lastModified": "2024-11-19T15:47:25.631Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "673c76fdfd0dd5d5b81b341c",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -190,22 +254,6 @@
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "673c98b332eadcecce86a6b2",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Upload Giraffe assets to Drive: Jung - Fentange (Rudy)",
-      "nameShort": "Upload Giraffe assets to Drive",
-      "pipedriveDealName": "Jung - Fentange",
-      "url": "https://trello.com/c/61LrH1zt/6590-upload-giraffe-assets-to-drive-jung-fentange-rudy",
-      "lastModified": "2024-11-19T13:55:00.851Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {

@@ -177,17 +177,17 @@
       ]
     },
     {
-      "id": "673cdc799bf02545205c3aa8",
+      "id": "673dcfdc81710a6376a9f8ed",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Listing creation for Masson - Neudorf (Thomas)",
-      "nameShort": "Listing creation",
+      "name": "Purchase item (Xavier)",
+      "nameShort": "Purchase item",
       "pipedriveDealName": null,
-      "url": "https://trello.com/c/An1BLPkH/6602-listing-creation-for-masson-neudorf-thomas",
-      "lastModified": "2024-11-19T18:44:12.439Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
+      "url": "https://trello.com/c/A76YvKao/6620-purchase-item-xavier",
+      "lastModified": "2024-11-20T12:02:37.953Z",
+      "associatedAdviser": "Xavier",
+      "slackUserId": "U44HL0DMX",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -206,6 +206,86 @@
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "673ddb0e215c9dad046a0445",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop for Jung - Fentange (Rudy)",
+      "nameShort": "Photoshop",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/PjHNyDkf/6621-photoshop-for-jung-fentange-rudy",
+      "lastModified": "2024-11-20T12:50:34.950Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "673ddb20dc40de0e5053e879",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop for Jung+-+Fentange (Rudy)",
+      "nameShort": "Photoshop",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/WmkLSyBz/6622-photoshop-for-jung-fentange-rudy",
+      "lastModified": "2024-11-20T12:50:52.600Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "673ddb3d880ee3dfac324882",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop for Jung+-+Fentange (Rudy)",
+      "nameShort": "Photoshop",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/1tfvgWkN/6623-photoshop-for-jung-fentange-rudy",
+      "lastModified": "2024-11-20T12:51:21.912Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "673ddb4f59f2543c99b23e96",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop for Jung+-+Fentange (Rudy)",
+      "nameShort": "Photoshop",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/8BXTH8cz/6624-photoshop-for-jung-fentange-rudy",
+      "lastModified": "2024-11-20T12:51:37.787Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "673ddb7289511e4a62a369ff",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Complete photo session (Thomas)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/YrKclA68/6625-complete-photo-session-thomas",
+      "lastModified": "2024-11-20T12:52:04.377Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {

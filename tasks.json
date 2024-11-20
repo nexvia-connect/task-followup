@@ -177,22 +177,6 @@
       ]
     },
     {
-      "id": "673cb30c700be14f72b38b7c",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Listing creation for Silva - Cents (Thomas)",
-      "nameShort": "Listing creation",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/tEUt8rxs/6597-listing-creation-for-silva-cents-thomas",
-      "lastModified": "2024-11-19T15:47:25.631Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "673cdc799bf02545205c3aa8",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -284,6 +268,22 @@
       "lastModified": "2024-11-18T09:55:34.277Z",
       "associatedAdviser": null,
       "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "673cb30c700be14f72b38b7c",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing creation for Silva - Cents (Thomas)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/tEUt8rxs/6597-listing-creation-for-silva-cents-thomas",
+      "lastModified": "2024-11-20T10:27:21.505Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

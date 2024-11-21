@@ -121,7 +121,7 @@
       "nameShort": "Schedule newsletter",
       "pipedriveDealName": "Strutz - Koerich",
       "url": "https://trello.com/c/vNicssxR/6642-schedule-newsletter-strutz-koerich-thomas",
-      "lastModified": "2024-11-21T15:20:45.325Z",
+      "lastModified": "2024-11-21T15:30:22.303Z",
       "associatedAdviser": "Thomas",
       "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
@@ -154,6 +154,54 @@
       "pipedriveDealName": "Jauvat - Pulvermuhl",
       "url": "https://trello.com/c/qaAXSusT/6640-upload-giraffe-assets-to-drive-jauvat-pulvermuhl-thomas",
       "lastModified": "2024-11-21T14:04:42.433Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "673f511638a119f362d32cd0",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop for Jauvat - Pulvermuhl (Thomas)",
+      "nameShort": "Photoshop",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/Q1eDV4kw/6644-photoshop-for-jauvat-pulvermuhl-thomas",
+      "lastModified": "2024-11-21T15:26:23.815Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "673f512246b9f740d97a9614",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop for Jauvat+-+Pulvermuhl (Thomas)",
+      "nameShort": "Photoshop",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/JXH1zpdE/6645-photoshop-for-jauvat-pulvermuhl-thomas",
+      "lastModified": "2024-11-21T15:26:36.328Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "673f513072118595696b178a",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop for Jauvat+-+Pulvermuhl (Thomas)",
+      "nameShort": "Photoshop",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/w40BtrvI/6646-photoshop-for-jauvat-pulvermuhl-thomas",
+      "lastModified": "2024-11-21T15:26:49.724Z",
       "associatedAdviser": "Thomas",
       "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [

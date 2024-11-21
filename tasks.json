@@ -113,17 +113,33 @@
       ]
     },
     {
-      "id": "673f0832492038446f997f95",
+      "id": "673f4fcb7e7bda380dae083c",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Listing creation for Jung - Fentange (Rudy)",
-      "nameShort": "Listing creation",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/HRk6J5a6/6637-listing-creation-for-jung-fentange-rudy",
-      "lastModified": "2024-11-21T10:19:33.625Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
+      "name": "Schedule newsletter: Strutz - Koerich (Thomas)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Strutz - Koerich",
+      "url": "https://trello.com/c/vNicssxR/6642-schedule-newsletter-strutz-koerich-thomas",
+      "lastModified": "2024-11-21T15:20:45.325Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "673f4fcf7b2456192e2c9bae",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Schedule newsletter: Silva - Cents (Thomas)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Silva - Cents",
+      "url": "https://trello.com/c/v2LbaWDn/6643-schedule-newsletter-silva-cents-thomas",
+      "lastModified": "2024-11-21T15:20:49.215Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

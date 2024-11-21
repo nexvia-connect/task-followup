@@ -17,22 +17,6 @@
       ]
     },
     {
-      "id": "673b5f74561963d714c650ce",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Create commune description: Bizau - Steinheim (Carolina)",
-      "nameShort": "Create commune description",
-      "pipedriveDealName": "Bizau - Steinheim",
-      "url": "https://trello.com/c/tqtpsERc/6580-create-commune-description-bizau-steinheim-carolina",
-      "lastModified": "2024-11-18T15:38:29.721Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "673c9fb0e857fb5e392f1a81",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -85,11 +69,11 @@
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
       ],
-      "name": "Set e-mail signature (Maeva)",
+      "name": "Set e-mail signature (Maéva)",
       "nameShort": "Set e-mail signature",
       "pipedriveDealName": null,
-      "url": "https://trello.com/c/y2n4714n/6594-set-e-mail-signature-maeva",
-      "lastModified": "2024-11-19T14:29:23.983Z",
+      "url": "https://trello.com/c/y2n4714n/6594-set-e-mail-signature-ma%C3%A9va",
+      "lastModified": "2024-11-20T15:50:09.948Z",
       "associatedAdviser": "Maeva",
       "slackUserId": "U080Y7JP9T3",
       "avatarUrls": [
@@ -113,17 +97,113 @@
       ]
     },
     {
-      "id": "673cca8e846a19be8d67edfc",
+      "id": "673e175ef04f90de3f43b724",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Purchase item on Amazon.fr (Omer)",
+      "nameShort": "Purchase item on Amazon.fr",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/jojahSoB/6626-purchase-item-on-amazonfr-omer",
+      "lastModified": "2024-11-20T17:07:43.071Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "673e17e00e91ed2f48920dfc",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Purchase item on Amazon.fr (Omer)",
+      "nameShort": "Purchase item on Amazon.fr",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/tTSxA8sV/6627-purchase-item-on-amazonfr-omer",
+      "lastModified": "2024-11-20T17:09:53.885Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "673e1a11f7f159ab758702c6",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Purchase item on Amazon.fr (Omer)",
+      "nameShort": "Purchase item on Amazon.fr",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/AGXAUCn9/6630-purchase-item-on-amazonfr-omer",
+      "lastModified": "2024-11-20T17:19:14.627Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "673efd97b92ed833f041339b",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Check tenant payment: Teixeira - Grund (Maeva)",
-      "nameShort": "Check tenant payment",
-      "pipedriveDealName": "Teixeira - Grund",
-      "url": "https://trello.com/c/qW9zoHCg/6600-check-tenant-payment-teixeira-grund-maeva",
-      "lastModified": "2024-11-19T17:28:02.246Z",
+      "name": "Set listing as signed: Fondeur - Limpertsberg (Sandy)",
+      "nameShort": "Set listing as signed",
+      "pipedriveDealName": "Fondeur - Limpertsberg",
+      "url": "https://trello.com/c/8XiL4CNQ/6636-set-listing-as-signed-fondeur-limpertsberg-sandy",
+      "lastModified": "2024-11-21T09:30:01.760Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "673efcaccb7991515fcf0805",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Share rental on FB and Linkedin: Becolux - Gare (Maeva)",
+      "nameShort": "Share rental on FB and Linkedin",
+      "pipedriveDealName": "Becolux - Gare",
+      "url": "https://trello.com/c/xbTNOdt5/6634-share-rental-on-fb-and-linkedin-becolux-gare-maeva",
+      "lastModified": "2024-11-21T09:26:06.199Z",
       "associatedAdviser": "Maeva",
       "slackUserId": "U044CKLT9HD",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "673efd1f77d2c0bc6638ff0b",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification for Saudmont+-+Rodange (Süleyman)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/W8sI8TpM/6635-listing-modification-for-saudmont-rodange-s%C3%BCleyman",
+      "lastModified": "2024-11-21T09:28:01.515Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "673f0832492038446f997f95",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing creation for Jung - Fentange (Rudy)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/HRk6J5a6/6637-listing-creation-for-jung-fentange-rudy",
+      "lastModified": "2024-11-21T10:18:57.849Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -142,6 +222,54 @@
       "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "673e64c03daf626f77527bb2",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing photo modifications for Gurusamy - Bascharage (Süleyman)",
+      "nameShort": "Listing photo modifications",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/aRPiqAVB/6631-listing-photo-modifications-for-gurusamy-bascharage-s%C3%BCleyman",
+      "lastModified": "2024-11-20T22:37:54.648Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "673efb65e4ca4ba34ba9bfee",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Complete photo session: Schmitz - Holzem (Süleyman)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Schmitz - Holzem",
+      "url": "https://trello.com/c/gMWAVbxJ/6632-complete-photo-session-schmitz-holzem-s%C3%BCleyman",
+      "lastModified": "2024-11-21T09:20:39.153Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "673efbc63c2f21269dbe0add",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing photo modifications for Saudmont - Rodange (Süleyman)",
+      "nameShort": "Listing photo modifications",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/VFDoyuxh/6633-listing-photo-modifications-for-saudmont-rodange-s%C3%BCleyman",
+      "lastModified": "2024-11-21T09:22:16.174Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
@@ -236,6 +364,22 @@
       "lastModified": "2024-11-20T14:06:18.604Z",
       "associatedAdviser": "Xavier",
       "slackUserId": "U44HL0DMX",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "673cca8e846a19be8d67edfc",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Check tenant payment: Teixeira - Grund (Maeva)",
+      "nameShort": "Check tenant payment",
+      "pipedriveDealName": "Teixeira - Grund",
+      "url": "https://trello.com/c/qW9zoHCg/6600-check-tenant-payment-teixeira-grund-maeva",
+      "lastModified": "2024-11-20T15:57:18.492Z",
+      "associatedAdviser": "Maeva",
+      "slackUserId": "U044CKLT9HD",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

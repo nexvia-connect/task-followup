@@ -161,38 +161,6 @@
       ]
     },
     {
-      "id": "6740536e87da5be9b138e37d",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Schedule newsletter: Saudmont - Rodange (Süleyman)",
-      "nameShort": "Schedule newsletter",
-      "pipedriveDealName": "Saudmont - Rodange",
-      "url": "https://trello.com/c/88AWd9gb/6656-schedule-newsletter-saudmont-rodange-s%C3%BCleyman",
-      "lastModified": "2024-11-22T09:48:33.579Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "674056842a62191dd3babdb1",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Schedule newsletter: Jung - Fentange (Rudy)",
-      "nameShort": "Schedule newsletter",
-      "pipedriveDealName": "Jung - Fentange",
-      "url": "https://trello.com/c/Tc6qPSZL/6658-schedule-newsletter-jung-fentange-rudy",
-      "lastModified": "2024-11-22T10:01:42.615Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "674058bd0d7883228aed56e7",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"

@@ -129,6 +129,22 @@
       ]
     },
     {
+      "id": "674080f71eb9cde3166b6d26",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Transport item from Royal to Theatre (Xavier)",
+      "nameShort": "Transport item from Royal to Theatre",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/NviSdcdY/6663-transport-item-from-royal-to-theatre-xavier",
+      "lastModified": "2024-11-22T13:02:48.445Z",
+      "associatedAdviser": "Xavier",
+      "slackUserId": "U44HL0DMX",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "674038dddff87544bc060914",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -145,6 +161,22 @@
       ]
     },
     {
+      "id": "674080bde07f34250f28db9b",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Share listing on FB and Linkedin: Jauvat - Pulvermuhl (Thomas)",
+      "nameShort": "Share listing on FB and Linkedin",
+      "pipedriveDealName": "Jauvat - Pulvermuhl",
+      "url": "https://trello.com/c/1cXkwny1/6662-share-listing-on-fb-and-linkedin-jauvat-pulvermuhl-thomas",
+      "lastModified": "2024-11-22T13:01:52.337Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -153,7 +185,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-11-22T09:01:27.272Z",
+      "lastModified": "2024-11-22T13:00:01.158Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

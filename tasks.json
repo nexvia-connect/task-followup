@@ -161,17 +161,33 @@
       ]
     },
     {
-      "id": "67443d1d3ddcbc02104c8949",
+      "id": "67444d564fabec38a52a15be",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Prepare notary documents for Valaise - Fentange (Romain)",
+      "nameShort": "Prepare notary documents",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/4EI8RWpc/6676-prepare-notary-documents-for-valaise-fentange-romain",
+      "lastModified": "2024-11-25T10:11:36.824Z",
+      "associatedAdviser": "Romain",
+      "slackUserId": "U7BGBRJGH",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67444f76eac5d28bc3e10cf4",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
       ],
-      "name": "Share listing on FB and Linkedin: Silva - Cents (Thomas)",
-      "nameShort": "Share listing on FB and Linkedin",
-      "pipedriveDealName": "Silva - Cents",
-      "url": "https://trello.com/c/WVk57OlG/6672-share-listing-on-fb-and-linkedin-silva-cents-thomas",
-      "lastModified": "2024-11-25T09:02:23.601Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
+      "name": "Update profile photo (Maeva)",
+      "nameShort": "Update profile photo",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/4bCzRTzW/6677-update-profile-photo-maeva",
+      "lastModified": "2024-11-25T10:20:39.745Z",
+      "associatedAdviser": "Maeva",
+      "slackUserId": "U044CKLT9HD",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
@@ -185,7 +201,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-11-25T10:00:18.866Z",
+      "lastModified": "2024-11-25T10:30:29.552Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

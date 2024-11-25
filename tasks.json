@@ -177,6 +177,22 @@
       ]
     },
     {
+      "id": "67448b835e28df628cf6c655",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Prepare notary documents for Hottua - Bertrange (Thomas)",
+      "nameShort": "Prepare notary documents",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/zpDE6whM/6679-prepare-notary-documents-for-hottua-bertrange-thomas",
+      "lastModified": "2024-11-25T14:36:54.200Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -220,22 +236,6 @@
       "lastModified": "2024-11-11T15:35:46.572Z",
       "associatedAdviser": "Aurore",
       "slackUserId": "U079GJ0BU1E",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "673dcfdc81710a6376a9f8ed",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Purchase item (Xavier)",
-      "nameShort": "Purchase item",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/A76YvKao/6620-purchase-item-xavier",
-      "lastModified": "2024-11-20T14:06:18.604Z",
-      "associatedAdviser": "Xavier",
-      "slackUserId": "U44HL0DMX",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

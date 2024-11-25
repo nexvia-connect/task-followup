@@ -193,19 +193,19 @@
       ]
     },
     {
-      "id": "674493f7121e01fe0bab9acb",
+      "id": "6744964db27243b635616d74",
       "idMembers": [
-        "5ce414ac7678a40557510d74"
+        "56f10d02921bc403c6d626d1"
       ],
-      "name": "Floor plan room name change for Schmitz - Holzem (Süleyman)",
-      "nameShort": "Floor plan room name change",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/isyjy58R/6680-floor-plan-room-name-change-for-schmitz-holzem-s%C3%BCleyman",
-      "lastModified": "2024-11-25T15:12:57.146Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
+      "name": "Missing deal Pipedrive information: Becolux - Gare (Maeva)",
+      "nameShort": "Missing deal Pipedrive information",
+      "pipedriveDealName": "Becolux - Gare",
+      "url": "https://trello.com/c/xBnoK1qC/6685-missing-deal-pipedrive-information-becolux-gare-maeva",
+      "lastModified": "2024-11-25T15:22:55.456Z",
+      "associatedAdviser": "Maeva",
+      "slackUserId": "U044CKLT9HD",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
     {
@@ -254,6 +254,22 @@
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "674496682ecd8020c87b9174",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Floor plan room name change for Schmitz+-+Holzem (Süleyman)",
+      "nameShort": "Floor plan room name change",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/cQl40qmQ/6686-floor-plan-room-name-change-for-schmitz-holzem-s%C3%BCleyman",
+      "lastModified": "2024-11-25T15:23:22.959Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {

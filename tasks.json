@@ -177,22 +177,6 @@
       ]
     },
     {
-      "id": "674436bf6fb0cb913d2646c4",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Schedule newsletter: Jung - Mondorf-les-Bains (Rudy)",
-      "nameShort": "Schedule newsletter",
-      "pipedriveDealName": "Jung - Mondorf-les-Bains",
-      "url": "https://trello.com/c/S3HwYAKA/6670-schedule-newsletter-jung-mondorf-les-bains-rudy",
-      "lastModified": "2024-11-25T08:35:13.137Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67443a92fd43299b21856d10",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -233,7 +217,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-11-25T09:00:24.251Z",
+      "lastModified": "2024-11-25T09:42:32.476Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

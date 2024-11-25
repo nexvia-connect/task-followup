@@ -145,6 +145,118 @@
       ]
     },
     {
+      "id": "6743ade7ec1faf2375075fa0",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Order business cards (Task)",
+      "nameShort": "Order business cards",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/8Jvra6P2/6666-order-business-cards-task",
+      "lastModified": "2024-11-24T22:53:42.158Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "67435104f24d5bad25ea1842",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Change listing price for Bormann - Colmar Berg (Thomas)",
+      "nameShort": "Change listing price",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/4bCP3CtI/6665-change-listing-price-for-bormann-colmar-berg-thomas",
+      "lastModified": "2024-11-24T16:15:02.684Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6744059945cb441ddf42cb50",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Prepare weekly newsletter (Task)",
+      "nameShort": "Prepare weekly newsletter",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/m7fhT9fu/6667-prepare-weekly-newsletter-task",
+      "lastModified": "2024-11-25T05:05:30.031Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67443642fdd638d57819a5dd",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification for Jung - Fentange (Rudy)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/zm12DS9j/6669-listing-modification-for-jung-fentange-rudy",
+      "lastModified": "2024-11-25T08:33:08.676Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "674436bf6fb0cb913d2646c4",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Schedule newsletter: Jung - Mondorf-les-Bains (Rudy)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Jung - Mondorf-les-Bains",
+      "url": "https://trello.com/c/S3HwYAKA/6670-schedule-newsletter-jung-mondorf-les-bains-rudy",
+      "lastModified": "2024-11-25T08:35:13.137Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67443a92fd43299b21856d10",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Format change (Task)",
+      "nameShort": "Format change",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/Z629JvYp/6671-format-change-task",
+      "lastModified": "2024-11-25T08:51:31.422Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67443d1d3ddcbc02104c8949",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Share listing on FB and Linkedin: Silva - Cents (Thomas)",
+      "nameShort": "Share listing on FB and Linkedin",
+      "pipedriveDealName": "Silva - Cents",
+      "url": "https://trello.com/c/WVk57OlG/6672-share-listing-on-fb-and-linkedin-silva-cents-thomas",
+      "lastModified": "2024-11-25T09:02:23.601Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -153,7 +265,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-11-22T13:00:01.158Z",
+      "lastModified": "2024-11-25T09:00:24.251Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

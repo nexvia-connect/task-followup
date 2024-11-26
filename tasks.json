@@ -193,22 +193,6 @@
       ]
     },
     {
-      "id": "6744e9377416e23d3570cde4",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Listing creation for Schmitz - Holzem (Süleyman)",
-      "nameShort": "Listing creation",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/Opi9ahzk/6687-listing-creation-for-schmitz-holzem-s%C3%BCleyman",
-      "lastModified": "2024-11-25T21:16:42.680Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67458c407e8439f99822cc1f",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -220,6 +204,22 @@
       "lastModified": "2024-11-26T08:53:53.058Z",
       "associatedAdviser": "Thomas",
       "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6745cf3fb684da4a080e7c70",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing photo modifications for Jaoshvili - Remich (Süleyman)",
+      "nameShort": "Listing photo modifications",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/B59zy0nt/6697-listing-photo-modifications-for-jaoshvili-remich-s%C3%BCleyman",
+      "lastModified": "2024-11-26T13:38:10.911Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

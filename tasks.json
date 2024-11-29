@@ -289,6 +289,22 @@
       ]
     },
     {
+      "id": "6749835aa54ed0c376d65b15",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Share listing on FB and Linkedin: Schmitz - Holzem (Süleyman)",
+      "nameShort": "Share listing on FB and Linkedin",
+      "pipedriveDealName": "Schmitz - Holzem",
+      "url": "https://trello.com/c/oOBf89hb/6729-share-listing-on-fb-and-linkedin-schmitz-holzem-s%C3%BCleyman",
+      "lastModified": "2024-11-29T09:03:24.485Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -297,7 +313,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-11-28T13:00:51.803Z",
+      "lastModified": "2024-11-29T09:00:39.396Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

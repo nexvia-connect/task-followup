@@ -305,6 +305,22 @@
       ]
     },
     {
+      "id": "674d9088c61f42c47dfc3ab6",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Format change (Task)",
+      "nameShort": "Format change",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/3eXiOa9X/6763-format-change-task",
+      "lastModified": "2024-12-02T10:48:41.796Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "6749d9a9c0abc713c368f18c",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -314,22 +330,6 @@
       "pipedriveDealName": "Muhovic - Belvaux",
       "url": "https://trello.com/c/uK7tTElo/6751-photoshop-muhovic-belvaux-sandy",
       "lastModified": "2024-11-29T15:11:47.201Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "6749d9bfea727ca2dfe9f41f",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Photoshop: Muhovic - Belvaux (Sandy)",
-      "nameShort": "Photoshop",
-      "pipedriveDealName": "Muhovic - Belvaux",
-      "url": "https://trello.com/c/oJ0DQmRU/6752-photoshop-muhovic-belvaux-sandy",
-      "lastModified": "2024-11-29T15:12:09.524Z",
       "associatedAdviser": "Sandy",
       "slackUserId": "UBK5HTKFF",
       "avatarUrls": [

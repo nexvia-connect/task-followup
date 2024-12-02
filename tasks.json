@@ -1,22 +1,6 @@
 {
   "cards": [
     {
-      "id": "67488302140949c283e523bc",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Statistics report: Niedercorn - Ville-Haute (Romain)",
-      "nameShort": "Statistics report",
-      "pipedriveDealName": "Niedercorn - Ville-Haute",
-      "url": "https://trello.com/c/bS9eNBof/6723-statistics-report-niedercorn-ville-haute-romain",
-      "lastModified": "2024-12-02T13:28:01.386Z",
-      "associatedAdviser": "Romain",
-      "slackUserId": "U7BGBRJGH",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
       "id": "6731eda8207119ee05df3ef2",
       "idMembers": [
         "4fe86ade26d156994a0bee7d"

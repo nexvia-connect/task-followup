@@ -1,6 +1,22 @@
 {
   "cards": [
     {
+      "id": "674f875d647bfd1e54530baf",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Statistics report: Mores - Nagem (Süleyman)",
+      "nameShort": "Statistics report",
+      "pipedriveDealName": "Mores - Nagem",
+      "url": "https://trello.com/c/QvrArUzx/6787-statistics-report-mores-nagem-s%C3%BCleyman",
+      "lastModified": "2024-12-03T22:34:07.689Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "6731eda8207119ee05df3ef2",
       "idMembers": [
         "4fe86ade26d156994a0bee7d"
@@ -209,6 +225,54 @@
       ]
     },
     {
+      "id": "674fe21a41aa76e52089352c",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Audit weekly marketing expenses (Task)",
+      "nameShort": "Audit weekly marketing expenses",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/h2IhrCoi/6788-audit-weekly-marketing-expenses-task",
+      "lastModified": "2024-12-04T05:01:15.060Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67501b554bee78ffd0d71e94",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Share listing on FB and Linkedin: Jung - Fentange Duplex (Rudy)",
+      "nameShort": "Share listing on FB and Linkedin",
+      "pipedriveDealName": "Jung - Fentange Duplex",
+      "url": "https://trello.com/c/iA8YlA9F/6790-share-listing-on-fb-and-linkedin-jung-fentange-duplex-rudy",
+      "lastModified": "2024-12-04T09:05:27.798Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "67501be67e4f7cb3c378a086",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Jung - Fentange Duplex (Rudy)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "Jung - Fentange Duplex",
+      "url": "https://trello.com/c/jRJg4w6q/6791-listing-modification-jung-fentange-duplex-rudy",
+      "lastModified": "2024-12-04T09:07:52.466Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "674dac9fd334a19bb9f26f65",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -233,7 +297,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-12-03T13:01:38.466Z",
+      "lastModified": "2024-12-04T09:04:17.064Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

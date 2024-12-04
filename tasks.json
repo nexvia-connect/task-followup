@@ -319,22 +319,6 @@
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
-    },
-    {
-      "id": "6749d5ccf97b2af176011a04",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Put listing in window displays: Jung - Mondorf-les-Bains (Rudy)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Jung - Mondorf-les-Bains",
-      "url": "https://trello.com/c/Dph48R2T/6750-put-listing-in-window-displays-jung-mondorf-les-bains-rudy",
-      "lastModified": "2024-11-29T14:56:18.039Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
     }
   ]
 }

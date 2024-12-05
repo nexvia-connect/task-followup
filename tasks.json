@@ -113,22 +113,6 @@
       ]
     },
     {
-      "id": "6751bef450daecd175d93a8c",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Set booking page offline: Erbaio - Hesperange (Aurore)",
-      "nameShort": "Set booking page offline",
-      "pipedriveDealName": "Erbaio - Hesperange",
-      "url": "https://trello.com/c/GxNxmgjr/6826-set-booking-page-offline-erbaio-hesperange-aurore",
-      "lastModified": "2024-12-05T14:55:50.920Z",
-      "associatedAdviser": "Aurore",
-      "slackUserId": "U079GJ0BU1E",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "6751857cd5dc733a923c0c1f",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -154,6 +138,22 @@
       "pipedriveDealName": "Leifgen - Remich",
       "url": "https://trello.com/c/jE3W2hbj/6825-listing-modification-leifgen-remich-carolina",
       "lastModified": "2024-12-05T14:54:53.862Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6751c1823fcebc2af65b437f",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Schedule newsletter: Leifgen - Remich (Carolina)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Leifgen - Remich",
+      "url": "https://trello.com/c/jk1zL1nl/6827-schedule-newsletter-leifgen-remich-carolina",
+      "lastModified": "2024-12-05T15:06:44.939Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
       "avatarUrls": [

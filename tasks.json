@@ -129,22 +129,6 @@
       ]
     },
     {
-      "id": "674c3e67eecc03f861346d54",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Update inventory (Task)",
-      "nameShort": "Update inventory",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/NgCibZ4m/6755-update-inventory-task",
-      "lastModified": "2024-12-01T10:46:00.420Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "674f23d78f0852ae228e4ebe",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -193,6 +177,22 @@
       ]
     },
     {
+      "id": "6751a61b6bce060d86ef0a9f",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Order sale signs (Task)",
+      "nameShort": "Order sale signs",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/6KAJ5PuX/6819-order-sale-signs-task",
+      "lastModified": "2024-12-05T13:09:47.734Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "6751857cd5dc733a923c0c1f",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -202,22 +202,6 @@
       "pipedriveDealName": "Jung - Fentange Duplex",
       "url": "https://trello.com/c/hOpUtJTM/6811-publish-listing-to-platforms-jung-fentange-duplex-rudy",
       "lastModified": "2024-12-05T10:50:56.808Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "675185b2f80a44620ab63961",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Put listing in window displays: Jung - Fentange Duplex (Rudy)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Jung - Fentange Duplex",
-      "url": "https://trello.com/c/vSRUNJPL/6812-put-listing-in-window-displays-jung-fentange-duplex-rudy",
-      "lastModified": "2024-12-05T10:51:34.932Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
       "avatarUrls": [
@@ -316,6 +300,22 @@
       "lastModified": "2024-12-04T15:02:55.126Z",
       "associatedAdviser": "Sandy",
       "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "675185b2f80a44620ab63961",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Jung - Fentange Duplex (Rudy)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Jung - Fentange Duplex",
+      "url": "https://trello.com/c/vSRUNJPL/6812-put-listing-in-window-displays-jung-fentange-duplex-rudy",
+      "lastModified": "2024-12-05T13:02:24.791Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

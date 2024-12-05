@@ -17,22 +17,6 @@
       ]
     },
     {
-      "id": "673c9fb0e857fb5e392f1a81",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Order business cards (Omer)",
-      "nameShort": "Order business cards",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/SHk5WEHB/6591-order-business-cards-omer",
-      "lastModified": "2024-11-19T19:27:17.487Z",
-      "associatedAdviser": "Omer",
-      "slackUserId": "U080CU2EX62",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
       "id": "673c9fbc1ae830087d943191",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -44,70 +28,6 @@
       "lastModified": "2024-11-19T19:27:04.085Z",
       "associatedAdviser": "Maéva",
       "slackUserId": "U080Y7JP9T3",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "673ca0b506370eaf4b2c3fbc",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Set e-mail signature (Omer)",
-      "nameShort": "Set e-mail signature",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/2M2BXHiG/6593-set-e-mail-signature-omer",
-      "lastModified": "2024-11-19T19:27:31.488Z",
-      "associatedAdviser": "Omer",
-      "slackUserId": "U080CU2EX62",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "673ca0c211263eefe3cb89dc",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Set e-mail signature (Maéva)",
-      "nameShort": "Set e-mail signature",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/y2n4714n/6594-set-e-mail-signature-ma%C3%A9va",
-      "lastModified": "2024-11-20T15:50:09.948Z",
-      "associatedAdviser": "Maeva",
-      "slackUserId": "U080Y7JP9T3",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "673fb9b75d92013c8e76e288",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Order business cards (Task)",
-      "nameShort": "Order business cards",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/Zsx6UPZg/6649-order-business-cards-task",
-      "lastModified": "2024-11-21T22:53:34.353Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "6743ade7ec1faf2375075fa0",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Order business cards (Task)",
-      "nameShort": "Order business cards",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/8Jvra6P2/6666-order-business-cards-task",
-      "lastModified": "2024-11-24T22:53:42.158Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
@@ -190,22 +110,6 @@
       "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "675083e4f0ebc5524d8fa932",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Photoshop: Mores+-+Nagem (Süleyman)",
-      "nameShort": "Photoshop",
-      "pipedriveDealName": "Mores+-+Nagem",
-      "url": "https://trello.com/c/O4ByNDg1/6803-photoshop-mores-nagem-s%C3%BCleyman",
-      "lastModified": "2024-12-04T16:31:41.630Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {

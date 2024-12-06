@@ -113,6 +113,86 @@
       ]
     },
     {
+      "id": "6752854e8b80177a560c7962",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Moderate Facebook comments (Task)",
+      "nameShort": "Moderate Facebook comments",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/NhRmFh6g/6832-moderate-facebook-comments-task",
+      "lastModified": "2024-12-06T05:02:07.039Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "6751e7dbfebd855bcae66fad",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing creation: Santini - Schifflange (Maéva)",
+      "nameShort": null,
+      "pipedriveDealName": "Santini - Schifflange",
+      "url": "https://trello.com/c/8ZF2VQeC/6831-listing-creation-santini-schifflange-ma%C3%A9va",
+      "lastModified": "2024-12-05T17:50:19.405Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67528e7108f0a2d8119afb1e",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Unhide listing: Leifgen - Remich (Carolina)",
+      "nameShort": "Unhide listing",
+      "pipedriveDealName": "Leifgen - Remich",
+      "url": "https://trello.com/c/KNGmuYmK/6833-unhide-listing-leifgen-remich-carolina",
+      "lastModified": "2024-12-06T05:41:07.617Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6752bd67d1cc2b9094095d47",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Share listing on FB and Linkedin: Thill - Bonnevoie (Vinciane)",
+      "nameShort": "Share listing on FB and Linkedin",
+      "pipedriveDealName": "Thill - Bonnevoie",
+      "url": "https://trello.com/c/d4N27GVv/6836-share-listing-on-fb-and-linkedin-thill-bonnevoie-vinciane",
+      "lastModified": "2024-12-06T09:01:29.947Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "6752ae7130edc67efaaa50f8",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Audit and upload render assets: Muhovic - Belvaux (Sandy)",
+      "nameShort": "Audit and upload render assets",
+      "pipedriveDealName": "Muhovic - Belvaux",
+      "url": "https://trello.com/c/d8QCbmnd/6835-audit-and-upload-render-assets-muhovic-belvaux-sandy",
+      "lastModified": "2024-12-06T07:57:40.050Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -121,7 +201,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-12-05T14:43:15.360Z",
+      "lastModified": "2024-12-06T09:00:37.097Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

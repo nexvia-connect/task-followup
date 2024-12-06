@@ -193,17 +193,17 @@
       ]
     },
     {
-      "id": "6752e549c7cbf29eca94dab2",
+      "id": "67530e5746226c11d17b521b",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Complete photo session (Vinciane)",
-      "nameShort": "Complete photo session",
+      "name": "Format change (Task)",
+      "nameShort": "Format change",
       "pipedriveDealName": null,
-      "url": "https://trello.com/c/puEcniGn/6843-complete-photo-session-vinciane",
-      "lastModified": "2024-12-06T11:51:38.700Z",
-      "associatedAdviser": "Vinciane",
-      "slackUserId": "U01S0CAN9QT",
+      "url": "https://trello.com/c/BL4spdme/6848-format-change-task",
+      "lastModified": "2024-12-06T14:46:47.778Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

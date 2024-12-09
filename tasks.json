@@ -193,17 +193,17 @@
       ]
     },
     {
-      "id": "6756eb92ae8061071e6da255",
+      "id": "67570377899f616a14acd7e0",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Prepare notary documents: Lahire - Cessange (Thomas)",
-      "nameShort": "Prepare notary documents",
-      "pipedriveDealName": "Lahire - Cessange",
-      "url": "https://trello.com/c/C2vKmawp/6863-prepare-notary-documents-lahire-cessange-thomas",
-      "lastModified": "2024-12-09T13:07:33.770Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
+      "name": "Format change (Task)",
+      "nameShort": "Format change",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/9TPqPGpL/6867-format-change-task",
+      "lastModified": "2024-12-09T14:49:28.310Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

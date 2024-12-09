@@ -177,6 +177,70 @@
       ]
     },
     {
+      "id": "6754092607c92c1822f3fae4",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Publish listing to platforms: Thill - Bonnevoie (Vinciane)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Thill - Bonnevoie",
+      "url": "https://trello.com/c/fkeVvTlL/6851-publish-listing-to-platforms-thill-bonnevoie-vinciane",
+      "lastModified": "2024-12-07T08:37:10.861Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6754092bef878d6b721a9d43",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Publish listing to platforms: Leifgen - Remich (Carolina)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Leifgen - Remich",
+      "url": "https://trello.com/c/n2WuSAZd/6852-publish-listing-to-platforms-leifgen-remich-carolina",
+      "lastModified": "2024-12-07T08:37:14.482Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "675427b82847c4910eb7a7d0",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Format change (Task)",
+      "nameShort": "Format change",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/z5BS2mKz/6853-format-change-task",
+      "lastModified": "2024-12-07T10:47:21.714Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "675616c9a575f16547fee422",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Leifgen - Remich (Carolina)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Leifgen - Remich",
+      "url": "https://trello.com/c/iWdk6Lp0/6855-put-listing-in-window-displays-leifgen-remich-carolina",
+      "lastModified": "2024-12-08T21:59:42.203Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"

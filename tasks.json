@@ -161,19 +161,19 @@
       ]
     },
     {
-      "id": "6757585c6dfc58f5d190db8b",
+      "id": "67581a41b914d3af736db70d",
       "idMembers": [
-        "5ce414ac7678a40557510d74"
+        "66d5ca383da59bf7e67f324a"
       ],
-      "name": "Listing modification: Jauvat - Pulvermuhl (Thomas)",
-      "nameShort": "Listing modification",
-      "pipedriveDealName": "Jauvat - Pulvermuhl",
-      "url": "https://trello.com/c/xy8iSo2E/6876-listing-modification-jauvat-pulvermuhl-thomas",
-      "lastModified": "2024-12-09T20:51:42.767Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
+      "name": "Answer positive Google review (Task)",
+      "nameShort": "Answer positive Google review",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/1N66MtTu/6881-answer-positive-google-review-task",
+      "lastModified": "2024-12-10T10:39:18.646Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {
@@ -186,6 +186,70 @@
       "pipedriveDealName": "Strutz - Koerich",
       "url": "https://trello.com/c/tcG80Rxb/6879-listing-modification-strutz-koerich-thomas",
       "lastModified": "2024-12-10T07:14:44.830Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67581c61d2fc527cbb40338c",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Muhovic - Belvaux (Sandy)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "Muhovic - Belvaux",
+      "url": "https://trello.com/c/7GiZk32v/6882-listing-modification-muhovic-belvaux-sandy",
+      "lastModified": "2024-12-10T10:48:03.135Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67581cfc24d3f8081ffcef0d",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Publish listing to platforms: Santini - Schifflange (Maéva)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Santini - Schifflange",
+      "url": "https://trello.com/c/vuATFK7Q/6883-publish-listing-to-platforms-santini-schifflange-ma%C3%A9va",
+      "lastModified": "2024-12-10T10:50:52.765Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67581d44711d8209ba75818f",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Santini - Schifflange (Maéva)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Santini - Schifflange",
+      "url": "https://trello.com/c/7bq38NQx/6884-put-listing-in-window-displays-santini-schifflange-ma%C3%A9va",
+      "lastModified": "2024-12-10T10:51:52.706Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "675818b9c624211e39de3f93",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Floor plan room name change: Zimmer - Moutfort (Thomas)",
+      "nameShort": "Floor plan room name change",
+      "pipedriveDealName": "Zimmer - Moutfort",
+      "url": "https://trello.com/c/Ux5aZQTH/6880-floor-plan-room-name-change-zimmer-moutfort-thomas",
+      "lastModified": "2024-12-10T10:32:26.533Z",
       "associatedAdviser": "Thomas",
       "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [

@@ -209,22 +209,6 @@
       ]
     },
     {
-      "id": "6720f237ccd7e418fd4df659",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "> Check tenant payment: Hoffmann - Belvaux (Aurore)",
-      "nameShort": "Check tenant payment",
-      "pipedriveDealName": "Hoffmann - Belvaux",
-      "url": "https://trello.com/c/RgK39QHk/6315-check-tenant-payment-hoffmann-belvaux-aurore",
-      "lastModified": "2024-10-29T15:02:26.880Z",
-      "associatedAdviser": "Aurore",
-      "slackUserId": "U079GJ0BU1E",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "6720f237450b19e776708a7c",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -234,22 +218,6 @@
       "pipedriveDealName": "Colling - Lintgen",
       "url": "https://trello.com/c/RUZpjE6Z/6314-check-tenant-payment-colling-lintgen-aurore",
       "lastModified": "2024-11-11T15:35:46.572Z",
-      "associatedAdviser": "Aurore",
-      "slackUserId": "U079GJ0BU1E",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "6751be56d6b6c97458021821",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Check tenant payment: Erbaio - Hesperange (Aurore)",
-      "nameShort": "Check tenant payment",
-      "pipedriveDealName": "Erbaio - Hesperange",
-      "url": "https://trello.com/c/O6VtEje0/6824-check-tenant-payment-erbaio-hesperange-aurore",
-      "lastModified": "2024-12-09T15:55:35.723Z",
       "associatedAdviser": "Aurore",
       "slackUserId": "U079GJ0BU1E",
       "avatarUrls": [

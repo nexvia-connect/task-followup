@@ -65,22 +65,6 @@
       ]
     },
     {
-      "id": "67573a01da4ac01be9721518",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Prepare notary documents: Oliveira - Rumelange (Sandy)",
-      "nameShort": "Prepare notary documents",
-      "pipedriveDealName": "Oliveira - Rumelange",
-      "url": "https://trello.com/c/MpjXyUAt/6875-prepare-notary-documents-oliveira-rumelange-sandy",
-      "lastModified": "2024-12-09T18:42:12.763Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67581a41b914d3af736db70d",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -156,6 +140,38 @@
       "lastModified": "2024-12-11T05:00:41.874Z",
       "associatedAdviser": null,
       "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67596dbfa27c459eb81dcee4",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Purchase item on Amazon.fr (Omer)",
+      "nameShort": "Purchase item on Amazon.fr",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/xX68ll9V/6895-purchase-item-on-amazonfr-omer",
+      "lastModified": "2024-12-11T10:47:30.086Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67596e4accd2ccae9a766353",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Purchase item on Amazon.fr (Omer)",
+      "nameShort": "Purchase item on Amazon.fr",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/qhZKO3XF/6896-purchase-item-on-amazonfr-omer",
+      "lastModified": "2024-12-11T10:49:48.707Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]

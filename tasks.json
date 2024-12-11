@@ -225,6 +225,22 @@
       ]
     },
     {
+      "id": "67591c783f2ceb82837a2add",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Audit weekly marketing expenses (Task)",
+      "nameShort": "Audit weekly marketing expenses",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/ple9gzYh/6893-audit-weekly-marketing-expenses-task",
+      "lastModified": "2024-12-11T05:00:41.874Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -233,7 +249,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-12-09T12:18:39.069Z",
+      "lastModified": "2024-12-10T18:47:42.803Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

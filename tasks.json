@@ -145,22 +145,6 @@
       ]
     },
     {
-      "id": "6759ca2edd677bbb4f915a41",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Listing creation: Zivkovic - Heisdorf (Carolina)",
-      "nameShort": "Listing creation",
-      "pipedriveDealName": "Zivkovic - Heisdorf",
-      "url": "https://trello.com/c/VY2bHYGo/6899-listing-creation-zivkovic-heisdorf-carolina",
-      "lastModified": "2024-12-11T17:21:55.607Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "675a9f20e809df0ef59e270a",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -188,22 +172,6 @@
       "lastModified": "2024-12-12T09:16:17.088Z",
       "associatedAdviser": "Thomas",
       "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "6759ca5b287235d18a0b19a6",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Virtual visit modifications: Zivkovic+-+Heisdorf (Carolina)",
-      "nameShort": "Virtual visit modifications",
-      "pipedriveDealName": "Zivkovic+-+Heisdorf",
-      "url": "https://trello.com/c/j6XA52kO/6900-virtual-visit-modifications-zivkovic-heisdorf-carolina",
-      "lastModified": "2024-12-12T08:32:03.391Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -252,6 +220,22 @@
       "lastModified": "2024-12-10T18:47:42.803Z",
       "associatedAdviser": null,
       "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6759ca5b287235d18a0b19a6",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Virtual visit modifications: Zivkovic+-+Heisdorf (Carolina)",
+      "nameShort": "Virtual visit modifications",
+      "pipedriveDealName": "Zivkovic+-+Heisdorf",
+      "url": "https://trello.com/c/j6XA52kO/6900-virtual-visit-modifications-zivkovic-heisdorf-carolina",
+      "lastModified": "2024-12-12T13:13:28.820Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

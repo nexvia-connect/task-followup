@@ -33,22 +33,6 @@
       ]
     },
     {
-      "id": "6751b3460e9ea0e062fdbb47",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Manage online classes (Omer)",
-      "nameShort": "Manage online classes",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/Jbx8YX8Y/6820-manage-online-classes-omer",
-      "lastModified": "2024-12-05T14:06:00.077Z",
-      "associatedAdviser": "Omer",
-      "slackUserId": "U080CU2EX62",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "6752d41be8670eddeb4da8d8",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -78,22 +62,6 @@
       "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "67591c783f2ceb82837a2add",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Audit weekly marketing expenses (Task)",
-      "nameShort": "Audit weekly marketing expenses",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/ple9gzYh/6893-audit-weekly-marketing-expenses-task",
-      "lastModified": "2024-12-11T05:00:41.874Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
     {
@@ -156,6 +124,22 @@
       "lastModified": "2024-12-12T09:16:17.088Z",
       "associatedAdviser": "Thomas",
       "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "675ae6badfcee1fc1cfc89de",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Schedule newsletter: Zivkovic - Heisdorf (Carolina)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Zivkovic - Heisdorf",
+      "url": "https://trello.com/c/mREKpdZB/6907-schedule-newsletter-zivkovic-heisdorf-carolina",
+      "lastModified": "2024-12-12T13:35:56.529Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

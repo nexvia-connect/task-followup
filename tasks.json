@@ -145,6 +145,22 @@
       ]
     },
     {
+      "id": "675fec3007952a749becd569",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Share listing on FB and Linkedin: Zimmer - Moutfort (Thomas)",
+      "nameShort": "Share listing on FB and Linkedin",
+      "pipedriveDealName": "Zimmer - Moutfort",
+      "url": "https://trello.com/c/FYoAMrxJ/6933-share-listing-on-fb-and-linkedin-zimmer-moutfort-thomas",
+      "lastModified": "2024-12-16T09:00:34.815Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "675c2256269d5266e54fdddc",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -169,7 +185,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-12-13T09:00:59.623Z",
+      "lastModified": "2024-12-16T09:00:03.094Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

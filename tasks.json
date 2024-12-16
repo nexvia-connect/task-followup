@@ -81,6 +81,22 @@
       ]
     },
     {
+      "id": "67603a0f048e49860eeef4ce",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Prepare notary documents: Siebenaler - Mamer (Süleyman)",
+      "nameShort": null,
+      "pipedriveDealName": "Siebenaler - Mamer",
+      "url": "https://trello.com/c/nPXgK3ZZ/6938-prepare-notary-documents-siebenaler-mamer-s%C3%BCleyman",
+      "lastModified": "2024-12-16T14:32:47.988Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "675c139c67b4f126c3740122",
       "idMembers": [
         "5ce414ac7678a40557510d74"

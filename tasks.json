@@ -97,6 +97,22 @@
       ]
     },
     {
+      "id": "67607a1ef39038f56104c19b",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Missing deal Pipedrive information: Hartmann - Bettange-sur-mess (Maeva)",
+      "nameShort": null,
+      "pipedriveDealName": "Hartmann - Bettange-sur-mess",
+      "url": "https://trello.com/c/lgS3iZbI/6939-missing-deal-pipedrive-information-hartmann-bettange-sur-mess-maeva",
+      "lastModified": "2024-12-16T19:06:06.694Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "675c139c67b4f126c3740122",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -108,6 +124,22 @@
       "lastModified": "2024-12-13T10:59:42.763Z",
       "associatedAdviser": "Vinciane",
       "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67613793bb005dc5d5e740a7",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Set listing as signed: Thill - Bonnevoie (Vinciane)",
+      "nameShort": null,
+      "pipedriveDealName": "Thill - Bonnevoie",
+      "url": "https://trello.com/c/GFFNHOpW/6941-set-listing-as-signed-thill-bonnevoie-vinciane",
+      "lastModified": "2024-12-17T08:34:27.521Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

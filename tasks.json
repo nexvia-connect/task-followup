@@ -97,22 +97,6 @@
       ]
     },
     {
-      "id": "676199e54078c77efdaaa8bb",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Prepare notary documents: Isebaert - Noerdange (Sandy)",
-      "nameShort": null,
-      "pipedriveDealName": "Isebaert - Noerdange",
-      "url": "https://trello.com/c/n2YtP0d3/6952-prepare-notary-documents-isebaert-noerdange-sandy",
-      "lastModified": "2024-12-17T15:33:57.452Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "6762577844bd41337b524871",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -142,6 +126,22 @@
       "slackUserId": "U7BGBRJGH",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6762dd9f38e20ddeb024e0c1",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Purchase item on Amazon.fr (Melissa)",
+      "nameShort": "Purchase item on Amazon.fr",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/NojXN6Iu/6967-purchase-item-on-amazonfr-melissa",
+      "lastModified": "2024-12-18T14:35:14.356Z",
+      "associatedAdviser": "Melissa",
+      "slackUserId": "U44GYBHT2",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
     {

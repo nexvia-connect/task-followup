@@ -161,17 +161,17 @@
       ]
     },
     {
-      "id": "6762abf7297c069613d57a1a",
+      "id": "6762d42138a67eb43c8d0afb",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Listing modification: Marroyen - Bridel (Süleyman)",
-      "nameShort": null,
-      "pipedriveDealName": "Marroyen - Bridel",
-      "url": "https://trello.com/c/OGqxulPM/6962-listing-modification-marroyen-bridel-s%C3%BCleyman",
-      "lastModified": "2024-12-18T11:03:19.462Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
+      "name": "Prepare notary documents: Schilling - Ville Haute (Romain)",
+      "nameShort": "Prepare notary documents",
+      "pipedriveDealName": "Schilling - Ville Haute",
+      "url": "https://trello.com/c/WT2830xP/6963-prepare-notary-documents-schilling-ville-haute-romain",
+      "lastModified": "2024-12-18T13:54:45.243Z",
+      "associatedAdviser": "Romain",
+      "slackUserId": "U7BGBRJGH",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

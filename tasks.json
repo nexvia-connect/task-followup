@@ -97,22 +97,6 @@
       ]
     },
     {
-      "id": "6764081ae870af930219dc06",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Set listing as sold: Oliveira - Rumelange (Sandy)",
-      "nameShort": "Set listing as sold",
-      "pipedriveDealName": "Oliveira - Rumelange",
-      "url": "https://trello.com/c/SbhkWViA/6977-set-listing-as-sold-oliveira-rumelange-sandy",
-      "lastModified": "2024-12-19T11:48:47.157Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "676416505485b40dee83bf7e",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -145,6 +129,22 @@
       ]
     },
     {
+      "id": "67642f915242e5a51a1cffe9",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Unpublish listing: Schleich - Hautcharage (Rudy)",
+      "nameShort": "Unpublish listing",
+      "pipedriveDealName": "Schleich - Hautcharage",
+      "url": "https://trello.com/c/KIzk3rIK/6982-unpublish-listing-schleich-hautcharage-rudy",
+      "lastModified": "2024-12-19T14:37:09.770Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -153,7 +153,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2024-12-19T10:36:25.582Z",
+      "lastModified": "2024-12-19T14:37:23.318Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

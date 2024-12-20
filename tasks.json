@@ -161,54 +161,6 @@
       ]
     },
     {
-      "id": "676522a60cade9c5a6912c39",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Put listing in window displays: Link - Nospelt (Thomas)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Link - Nospelt",
-      "url": "https://trello.com/c/yWTxejst/6988-put-listing-in-window-displays-link-nospelt-thomas",
-      "lastModified": "2024-12-20T07:54:24.615Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "676526a8a64f385958b3d84b",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Set listing as sold: De Donder - Gasperich (Rudy)",
-      "nameShort": "Set listing as sold",
-      "pipedriveDealName": "De Donder - Gasperich",
-      "url": "https://trello.com/c/0DVS8NAB/6989-set-listing-as-sold-de-donder-gasperich-rudy",
-      "lastModified": "2024-12-20T08:11:24.895Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "6765285090817661f9706baa",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Set listing as sold: Cherrier - Trintange (Rudy)",
-      "nameShort": "Set listing as sold",
-      "pipedriveDealName": "Cherrier - Trintange",
-      "url": "https://trello.com/c/oDCITtyc/6990-set-listing-as-sold-cherrier-trintange-rudy",
-      "lastModified": "2024-12-20T08:18:29.196Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -284,6 +236,22 @@
       "lastModified": "2024-12-18T14:14:43.489Z",
       "associatedAdviser": null,
       "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "676522a60cade9c5a6912c39",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Link - Nospelt (Thomas)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Link - Nospelt",
+      "url": "https://trello.com/c/yWTxejst/6988-put-listing-in-window-displays-link-nospelt-thomas",
+      "lastModified": "2024-12-20T08:26:09.332Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

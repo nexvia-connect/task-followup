@@ -81,19 +81,35 @@
       ]
     },
     {
-      "id": "676503547560ef64d0cf768e",
+      "id": "6765564032e958c050fdd5d8",
       "idMembers": [
-        "5ce414ac7678a40557510d74"
+        "66d5ca383da59bf7e67f324a"
       ],
-      "name": "Unhide listing: Link - Nospelt (Thomas)",
-      "nameShort": "Unhide listing",
-      "pipedriveDealName": "Link - Nospelt",
-      "url": "https://trello.com/c/tn6IJN2O/6984-unhide-listing-link-nospelt-thomas",
-      "lastModified": "2024-12-20T05:40:40.306Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
+      "name": "Answer positive Google review (Task)",
+      "nameShort": "Answer positive Google review",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/4aDb2PW0/6995-answer-positive-google-review-task",
+      "lastModified": "2024-12-20T11:34:39.880Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "67655a12629116e7b5274758",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Answer positive Google review (Task)",
+      "nameShort": "Answer positive Google review",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/Q7NpIFzb/6996-answer-positive-google-review-task",
+      "lastModified": "2024-12-20T11:50:58.410Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {
@@ -110,6 +126,22 @@
       "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6765531f4c76de0595b3ceee",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Complete photo session: Bolet - Gasperich (Thomas)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Bolet - Gasperich",
+      "url": "https://trello.com/c/QykgxTQi/6994-complete-photo-session-bolet-gasperich-thomas",
+      "lastModified": "2024-12-20T11:21:06.340Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {

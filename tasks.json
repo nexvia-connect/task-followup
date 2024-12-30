@@ -177,6 +177,22 @@
       ]
     },
     {
+      "id": "676e351119d7e24d1a5f802e",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Moderate Meta comments (Task)",
+      "nameShort": "Moderate Meta comments",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/caZRy4RQ/7015-moderate-meta-comments-task",
+      "lastModified": "2024-12-27T05:03:14.744Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "67656a9dac761026afaed8e7",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -188,22 +204,6 @@
       "lastModified": "2024-12-20T13:01:22.790Z",
       "associatedAdviser": "Thomas",
       "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "676bea85402e4cc51a93c34a",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Boost listings on Athome (Task)",
-      "nameShort": "Boost listings on Athome",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/oBnYyKa0/7013-boost-listings-on-athome-task",
-      "lastModified": "2024-12-25T11:20:38.723Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]

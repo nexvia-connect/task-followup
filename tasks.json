@@ -17,6 +17,22 @@
       ]
     },
     {
+      "id": "6777ae4bda42c49106cf7251",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Statistics report: Harrabi - Esch (Thomas)",
+      "nameShort": "Statistics report",
+      "pipedriveDealName": "Harrabi - Esch",
+      "url": "https://trello.com/c/lHphNFn4/7029-statistics-report-harrabi-esch-thomas",
+      "lastModified": "2025-01-03T09:30:54.267Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "6731eda8207119ee05df3ef2",
       "idMembers": [
         "4fe86ade26d156994a0bee7d"
@@ -177,22 +193,6 @@
       ]
     },
     {
-      "id": "676b91defee3a8c59304b616",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Audit weekly marketing expenses (Task)",
-      "nameShort": "Audit weekly marketing expenses",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/QvapEZH3/7012-audit-weekly-marketing-expenses-task",
-      "lastModified": "2024-12-25T05:02:23.099Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "676e351119d7e24d1a5f802e",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -222,22 +222,6 @@
       "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "6774ccac55ee25464cc10b2a",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Audit weekly marketing expenses (Task)",
-      "nameShort": "Audit weekly marketing expenses",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/G5lUjc9m/7017-audit-weekly-marketing-expenses-task",
-      "lastModified": "2025-01-01T05:03:41.391Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
     {
@@ -289,6 +273,22 @@
       ]
     },
     {
+      "id": "67776f99f02c5c09b2d372e5",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Moderate Meta comments (Task)",
+      "nameShort": "Moderate Meta comments",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/0EE3sjza/7025-moderate-meta-comments-task",
+      "lastModified": "2025-01-03T05:03:22.002Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "67656a9dac761026afaed8e7",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -300,6 +300,54 @@
       "lastModified": "2024-12-20T13:01:22.790Z",
       "associatedAdviser": "Thomas",
       "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "6777785cb72329edf6a7007a",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Unhide listing: Lanners - Mersch (Rudy)",
+      "nameShort": "Unhide listing",
+      "pipedriveDealName": "Lanners - Mersch",
+      "url": "https://trello.com/c/wKGQpe56/7026-unhide-listing-lanners-mersch-rudy",
+      "lastModified": "2025-01-03T05:40:47.340Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "677796c6844a104d6a81e5c8",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Publish listing to platforms: Lanners - Mersch (Rudy)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Lanners - Mersch",
+      "url": "https://trello.com/c/BZ3ulERK/7027-publish-listing-to-platforms-lanners-mersch-rudy",
+      "lastModified": "2025-01-03T07:50:46.839Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "677796f61f887099e5be52ac",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Put listing in window displays: Lanners - Mersch (Rudy)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Lanners - Mersch",
+      "url": "https://trello.com/c/Mfj7SdZE/7028-put-listing-in-window-displays-lanners-mersch-rudy",
+      "lastModified": "2025-01-03T07:51:26.593Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]

@@ -209,6 +209,22 @@
       ]
     },
     {
+      "id": "677bece0b8faf4f5d00c0782",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Format change (Task)",
+      "nameShort": "Format change",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/vEp9AcX0/7042-format-change-task",
+      "lastModified": "2025-01-06T14:46:57.679Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "677bd1a302784dc9f62ac296",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -233,7 +249,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-01-06T12:00:16.294Z",
+      "lastModified": "2025-01-06T14:23:38.433Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

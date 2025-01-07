@@ -33,6 +33,22 @@
       ]
     },
     {
+      "id": "677cec3e2db671c6e0e521a2",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Statistics report: Zhu Lin - Kirchberg (Carolina)",
+      "nameShort": "Statistics report",
+      "pipedriveDealName": "Zhu Lin - Kirchberg",
+      "url": "https://trello.com/c/Dkgyx3nV/7047-statistics-report-zhu-lin-kirchberg-carolina",
+      "lastModified": "2025-01-07T08:56:33.278Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "6731eda8207119ee05df3ef2",
       "idMembers": [
         "4fe86ade26d156994a0bee7d"
@@ -161,35 +177,51 @@
       ]
     },
     {
-      "id": "677ba0ea14e3bd63be73966d",
+      "id": "677ce396583eea3dd8875995",
       "idMembers": [
-        "66d5ca383da59bf7e67f324a"
+        "5ce414ac7678a40557510d74"
       ],
-      "name": "Share listing on FB and Linkedin: Feller - Schifflange (Süleyman)",
-      "nameShort": "Share listing on FB and Linkedin",
-      "pipedriveDealName": "Feller - Schifflange",
-      "url": "https://trello.com/c/yLvg5rB0/7036-share-listing-on-fb-and-linkedin-feller-schifflange-s%C3%BCleyman",
-      "lastModified": "2025-01-06T09:22:52.916Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
+      "name": "Listing modification: Cruz - Fentange (Rudy)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "Cruz - Fentange",
+      "url": "https://trello.com/c/0CY8fej3/7044-listing-modification-cruz-fentange-rudy",
+      "lastModified": "2025-01-07T08:19:36.752Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
-      "id": "677bd1a302784dc9f62ac296",
+      "id": "677ce4c23c6424c3cca5ea3f",
       "idMembers": [
-        "66d5ca383da59bf7e67f324a"
+        "5ce414ac7678a40557510d74"
       ],
-      "name": "Complete photo session: Goldstein - Fentange (Romain)",
-      "nameShort": "Complete photo session",
-      "pipedriveDealName": "Goldstein - Fentange",
-      "url": "https://trello.com/c/c7vh9TLw/7040-complete-photo-session-goldstein-fentange-romain",
-      "lastModified": "2025-01-06T12:50:45.561Z",
-      "associatedAdviser": "Romain",
-      "slackUserId": "U7BGBRJGH",
+      "name": "Unpublish listing: Zhu Lin - Kirchberg (Carolina)",
+      "nameShort": "Unpublish listing",
+      "pipedriveDealName": "Zhu Lin - Kirchberg",
+      "url": "https://trello.com/c/Jg9ftnvk/7046-unpublish-listing-zhu-lin-kirchberg-carolina",
+      "lastModified": "2025-01-07T08:24:37.086Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "677ce414c846b22cd9d90634",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing photo modifications: Cruz+-+Fentange (Rudy)",
+      "nameShort": "Listing photo modifications",
+      "pipedriveDealName": "Cruz+-+Fentange",
+      "url": "https://trello.com/c/q6uGCuuk/7045-listing-photo-modifications-cruz-fentange-rudy",
+      "lastModified": "2025-01-07T08:21:42.500Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
@@ -201,7 +233,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-01-06T14:23:38.433Z",
+      "lastModified": "2025-01-07T08:24:49.387Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

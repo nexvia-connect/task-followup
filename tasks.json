@@ -97,22 +97,6 @@
       ]
     },
     {
-      "id": "677da008e87161568515bd5e",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Listing creation: Grysolle - Bonnevoie 2 (Rue de Wiltz) (Carolina)",
-      "nameShort": "Listing creation",
-      "pipedriveDealName": "Grysolle - Bonnevoie 2",
-      "url": "https://trello.com/c/HhAtozmW/7062-listing-creation-grysolle-bonnevoie-2-rue-de-wiltz-carolina",
-      "lastModified": "2025-01-07T21:43:41.805Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "677db23b7f4acf1f2a08ff23",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -124,6 +108,38 @@
       "lastModified": "2025-01-07T23:01:20.653Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "677e785fe7841fb09f5dbe5f",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Schedule newsletter: Bolet - Gasperich (Thomas)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Bolet - Gasperich",
+      "url": "https://trello.com/c/H5uPsXbu/7076-schedule-newsletter-bolet-gasperich-thomas",
+      "lastModified": "2025-01-08T13:06:42.045Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "677e80f8ddf58779cf0974b3",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Lanners - Mersch (Rudy)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "Lanners - Mersch",
+      "url": "https://trello.com/c/hFdNRJw8/7083-listing-modification-lanners-mersch-rudy",
+      "lastModified": "2025-01-08T13:43:23.421Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -236,6 +252,150 @@
       "lastModified": "2025-01-08T11:14:12.217Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "677e790fc1cc1d0a53a9ec93",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop: Zivkovic - Heisdorf (Carolina)",
+      "nameShort": "Photoshop",
+      "pipedriveDealName": "Zivkovic - Heisdorf",
+      "url": "https://trello.com/c/fkrKAVUB/7077-photoshop-zivkovic-heisdorf-carolina",
+      "lastModified": "2025-01-08T13:09:47.238Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "677e7928b646fac6fd8e835a",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop: Zivkovic+-+Heisdorf (Carolina)",
+      "nameShort": "Photoshop",
+      "pipedriveDealName": "Zivkovic+-+Heisdorf",
+      "url": "https://trello.com/c/iGsQgJfV/7078-photoshop-zivkovic-heisdorf-carolina",
+      "lastModified": "2025-01-08T13:10:11.940Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "677e793ab6dccaa3eacec85c",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop: Zivkovic+-+Heisdorf (Carolina)",
+      "nameShort": "Photoshop",
+      "pipedriveDealName": "Zivkovic+-+Heisdorf",
+      "url": "https://trello.com/c/naekuYwu/7079-photoshop-zivkovic-heisdorf-carolina",
+      "lastModified": "2025-01-08T13:10:29.943Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "677e7953bd099f3290097794",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop: Zivkovic+-+Heisdorf (Carolina)",
+      "nameShort": "Photoshop",
+      "pipedriveDealName": "Zivkovic+-+Heisdorf",
+      "url": "https://trello.com/c/GgAjksVQ/7080-photoshop-zivkovic-heisdorf-carolina",
+      "lastModified": "2025-01-08T13:10:54.932Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "677e796598ddc46daecda00c",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop: Zivkovic+-+Heisdorf (Carolina)",
+      "nameShort": "Photoshop",
+      "pipedriveDealName": "Zivkovic+-+Heisdorf",
+      "url": "https://trello.com/c/gcIkrz5y/7081-photoshop-zivkovic-heisdorf-carolina",
+      "lastModified": "2025-01-08T13:11:12.931Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "677e79804cb362484c53a15e",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop: Zivkovic+-+Heisdorf (Carolina)",
+      "nameShort": "Photoshop",
+      "pipedriveDealName": "Zivkovic+-+Heisdorf",
+      "url": "https://trello.com/c/4xQloje4/7082-photoshop-zivkovic-heisdorf-carolina",
+      "lastModified": "2025-01-08T13:11:38.902Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "677e816054ab424ff40d25aa",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Floor plan room name change: Lanners - Mersch (Rudy)",
+      "nameShort": "Floor plan room name change",
+      "pipedriveDealName": "Lanners - Mersch",
+      "url": "https://trello.com/c/PwqdG6oe/7084-floor-plan-room-name-change-lanners-mersch-rudy",
+      "lastModified": "2025-01-08T13:45:07.645Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "677e82bb3e3cfb7d98e9fe64",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Upload Giraffe assets to Drive: Gille - Schifflange (Rudy)",
+      "nameShort": "Upload Giraffe assets to Drive",
+      "pipedriveDealName": "Gille - Schifflange",
+      "url": "https://trello.com/c/Y75fLqMv/7085-upload-giraffe-assets-to-drive-gille-schifflange-rudy",
+      "lastModified": "2025-01-08T13:50:53.267Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "677e838881bd58f7cfd43c9c",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Upload Giraffe assets to Drive: Gille - Schifflange (Rudy)",
+      "nameShort": "Upload Giraffe assets to Drive",
+      "pipedriveDealName": "Gille - Schifflange",
+      "url": "https://trello.com/c/NFhs35Cb/7086-upload-giraffe-assets-to-drive-gille-schifflange-rudy",
+      "lastModified": "2025-01-08T13:54:18.793Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]

@@ -97,6 +97,70 @@
       ]
     },
     {
+      "id": "677e86dba5c46b32deff4dd5",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Check tenant payment: Besbes - Merl (Maeva)",
+      "nameShort": "Check tenant payment",
+      "pipedriveDealName": "Besbes - Merl",
+      "url": "https://trello.com/c/w5j4N7n0/7087-check-tenant-payment-besbes-merl-maeva",
+      "lastModified": "2025-01-08T14:09:46.982Z",
+      "associatedAdviser": "Maeva",
+      "slackUserId": "U044CKLT9HD",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "677e8735f1dfef713d960290",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Check tenant payment: Anobile - Dudelange (Maeva)",
+      "nameShort": "Check tenant payment",
+      "pipedriveDealName": "Anobile - Dudelange",
+      "url": "https://trello.com/c/15Wh2X3p/7088-check-tenant-payment-anobile-dudelange-maeva",
+      "lastModified": "2025-01-08T14:10:51.677Z",
+      "associatedAdviser": "Maeva",
+      "slackUserId": "U044CKLT9HD",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "677e873c7494f9fa98c46a62",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Check tenant payment: Zhou - Merl (Maeva)",
+      "nameShort": "Check tenant payment",
+      "pipedriveDealName": "Zhou - Merl",
+      "url": "https://trello.com/c/B0pkPxYE/7089-check-tenant-payment-zhou-merl-maeva",
+      "lastModified": "2025-01-08T14:10:50.276Z",
+      "associatedAdviser": "Maeva",
+      "slackUserId": "U044CKLT9HD",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "677e873c6cb02c8d454b3092",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Check tenant payment: Zhang - Limpertsberg (Maeva)",
+      "nameShort": "Check tenant payment",
+      "pipedriveDealName": "Zhang - Limpertsberg",
+      "url": "https://trello.com/c/nOupHMWw/7090-check-tenant-payment-zhang-limpertsberg-maeva",
+      "lastModified": "2025-01-08T14:10:55.527Z",
+      "associatedAdviser": "Maeva",
+      "slackUserId": "U044CKLT9HD",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "677db23b7f4acf1f2a08ff23",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -334,22 +398,6 @@
       "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "677e816054ab424ff40d25aa",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Floor plan room name change: Lanners - Mersch (Rudy)",
-      "nameShort": "Floor plan room name change",
-      "pipedriveDealName": "Lanners - Mersch",
-      "url": "https://trello.com/c/PwqdG6oe/7084-floor-plan-room-name-change-lanners-mersch-rudy",
-      "lastModified": "2025-01-08T13:45:07.645Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {

@@ -145,38 +145,6 @@
       ]
     },
     {
-      "id": "677e4b8486b2bff539077ece",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "3D render request: Pendle - Fentange (Carolina)",
-      "nameShort": "3D render request",
-      "pipedriveDealName": "Pendle - Fentange",
-      "url": "https://trello.com/c/zyAzRRrz/7069-3d-render-request-pendle-fentange-carolina",
-      "lastModified": "2025-01-08T09:55:25.696Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "677e4b9bbb458e484ce25a60",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "3D render request: Pendle+-+Fentange (Carolina)",
-      "nameShort": "3D render request",
-      "pipedriveDealName": "Pendle+-+Fentange",
-      "url": "https://trello.com/c/nvhtkqdR/7070-3d-render-request-pendle-fentange-carolina",
-      "lastModified": "2025-01-08T09:55:48.176Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"

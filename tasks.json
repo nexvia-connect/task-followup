@@ -145,6 +145,22 @@
       ]
     },
     {
+      "id": "677f912b2466eb4dcc51e878",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Pendle - Fentange (Carolina)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "Pendle - Fentange",
+      "url": "https://trello.com/c/AVfIy8Xo/7093-listing-modification-pendle-fentange-carolina",
+      "lastModified": "2025-01-09T09:04:45.698Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "677e4b8486b2bff539077ece",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -185,7 +201,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-01-08T13:00:05.173Z",
+      "lastModified": "2025-01-09T09:00:12.689Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

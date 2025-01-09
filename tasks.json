@@ -145,6 +145,38 @@
       ]
     },
     {
+      "id": "677ffcdbf87f39d6112554e4",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Schedule newsletter: Grysolle - Bonnevoie 2 (Rue de Wiltz) (Carolina)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Grysolle - Bonnevoie 2",
+      "url": "https://trello.com/c/1d055ohM/7107-schedule-newsletter-grysolle-bonnevoie-2-rue-de-wiltz-carolina",
+      "lastModified": "2025-01-09T16:44:13.683Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "677ffd4cd4f856bfc54eaa11",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Schedule newsletter: Gasparro - Sandweiler (Carolina)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Gasparro - Sandweiler",
+      "url": "https://trello.com/c/zFLHOS5X/7108-schedule-newsletter-gasparro-sandweiler-carolina",
+      "lastModified": "2025-01-09T16:46:07.829Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "677ff3799441803cef0e4862",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"

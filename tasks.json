@@ -1,22 +1,6 @@
 {
   "cards": [
     {
-      "id": "67766bedf7f162c471e3f2cd",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Statistics report: Masson - Neudorf (Thomas)",
-      "nameShort": "Statistics report",
-      "pipedriveDealName": "Masson - Neudorf",
-      "url": "https://trello.com/c/8Wvp5eJQ/7021-statistics-report-masson-neudorf-thomas",
-      "lastModified": "2025-01-02T10:35:28.135Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
       "id": "6731eda8207119ee05df3ef2",
       "idMembers": [
         "4fe86ade26d156994a0bee7d"

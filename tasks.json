@@ -145,6 +145,22 @@
       ]
     },
     {
+      "id": "678119fa2eb98b40a126d474",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Share listing on FB and Linkedin: Grysolle - Bonnevoie 1 (Rue de Puits) (Carolina)",
+      "nameShort": "Share listing on FB and Linkedin",
+      "pipedriveDealName": "Grysolle - Bonnevoie 1",
+      "url": "https://trello.com/c/KPcHfh7i/7119-share-listing-on-fb-and-linkedin-grysolle-bonnevoie-1-rue-de-puits-carolina",
+      "lastModified": "2025-01-10T13:00:45.532Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -153,7 +169,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-01-10T08:46:19.086Z",
+      "lastModified": "2025-01-10T13:00:12.265Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

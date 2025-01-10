@@ -161,17 +161,17 @@
       ]
     },
     {
-      "id": "6780eb90f2e9e2b1a2d8d4b1",
+      "id": "6780fb754d1a9c251b00bfd6",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Listing modification: Pendle - Fentange (Carolina)",
-      "nameShort": "Listing modification",
-      "pipedriveDealName": "Pendle - Fentange",
-      "url": "https://trello.com/c/Ob6yogH0/7115-listing-modification-pendle-fentange-carolina",
-      "lastModified": "2025-01-10T09:42:42.725Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
+      "name": "Publish listing to platforms: Bolet - Gasperich (Thomas)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Bolet - Gasperich",
+      "url": "https://trello.com/c/F7Sj1euo/7116-publish-listing-to-platforms-bolet-gasperich-thomas",
+      "lastModified": "2025-01-10T10:50:47.043Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -316,6 +316,22 @@
       "lastModified": "2025-01-10T08:34:04.743Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6780fba26075da4696bd84c2",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Bolet - Gasperich (Thomas)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Bolet - Gasperich",
+      "url": "https://trello.com/c/geBuUUg3/7117-put-listing-in-window-displays-bolet-gasperich-thomas",
+      "lastModified": "2025-01-10T11:10:38.626Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

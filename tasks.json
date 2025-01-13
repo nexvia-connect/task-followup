@@ -146,19 +146,15 @@
     },
     {
       "id": "67811efe15dc0153e4e6437e",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
+      "idMembers": [],
       "name": "Schedule newsletter: Pendle - Fentange (Carolina)",
       "nameShort": "Schedule newsletter",
       "pipedriveDealName": "Pendle - Fentange",
       "url": "https://trello.com/c/cf8xWxmx/7120-schedule-newsletter-pendle-fentange-carolina",
-      "lastModified": "2025-01-10T13:22:08.533Z",
+      "lastModified": "2025-01-13T14:33:59.350Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "6782846e8bd1e27a6c754dc9",
@@ -172,22 +168,6 @@
       "lastModified": "2025-01-11T14:47:12.178Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "67851d02b116177cb2dae94c",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Listing modification: Bovha - Kirchberg (Carolina)",
-      "nameShort": "Listing modification",
-      "pipedriveDealName": "Bovha - Kirchberg",
-      "url": "https://trello.com/c/YiENQz6B/7141-listing-modification-bovha-kirchberg-carolina",
-      "lastModified": "2025-01-13T14:02:45.775Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

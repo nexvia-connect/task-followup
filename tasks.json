@@ -193,22 +193,6 @@
       ]
     },
     {
-      "id": "67849ecbc95813f78d0124b1",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Prepare weekly newsletter (Task)",
-      "nameShort": "Prepare weekly newsletter",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/kWUqLxHz/7127-prepare-weekly-newsletter-task",
-      "lastModified": "2025-01-13T05:04:12.515Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "6784d65a3aaf4722be9f713b",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -289,6 +273,70 @@
       ]
     },
     {
+      "id": "6784ef74160ef392d52f5db8",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Virtual visit modifications: Gasparro - Sandweiler (Carolina)",
+      "nameShort": "Virtual visit modifications",
+      "pipedriveDealName": "Gasparro - Sandweiler",
+      "url": "https://trello.com/c/qjjSdVxB/7134-virtual-visit-modifications-gasparro-sandweiler-carolina",
+      "lastModified": "2025-01-13T10:48:23.551Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "6784ef7d6065c0ae4d3f8adc",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing photo modifications: Gasparro - Sandweiler (Carolina)",
+      "nameShort": "Listing photo modifications",
+      "pipedriveDealName": "Gasparro - Sandweiler",
+      "url": "https://trello.com/c/hEhJzO9c/7135-listing-photo-modifications-gasparro-sandweiler-carolina",
+      "lastModified": "2025-01-13T10:48:31.601Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6784f1291ac6704d07b564f6",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop: Gasparro - Sandweiler (Carolina)",
+      "nameShort": "Photoshop",
+      "pipedriveDealName": "Gasparro - Sandweiler",
+      "url": "https://trello.com/c/wrPFC7Rp/7136-photoshop-gasparro-sandweiler-carolina",
+      "lastModified": "2025-01-13T10:55:48.685Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "6784f163cf2ead8452326743",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Photoshop: Gasparro - Sandweiler (Carolina)",
+      "nameShort": "Photoshop",
+      "pipedriveDealName": "Gasparro - Sandweiler",
+      "url": "https://trello.com/c/TKA0AxFq/7137-photoshop-gasparro-sandweiler-carolina",
+      "lastModified": "2025-01-13T10:56:47.461Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -297,7 +345,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-01-13T09:00:43.648Z",
+      "lastModified": "2025-01-13T11:06:06.009Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

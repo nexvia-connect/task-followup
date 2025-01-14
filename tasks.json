@@ -113,22 +113,6 @@
       ]
     },
     {
-      "id": "67827cc9aa69126aa63101d2",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Missing deal Pipedrive information: Brossel - Gare (Maeva)",
-      "nameShort": "Missing deal Pipedrive information",
-      "pipedriveDealName": "Brossel - Gare",
-      "url": "https://trello.com/c/iaukpzcI/7125-missing-deal-pipedrive-information-brossel-gare-maeva",
-      "lastModified": "2025-01-11T14:14:36.421Z",
-      "associatedAdviser": "Maeva",
-      "slackUserId": "U044CKLT9HD",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "6786419096f6b812731a0bed",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -156,38 +140,6 @@
       "lastModified": "2025-01-10T14:32:23.597Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67861c270d350a1c2aa3657d",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "3D render request: Rita - Bonnevoie (Sandy)",
-      "nameShort": "3D render request",
-      "pipedriveDealName": "Rita - Bonnevoie",
-      "url": "https://trello.com/c/ezLjivlI/7148-3d-render-request-rita-bonnevoie-sandy",
-      "lastModified": "2025-01-14T08:11:28.392Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67861c77afc45c9c5c77dbc1",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "3D render request: Rita - Bonnevoie (Sandy)",
-      "nameShort": "3D render request",
-      "pipedriveDealName": "Rita - Bonnevoie",
-      "url": "https://trello.com/c/u6InLZFz/7149-3d-render-request-rita-bonnevoie-sandy",
-      "lastModified": "2025-01-14T08:12:49.135Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]

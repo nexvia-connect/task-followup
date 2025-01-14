@@ -17,22 +17,6 @@
       ]
     },
     {
-      "id": "677e86dba5c46b32deff4dd5",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Check tenant payment: Besbes - Merl (Maeva)",
-      "nameShort": "Check tenant payment",
-      "pipedriveDealName": "Besbes - Merl",
-      "url": "https://trello.com/c/w5j4N7n0/7087-check-tenant-payment-besbes-merl-maeva",
-      "lastModified": "2025-01-08T14:09:46.982Z",
-      "associatedAdviser": "Maeva",
-      "slackUserId": "U044CKLT9HD",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "677e8735f1dfef713d960290",
       "idMembers": [
         "5ce414ac7678a40557510d74"

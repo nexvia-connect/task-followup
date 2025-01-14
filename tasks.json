@@ -161,22 +161,6 @@
       ]
     },
     {
-      "id": "678627cb3201a1c5d3204738",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Share listing on FB and Linkedin: Gasparro - Sandweiler (Carolina)",
-      "nameShort": "Share listing on FB and Linkedin",
-      "pipedriveDealName": "Gasparro - Sandweiler",
-      "url": "https://trello.com/c/vl8zycxg/7152-share-listing-on-fb-and-linkedin-gasparro-sandweiler-carolina",
-      "lastModified": "2025-01-14T09:01:02.253Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
       "id": "6786419096f6b812731a0bed",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -186,22 +170,6 @@
       "pipedriveDealName": "Grysolle - Bonnevoie 2",
       "url": "https://trello.com/c/7AmvDNfZ/7157-publish-listing-to-platforms-grysolle-bonnevoie-2-rue-de-wiltz-carolina",
       "lastModified": "2025-01-14T10:51:27.445Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "678641db11ce0cc9777e2566",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Put listing in window displays: Grysolle - Bonnevoie 2 (Rue de Wiltz) (Carolina)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Grysolle - Bonnevoie 2",
-      "url": "https://trello.com/c/FXaScwwu/7158-put-listing-in-window-displays-grysolle-bonnevoie-2-rue-de-wiltz-carolina",
-      "lastModified": "2025-01-14T10:52:19.597Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
@@ -286,6 +254,22 @@
       "slackUserId": "UBK5HTKFF",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "678644c93eeb77483017cb5b",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing photo modifications: Lanners - Mersch (Rudy)",
+      "nameShort": "Listing photo modifications",
+      "pipedriveDealName": "Lanners - Mersch",
+      "url": "https://trello.com/c/LqLZyDgc/7159-listing-photo-modifications-lanners-mersch-rudy",
+      "lastModified": "2025-01-14T11:04:44.579Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
@@ -444,6 +428,22 @@
       "lastModified": "2025-01-10T11:10:38.626Z",
       "associatedAdviser": "Thomas",
       "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "678641db11ce0cc9777e2566",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Grysolle - Bonnevoie 2 (Rue de Wiltz) (Carolina)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Grysolle - Bonnevoie 2",
+      "url": "https://trello.com/c/FXaScwwu/7158-put-listing-in-window-displays-grysolle-bonnevoie-2-rue-de-wiltz-carolina",
+      "lastModified": "2025-01-14T11:04:40.852Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

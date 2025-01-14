@@ -161,38 +161,6 @@
       ]
     },
     {
-      "id": "675c126bede62d1f1aa293b6",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Check tenant payment: Wei - Muhlenbach (Maeva)",
-      "nameShort": "Check tenant payment",
-      "pipedriveDealName": "Wei - Muhlenbach",
-      "url": "https://trello.com/c/N2rh1oEC/6923-check-tenant-payment-wei-muhlenbach-maeva",
-      "lastModified": "2024-12-13T15:07:04.097Z",
-      "associatedAdviser": "Maeva",
-      "slackUserId": "U044CKLT9HD",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "6762920b8f7e26afc4c0dcbd",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Check tenant payment: Ammaturo - Dudelange (Aurore)",
-      "nameShort": null,
-      "pipedriveDealName": "Ammaturo - Dudelange",
-      "url": "https://trello.com/c/WA8clrk8/6958-check-tenant-payment-ammaturo-dudelange-aurore",
-      "lastModified": "2024-12-18T14:14:43.489Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "677796f61f887099e5be52ac",
       "idMembers": [
         "5ce414ac7678a40557510d74"

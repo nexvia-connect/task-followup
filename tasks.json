@@ -49,22 +49,6 @@
       ]
     },
     {
-      "id": "677e873c6cb02c8d454b3092",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Check tenant payment: Zhang - Limpertsberg (Maeva)",
-      "nameShort": "Check tenant payment",
-      "pipedriveDealName": "Zhang - Limpertsberg",
-      "url": "https://trello.com/c/nOupHMWw/7090-check-tenant-payment-zhang-limpertsberg-maeva",
-      "lastModified": "2025-01-08T14:10:55.527Z",
-      "associatedAdviser": "Maeva",
-      "slackUserId": "U044CKLT9HD",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"

@@ -17,38 +17,6 @@
       ]
     },
     {
-      "id": "677b9ed5709ba597edf7552b",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Check tenant payment: Silcox - Gare (Aurore)",
-      "nameShort": "Check tenant payment",
-      "pipedriveDealName": "Silcox - Gare",
-      "url": "https://trello.com/c/K8Me49a2/7033-check-tenant-payment-silcox-gare-aurore",
-      "lastModified": "2025-01-06T09:14:14.989Z",
-      "associatedAdviser": "Aurore",
-      "slackUserId": "U079GJ0BU1E",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "677b9edc160870395be1829d",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Check tenant payment: Krieger - Gasperich (Aurore)",
-      "nameShort": "Check tenant payment",
-      "pipedriveDealName": "Krieger - Gasperich",
-      "url": "https://trello.com/c/Yma9G0xD/7034-check-tenant-payment-krieger-gasperich-aurore",
-      "lastModified": "2025-01-06T09:14:22.295Z",
-      "associatedAdviser": "Aurore",
-      "slackUserId": "U079GJ0BU1E",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "677e86dba5c46b32deff4dd5",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -252,6 +220,22 @@
       "lastModified": "2025-01-14T11:04:40.852Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "677b9ed5709ba597edf7552b",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Check tenant payment: Silcox - Gare (Aurore)",
+      "nameShort": "Check tenant payment",
+      "pipedriveDealName": "Silcox - Gare",
+      "url": "https://trello.com/c/K8Me49a2/7033-check-tenant-payment-silcox-gare-aurore",
+      "lastModified": "2025-01-14T17:19:07.136Z",
+      "associatedAdviser": "Aurore",
+      "slackUserId": "U079GJ0BU1E",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

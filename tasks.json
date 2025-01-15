@@ -17,22 +17,6 @@
       ]
     },
     {
-      "id": "6787736de0580f1bfa903483",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Purchase item (Romain)",
-      "nameShort": "Purchase item",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/M76aan4f/7171-purchase-item-romain",
-      "lastModified": "2025-01-15T08:35:58.949Z",
-      "associatedAdviser": "Romain",
-      "slackUserId": "U7BGBRJGH",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67879dc955fb8e0833e6fd18",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -49,49 +33,33 @@
       ]
     },
     {
-      "id": "678765b232e506716036d52b",
+      "id": "6787c84137582c498023079f",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Schedule newsletter: Goldstein - Fentange (Maéva)",
-      "nameShort": "Schedule newsletter",
-      "pipedriveDealName": "Goldstein - Fentange",
-      "url": "https://trello.com/c/AFhJwQld/7170-schedule-newsletter-goldstein-fentange-ma%C3%A9va",
-      "lastModified": "2025-01-15T07:37:24.600Z",
-      "associatedAdviser": "Maéva",
-      "slackUserId": "U080Y7JP9T3",
+      "name": "Check tenant payment: Le Coutour - Cessange (Aurore)",
+      "nameShort": "Check tenant payment",
+      "pipedriveDealName": "Le Coutour - Cessange",
+      "url": "https://trello.com/c/Nfmn07GN/7181-check-tenant-payment-le-coutour-cessange-aurore",
+      "lastModified": "2025-01-15T14:38:13.342Z",
+      "associatedAdviser": "Aurore",
+      "slackUserId": "U079GJ0BU1E",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
-      "id": "6787931d5c9d44479f17c38a",
+      "id": "6787c84d8fb302dbb5a19583",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Publish listing to platforms: Gasparro - Sandweiler (Carolina)",
-      "nameShort": "Publish listing to platforms",
-      "pipedriveDealName": "Gasparro - Sandweiler",
-      "url": "https://trello.com/c/THPfcCqi/7174-publish-listing-to-platforms-gasparro-sandweiler-carolina",
-      "lastModified": "2025-01-15T10:51:25.963Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "6787934f7486c890e0c1f310",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Put listing in window displays: Gasparro - Sandweiler (Carolina)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Gasparro - Sandweiler",
-      "url": "https://trello.com/c/Zw3iQX7l/7175-put-listing-in-window-displays-gasparro-sandweiler-carolina",
-      "lastModified": "2025-01-15T10:52:08.611Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
+      "name": "Check tenant payment: Ney - Steinsel (Aurore)",
+      "nameShort": "Check tenant payment",
+      "pipedriveDealName": "Ney - Steinsel",
+      "url": "https://trello.com/c/kg5eUM71/7182-check-tenant-payment-ney-steinsel-aurore",
+      "lastModified": "2025-01-15T14:38:30.189Z",
+      "associatedAdviser": "Aurore",
+      "slackUserId": "U079GJ0BU1E",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -110,6 +78,22 @@
       "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "6787c17ef3ee753963dc2574",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Schedule newsletter: Rita - Bonnevoie (Sandy)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Rita - Bonnevoie",
+      "url": "https://trello.com/c/1P8B7JNd/7180-schedule-newsletter-rita-bonnevoie-sandy",
+      "lastModified": "2025-01-15T14:09:06.171Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
@@ -312,6 +296,38 @@
       "lastModified": "2025-01-14T17:40:21.211Z",
       "associatedAdviser": "Maeva",
       "slackUserId": "U044CKLT9HD",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6787931d5c9d44479f17c38a",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Publish listing to platforms: Gasparro - Sandweiler (Carolina)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Gasparro - Sandweiler",
+      "url": "https://trello.com/c/THPfcCqi/7174-publish-listing-to-platforms-gasparro-sandweiler-carolina",
+      "lastModified": "2025-01-15T13:04:14.464Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6787934f7486c890e0c1f310",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Gasparro - Sandweiler (Carolina)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Gasparro - Sandweiler",
+      "url": "https://trello.com/c/Zw3iQX7l/7175-put-listing-in-window-displays-gasparro-sandweiler-carolina",
+      "lastModified": "2025-01-15T13:04:18.150Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

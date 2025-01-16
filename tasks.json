@@ -17,35 +17,51 @@
       ]
     },
     {
-      "id": "6788e4b667db016f6fd9e872",
+      "id": "67890b8fb39fa318160e0cf3",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Publish listing to platforms: Gille - Schifflange (Rudy)",
-      "nameShort": "Publish listing to platforms",
-      "pipedriveDealName": "Gille - Schifflange",
-      "url": "https://trello.com/c/yPVFmZwv/7193-publish-listing-to-platforms-gille-schifflange-rudy",
-      "lastModified": "2025-01-16T10:52:20.378Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
+      "name": "Listing creation: Hess - Dudelange (Sandy)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": "Hess - Dudelange",
+      "url": "https://trello.com/c/lsTpkvak/7196-listing-creation-hess-dudelange-sandy",
+      "lastModified": "2025-01-16T13:37:24.113Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
-      "id": "6788e71932d51d85e3677ea1",
+      "id": "67891cd2c69412763b2b06f3",
       "idMembers": [
-        "66d5ca383da59bf7e67f324a"
+        "5ce414ac7678a40557510d74"
       ],
-      "name": "Photoshop: Bolet - Gasperich (Thomas)",
-      "nameShort": "Photoshop",
-      "pipedriveDealName": "Bolet - Gasperich",
-      "url": "https://trello.com/c/TqdTc5Yr/7195-photoshop-bolet-gasperich-thomas",
-      "lastModified": "2025-01-16T11:01:55.852Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
+      "name": "Publish listing to platforms: Pendle - Fentange (Carolina)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Pendle - Fentange",
+      "url": "https://trello.com/c/Ccyl4d9A/7198-publish-listing-to-platforms-pendle-fentange-carolina",
+      "lastModified": "2025-01-16T14:51:46.009Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67893b50c7525892167b6edb",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Grysolle - Bonnevoie 1 (Rue de Puits) (Carolina)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "Grysolle - Bonnevoie 1",
+      "url": "https://trello.com/c/3SQCqEnN/7200-listing-modification-grysolle-bonnevoie-1-rue-de-puits-carolina",
+      "lastModified": "2025-01-16T17:01:07.479Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
@@ -57,7 +73,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-01-16T10:18:32.839Z",
+      "lastModified": "2025-01-16T13:00:21.232Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [
@@ -312,6 +328,22 @@
       "lastModified": "2025-01-16T11:53:28.321Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67891d405938332598be9e54",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Pendle - Fentange (Carolina)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Pendle - Fentange",
+      "url": "https://trello.com/c/1dy4oKrf/7199-put-listing-in-window-displays-pendle-fentange-carolina",
+      "lastModified": "2025-01-16T17:04:54.047Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

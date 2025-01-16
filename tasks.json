@@ -17,22 +17,6 @@
       ]
     },
     {
-      "id": "67889be13fd1459e77653fc2",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Unhide listing: Goldstein - Fentange (Maéva)",
-      "nameShort": "Unhide listing",
-      "pipedriveDealName": "Goldstein - Fentange",
-      "url": "https://trello.com/c/lX9Ap40R/7186-unhide-listing-goldstein-fentange-ma%C3%A9va",
-      "lastModified": "2025-01-16T05:40:52.666Z",
-      "associatedAdviser": "Maéva",
-      "slackUserId": "U080Y7JP9T3",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "6788e4b667db016f6fd9e872",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -42,22 +26,6 @@
       "pipedriveDealName": "Gille - Schifflange",
       "url": "https://trello.com/c/yPVFmZwv/7193-publish-listing-to-platforms-gille-schifflange-rudy",
       "lastModified": "2025-01-16T10:52:20.378Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "6788e50435658af6ed5aa840",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Put listing in window displays: Gille - Schifflange (Rudy)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Gille - Schifflange",
-      "url": "https://trello.com/c/0hN8jhsD/7194-put-listing-in-window-displays-gille-schifflange-rudy",
-      "lastModified": "2025-01-16T10:53:01.062Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
       "avatarUrls": [
@@ -328,6 +296,22 @@
       "lastModified": "2025-01-15T16:06:13.516Z",
       "associatedAdviser": "Aurore",
       "slackUserId": "U079GJ0BU1E",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6788e50435658af6ed5aa840",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Gille - Schifflange (Rudy)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Gille - Schifflange",
+      "url": "https://trello.com/c/0hN8jhsD/7194-put-listing-in-window-displays-gille-schifflange-rudy",
+      "lastModified": "2025-01-16T11:53:28.321Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

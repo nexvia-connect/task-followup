@@ -49,6 +49,118 @@
       ]
     },
     {
+      "id": "678a584e6f450b0e2be7dca4",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing creation: Alhainen - Wasserbillig (Sandy)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": "Alhainen - Wasserbillig",
+      "url": "https://trello.com/c/3R9mN2rX/7216-listing-creation-alhainen-wasserbillig-sandy",
+      "lastModified": "2025-01-17T13:17:07.947Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "678a6486f3e981a84f2639fa",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Harrabi - Esch (Thomas)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "Harrabi - Esch",
+      "url": "https://trello.com/c/tl9nj7Dr/7218-listing-modification-harrabi-esch-thomas",
+      "lastModified": "2025-01-17T14:09:13.603Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "678a6e617d47f410a55cc167",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Publish listing to platforms: Goldstein - Fentange (Maéva)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Goldstein - Fentange",
+      "url": "https://trello.com/c/8hgbF3x5/7219-publish-listing-to-platforms-goldstein-fentange-ma%C3%A9va",
+      "lastModified": "2025-01-17T14:52:17.796Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "678a6ec72c6697261b70291f",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Goldstein - Fentange (Maéva)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Goldstein - Fentange",
+      "url": "https://trello.com/c/3F7xu4YV/7220-put-listing-in-window-displays-goldstein-fentange-ma%C3%A9va",
+      "lastModified": "2025-01-17T14:53:03.784Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "678a72bd2c2471f85013a7df",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Set listing as signed: Strutz - Koerich (Thomas)",
+      "nameShort": "Set listing as signed",
+      "pipedriveDealName": "Strutz - Koerich",
+      "url": "https://trello.com/c/ljHbUclW/7221-set-listing-as-signed-strutz-koerich-thomas",
+      "lastModified": "2025-01-17T15:09:52.664Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "678a4a96168a8ee65eab24b2",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "3D render request: Hess - Dudelange (Sandy)",
+      "nameShort": "3D render request",
+      "pipedriveDealName": "Hess - Dudelange",
+      "url": "https://trello.com/c/RarjsD3m/7214-3d-render-request-hess-dudelange-sandy",
+      "lastModified": "2025-01-17T12:18:40.106Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "678a4ae9dee03fc3d00072b3",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "3D render request: Hess - Dudelange (Sandy)",
+      "nameShort": "3D render request",
+      "pipedriveDealName": "Hess - Dudelange",
+      "url": "https://trello.com/c/E1inNlzE/7215-3d-render-request-hess-dudelange-sandy",
+      "lastModified": "2025-01-17T12:20:03.352Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"

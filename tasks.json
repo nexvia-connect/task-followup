@@ -173,22 +173,6 @@
       ]
     },
     {
-      "id": "677d073eb85b5a89283b162c",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Put listing in window displays: Feller - Schifflange (Süleyman)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Feller - Schifflange",
-      "url": "https://trello.com/c/tOE96hmi/7051-put-listing-in-window-displays-feller-schifflange-s%C3%BCleyman",
-      "lastModified": "2025-01-07T15:40:18.397Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "677fe2f37b51315929b25a57",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -198,22 +182,6 @@
       "pipedriveDealName": "Zivkovic - Heisdorf",
       "url": "https://trello.com/c/GUppAGcg/7100-put-listing-in-window-displays-zivkovic-heisdorf-carolina",
       "lastModified": "2025-01-09T15:48:34.220Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "6780d1a7482c1396144284b5",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Put listing in window displays: Grysolle - Bonnevoie 1 (Rue de Puits) (Carolina)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Grysolle - Bonnevoie 1",
-      "url": "https://trello.com/c/tpTjo6LX/7112-put-listing-in-window-displays-grysolle-bonnevoie-1-rue-de-puits-carolina",
-      "lastModified": "2025-01-10T08:34:04.743Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
@@ -296,22 +264,6 @@
       "lastModified": "2025-01-14T17:40:21.211Z",
       "associatedAdviser": "Maeva",
       "slackUserId": "U044CKLT9HD",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "6787931d5c9d44479f17c38a",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Publish listing to platforms: Gasparro - Sandweiler (Carolina)",
-      "nameShort": "Publish listing to platforms",
-      "pipedriveDealName": "Gasparro - Sandweiler",
-      "url": "https://trello.com/c/THPfcCqi/7174-publish-listing-to-platforms-gasparro-sandweiler-carolina",
-      "lastModified": "2025-01-15T13:04:14.464Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

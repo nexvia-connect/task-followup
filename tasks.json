@@ -17,6 +17,70 @@
       ]
     },
     {
+      "id": "678aa0badc065cd79b80fbd7",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Missing deal Pipedrive information: Wagner - Clausen (Maeva)",
+      "nameShort": "Missing deal Pipedrive information",
+      "pipedriveDealName": "Wagner - Clausen",
+      "url": "https://trello.com/c/pdZGFiyp/7223-missing-deal-pipedrive-information-wagner-clausen-maeva",
+      "lastModified": "2025-01-17T18:26:04.887Z",
+      "associatedAdviser": "Maeva",
+      "slackUserId": "U044CKLT9HD",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "678d28f91beceb4b270a07ba",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Schedule newsletter: Hess - Dudelange (Sandy)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Hess - Dudelange",
+      "url": "https://trello.com/c/31y97XHj/7225-schedule-newsletter-hess-dudelange-sandy",
+      "lastModified": "2025-01-19T16:31:55.446Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "678d2e69419cddd9200065e2",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Schedule newsletter: Alhainen - Wasserbillig (Sandy)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Alhainen - Wasserbillig",
+      "url": "https://trello.com/c/Ju93Ucdu/7226-schedule-newsletter-alhainen-wasserbillig-sandy",
+      "lastModified": "2025-01-19T16:55:08.461Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "678dd9831d8cef8dd921f91f",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Prepare weekly newsletter (Task)",
+      "nameShort": "Prepare weekly newsletter",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/NcLZjKp4/7228-prepare-weekly-newsletter-task",
+      "lastModified": "2025-01-20T05:05:08.964Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "678a4a96168a8ee65eab24b2",
       "idMembers": [
         "56f10d02921bc403c6d626d1"

@@ -251,22 +251,6 @@
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
-    },
-    {
-      "id": "678a6ec72c6697261b70291f",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Put listing in window displays: Goldstein - Fentange (Maéva)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Goldstein - Fentange",
-      "url": "https://trello.com/c/3F7xu4YV/7220-put-listing-in-window-displays-goldstein-fentange-ma%C3%A9va",
-      "lastModified": "2025-01-17T16:32:23.202Z",
-      "associatedAdviser": "Maéva",
-      "slackUserId": "U080Y7JP9T3",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
     }
   ]
 }

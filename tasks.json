@@ -17,54 +17,6 @@
       ]
     },
     {
-      "id": "678aa0badc065cd79b80fbd7",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Missing deal Pipedrive information: Wagner - Clausen (Maeva)",
-      "nameShort": "Missing deal Pipedrive information",
-      "pipedriveDealName": "Wagner - Clausen",
-      "url": "https://trello.com/c/pdZGFiyp/7223-missing-deal-pipedrive-information-wagner-clausen-maeva",
-      "lastModified": "2025-01-17T18:26:04.887Z",
-      "associatedAdviser": "Maeva",
-      "slackUserId": "U044CKLT9HD",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "678a4a96168a8ee65eab24b2",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "3D render request: Hess - Dudelange (Sandy)",
-      "nameShort": "3D render request",
-      "pipedriveDealName": "Hess - Dudelange",
-      "url": "https://trello.com/c/RarjsD3m/7214-3d-render-request-hess-dudelange-sandy",
-      "lastModified": "2025-01-17T12:18:40.106Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "678a4ae9dee03fc3d00072b3",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "3D render request: Hess - Dudelange (Sandy)",
-      "nameShort": "3D render request",
-      "pipedriveDealName": "Hess - Dudelange",
-      "url": "https://trello.com/c/E1inNlzE/7215-3d-render-request-hess-dudelange-sandy",
-      "lastModified": "2025-01-17T12:20:03.352Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"

@@ -1,6 +1,22 @@
 {
   "cards": [
     {
+      "id": "6790a6355ac52f07935c59ed",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Statistics report: Leroy - Greisch (Rudy)",
+      "nameShort": "Statistics report",
+      "pipedriveDealName": "Leroy - Greisch",
+      "url": "https://trello.com/c/zump3pbc/7258-statistics-report-leroy-greisch-rudy",
+      "lastModified": "2025-01-22T08:03:04.520Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "6731eda8207119ee05df3ef2",
       "idMembers": [
         "4fe86ade26d156994a0bee7d"
@@ -14,6 +30,38 @@
       "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
+      ]
+    },
+    {
+      "id": "678fd6d1a7e05c375f67f6d0",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Schedule newsletter: Flahaut - Capellen (Vinciane)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Flahaut - Capellen",
+      "url": "https://trello.com/c/1jL4rjvJ/7254-schedule-newsletter-flahaut-capellen-vinciane",
+      "lastModified": "2025-01-21T17:18:12.276Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67909baab6d5b3599daf873f",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Change listing price: Alves - Oberkorn (Thomas)",
+      "nameShort": "Change listing price",
+      "pipedriveDealName": "Alves - Oberkorn",
+      "url": "https://trello.com/c/w33JeX76/7257-change-listing-price-alves-oberkorn-thomas",
+      "lastModified": "2025-01-22T07:18:05.860Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {

@@ -49,33 +49,17 @@
       ]
     },
     {
-      "id": "6790cdcb84ab0f7a34daad57",
+      "id": "6791fbe28ebf880018c389d0",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Publish listing to platforms: Hess - Dudelange (Sandy)",
-      "nameShort": "Publish listing to platforms",
-      "pipedriveDealName": "Hess - Dudelange",
-      "url": "https://trello.com/c/8nXOtp3m/7263-publish-listing-to-platforms-hess-dudelange-sandy",
-      "lastModified": "2025-01-23T07:34:53.215Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "679105eb4692343d78e10d88",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Publish listing to platforms: Alhainen - Wasserbillig (Sandy)",
-      "nameShort": "Publish listing to platforms",
-      "pipedriveDealName": "Alhainen - Wasserbillig",
-      "url": "https://trello.com/c/FHJfpo0P/7266-publish-listing-to-platforms-alhainen-wasserbillig-sandy",
-      "lastModified": "2025-01-23T07:35:16.620Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
+      "name": "Complete photo session: Niruda - Bonnevoie (Rudy)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Niruda - Bonnevoie",
+      "url": "https://trello.com/c/blOmmouA/7271-complete-photo-session-niruda-bonnevoie-rudy",
+      "lastModified": "2025-01-23T08:20:52.677Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

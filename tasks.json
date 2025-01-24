@@ -17,6 +17,22 @@
       ]
     },
     {
+      "id": "679399347d4eb5f6502e5929",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Statistics report: Bovha - Kirchberg (Carolina)",
+      "nameShort": "Statistics report",
+      "pipedriveDealName": "Bovha - Kirchberg",
+      "url": "https://trello.com/c/ZYLswnMK/7290-statistics-report-bovha-kirchberg-carolina",
+      "lastModified": "2025-01-24T13:44:24.081Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "6731eda8207119ee05df3ef2",
       "idMembers": [
         "4fe86ade26d156994a0bee7d"
@@ -46,6 +62,38 @@
       "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6793a8d2ee0fb4b97d289bce",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Publish listing to platforms: Benabadji - Strassen (Romain)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Benabadji - Strassen",
+      "url": "https://trello.com/c/YaPcWonG/7292-publish-listing-to-platforms-benabadji-strassen-romain",
+      "lastModified": "2025-01-24T14:51:15.860Z",
+      "associatedAdviser": "Romain",
+      "slackUserId": "U7BGBRJGH",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67937e9b22020fe5a6fca1b9",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Complete photo session: Roos - Grevenmacher (Sandy)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Roos - Grevenmacher",
+      "url": "https://trello.com/c/Rdsw3Soq/7289-complete-photo-session-roos-grevenmacher-sandy",
+      "lastModified": "2025-01-24T11:50:53.649Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {
@@ -200,6 +248,22 @@
       "lastModified": "2025-01-24T08:02:15.670Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "6793a905d614423a1fb5f349",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Benabadji - Strassen (Romain)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Benabadji - Strassen",
+      "url": "https://trello.com/c/wPoKcBmd/7293-put-listing-in-window-displays-benabadji-strassen-romain",
+      "lastModified": "2025-01-24T15:00:57.763Z",
+      "associatedAdviser": "Romain",
+      "slackUserId": "U7BGBRJGH",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

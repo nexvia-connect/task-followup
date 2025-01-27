@@ -25,7 +25,7 @@
       "nameShort": "Statistics report",
       "pipedriveDealName": "Bovha - Kirchberg",
       "url": "https://trello.com/c/ZYLswnMK/7290-statistics-report-bovha-kirchberg-carolina",
-      "lastModified": "2025-01-24T13:44:24.081Z",
+      "lastModified": "2025-01-27T11:03:19.112Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
@@ -65,19 +65,19 @@
       ]
     },
     {
-      "id": "67937e9b22020fe5a6fca1b9",
+      "id": "679764e0bc037f185d0d2d4d",
       "idMembers": [
-        "66d5ca383da59bf7e67f324a"
+        "5ce414ac7678a40557510d74"
       ],
-      "name": "Complete photo session: Roos - Grevenmacher (Sandy)",
-      "nameShort": "Complete photo session",
-      "pipedriveDealName": "Roos - Grevenmacher",
-      "url": "https://trello.com/c/Rdsw3Soq/7289-complete-photo-session-roos-grevenmacher-sandy",
-      "lastModified": "2025-01-24T11:50:53.649Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
+      "name": "Format change (Task)",
+      "nameShort": "Format change",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/HZUJVAyE/7298-format-change-task",
+      "lastModified": "2025-01-27T10:50:09.819Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
@@ -92,6 +92,22 @@
       "lastModified": "2025-01-27T08:51:18.796Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "679767e348833588990f74ed",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Upload assets to drive [Giraffe] (Task)",
+      "nameShort": "Upload assets to drive [Giraffe]",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/OXPi84sl/7299-upload-assets-to-drive-giraffe-task",
+      "lastModified": "2025-01-27T11:03:01.254Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]

@@ -273,22 +273,6 @@
       ]
     },
     {
-      "id": "679a460e26d7fde31d93a4e1",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Buy new laptop (Task)",
-      "nameShort": "Buy new laptop",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/SiJDD6sW/7342-buy-new-laptop-task",
-      "lastModified": "2025-01-29T15:15:45.229Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "679a461ad44d6317d5e72af4",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -446,6 +430,38 @@
       "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "679a4659e1b469c663e29da8",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Assign transponder (Task)",
+      "nameShort": "Assign transponder",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/N6xPAsZ4/7353-assign-transponder-task",
+      "lastModified": "2025-01-29T15:16:57.891Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "679a466740689f3b1e25fb3e",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Assign transponder (Task)",
+      "nameShort": "Assign transponder",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/6lhpzEd5/7354-assign-transponder-task",
+      "lastModified": "2025-01-29T15:16:56.686Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {

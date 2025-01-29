@@ -1,22 +1,6 @@
 {
   "cards": [
     {
-      "id": "6798a4aa39d4e221ba93bae6",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Statistics report: Pendle - Fentange (Carolina)",
-      "nameShort": "Statistics report",
-      "pipedriveDealName": "Pendle - Fentange",
-      "url": "https://trello.com/c/xl1WdnR8/7309-statistics-report-pendle-fentange-carolina",
-      "lastModified": "2025-01-29T12:14:41.178Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
       "id": "6731eda8207119ee05df3ef2",
       "idMembers": [
         "4fe86ade26d156994a0bee7d"
@@ -169,7 +153,7 @@
       "nameShort": "Statistics report",
       "pipedriveDealName": "Bovha - Kirchberg",
       "url": "https://trello.com/c/ZYLswnMK/7290-statistics-report-bovha-kirchberg-carolina",
-      "lastModified": "2025-01-27T11:21:24.850Z",
+      "lastModified": "2025-01-29T12:30:52.030Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
       "avatarUrls": [

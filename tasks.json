@@ -49,15 +49,15 @@
       ]
     },
     {
-      "id": "6798c48b71ed71a19630af59",
+      "id": "6799ee63beb24139a03db376",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
       ],
-      "name": "Complete photo session: Willaime-Teeuwen - Cessange (Vinciane)",
-      "nameShort": "Complete photo session",
-      "pipedriveDealName": "Willaime-Teeuwen - Cessange",
-      "url": "https://trello.com/c/VvGVwWxG/7312-complete-photo-session-willaime-teeuwen-cessange-vinciane",
-      "lastModified": "2025-01-28T11:50:37.787Z",
+      "name": "Share listing [FB + Linkedin]: Flahaut - Capellen (Vinciane)",
+      "nameShort": "Share listing [FB + Linkedin]",
+      "pipedriveDealName": "Flahaut - Capellen",
+      "url": "https://trello.com/c/GfDKIPjg/7321-share-listing-fb-linkedin-flahaut-capellen-vinciane",
+      "lastModified": "2025-01-29T09:01:27.135Z",
       "associatedAdviser": "Vinciane",
       "slackUserId": "U01S0CAN9QT",
       "avatarUrls": [
@@ -97,6 +97,22 @@
       ]
     },
     {
+      "id": "6799edb3773a99546386e5a3",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Upload assets to drive [Giraffe] (Task)",
+      "nameShort": "Upload assets to drive [Giraffe]",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/2TQDhhV0/7320-upload-assets-to-drive-giraffe-task",
+      "lastModified": "2025-01-29T08:58:28.794Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -105,7 +121,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-01-27T11:06:19.917Z",
+      "lastModified": "2025-01-29T09:00:36.435Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

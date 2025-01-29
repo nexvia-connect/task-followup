@@ -33,6 +33,22 @@
       ]
     },
     {
+      "id": "679918bb6bbd0729d3ee8e11",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Purchase item on Amazon.fr (Fräntz)",
+      "nameShort": "Purchase item on Amazon.fr",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/iW6iQRTF/7317-purchase-item-on-amazonfr-fr%C3%A4ntz",
+      "lastModified": "2025-01-28T17:49:49.870Z",
+      "associatedAdviser": "Fräntz",
+      "slackUserId": "U42NKHH5L",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "6798c48b71ed71a19630af59",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"

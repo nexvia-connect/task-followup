@@ -17,22 +17,6 @@
       ]
     },
     {
-      "id": "679a45e3b6c94c01d32ac590",
-      "idMembers": [
-        "4fe86ade26d156994a0bee7d"
-      ],
-      "name": "Manage Google admin (Chara)",
-      "nameShort": "Manage Google admin",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/H0KjZ2gX/7329-manage-google-admin-chara",
-      "lastModified": "2025-01-29T15:14:44.471Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
-      ]
-    },
-    {
       "id": "679a45e373023204e4c79025",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -250,22 +234,6 @@
       "pipedriveDealName": null,
       "url": "https://trello.com/c/1frUlDxb/7345-manage-easysolutions-admin-antoine",
       "lastModified": "2025-01-29T15:15:41.117Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
-      ]
-    },
-    {
-      "id": "679a461c28d42b70b50c325e",
-      "idMembers": [
-        "4fe86ade26d156994a0bee7d"
-      ],
-      "name": "Manage Google admin (Antoine)",
-      "nameShort": "Manage Google admin",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/KfoavxfT/7346-manage-google-admin-antoine",
-      "lastModified": "2025-01-29T15:15:41.261Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

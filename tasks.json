@@ -1,22 +1,6 @@
 {
   "cards": [
     {
-      "id": "6731eda8207119ee05df3ef2",
-      "idMembers": [
-        "4fe86ade26d156994a0bee7d"
-      ],
-      "name": "Manage Nexvia website + default photo + payslip system",
-      "nameShort": "Manage Nexvia website + default photo + payslip system",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/mFvmiQbh/6450-manage-nexvia-website-default-photo-payslip-system",
-      "lastModified": "2024-11-20T09:34:48.066Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
-      ]
-    },
-    {
       "id": "679a45e373023204e4c79025",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -62,22 +46,6 @@
       "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "679a45e87ab58676a9378757",
-      "idMembers": [
-        "4fe86ade26d156994a0bee7d"
-      ],
-      "name": "Manage Easysolutions admin (Chara)",
-      "nameShort": "Manage Easysolutions admin",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/307qrXbp/7334-manage-easysolutions-admin-chara",
-      "lastModified": "2025-01-29T15:14:50.310Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
       ]
     },
     {
@@ -170,22 +138,6 @@
       "pipedriveDealName": null,
       "url": "https://trello.com/c/0uH8eug1/7344-manage-nexvia-website-default-photo-payslip-system-antoine",
       "lastModified": "2025-01-29T15:15:40.128Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
-      ]
-    },
-    {
-      "id": "679a461b9199b16f62b1554e",
-      "idMembers": [
-        "4fe86ade26d156994a0bee7d"
-      ],
-      "name": "Manage Easysolutions admin (Antoine)",
-      "nameShort": "Manage Easysolutions admin",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/1frUlDxb/7345-manage-easysolutions-admin-antoine",
-      "lastModified": "2025-01-29T15:15:41.117Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

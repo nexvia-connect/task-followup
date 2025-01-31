@@ -225,17 +225,33 @@
       ]
     },
     {
-      "id": "679caaf6506500da409d46d2",
+      "id": "679cf9f1228065e69b8389cc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Publish listing to platforms: Laliscia - Sprinkange (Vinciane)",
-      "nameShort": "Publish listing to platforms",
-      "pipedriveDealName": "Laliscia - Sprinkange",
-      "url": "https://trello.com/c/zS3IaCEn/7386-publish-listing-to-platforms-laliscia-sprinkange-vinciane",
-      "lastModified": "2025-01-31T10:50:50.880Z",
-      "associatedAdviser": "Vinciane",
-      "slackUserId": "U01S0CAN9QT",
+      "name": "Check tenant payment: Wei - Ville-haute (Maeva)",
+      "nameShort": "Check tenant payment",
+      "pipedriveDealName": "Wei - Ville-haute",
+      "url": "https://trello.com/c/Gmrm8yYw/7393-check-tenant-payment-wei-ville-haute-maeva",
+      "lastModified": "2025-01-31T16:27:49.221Z",
+      "associatedAdviser": "Maeva",
+      "slackUserId": "U044CKLT9HD",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "679cf9f5f0d7842a3fe27568",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Check tenant payment: Venkateswaran - Hamm (Maeva)",
+      "nameShort": "Check tenant payment",
+      "pipedriveDealName": "Venkateswaran - Hamm",
+      "url": "https://trello.com/c/b4yfAoQd/7394-check-tenant-payment-venkateswaran-hamm-maeva",
+      "lastModified": "2025-01-31T16:27:52.328Z",
+      "associatedAdviser": "Maeva",
+      "slackUserId": "U044CKLT9HD",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

@@ -289,6 +289,38 @@
       ]
     },
     {
+      "id": "679caaf6506500da409d46d2",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Publish listing to platforms: Laliscia - Sprinkange (Vinciane)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Laliscia - Sprinkange",
+      "url": "https://trello.com/c/zS3IaCEn/7386-publish-listing-to-platforms-laliscia-sprinkange-vinciane",
+      "lastModified": "2025-01-31T10:50:50.880Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "679cab28d4916f1d8814b690",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Laliscia - Sprinkange (Vinciane)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Laliscia - Sprinkange",
+      "url": "https://trello.com/c/ZxSuFNgO/7387-put-listing-in-window-displays-laliscia-sprinkange-vinciane",
+      "lastModified": "2025-01-31T10:51:29.905Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "679a888a56a978b023bd136b",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -302,22 +334,6 @@
       "slackUserId": "U7BGBRJGH",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "679c87ea2d564e50e1b12450",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Complete photo session: Suciu - Dahlem (Süleyman)",
-      "nameShort": "Complete photo session",
-      "pipedriveDealName": "Suciu - Dahlem",
-      "url": "https://trello.com/c/9xF605yA/7385-complete-photo-session-suciu-dahlem-s%C3%BCleyman",
-      "lastModified": "2025-01-31T08:21:00.091Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {

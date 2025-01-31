@@ -321,22 +321,6 @@
       ]
     },
     {
-      "id": "679a888a56a978b023bd136b",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "3D render request: Leclère - Belair (Romain)",
-      "nameShort": "3D render request",
-      "pipedriveDealName": "Leclère - Belair",
-      "url": "https://trello.com/c/5Fw8RXku/7367-3d-render-request-lecl%C3%A8re-belair-romain",
-      "lastModified": "2025-01-29T19:59:19.333Z",
-      "associatedAdviser": "Romain",
-      "slackUserId": "U7BGBRJGH",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "679a45eb1a7321a93236e4a5",
       "idMembers": [
         "56f10d02921bc403c6d626d1"

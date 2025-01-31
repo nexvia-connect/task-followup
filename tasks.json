@@ -49,22 +49,6 @@
       ]
     },
     {
-      "id": "679a45eaea8c13c9bdef12f6",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Manage Nuki admin (Chara)",
-      "nameShort": "Manage Nuki admin",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/C4UvKRfA/7337-manage-nuki-admin-chara",
-      "lastModified": "2025-01-29T15:14:51.402Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "679a45ed76b5bb375d99cab7",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -170,22 +154,6 @@
       "pipedriveDealName": null,
       "url": "https://trello.com/c/rbOzz95K/7350-buy-new-laptop-task",
       "lastModified": "2025-01-29T15:16:02.472Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "679a462045f559c8d6926dc8",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Manage Nuki admin (Antoine)",
-      "nameShort": "Manage Nuki admin",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/KW5HSPOa/7352-manage-nuki-admin-antoine",
-      "lastModified": "2025-01-29T15:15:45.322Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

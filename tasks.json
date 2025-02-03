@@ -369,17 +369,33 @@
       ]
     },
     {
-      "id": "67a0933341e80ee48845d9f1",
+      "id": "67a0d4d57062d450ac4b9718",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing creation: Suciu - Dahlem (Süleyman)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": "Suciu - Dahlem",
+      "url": "https://trello.com/c/wAlfHjul/7419-listing-creation-suciu-dahlem-s%C3%BCleyman",
+      "lastModified": "2025-02-03T14:38:18.123Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67a0cfa50145f9a146edb2fa",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
       ],
-      "name": "Upload assets to drive [Render]: Goldstein - Fentange (Maéva)",
+      "name": "Upload assets to drive [Render]: Willaime-Teeuwen - Cessange (Vinciane)",
       "nameShort": "Upload assets to drive [Render]",
-      "pipedriveDealName": "Goldstein - Fentange",
-      "url": "https://trello.com/c/34WFPLAp/7416-upload-assets-to-drive-render-goldstein-fentange-ma%C3%A9va",
-      "lastModified": "2025-02-03T09:58:14.636Z",
-      "associatedAdviser": "Maéva",
-      "slackUserId": "U080Y7JP9T3",
+      "pipedriveDealName": "Willaime-Teeuwen - Cessange",
+      "url": "https://trello.com/c/FNSoowTY/7418-upload-assets-to-drive-render-willaime-teeuwen-cessange-vinciane",
+      "lastModified": "2025-02-03T14:16:08.833Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]

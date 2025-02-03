@@ -225,22 +225,6 @@
       ]
     },
     {
-      "id": "679ff6b53ccd6ddc836b4ca3",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Set-up laptop security (Task)",
-      "nameShort": "Set-up laptop security",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/dSi0piCb/7404-set-up-laptop-security-task",
-      "lastModified": "2025-02-02T22:50:48.393Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "679ff6d6ac61064584db5417",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -250,22 +234,6 @@
       "pipedriveDealName": null,
       "url": "https://trello.com/c/swGUTb9o/7405-set-up-laptop-software-task",
       "lastModified": "2025-02-02T22:51:20.383Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "679ff6d7232a7cda869998a3",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Set-up laptop software (Task)",
-      "nameShort": "Set-up laptop software",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/XT2uKHdT/7406-set-up-laptop-software-task",
-      "lastModified": "2025-02-03T16:39:05.639Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

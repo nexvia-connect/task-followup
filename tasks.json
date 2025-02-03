@@ -241,17 +241,225 @@
       ]
     },
     {
-      "id": "679cf9f5f0d7842a3fe27568",
+      "id": "679dfb7297223830aa1cae01",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Check tenant payment: Venkateswaran - Hamm (Maeva)",
-      "nameShort": "Check tenant payment",
-      "pipedriveDealName": "Venkateswaran - Hamm",
-      "url": "https://trello.com/c/b4yfAoQd/7394-check-tenant-payment-venkateswaran-hamm-maeva",
-      "lastModified": "2025-01-31T16:27:52.328Z",
-      "associatedAdviser": "Maeva",
-      "slackUserId": "U044CKLT9HD",
+      "name": "Update inventory (Task)",
+      "nameShort": "Update inventory",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/5g4i6EqL/7399-update-inventory-task",
+      "lastModified": "2025-02-01T10:46:11.460Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "679ff6b3294aba841039e266",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Set-up laptop security (Task)",
+      "nameShort": "Set-up laptop security",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/6K9XW2cZ/7403-set-up-laptop-security-task",
+      "lastModified": "2025-02-02T22:50:46.356Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "679ff6b53ccd6ddc836b4ca3",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Set-up laptop security (Task)",
+      "nameShort": "Set-up laptop security",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/dSi0piCb/7404-set-up-laptop-security-task",
+      "lastModified": "2025-02-02T22:50:48.393Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "679ff6d6ac61064584db5417",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Set-up laptop software (Task)",
+      "nameShort": "Set-up laptop software",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/swGUTb9o/7405-set-up-laptop-software-task",
+      "lastModified": "2025-02-02T22:51:20.383Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "679ff6d7232a7cda869998a3",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Set-up laptop software (Task)",
+      "nameShort": "Set-up laptop software",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/XT2uKHdT/7406-set-up-laptop-software-task",
+      "lastModified": "2025-02-02T22:51:19.001Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "679ff6f680d0779aac30586a",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Set-up phone security (Task)",
+      "nameShort": "Set-up phone security",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/xxxDKDU0/7407-set-up-phone-security-task",
+      "lastModified": "2025-02-02T22:51:49.790Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "679ff6f788fcfa15e582e600",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Set-up phone security (Task)",
+      "nameShort": "Set-up phone security",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/pEKcEgZP/7408-set-up-phone-security-task",
+      "lastModified": "2025-02-02T22:51:50.603Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "679ff714ab15c1100a275a7b",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Set-up phone software (Task)",
+      "nameShort": "Set-up phone software",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/2IIkENJG/7409-set-up-phone-software-task",
+      "lastModified": "2025-02-02T22:52:21.120Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "679ff71547cc25f95a05a9b4",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Set-up phone software (Task)",
+      "nameShort": "Set-up phone software",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/lUYEXTLZ/7410-set-up-phone-software-task",
+      "lastModified": "2025-02-02T22:52:21.152Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "679dfc2591bbd90cd5724172",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Format change (Task)",
+      "nameShort": "Format change",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/lHV1YGyX/7400-format-change-task",
+      "lastModified": "2025-02-01T10:49:10.856Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "679e25824cac8b07b3809a51",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Set listing as signed: Pendle - Fentange (Carolina)",
+      "nameShort": "Set listing as signed",
+      "pipedriveDealName": "Pendle - Fentange",
+      "url": "https://trello.com/c/tSlJUn4N/7401-set-listing-as-signed-pendle-fentange-carolina",
+      "lastModified": "2025-02-01T13:45:41.765Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "679e5fe67f8d3b0ea37dcbda",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Set listing as signed: Silva - Cents (Thomas)",
+      "nameShort": "Set listing as signed",
+      "pipedriveDealName": "Silva - Cents",
+      "url": "https://trello.com/c/WcUWZee0/7402-set-listing-as-signed-silva-cents-thomas",
+      "lastModified": "2025-02-01T17:54:48.786Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67a04e45b4b0470510ab6e36",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Prepare weekly newsletter (Task)",
+      "nameShort": "Prepare weekly newsletter",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/ftIhGoLt/7411-prepare-weekly-newsletter-task",
+      "lastModified": "2025-02-03T05:04:06.512Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67a0795d4c4b0169414ee4fe",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Willaime-Teeuwen - Cessange (Vinciane)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "Willaime-Teeuwen - Cessange",
+      "url": "https://trello.com/c/iSCESRxk/7413-listing-modification-willaime-teeuwen-cessange-vinciane",
+      "lastModified": "2025-02-03T08:07:59.817Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -406,6 +614,22 @@
       "pipedriveDealName": "Anobile - Dudelange",
       "url": "https://trello.com/c/15Wh2X3p/7088-check-tenant-payment-anobile-dudelange-maeva",
       "lastModified": "2025-01-31T16:11:36.592Z",
+      "associatedAdviser": "Maeva",
+      "slackUserId": "U044CKLT9HD",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "679cf9f5f0d7842a3fe27568",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Check tenant payment: Venkateswaran - Hamm (Maeva)",
+      "nameShort": "Check tenant payment",
+      "pipedriveDealName": "Venkateswaran - Hamm",
+      "url": "https://trello.com/c/b4yfAoQd/7394-check-tenant-payment-venkateswaran-hamm-maeva",
+      "lastModified": "2025-01-31T17:36:59.841Z",
       "associatedAdviser": "Maeva",
       "slackUserId": "U044CKLT9HD",
       "avatarUrls": [

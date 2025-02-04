@@ -1,22 +1,6 @@
 {
   "cards": [
     {
-      "id": "679a45e373023204e4c79025",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Manage Konica admin (Chara)",
-      "nameShort": "Manage Konica admin",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/D6WUFRtl/7330-manage-konica-admin-chara",
-      "lastModified": "2025-02-04T13:24:46.704Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "679a45e398fe6e4e54a70945",
       "idMembers": [
         "4fe86ade26d156994a0bee7d"
@@ -30,22 +14,6 @@
       "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
-      ]
-    },
-    {
-      "id": "679a461ad44d6317d5e72af4",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Manage Konica admin (Antoine)",
-      "nameShort": "Manage Konica admin",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/beozc5as/7343-manage-konica-admin-antoine",
-      "lastModified": "2025-02-04T13:24:42.951Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
@@ -238,6 +206,22 @@
       "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67a23e6e7487ccbae4ec4b55",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Purchase item on Amazon.fr (Chara)",
+      "nameShort": "Purchase item on Amazon.fr",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/NlVEiuxB/7431-purchase-item-on-amazonfr-chara",
+      "lastModified": "2025-02-04T16:21:04.857Z",
+      "associatedAdviser": "Chara",
+      "slackUserId": "U08AVKTLDN2",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
     {

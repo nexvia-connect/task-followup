@@ -305,6 +305,22 @@
       ]
     },
     {
+      "id": "67a1cda98568e6b6e509a7b6",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Prepare notary documents: Michels - Dudelange (Sandy)",
+      "nameShort": "Prepare notary documents",
+      "pipedriveDealName": "Michels - Dudelange",
+      "url": "https://trello.com/c/JjbKfIou/7422-prepare-notary-documents-michels-dudelange-sandy",
+      "lastModified": "2025-02-04T08:19:56.643Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "67a085b74a9ed5518a27bd07",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -321,19 +337,35 @@
       ]
     },
     {
-      "id": "67a0cfa50145f9a146edb2fa",
+      "id": "67a1a867df9836955f596d0f",
       "idMembers": [
-        "56f10d02921bc403c6d626d1"
+        "5ce414ac7678a40557510d74"
       ],
-      "name": "Upload assets to drive [Render]: Willaime-Teeuwen - Cessange (Vinciane)",
-      "nameShort": "Upload assets to drive [Render]",
+      "name": "Unhide listing: Willaime-Teeuwen - Cessange (Vinciane)",
+      "nameShort": "Unhide listing",
       "pipedriveDealName": "Willaime-Teeuwen - Cessange",
-      "url": "https://trello.com/c/FNSoowTY/7418-upload-assets-to-drive-render-willaime-teeuwen-cessange-vinciane",
-      "lastModified": "2025-02-03T14:16:08.833Z",
+      "url": "https://trello.com/c/pynIpOQ4/7421-unhide-listing-willaime-teeuwen-cessange-vinciane",
+      "lastModified": "2025-02-04T05:40:58.143Z",
       "associatedAdviser": "Vinciane",
       "slackUserId": "U01S0CAN9QT",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67a1cdc78771d19ab086ab74",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Set listing as signed: Bormann - Colmar Berg (Thomas)",
+      "nameShort": "Set listing as signed",
+      "pipedriveDealName": "Bormann - Colmar Berg",
+      "url": "https://trello.com/c/Ic59xqHA/7423-set-listing-as-signed-bormann-colmar-berg-thomas",
+      "lastModified": "2025-02-04T08:20:26.005Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {

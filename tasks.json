@@ -9,7 +9,7 @@
       "nameShort": "Manage Konica admin",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/D6WUFRtl/7330-manage-konica-admin-chara",
-      "lastModified": "2025-01-29T15:15:02.297Z",
+      "lastModified": "2025-02-04T13:24:46.704Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [
@@ -41,7 +41,7 @@
       "nameShort": "Manage Konica admin",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/beozc5as/7343-manage-konica-admin-antoine",
-      "lastModified": "2025-01-29T15:15:54.789Z",
+      "lastModified": "2025-02-04T13:24:42.951Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [
@@ -78,22 +78,6 @@
       "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "679a4659e1b469c663e29da8",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Assign transponder (Task)",
-      "nameShort": "Assign transponder",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/N6xPAsZ4/7353-assign-transponder-task",
-      "lastModified": "2025-01-29T15:16:57.891Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
@@ -289,6 +273,102 @@
       ]
     },
     {
+      "id": "67a1f106dc1aaff5930691b4",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Publish listing to platforms: Halmes - Belvaux (Rudy)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Halmes - Belvaux",
+      "url": "https://trello.com/c/aL5oaHbm/7424-publish-listing-to-platforms-halmes-belvaux-rudy",
+      "lastModified": "2025-02-04T10:51:04.995Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67a1f1375f572470b31906a2",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Halmes - Belvaux (Rudy)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Halmes - Belvaux",
+      "url": "https://trello.com/c/cVlCIRqN/7425-put-listing-in-window-displays-halmes-belvaux-rudy",
+      "lastModified": "2025-02-04T10:51:43.542Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67a1f2d06e3dd1c04703c7b9",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Suciu - Dahlem (Süleyman)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "Suciu - Dahlem",
+      "url": "https://trello.com/c/sDnBmNDm/7427-listing-modification-suciu-dahlem-s%C3%BCleyman",
+      "lastModified": "2025-02-04T10:58:27.093Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67a208175a05d358eefc6702",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Boost listings on Athome (Task)",
+      "nameShort": "Boost listings on Athome",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/UHKlvVA7/7428-boost-listings-on-athome-task",
+      "lastModified": "2025-02-04T12:29:13.271Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67a21015d4e1892495dacf25",
+      "idMembers": [
+        "66d5ca383da59bf7e67f324a"
+      ],
+      "name": "Share listing [FB + Linkedin]: Willaime-Teeuwen - Cessange (Vinciane)",
+      "nameShort": "Share listing [FB + Linkedin]",
+      "pipedriveDealName": "Willaime-Teeuwen - Cessange",
+      "url": "https://trello.com/c/tzItgHGS/7429-share-listing-fb-linkedin-willaime-teeuwen-cessange-vinciane",
+      "lastModified": "2025-02-04T13:03:21.396Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "67a1f2a71c831ec9f947685b",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing photo modifications: Suciu - Dahlem (Süleyman)",
+      "nameShort": "Listing photo modifications",
+      "pipedriveDealName": "Suciu - Dahlem",
+      "url": "https://trello.com/c/Vf2TeVXv/7426-listing-photo-modifications-suciu-dahlem-s%C3%BCleyman",
+      "lastModified": "2025-02-04T10:57:46.724Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "679a45eb1a7321a93236e4a5",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -313,7 +393,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-02-03T09:55:26.471Z",
+      "lastModified": "2025-02-04T12:59:59.237Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

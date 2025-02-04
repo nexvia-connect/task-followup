@@ -193,38 +193,6 @@
       ]
     },
     {
-      "id": "679ff6b3294aba841039e266",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Set-up laptop security (Task)",
-      "nameShort": "Set-up laptop security",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/6K9XW2cZ/7403-set-up-laptop-security-task",
-      "lastModified": "2025-02-02T22:50:46.356Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "679ff6d6ac61064584db5417",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Set-up laptop software (Task)",
-      "nameShort": "Set-up laptop software",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/swGUTb9o/7405-set-up-laptop-software-task",
-      "lastModified": "2025-02-02T22:51:20.383Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "679ff6f680d0779aac30586a",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -233,7 +201,7 @@
       "nameShort": "Set-up phone security",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/xxxDKDU0/7407-set-up-phone-security-task",
-      "lastModified": "2025-02-02T22:51:49.790Z",
+      "lastModified": "2025-02-04T09:49:59.275Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

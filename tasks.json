@@ -177,38 +177,6 @@
       ]
     },
     {
-      "id": "67a46c18b6b5b7d2163e9137",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Upload Giraffe assets to drive (Task)",
-      "nameShort": "Upload Giraffe assets to drive",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/Qt0uZnCB/7444-upload-giraffe-assets-to-drive-task",
-      "lastModified": "2025-02-06T08:00:26.605Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "67a48155e1ff32dfc146aed3",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Complete photo session: Leclère - Belair (Romain)",
-      "nameShort": "Complete photo session",
-      "pipedriveDealName": "Leclère - Belair",
-      "url": "https://trello.com/c/meXC10Tf/7447-complete-photo-session-lecl%C3%A8re-belair-romain",
-      "lastModified": "2025-02-06T09:31:03.889Z",
-      "associatedAdviser": "Romain",
-      "slackUserId": "U7BGBRJGH",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"

@@ -113,38 +113,6 @@
       ]
     },
     {
-      "id": "67a23e6e7487ccbae4ec4b55",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Purchase item on Amazon.fr (Chara)",
-      "nameShort": "Purchase item on Amazon.fr",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/NlVEiuxB/7431-purchase-item-on-amazonfr-chara",
-      "lastModified": "2025-02-04T16:21:04.857Z",
-      "associatedAdviser": "Chara",
-      "slackUserId": "U08AVKTLDN2",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67a47a4ea5a1a9f1637e78f6",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Purchase item on Amazon.fr (Maeva)",
-      "nameShort": "Purchase item on Amazon.fr",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/29qq2fAe/7446-purchase-item-on-amazonfr-maeva",
-      "lastModified": "2025-02-06T09:01:04.903Z",
-      "associatedAdviser": "Maeva",
-      "slackUserId": "U044CKLT9HD",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"

@@ -113,17 +113,33 @@
       ]
     },
     {
-      "id": "67a61de7ad39c9bdd51f9b3d",
+      "id": "67a63de02caab1b6a94cff2b",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Publish listing to platforms: Suciu - Dahlem (Süleyman)",
-      "nameShort": "Publish listing to platforms",
-      "pipedriveDealName": "Suciu - Dahlem",
-      "url": "https://trello.com/c/6Pdm29iu/7459-publish-listing-to-platforms-suciu-dahlem-s%C3%BCleyman",
-      "lastModified": "2025-02-07T14:52:12.792Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
+      "name": "Set listing as signed: Masson - Neudorf (Thomas)",
+      "nameShort": "Set listing as signed",
+      "pipedriveDealName": "Masson - Neudorf",
+      "url": "https://trello.com/c/v4RuJb3n/7462-set-listing-as-signed-masson-neudorf-thomas",
+      "lastModified": "2025-02-07T17:07:47.574Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67a63de415ad1a583d1faf32",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Set listing as signed: Santini - Schifflange (Maéva)",
+      "nameShort": "Set listing as signed",
+      "pipedriveDealName": "Santini - Schifflange",
+      "url": "https://trello.com/c/BCJVzYTk/7463-set-listing-as-signed-santini-schifflange-ma%C3%A9va",
+      "lastModified": "2025-02-07T17:07:52.168Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

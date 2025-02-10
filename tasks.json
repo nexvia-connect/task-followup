@@ -153,18 +153,6 @@
       ]
     },
     {
-      "id": "67a8bfc52ec66464f1c1d0f5",
-      "idMembers": [],
-      "name": "Format change (Task)",
-      "nameShort": "Format change",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/ZrVIXCwv/7464-format-change-task",
-      "lastModified": "2025-02-09T14:46:30.366Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": []
-    },
-    {
       "id": "67a8cd962aa97a9bd5bf87c1",
       "idMembers": [
         "5ce414ac7678a40557510d74"

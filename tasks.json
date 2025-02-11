@@ -193,6 +193,54 @@
       ]
     },
     {
+      "id": "67ab120b0bb65c3c24cb67b1",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Share listing to FB + Linkedin: Niruda - Bonnevoie (Rudy)",
+      "nameShort": "Share listing to FB + Linkedin",
+      "pipedriveDealName": "Niruda - Bonnevoie",
+      "url": "https://trello.com/c/XavGlaXv/7492-share-listing-to-fb-linkedin-niruda-bonnevoie-rudy",
+      "lastModified": "2025-02-11T09:02:06.532Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/bb35269b1b2c5408d4d05124e11c870c/170.png"
+      ]
+    },
+    {
+      "id": "67ab0f9582663b69a8ab2c88",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Complete photo session: Veston Dev One - Bertrange (Romain)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Veston Dev One - Bertrange",
+      "url": "https://trello.com/c/qYk3Ik61/7489-complete-photo-session-veston-dev-one-bertrange-romain",
+      "lastModified": "2025-02-11T08:51:35.849Z",
+      "associatedAdviser": "Romain",
+      "slackUserId": "U7BGBRJGH",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67ab10ecaba914058e140ad6",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload render assets to drive: Leclère - Belair (Romain)",
+      "nameShort": "Upload render assets to drive",
+      "pipedriveDealName": "Leclère - Belair",
+      "url": "https://trello.com/c/HcZSDw9v/7490-upload-render-assets-to-drive-lecl%C3%A8re-belair-romain",
+      "lastModified": "2025-02-11T08:57:19.587Z",
+      "associatedAdviser": "Romain",
+      "slackUserId": "U7BGBRJGH",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/bb35269b1b2c5408d4d05124e11c870c/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -201,7 +249,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-02-10T11:56:42.656Z",
+      "lastModified": "2025-02-11T09:01:16.359Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

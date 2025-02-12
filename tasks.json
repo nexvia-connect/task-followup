@@ -257,38 +257,6 @@
       ]
     },
     {
-      "id": "67ab943d028d531af0fb8058",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Boost listings on Athome (Task)",
-      "nameShort": "Boost listings on Athome",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/3kk0qEua/7505-boost-listings-on-athome-task",
-      "lastModified": "2025-02-11T18:17:34.973Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "67ac4b2aa2e7c351179e1ebe",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Set listing as signed: Jauvat - Pulvermuhl (Thomas)",
-      "nameShort": "Set listing as signed",
-      "pipedriveDealName": "Jauvat - Pulvermuhl",
-      "url": "https://trello.com/c/Mu1efndW/7508-set-listing-as-signed-jauvat-pulvermuhl-thomas",
-      "lastModified": "2025-02-12T07:18:05.402Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"

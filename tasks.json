@@ -25,7 +25,7 @@
       "nameShort": "Statistics report",
       "pipedriveDealName": "Grysolle - Bonnevoie 2",
       "url": "https://trello.com/c/iPEPvPCP/7502-statistics-report-grysolle-bonnevoie-2-rue-de-wiltz-carolina",
-      "lastModified": "2025-02-11T14:26:33.417Z",
+      "lastModified": "2025-02-13T15:26:06.952Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
@@ -193,6 +193,22 @@
       ]
     },
     {
+      "id": "67ae128305cc057f6bfeba27",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Manage online classes (Chara)",
+      "nameShort": "Manage online classes",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/xCEbARuH/7540-manage-online-classes-chara",
+      "lastModified": "2025-02-13T15:40:53.830Z",
+      "associatedAdviser": "Chara",
+      "slackUserId": "U08AVKTLDN2",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "67adce950bf649893aef5004",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -206,22 +222,6 @@
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "67adfbcbf67609126ed3192f",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Share rental to FB + Linkedin: SCI Monza - Wickrange (Maeva)",
-      "nameShort": "Share rental to FB + Linkedin",
-      "pipedriveDealName": "SCI Monza - Wickrange",
-      "url": "https://trello.com/c/ehVuwTQc/7534-share-rental-to-fb-linkedin-sci-monza-wickrange-maeva",
-      "lastModified": "2025-02-13T14:03:58.072Z",
-      "associatedAdviser": "Maeva",
-      "slackUserId": "U044CKLT9HD",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
       ]
     },
     {
@@ -302,6 +302,22 @@
       "slackUserId": "U7BGBRJGH",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
+      ]
+    },
+    {
+      "id": "67ae0eafb8fab9ad7d83e1f6",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload render assets to drive: Roos - Grevenmacher (Sandy)",
+      "nameShort": "Upload render assets to drive",
+      "pipedriveDealName": "Roos - Grevenmacher",
+      "url": "https://trello.com/c/yZwpCqVi/7539-upload-render-assets-to-drive-roos-grevenmacher-sandy",
+      "lastModified": "2025-02-13T15:24:34.515Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
       ]
     },
     {

@@ -193,22 +193,6 @@
       ]
     },
     {
-      "id": "67adb042bdb259b95e5d7726",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Listing modification: Jung - Fentange Duplex (Rudy)",
-      "nameShort": "Listing modification",
-      "pipedriveDealName": "Jung - Fentange Duplex",
-      "url": "https://trello.com/c/SmBE5hQp/7521-listing-modification-jung-fentange-duplex-rudy",
-      "lastModified": "2025-02-13T08:41:41.882Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67adb384166b5bec86156f7c",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -220,6 +204,22 @@
       "lastModified": "2025-02-13T08:55:34.995Z",
       "associatedAdviser": "Sandy",
       "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67adce950bf649893aef5004",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Publish listing to platforms: Cai - Eich (Süleyman)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Cai - Eich",
+      "url": "https://trello.com/c/8crGnqi3/7526-publish-listing-to-platforms-cai-eich-s%C3%BCleyman",
+      "lastModified": "2025-02-13T10:51:28.934Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -424,6 +424,22 @@
       "lastModified": "2025-02-12T15:19:50.248Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67adceea16899589f589574b",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Cai - Eich (Süleyman)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Cai - Eich",
+      "url": "https://trello.com/c/icHsFk4M/7527-put-listing-in-window-displays-cai-eich-s%C3%BCleyman",
+      "lastModified": "2025-02-13T11:10:41.253Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

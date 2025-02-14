@@ -289,6 +289,38 @@
       ]
     },
     {
+      "id": "67af4a2a7a983d22dec615a0",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Complete photo session: Boyreau - Kehlen (Thomas)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Boyreau - Kehlen",
+      "url": "https://trello.com/c/2ZtT2nOk/7556-complete-photo-session-boyreau-kehlen-thomas",
+      "lastModified": "2025-02-14T13:50:36.417Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67af563f3ddb1ccabccc67f9",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload render assets to drive: Roos - Grevenmacher (Sandy)",
+      "nameShort": "Upload render assets to drive",
+      "pipedriveDealName": "Roos - Grevenmacher",
+      "url": "https://trello.com/c/0E51N6jT/7557-upload-render-assets-to-drive-roos-grevenmacher-sandy",
+      "lastModified": "2025-02-14T14:42:09.852Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"

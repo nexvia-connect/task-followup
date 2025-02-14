@@ -305,22 +305,6 @@
       ]
     },
     {
-      "id": "67adf0c6cd2c218c31fedd91",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Upload Giraffe assets to drive (Task)",
-      "nameShort": "Upload Giraffe assets to drive",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/LyPsZFxa/7531-upload-giraffe-assets-to-drive-task",
-      "lastModified": "2025-02-13T13:16:56.359Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
       "id": "67adf1b6381aeec66bcc3826",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"

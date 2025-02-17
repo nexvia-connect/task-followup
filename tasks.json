@@ -291,17 +291,19 @@
     {
       "id": "67ae0eafb8fab9ad7d83e1f6",
       "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
+        "67a1df874b56ef7d61dadcbd",
+        "56f10d02921bc403c6d626d1"
       ],
       "name": "Upload render assets to drive: Roos - Grevenmacher (Sandy)",
       "nameShort": "Upload render assets to drive",
       "pipedriveDealName": "Roos - Grevenmacher",
       "url": "https://trello.com/c/yZwpCqVi/7539-upload-render-assets-to-drive-roos-grevenmacher-sandy",
-      "lastModified": "2025-02-13T15:24:34.515Z",
+      "lastModified": "2025-02-17T16:35:35.033Z",
       "associatedAdviser": "Sandy",
       "slackUserId": "UBK5HTKFF",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png",
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
     {
@@ -330,22 +332,6 @@
       "pipedriveDealName": "Roos - Grevenmacher",
       "url": "https://trello.com/c/0E51N6jT/7557-upload-render-assets-to-drive-roos-grevenmacher-sandy",
       "lastModified": "2025-02-14T14:42:09.852Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
-      "id": "67af73aae71e2f0a05c196ed",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "3D render request: Rita - Bonnevoie (Sandy)",
-      "nameShort": "3D render request",
-      "pipedriveDealName": "Rita - Bonnevoie",
-      "url": "https://trello.com/c/88eFkmJ7/7560-3d-render-request-rita-bonnevoie-sandy",
-      "lastModified": "2025-02-14T16:47:41.965Z",
       "associatedAdviser": "Sandy",
       "slackUserId": "UBK5HTKFF",
       "avatarUrls": [

@@ -289,6 +289,22 @@
       ]
     },
     {
+      "id": "67b2ff89455ea42af2f1d81a",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Set listing as signed: Vilardell - Rollingergrund (Carolina)",
+      "nameShort": "Set listing as signed",
+      "pipedriveDealName": "Vilardell - Rollingergrund",
+      "url": "https://trello.com/c/sBWHxcXH/7570-set-listing-as-signed-vilardell-rollingergrund-carolina",
+      "lastModified": "2025-02-17T09:24:45.234Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "67adf1b6381aeec66bcc3826",
       "idMembers": [
         "66d5ca383da59bf7e67f324a"
@@ -369,6 +385,22 @@
       ]
     },
     {
+      "id": "67b2f87810f7cd96397a2d15",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Complete photo session: Virolle - Mondercange (Rudy)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Virolle - Mondercange",
+      "url": "https://trello.com/c/3MpInR1p/7569-complete-photo-session-virolle-mondercange-rudy",
+      "lastModified": "2025-02-17T08:51:06.968Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -377,7 +409,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-02-14T13:00:31.426Z",
+      "lastModified": "2025-02-17T09:50:51.720Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

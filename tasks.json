@@ -145,22 +145,6 @@
       ]
     },
     {
-      "id": "67b2f87810f7cd96397a2d15",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Complete photo session: Virolle - Mondercange (Rudy)",
-      "nameShort": "Complete photo session",
-      "pipedriveDealName": "Virolle - Mondercange",
-      "url": "https://trello.com/c/3MpInR1p/7569-complete-photo-session-virolle-mondercange-rudy",
-      "lastModified": "2025-02-17T08:51:06.968Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
       "id": "67b4d0f13392908dcb02b4f6",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -190,6 +174,24 @@
       "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67b34c871fb8bdae3d99a40c",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd",
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Photoshop: Goos - Grevenmacher (Carolina)",
+      "nameShort": "Photoshop",
+      "pipedriveDealName": "Goos - Grevenmacher",
+      "url": "https://trello.com/c/90SMYOoV/7577-photoshop-goos-grevenmacher-carolina",
+      "lastModified": "2025-02-18T20:04:20.851Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png",
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
     {

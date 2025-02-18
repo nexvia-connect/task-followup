@@ -145,6 +145,22 @@
       ]
     },
     {
+      "id": "67b4f34d3a51883cc08f4fcb",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Schedule newsletter: Steffen - Belair (Sandy)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Steffen - Belair",
+      "url": "https://trello.com/c/q4J4OFdT/7594-schedule-newsletter-steffen-belair-sandy",
+      "lastModified": "2025-02-18T20:53:35.940Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "67b4d0f13392908dcb02b4f6",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"

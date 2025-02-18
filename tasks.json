@@ -385,6 +385,102 @@
       ]
     },
     {
+      "id": "67b452c2644245a87e077ada",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Process email backup (Task)",
+      "nameShort": "Process email backup",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/76Bp19bo/7586-process-email-backup-task",
+      "lastModified": "2025-02-18T09:28:35.927Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67b4567e71aa3987531f5793",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Process email backup (Task)",
+      "nameShort": "Process email backup",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/tnEzoKbP/7587-process-email-backup-task",
+      "lastModified": "2025-02-18T09:44:31.966Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67b45966d9601bf3ca8b0494",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Process email backup (Task)",
+      "nameShort": "Process email backup",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/2bEz5Tsg/7588-process-email-backup-task",
+      "lastModified": "2025-02-18T09:56:56.293Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67b45ef06f934c72324aa2aa",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Process email backup (Task)",
+      "nameShort": "Process email backup",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/ibMW1cfF/7589-process-email-backup-task",
+      "lastModified": "2025-02-18T10:20:33.641Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67b46ba7496e98d9e94df96d",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Listing modification: Roos - Grevenmacher (Sandy)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "Roos - Grevenmacher",
+      "url": "https://trello.com/c/mvd7hPVL/7590-listing-modification-roos-grevenmacher-sandy",
+      "lastModified": "2025-02-18T11:14:50.426Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67b48011aeeb30d6a38bf728",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Schedule newsletter: Mary - Bonnevoie (Maéva)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Mary - Bonnevoie",
+      "url": "https://trello.com/c/MskNWCn6/7591-schedule-newsletter-mary-bonnevoie-ma%C3%A9va",
+      "lastModified": "2025-02-18T12:41:56.334Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "67ae0eafb8fab9ad7d83e1f6",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -433,22 +529,6 @@
       ]
     },
     {
-      "id": "67b337c45a66212be8a87725",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Complete photo session: Schmit - Fentange (Maéva)",
-      "nameShort": "Complete photo session",
-      "pipedriveDealName": "Schmit - Fentange",
-      "url": "https://trello.com/c/2Ac32rFS/7575-complete-photo-session-schmit-fentange-ma%C3%A9va",
-      "lastModified": "2025-02-17T13:21:11.003Z",
-      "associatedAdviser": "Maéva",
-      "slackUserId": "U080Y7JP9T3",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
       "id": "67b34c871fb8bdae3d99a40c",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd",
@@ -491,7 +571,7 @@
       "nameShort": "Upload Giraffe assets to drive",
       "pipedriveDealName": "Dohmen - Kehlen",
       "url": "https://trello.com/c/Qv2KflQl/7574-upload-giraffe-assets-to-drive-dohmen-kehlen-romain",
-      "lastModified": "2025-02-17T17:06:22.582Z",
+      "lastModified": "2025-02-18T08:51:40.328Z",
       "associatedAdviser": "Romain",
       "slackUserId": "U7BGBRJGH",
       "avatarUrls": [

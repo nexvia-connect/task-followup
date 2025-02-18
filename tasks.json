@@ -289,38 +289,6 @@
       ]
     },
     {
-      "id": "67b3ade3d897c9997c4966a5",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/smewlKXa/7578-process-email-backup-task",
-      "lastModified": "2025-02-17T21:45:08.580Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67b434e264c27b6ba9e38d5b",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/zaxFFIKH/7581-process-email-backup-task",
-      "lastModified": "2025-02-18T07:21:07.092Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "67b435194f7b0ceed6098b77",
       "idMembers": [
         "56f10d02921bc403c6d626d1"

@@ -289,6 +289,22 @@
       ]
     },
     {
+      "id": "67b60f3c59203cc7b6f576c5",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Process email backup (Task)",
+      "nameShort": "Process email backup",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/t9Wsqo9K/7623-process-email-backup-task",
+      "lastModified": "2025-02-19T17:05:01.642Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "67b5eff3604a2a46eacc86fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -316,6 +332,22 @@
       "lastModified": "2025-02-19T14:54:43.354Z",
       "associatedAdviser": "Sandy",
       "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67b644d0426eece51c4655e8",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Boyreau - Kehlen (Thomas)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "Boyreau - Kehlen",
+      "url": "https://trello.com/c/9oecZJhG/7624-listing-modification-boyreau-kehlen-thomas",
+      "lastModified": "2025-02-20T07:59:39.109Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

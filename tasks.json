@@ -241,6 +241,70 @@
       ]
     },
     {
+      "id": "67b842eeaedae46f90a459c8",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Process email backup (Task)",
+      "nameShort": "Process email backup",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/nl0G3wou/7660-process-email-backup-task",
+      "lastModified": "2025-02-21T09:10:07.487Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67b84345675ea050e14dd49b",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Process email backup (Task)",
+      "nameShort": "Process email backup",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/u59ymsbz/7661-process-email-backup-task",
+      "lastModified": "2025-02-21T09:11:35.060Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67b843a5f0ef2e10290047a1",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Process email backup (Task)",
+      "nameShort": "Process email backup",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/uz7JYGkI/7662-process-email-backup-task",
+      "lastModified": "2025-02-21T09:13:10.089Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67b843d511c62e6a25aef07f",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Process email backup (Task)",
+      "nameShort": "Process email backup",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/vsflXWQX/7663-process-email-backup-task",
+      "lastModified": "2025-02-21T09:13:58.517Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "67b727add7417a71642aaa33",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -321,6 +385,22 @@
       ]
     },
     {
+      "id": "67b84129078ec2074bc6ddc3",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Share listing to FB + Linkedin: Lentz - Bonnevoie (Rudy)",
+      "nameShort": "Share listing to FB + Linkedin",
+      "pipedriveDealName": "Lentz - Bonnevoie",
+      "url": "https://trello.com/c/7PF5WxTa/7659-share-listing-to-fb-linkedin-lentz-bonnevoie-rudy",
+      "lastModified": "2025-02-21T09:02:36.566Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "67b584e30064f9a217926b78",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -337,54 +417,6 @@
       ]
     },
     {
-      "id": "67b82cb824fe4795933e723a",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Virtual visit modifications: Virolle - Mondercange (Rudy)",
-      "nameShort": "Virtual visit modifications",
-      "pipedriveDealName": "Virolle - Mondercange",
-      "url": "https://trello.com/c/LiJPLuZ8/7651-virtual-visit-modifications-virolle-mondercange-rudy",
-      "lastModified": "2025-02-21T08:52:59.397Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
-      "id": "67b4d129b17fd3f6c75d1d45",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Upload Giraffe assets to drive: Boyreau - Kehlen (Thomas)",
-      "nameShort": "Upload Giraffe assets to drive",
-      "pipedriveDealName": "Boyreau - Kehlen",
-      "url": "https://trello.com/c/2N1tlwad/7593-upload-giraffe-assets-to-drive-boyreau-kehlen-thomas",
-      "lastModified": "2025-02-19T14:25:04.490Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
-      "id": "67b5ac7f2e49bcf7ef07502b",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Upload Giraffe assets to drive: Virolle - Mondercange (Rudy)",
-      "nameShort": "Upload Giraffe assets to drive",
-      "pipedriveDealName": "Virolle - Mondercange",
-      "url": "https://trello.com/c/rRnub0DW/7610-upload-giraffe-assets-to-drive-virolle-mondercange-rudy",
-      "lastModified": "2025-02-19T14:24:57.062Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -393,7 +425,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-02-20T13:00:50.778Z",
+      "lastModified": "2025-02-21T09:00:41.741Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

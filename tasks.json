@@ -369,6 +369,70 @@
       ]
     },
     {
+      "id": "67b87450c47a3dff5c35a2a7",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Prepare notary documents: Lebacq - Dudelange (Sandy)",
+      "nameShort": "Prepare notary documents",
+      "pipedriveDealName": "Lebacq - Dudelange",
+      "url": "https://trello.com/c/MFgCEJfh/7670-prepare-notary-documents-lebacq-dudelange-sandy",
+      "lastModified": "2025-02-21T12:40:51.590Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67b876779cee26d7485b97f6",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Process email backup (Task)",
+      "nameShort": "Process email backup",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/ZlK5HE0X/7671-process-email-backup-task",
+      "lastModified": "2025-02-21T12:50:00.804Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67b87a12a702ca9e74f8e9e5",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Process email backup (Task)",
+      "nameShort": "Process email backup",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/KUGRUfXU/7674-process-email-backup-task",
+      "lastModified": "2025-02-21T13:05:23.653Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67b882c03ea40bc2d661c17b",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Process email backup (Task)",
+      "nameShort": "Process email backup",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/i41C7vQ3/7675-process-email-backup-task",
+      "lastModified": "2025-02-21T13:42:25.188Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "67b727add7417a71642aaa33",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -385,22 +449,6 @@
       ]
     },
     {
-      "id": "67b830558e5de323c9f649d8",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Publish listing to platforms: Boyreau - Kehlen (Thomas)",
-      "nameShort": "Publish listing to platforms",
-      "pipedriveDealName": "Boyreau - Kehlen",
-      "url": "https://trello.com/c/ZfNt8jhi/7653-publish-listing-to-platforms-boyreau-kehlen-thomas",
-      "lastModified": "2025-02-21T08:37:41.252Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67b84129078ec2074bc6ddc3",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -412,6 +460,54 @@
       "lastModified": "2025-02-21T09:02:36.566Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67b8791b5b3184816a3906a5",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Share listing to FB + Linkedin: Boyreau - Kehlen (Thomas)",
+      "nameShort": "Share listing to FB + Linkedin",
+      "pipedriveDealName": "Boyreau - Kehlen",
+      "url": "https://trello.com/c/fOBEwcdR/7672-share-listing-to-fb-linkedin-boyreau-kehlen-thomas",
+      "lastModified": "2025-02-21T13:01:18.244Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67b892fb6bc21d20b8f38be4",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Publish listing to platforms: Leclère - Belair (Romain)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Leclère - Belair",
+      "url": "https://trello.com/c/Seh2fhSa/7677-publish-listing-to-platforms-lecl%C3%A8re-belair-romain",
+      "lastModified": "2025-02-21T14:52:42.878Z",
+      "associatedAdviser": "Romain",
+      "slackUserId": "U7BGBRJGH",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67b893939520144b1d32f2d8",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Put listing in window displays: Leclère - Belair (Romain)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Leclère - Belair",
+      "url": "https://trello.com/c/Xfww36N8/7678-put-listing-in-window-displays-lecl%C3%A8re-belair-romain",
+      "lastModified": "2025-02-21T14:54:20.239Z",
+      "associatedAdviser": "Romain",
+      "slackUserId": "U7BGBRJGH",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
       ]
@@ -433,6 +529,22 @@
       ]
     },
     {
+      "id": "67b879b95e083e12562ec794",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload render assets to drive: Rita - Bonnevoie (Sandy)",
+      "nameShort": "Upload render assets to drive",
+      "pipedriveDealName": "Rita - Bonnevoie",
+      "url": "https://trello.com/c/fO0vtmIL/7673-upload-render-assets-to-drive-rita-bonnevoie-sandy",
+      "lastModified": "2025-02-21T13:03:57.107Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -441,7 +553,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-02-21T09:00:41.741Z",
+      "lastModified": "2025-02-21T13:00:16.079Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

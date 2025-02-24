@@ -443,22 +443,6 @@
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
-    },
-    {
-      "id": "67b709a5e962f2fbf8d50e95",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Put listing in window displays: Mary - Bonnevoie (Maéva)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Mary - Bonnevoie",
-      "url": "https://trello.com/c/cq3HHl0F/7630-put-listing-in-window-displays-mary-bonnevoie-ma%C3%A9va",
-      "lastModified": "2025-02-20T20:10:17.268Z",
-      "associatedAdviser": "Maéva",
-      "slackUserId": "U080Y7JP9T3",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
     }
   ]
 }

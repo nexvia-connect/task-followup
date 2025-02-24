@@ -177,6 +177,22 @@
       ]
     },
     {
+      "id": "67bc4091cb5225a912d585d7",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Manage online classes (Omer)",
+      "nameShort": "Manage online classes",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/nJL0HIO0/7691-manage-online-classes-omer",
+      "lastModified": "2025-02-24T09:49:07.139Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "67b727add7417a71642aaa33",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -252,9 +268,7 @@
       "lastModified": "2025-02-24T09:02:14.012Z",
       "associatedAdviser": "Maéva",
       "slackUserId": "U080Y7JP9T3",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "67b584e30064f9a217926b78",
@@ -284,9 +298,7 @@
       "lastModified": "2025-02-21T13:03:57.107Z",
       "associatedAdviser": "Sandy",
       "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "64243606c586efdda6b161fc",
@@ -328,9 +340,7 @@
       "lastModified": "2025-01-14T17:19:07.136Z",
       "associatedAdviser": "Aurore",
       "slackUserId": "U079GJ0BU1E",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "679b3faca49a7290e795e3b6",
@@ -344,9 +354,7 @@
       "lastModified": "2025-01-30T13:27:50.355Z",
       "associatedAdviser": "Vinciane",
       "slackUserId": "U01S0CAN9QT",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "6799ee63beb24139a03db376",
@@ -360,9 +368,7 @@
       "lastModified": "2025-01-30T13:27:56.614Z",
       "associatedAdviser": "Vinciane",
       "slackUserId": "U01S0CAN9QT",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "679cf9f5f0d7842a3fe27568",
@@ -376,9 +382,7 @@
       "lastModified": "2025-01-31T17:36:59.841Z",
       "associatedAdviser": "Maeva",
       "slackUserId": "U044CKLT9HD",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "679cf9f1228065e69b8389cc",
@@ -392,9 +396,7 @@
       "lastModified": "2025-02-06T18:06:26.611Z",
       "associatedAdviser": "Maeva",
       "slackUserId": "U044CKLT9HD",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "67a9ce02946414ecbd1af466",
@@ -408,9 +410,7 @@
       "lastModified": "2025-02-10T16:01:30.856Z",
       "associatedAdviser": "Aurore",
       "slackUserId": "U079GJ0BU1E",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "67aef617ed6e0f4fb8d0157b",
@@ -424,25 +424,7 @@
       "lastModified": "2025-02-14T08:08:20.697Z",
       "associatedAdviser": "Sandy",
       "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "67b5f0788792d69ffe0b739e",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Put listing in window displays: Steffen - Belair (Sandy)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Steffen - Belair",
-      "url": "https://trello.com/c/hOuOnSij/7621-put-listing-in-window-displays-steffen-belair-sandy",
-      "lastModified": "2025-02-20T20:10:12.688Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     }
   ]
 }

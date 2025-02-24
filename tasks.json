@@ -145,230 +145,6 @@
       ]
     },
     {
-      "id": "67b762b92fbde2e3626938a8",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/ZAeBItAY/7643-process-email-backup-task",
-      "lastModified": "2025-02-20T17:13:30.544Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67b828843967d57808f8adca",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/1qt18iYz/7649-process-email-backup-task",
-      "lastModified": "2025-02-21T07:17:25.303Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67b82923a281da7db36a81cc",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/PWyNguj3/7650-process-email-backup-task",
-      "lastModified": "2025-02-21T07:20:04.444Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67b834194e8e9ad675df440d",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/TqVIdds4/7656-process-email-backup-task",
-      "lastModified": "2025-02-21T08:06:50.819Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67b83815ab9a624dd861b53c",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/Qwo9HipI/7657-process-email-backup-task",
-      "lastModified": "2025-02-21T08:23:51.154Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67b8397417a97d40eba1aa4d",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/YSiUfohO/7658-process-email-backup-task",
-      "lastModified": "2025-02-21T08:29:42.112Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67b842eeaedae46f90a459c8",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/nl0G3wou/7660-process-email-backup-task",
-      "lastModified": "2025-02-21T09:10:07.487Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67b84345675ea050e14dd49b",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/u59ymsbz/7661-process-email-backup-task",
-      "lastModified": "2025-02-21T09:11:35.060Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67b843a5f0ef2e10290047a1",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/uz7JYGkI/7662-process-email-backup-task",
-      "lastModified": "2025-02-21T09:13:10.089Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67b843d511c62e6a25aef07f",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/vsflXWQX/7663-process-email-backup-task",
-      "lastModified": "2025-02-21T09:13:58.517Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67b8476e4fe55eb719fdc1ad",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/JcTknNSa/7664-process-email-backup-task",
-      "lastModified": "2025-02-21T09:29:19.409Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67b847b02cfd7ed910bcfd6a",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/zFHjRrk3/7665-process-email-backup-task",
-      "lastModified": "2025-02-21T09:30:26.078Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67b84b9ac35ee67a3059d0ba",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/zuHzTmBK/7667-process-email-backup-task",
-      "lastModified": "2025-02-21T09:47:07.641Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67b8541d8722a605e0bff578",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/nQ8MBzn9/7668-process-email-backup-task",
-      "lastModified": "2025-02-21T10:23:26.774Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "67b87450c47a3dff5c35a2a7",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -385,113 +161,33 @@
       ]
     },
     {
-      "id": "67b876779cee26d7485b97f6",
+      "id": "67bb877224d640260ef1854b",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
       ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/ZlK5HE0X/7671-process-email-backup-task",
-      "lastModified": "2025-02-21T12:50:00.804Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
+      "name": "Missing deal Pipedrive information: Sakaliene - Clemency (Aurore)",
+      "nameShort": "Missing deal Pipedrive information",
+      "pipedriveDealName": "Sakaliene - Clemency",
+      "url": "https://trello.com/c/Qrv0Vm2p/7687-missing-deal-pipedrive-information-sakaliene-clemency-aurore",
+      "lastModified": "2025-02-23T20:39:17.741Z",
+      "associatedAdviser": "Aurore",
+      "slackUserId": "U079GJ0BU1E",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
     {
-      "id": "67b87a12a702ca9e74f8e9e5",
+      "id": "67bb87838791a9ccbc1d7a70",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
       ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/KUGRUfXU/7674-process-email-backup-task",
-      "lastModified": "2025-02-21T13:05:23.653Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67b882c03ea40bc2d661c17b",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/i41C7vQ3/7675-process-email-backup-task",
-      "lastModified": "2025-02-21T13:42:25.188Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67b89b913caea0a06ab1158e",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/wsp8KRk2/7679-process-email-backup-task",
-      "lastModified": "2025-02-21T15:28:18.555Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67b8a205991d98a139df4377",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/t5fhx8sb/7681-process-email-backup-task",
-      "lastModified": "2025-02-21T15:55:50.367Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67b8a802e7a9d14bce9c7948",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/2EH9tLri/7682-process-email-backup-task",
-      "lastModified": "2025-02-21T16:21:23.442Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67b8a9c36290e352d7ab9400",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Process email backup (Task)",
-      "nameShort": "Process email backup",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/exumeGx1/7683-process-email-backup-task",
-      "lastModified": "2025-02-21T16:29:13.293Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
+      "name": "Missing deal Pipedrive information: Sakaliene - Clemency (Aurore)",
+      "nameShort": "Missing deal Pipedrive information",
+      "pipedriveDealName": "Sakaliene - Clemency",
+      "url": "https://trello.com/c/PdaFkMQB/7688-missing-deal-pipedrive-information-sakaliene-clemency-aurore",
+      "lastModified": "2025-02-23T20:39:33.963Z",
+      "associatedAdviser": "Aurore",
+      "slackUserId": "U079GJ0BU1E",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
@@ -545,6 +241,22 @@
       ]
     },
     {
+      "id": "67b9abbb42e6210ce3fe484d",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Format change (Task)",
+      "nameShort": "Format change",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/LoROe2GI/7686-format-change-task",
+      "lastModified": "2025-02-22T10:49:33.029Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "67b584e30064f9a217926b78",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -585,7 +297,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-02-21T15:32:03.340Z",
+      "lastModified": "2025-02-24T07:01:00.346Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

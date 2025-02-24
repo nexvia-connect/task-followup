@@ -145,54 +145,6 @@
       ]
     },
     {
-      "id": "67bb877224d640260ef1854b",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Missing deal Pipedrive information: Sakaliene - Clemency (Aurore)",
-      "nameShort": "Missing deal Pipedrive information",
-      "pipedriveDealName": "Sakaliene - Clemency",
-      "url": "https://trello.com/c/Qrv0Vm2p/7687-missing-deal-pipedrive-information-sakaliene-clemency-aurore",
-      "lastModified": "2025-02-23T20:39:17.741Z",
-      "associatedAdviser": "Aurore",
-      "slackUserId": "U079GJ0BU1E",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67bb87838791a9ccbc1d7a70",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Missing deal Pipedrive information: Sakaliene - Clemency (Aurore)",
-      "nameShort": "Missing deal Pipedrive information",
-      "pipedriveDealName": "Sakaliene - Clemency",
-      "url": "https://trello.com/c/PdaFkMQB/7688-missing-deal-pipedrive-information-sakaliene-clemency-aurore",
-      "lastModified": "2025-02-23T20:39:33.963Z",
-      "associatedAdviser": "Aurore",
-      "slackUserId": "U079GJ0BU1E",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67bc4091cb5225a912d585d7",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Manage online classes (Omer)",
-      "nameShort": "Manage online classes",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/nJL0HIO0/7691-manage-online-classes-omer",
-      "lastModified": "2025-02-24T09:49:07.139Z",
-      "associatedAdviser": "Omer",
-      "slackUserId": "U080CU2EX62",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "67b727add7417a71642aaa33",
       "idMembers": [
         "56f10d02921bc403c6d626d1"

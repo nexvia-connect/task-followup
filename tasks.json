@@ -44,9 +44,7 @@
       "lastModified": "2025-01-29T15:14:44.799Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "679a461a6730ac8d94217a2b",
@@ -60,9 +58,7 @@
       "lastModified": "2025-01-29T15:15:40.128Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "67a21f8c2e9e46a723818453",
@@ -76,9 +72,7 @@
       "lastModified": "2025-02-04T14:10:10.376Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "67aa14b8621d1f41dc39e752",
@@ -92,9 +86,7 @@
       "lastModified": "2025-02-10T15:01:35.190Z",
       "associatedAdviser": "Antoine",
       "slackUserId": "U08B25V2ABV",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "67aa22eea3b911ed9a25abc8",
@@ -108,9 +100,7 @@
       "lastModified": "2025-02-10T16:01:52.745Z",
       "associatedAdviser": "Antoine",
       "slackUserId": "U08B25V2ABV",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "67af33cf6acfa4e12ca32d7f",
@@ -124,9 +114,7 @@
       "lastModified": "2025-02-14T12:15:14.705Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "67b87450c47a3dff5c35a2a7",
@@ -140,9 +128,7 @@
       "lastModified": "2025-02-21T12:40:51.590Z",
       "associatedAdviser": "Sandy",
       "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "67bb877224d640260ef1854b",
@@ -220,9 +206,7 @@
       "lastModified": "2025-02-21T09:02:36.566Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "67b8791b5b3184816a3906a5",
@@ -236,9 +220,7 @@
       "lastModified": "2025-02-21T13:01:18.244Z",
       "associatedAdviser": "Thomas",
       "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "67b9abbb42e6210ce3fe484d",
@@ -252,9 +234,7 @@
       "lastModified": "2025-02-22T10:49:33.029Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "67bc3593597c6e4dc57dc754",
@@ -312,9 +292,7 @@
       "lastModified": "2025-02-24T09:08:11.605Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "6720f237450b19e776708a7c",
@@ -410,20 +388,6 @@
       "lastModified": "2025-02-10T16:01:30.856Z",
       "associatedAdviser": "Aurore",
       "slackUserId": "U079GJ0BU1E",
-      "avatarUrls": []
-    },
-    {
-      "id": "67aef617ed6e0f4fb8d0157b",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Put listing in window displays: Roos - Grevenmacher (Sandy)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Roos - Grevenmacher",
-      "url": "https://trello.com/c/bilLtDGD/7550-put-listing-in-window-displays-roos-grevenmacher-sandy",
-      "lastModified": "2025-02-14T08:08:20.697Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
       "avatarUrls": []
     }
   ]

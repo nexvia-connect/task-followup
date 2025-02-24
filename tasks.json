@@ -459,22 +459,6 @@
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
-    },
-    {
-      "id": "67b8308ae74df484b3e2ee24",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Put listing in window displays: Boyreau - Kehlen (Thomas)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Boyreau - Kehlen",
-      "url": "https://trello.com/c/9O6kSjwX/7654-put-listing-in-window-displays-boyreau-kehlen-thomas",
-      "lastModified": "2025-02-21T08:38:10.560Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
     }
   ]
 }

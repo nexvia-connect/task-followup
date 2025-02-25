@@ -113,19 +113,19 @@
       ]
     },
     {
-      "id": "67b8791b5b3184816a3906a5",
+      "id": "67bdbfef82b1b01d32a39392",
       "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
+        "5ce414ac7678a40557510d74"
       ],
-      "name": "Share listing to FB + Linkedin: Boyreau - Kehlen (Thomas)",
-      "nameShort": "Share listing to FB + Linkedin",
-      "pipedriveDealName": "Boyreau - Kehlen",
-      "url": "https://trello.com/c/fOBEwcdR/7672-share-listing-to-fb-linkedin-boyreau-kehlen-thomas",
-      "lastModified": "2025-02-21T13:01:18.244Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
+      "name": "Reimburse expense (Xavier)",
+      "nameShort": "Reimburse expense",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/wWEnkWCc/7705-reimburse-expense-xavier",
+      "lastModified": "2025-02-25T13:04:52.052Z",
+      "associatedAdviser": "Xavier",
+      "slackUserId": "U44HL0DMX",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
@@ -226,15 +226,19 @@
     },
     {
       "id": "6720f237450b19e776708a7c",
-      "idMembers": [],
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
       "name": "> Check tenant payment: Colling - Lintgen (Aurore)",
       "nameShort": "Check tenant payment",
       "pipedriveDealName": "Colling - Lintgen",
       "url": "https://trello.com/c/RUZpjE6Z/6314-check-tenant-payment-colling-lintgen-aurore",
-      "lastModified": "2025-01-14T17:33:01.931Z",
+      "lastModified": "2025-02-25T13:06:55.660Z",
       "associatedAdviser": "Aurore",
       "slackUserId": "U079GJ0BU1E",
-      "avatarUrls": []
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
     },
     {
       "id": "677b9ed5709ba597edf7552b",
@@ -250,38 +254,6 @@
       "slackUserId": "U079GJ0BU1E",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "679b3faca49a7290e795e3b6",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Share listing [FB + Linkedin]: Laliscia - Sprinkange (Vinciane)",
-      "nameShort": "Share listing [FB + Linkedin]",
-      "pipedriveDealName": "Laliscia - Sprinkange",
-      "url": "https://trello.com/c/WZleJexn/7370-share-listing-fb-linkedin-laliscia-sprinkange-vinciane",
-      "lastModified": "2025-01-30T13:27:50.355Z",
-      "associatedAdviser": "Vinciane",
-      "slackUserId": "U01S0CAN9QT",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
-    },
-    {
-      "id": "6799ee63beb24139a03db376",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
-      "name": "Share listing [FB + Linkedin]: Flahaut - Capellen (Vinciane)",
-      "nameShort": "Share listing [FB + Linkedin]",
-      "pipedriveDealName": "Flahaut - Capellen",
-      "url": "https://trello.com/c/GfDKIPjg/7321-share-listing-fb-linkedin-flahaut-capellen-vinciane",
-      "lastModified": "2025-01-30T13:27:56.614Z",
-      "associatedAdviser": "Vinciane",
-      "slackUserId": "U01S0CAN9QT",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
       ]
     },
     {

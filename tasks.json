@@ -161,6 +161,38 @@
       ]
     },
     {
+      "id": "67bda09e4efbbc0cfaf0cbb5",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Publish listing to platforms: Schmit - Fentange (Maéva)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Schmit - Fentange",
+      "url": "https://trello.com/c/SoaHcSS4/7702-publish-listing-to-platforms-schmit-fentange-ma%C3%A9va",
+      "lastModified": "2025-02-25T10:51:31.769Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67bda0d5ec66f32e8742c88e",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Schmit - Fentange (Maéva)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Schmit - Fentange",
+      "url": "https://trello.com/c/IXBnP0mf/7703-put-listing-in-window-displays-schmit-fentange-ma%C3%A9va",
+      "lastModified": "2025-02-25T10:52:14.387Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "67bc6b46a0c35c76b0be769e",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -170,22 +202,6 @@
       "pipedriveDealName": "Guellil - Esch-sur-Alzette",
       "url": "https://trello.com/c/b8yA2SBd/7692-complete-photo-session-guellil-esch-sur-alzette-omer",
       "lastModified": "2025-02-24T12:51:20.095Z",
-      "associatedAdviser": "Omer",
-      "slackUserId": "U080CU2EX62",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
-      "id": "67bd8bb1fe47b7eecdf28eef",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Photoshop: Veston Dev One - Bertrange (Omer)",
-      "nameShort": "Photoshop",
-      "pipedriveDealName": "Veston Dev One - Bertrange",
-      "url": "https://trello.com/c/pkaNmzMf/7700-photoshop-veston-dev-one-bertrange-omer",
-      "lastModified": "2025-02-25T09:22:02.168Z",
       "associatedAdviser": "Omer",
       "slackUserId": "U080CU2EX62",
       "avatarUrls": [

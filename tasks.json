@@ -209,22 +209,6 @@
       ]
     },
     {
-      "id": "679cf9f1228065e69b8389cc",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Check tenant payment: Wei - Ville-haute (Maeva)",
-      "nameShort": "Check tenant payment",
-      "pipedriveDealName": "Wei - Ville-haute",
-      "url": "https://trello.com/c/Gmrm8yYw/7393-check-tenant-payment-wei-ville-haute-maeva",
-      "lastModified": "2025-02-06T18:06:26.611Z",
-      "associatedAdviser": "Maeva",
-      "slackUserId": "U044CKLT9HD",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67a9ce02946414ecbd1af466",
       "idMembers": [
         "5ce414ac7678a40557510d74"

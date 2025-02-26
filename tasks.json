@@ -113,15 +113,31 @@
       ]
     },
     {
-      "id": "67bea9568a09c75d9c6e67f1",
+      "id": "67bed442fd1cb221691f517a",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Unhide listing: Cruypenninck - Gare (Rudy)",
-      "nameShort": "Unhide listing",
-      "pipedriveDealName": "Cruypenninck - Gare",
-      "url": "https://trello.com/c/ao3F6JH6/7717-unhide-listing-cruypenninck-gare-rudy",
-      "lastModified": "2025-02-26T05:40:40.977Z",
+      "name": "Listing creation: Veston Dev One - Bertrange (Omer)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": "Veston Dev One - Bertrange",
+      "url": "https://trello.com/c/UK2yiRmG/7718-listing-creation-veston-dev-one-bertrange-omer",
+      "lastModified": "2025-02-26T08:43:51.655Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67bef21fdf9f4bcc90f5f2c8",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Publish listing to platforms: Virolle - Mondercange (Rudy)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Virolle - Mondercange",
+      "url": "https://trello.com/c/B3sAdVhd/7719-publish-listing-to-platforms-virolle-mondercange-rudy",
+      "lastModified": "2025-02-26T10:51:35.226Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
       "avatarUrls": [
@@ -268,6 +284,22 @@
       "lastModified": "2025-02-25T17:43:02.482Z",
       "associatedAdviser": "Maéva",
       "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67bef25f2e42403e2e9e59a4",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Virolle - Mondercange (Rudy)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Virolle - Mondercange",
+      "url": "https://trello.com/c/sW7pAVux/7720-put-listing-in-window-displays-virolle-mondercange-rudy",
+      "lastModified": "2025-02-26T10:59:00.456Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

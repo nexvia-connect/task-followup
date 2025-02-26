@@ -129,6 +129,70 @@
       ]
     },
     {
+      "id": "67bf1127c6e9cd1ea9acd1c8",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Gurusamy - Bascharage (Maéva)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "Gurusamy - Bascharage",
+      "url": "https://trello.com/c/9Pk2eQPh/7724-listing-modification-gurusamy-bascharage-ma%C3%A9va",
+      "lastModified": "2025-02-26T13:03:38.916Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67bf113d3f3d0e55e81abcb2",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Velcea - Schifflange (Maéva)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "Velcea - Schifflange",
+      "url": "https://trello.com/c/nVmTwo7n/7725-listing-modification-velcea-schifflange-ma%C3%A9va",
+      "lastModified": "2025-02-26T13:04:00.394Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67bf1171b08763064b042b56",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Rita - Bonnevoie (Maéva)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "Rita - Bonnevoie",
+      "url": "https://trello.com/c/g9hHCbNI/7726-listing-modification-rita-bonnevoie-ma%C3%A9va",
+      "lastModified": "2025-02-26T13:04:52.375Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67bf16e6c27161c4e6567a9c",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing creation: Linster - Bridel (Antoine)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": "Linster - Bridel",
+      "url": "https://trello.com/c/7NCzLhhl/7727-listing-creation-linster-bridel-antoine",
+      "lastModified": "2025-02-26T13:28:11.815Z",
+      "associatedAdviser": "Antoine",
+      "slackUserId": "U08B25V2ABV",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -137,7 +201,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-02-25T08:59:52.823Z",
+      "lastModified": "2025-02-26T13:00:46.329Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

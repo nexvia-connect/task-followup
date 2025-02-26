@@ -113,6 +113,22 @@
       ]
     },
     {
+      "id": "67befa5accf39aeb28b01bab",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Purchase item (Maéva)",
+      "nameShort": "Purchase item",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/UGkg0o7W/7722-purchase-item-ma%C3%A9va",
+      "lastModified": "2025-02-26T11:26:19.976Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "67bed442fd1cb221691f517a",
       "idMembers": [
         "5ce414ac7678a40557510d74"

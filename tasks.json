@@ -177,22 +177,6 @@
       ]
     },
     {
-      "id": "677b9ed5709ba597edf7552b",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Check tenant payment: Silcox - Gare (Aurore)",
-      "nameShort": "Check tenant payment",
-      "pipedriveDealName": "Silcox - Gare",
-      "url": "https://trello.com/c/K8Me49a2/7033-check-tenant-payment-silcox-gare-aurore",
-      "lastModified": "2025-01-14T17:19:07.136Z",
-      "associatedAdviser": "Aurore",
-      "slackUserId": "U079GJ0BU1E",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67a9ce02946414ecbd1af466",
       "idMembers": [
         "5ce414ac7678a40557510d74"

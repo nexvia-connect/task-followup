@@ -65,22 +65,6 @@
       ]
     },
     {
-      "id": "67c41b476aa8d430f2156f33",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Check tenant payment: Wagner - Clausen (Maeva)",
-      "nameShort": "Check tenant payment",
-      "pipedriveDealName": "Wagner - Clausen",
-      "url": "https://trello.com/c/3v4Bn53Z/7759-check-tenant-payment-wagner-clausen-maeva",
-      "lastModified": "2025-03-02T08:48:42.133Z",
-      "associatedAdviser": "Maeva",
-      "slackUserId": "U044CKLT9HD",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67c46aba469e2a00e3f4ff54",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"

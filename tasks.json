@@ -65,54 +65,6 @@
       ]
     },
     {
-      "id": "67c172dc23fc93172a38d1a7",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Purchase item (Omer)",
-      "nameShort": "Purchase item",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/9v0b6gL6/7748-purchase-item-omer",
-      "lastModified": "2025-02-28T08:25:02.095Z",
-      "associatedAdviser": "Omer",
-      "slackUserId": "U080CU2EX62",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "67c172e989ed0ce053548be5",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Purchase item (Omer)",
-      "nameShort": "Purchase item",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/F6GW8edN/7749-purchase-item-omer",
-      "lastModified": "2025-02-28T08:25:15.186Z",
-      "associatedAdviser": "Omer",
-      "slackUserId": "U080CU2EX62",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "67c1b9ce1fdd787c5cefaf00",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Purchase item (Chara)",
-      "nameShort": "Purchase item",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/K8zsjT5K/7754-purchase-item-chara",
-      "lastModified": "2025-02-28T13:27:44.270Z",
-      "associatedAdviser": "Chara",
-      "slackUserId": "U08AVKTLDN2",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67c41b476aa8d430f2156f33",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -126,22 +78,6 @@
       "slackUserId": "U044CKLT9HD",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "67c423f3557139a1e7ff4f9d",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Transport item Royal>Theatre (Omer)",
-      "nameShort": "Transport item Royal>Theatre",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/WvPfVRn9/7761-transport-item-royaltheatre-omer",
-      "lastModified": "2025-03-02T09:25:09.201Z",
-      "associatedAdviser": "Omer",
-      "slackUserId": "U080CU2EX62",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
       ]
     },
     {
@@ -257,38 +193,6 @@
       ]
     },
     {
-      "id": "67bda0d5ec66f32e8742c88e",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Put listing in window displays: Schmit - Fentange (Maéva)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Schmit - Fentange",
-      "url": "https://trello.com/c/IXBnP0mf/7703-put-listing-in-window-displays-schmit-fentange-ma%C3%A9va",
-      "lastModified": "2025-02-25T17:43:02.482Z",
-      "associatedAdviser": "Maéva",
-      "slackUserId": "U080Y7JP9T3",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "67bef25f2e42403e2e9e59a4",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Put listing in window displays: Virolle - Mondercange (Rudy)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Virolle - Mondercange",
-      "url": "https://trello.com/c/sW7pAVux/7720-put-listing-in-window-displays-virolle-mondercange-rudy",
-      "lastModified": "2025-02-26T10:59:00.456Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67af33cf6acfa4e12ca32d7f",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -305,49 +209,33 @@
       ]
     },
     {
-      "id": "67c07c282472675517dc7cee",
+      "id": "67c1b9ce1fdd787c5cefaf00",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Put listing in window displays: Cruypenninck - Gare (Rudy)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Cruypenninck - Gare",
-      "url": "https://trello.com/c/wgTTF0k9/7737-put-listing-in-window-displays-cruypenninck-gare-rudy",
-      "lastModified": "2025-02-27T15:44:29.619Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
+      "name": "Purchase item (Chara)",
+      "nameShort": "Purchase item",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/K8zsjT5K/7754-purchase-item-chara",
+      "lastModified": "2025-03-03T09:42:29.674Z",
+      "associatedAdviser": "Chara",
+      "slackUserId": "U08AVKTLDN2",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
-      "id": "67c16b259c5b1b06c41cc00b",
+      "id": "67c172dc23fc93172a38d1a7",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Put listing in window displays: Dohmen - Kehlen (Romain)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Dohmen - Kehlen",
-      "url": "https://trello.com/c/spI6LiMe/7747-put-listing-in-window-displays-dohmen-kehlen-romain",
-      "lastModified": "2025-02-28T07:53:39.393Z",
-      "associatedAdviser": "Romain",
-      "slackUserId": "U7BGBRJGH",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "67c16b21d7e512d06501930e",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Put listing in window displays: Linster - Bridel (Antoine)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Linster - Bridel",
-      "url": "https://trello.com/c/xYluQUgp/7746-put-listing-in-window-displays-linster-bridel-antoine",
-      "lastModified": "2025-02-28T07:54:09.779Z",
-      "associatedAdviser": "Antoine",
-      "slackUserId": "U08B25V2ABV",
+      "name": "Purchase item (Omer)",
+      "nameShort": "Purchase item",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/9v0b6gL6/7748-purchase-item-omer",
+      "lastModified": "2025-03-03T09:44:58.144Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

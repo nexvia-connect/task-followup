@@ -175,22 +175,6 @@
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
-    },
-    {
-      "id": "67af33cf6acfa4e12ca32d7f",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Prepare notary documents: Bissen - Pétange (Rudy)",
-      "nameShort": "Prepare notary documents",
-      "pipedriveDealName": "Bissen - Pétange",
-      "url": "https://trello.com/c/NecuuQat/7554-prepare-notary-documents-bissen-p%C3%A9tange-rudy",
-      "lastModified": "2025-02-27T11:18:22.044Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
     }
   ]
 }

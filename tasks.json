@@ -34,19 +34,15 @@
     },
     {
       "id": "67aa22eea3b911ed9a25abc8",
-      "idMembers": [
-        "66d5ca383da59bf7e67f324a"
-      ],
+      "idMembers": [],
       "name": "Set e-mail signature (Antoine)",
       "nameShort": "Set e-mail signature",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/cjO2J0wi/7482-set-e-mail-signature-antoine",
-      "lastModified": "2025-02-10T16:01:52.745Z",
+      "lastModified": "2025-03-04T10:52:27.136Z",
       "associatedAdviser": "Antoine",
       "slackUserId": "U08B25V2ABV",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/66d5ca383da59bf7e67f324a/577773f26ffef78a2ab8f44f4cb143ef/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "67c46aba469e2a00e3f4ff54",
@@ -108,22 +104,6 @@
       "lastModified": "2025-03-03T13:21:37.764Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
-      "id": "67c6a8ea9d80a50d41a2d3da",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Upload Giraffe assets to drive: Ferreira - Rodange (Thomas)",
-      "nameShort": "Upload Giraffe assets to drive",
-      "pipedriveDealName": "Ferreira - Rodange",
-      "url": "https://trello.com/c/hWMSLyi1/7781-upload-giraffe-assets-to-drive-ferreira-rodange-thomas",
-      "lastModified": "2025-03-04T07:17:01.299Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
       ]

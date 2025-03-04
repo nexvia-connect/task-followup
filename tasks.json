@@ -65,19 +65,19 @@
       ]
     },
     {
-      "id": "67c1cd58c70175b5939826f2",
+      "id": "67c6c7d44f0f66d885748a94",
       "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
+        "5ce414ac7678a40557510d74"
       ],
-      "name": "Complete photo session: Ferreira - Rodange (Thomas)",
-      "nameShort": "Complete photo session",
-      "pipedriveDealName": "Ferreira - Rodange",
-      "url": "https://trello.com/c/9u3LLGa0/7756-complete-photo-session-ferreira-rodange-thomas",
-      "lastModified": "2025-02-28T14:51:06.965Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
+      "name": "Listing modification: Buffa - Bertrange (Vinciane)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "Buffa - Bertrange",
+      "url": "https://trello.com/c/EmMCcoxC/7783-listing-modification-buffa-bertrange-vinciane",
+      "lastModified": "2025-03-04T09:28:55.190Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
@@ -142,6 +142,22 @@
       "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67c6bf07f1af5a3cfe8c2e06",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Complete photo session: Garcia - Merl (Süleyman)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Garcia - Merl",
+      "url": "https://trello.com/c/W70ZUcew/7782-complete-photo-session-garcia-merl-s%C3%BCleyman",
+      "lastModified": "2025-03-04T08:51:21.651Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {

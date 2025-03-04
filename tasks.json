@@ -203,22 +203,6 @@
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
-    },
-    {
-      "id": "67c5944ac12a11791aa720bc",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Prepare notary documents: Morel - Bofferdange (Süleyman)",
-      "nameShort": "Prepare notary documents",
-      "pipedriveDealName": "Morel - Bofferdange",
-      "url": "https://trello.com/c/ovT6Bhgb/7770-prepare-notary-documents-morel-bofferdange-s%C3%BCleyman",
-      "lastModified": "2025-03-03T17:22:16.633Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
     }
   ]
 }

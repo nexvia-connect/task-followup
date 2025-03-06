@@ -17,6 +17,22 @@
       ]
     },
     {
+      "id": "67c9b4247b9ff4a26b9131fa",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Statistics report: Gasparro - Sandweiler (Carolina)",
+      "nameShort": "Statistics report",
+      "pipedriveDealName": "Gasparro - Sandweiler",
+      "url": "https://trello.com/c/kcWgE0dx/7827-statistics-report-gasparro-sandweiler-carolina",
+      "lastModified": "2025-03-06T14:41:43.273Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "67aa14b8621d1f41dc39e752",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -109,22 +125,6 @@
       ]
     },
     {
-      "id": "67c6e92f50e54d720c880562",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Complete photo session: Broegas Amaro - Bonnevoie (Carolina)",
-      "nameShort": "Complete photo session",
-      "pipedriveDealName": "Broegas Amaro - Bonnevoie",
-      "url": "https://trello.com/c/KTs9r6zY/7785-complete-photo-session-broegas-amaro-bonnevoie-carolina",
-      "lastModified": "2025-03-04T11:51:13.483Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
       "id": "67c83b833ef686c139483acb",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -136,22 +136,6 @@
       "lastModified": "2025-03-05T11:54:46.144Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
-      "id": "67c856b0c0737d933a86a872",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Complete photo session: Sacré - Sandweiler (Romain)",
-      "nameShort": "Complete photo session",
-      "pipedriveDealName": "Sacré - Sandweiler",
-      "url": "https://trello.com/c/wScST7O3/7804-complete-photo-session-sacr%C3%A9-sandweiler-romain",
-      "lastModified": "2025-03-05T13:50:42.547Z",
-      "associatedAdviser": "Romain",
-      "slackUserId": "U7BGBRJGH",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
       ]
@@ -184,6 +168,22 @@
       "lastModified": "2025-03-06T12:11:20.200Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67c9bd75f9c690d8d5896516",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload Giraffe assets to drive: Sacré - Sandweiler (Romain)",
+      "nameShort": "Upload Giraffe assets to drive",
+      "pipedriveDealName": "Sacré - Sandweiler",
+      "url": "https://trello.com/c/7BFiveTP/7828-upload-giraffe-assets-to-drive-sacr%C3%A9-sandweiler-romain",
+      "lastModified": "2025-03-06T15:21:27.545Z",
+      "associatedAdviser": "Romain",
+      "slackUserId": "U7BGBRJGH",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
       ]

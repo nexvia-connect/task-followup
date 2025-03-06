@@ -61,38 +61,6 @@
       ]
     },
     {
-      "id": "67c86b0447befa673d0f9ae9",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Check tenant payment: Brossel - Gare (Maeva)",
-      "nameShort": "Check tenant payment",
-      "pipedriveDealName": "Brossel - Gare",
-      "url": "https://trello.com/c/577s95vm/7806-check-tenant-payment-brossel-gare-maeva",
-      "lastModified": "2025-03-05T15:18:14.657Z",
-      "associatedAdviser": "Maeva",
-      "slackUserId": "U044CKLT9HD",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "67c874478c9e448032ea700b",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Check tenant payment: Becolux - Gare (Aurore)",
-      "nameShort": "Check tenant payment",
-      "pipedriveDealName": "Becolux - Gare",
-      "url": "https://trello.com/c/V2KjVwM1/7808-check-tenant-payment-becolux-gare-aurore",
-      "lastModified": "2025-03-05T15:58:03.251Z",
-      "associatedAdviser": "Aurore",
-      "slackUserId": "U079GJ0BU1E",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67c812ead00b06ad462af2de",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"

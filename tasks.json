@@ -125,22 +125,6 @@
       ]
     },
     {
-      "id": "67c891d63abd437234f770e7",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Set listing as sold: Michels - Dudelange (Sandy)",
-      "nameShort": "Set listing as sold",
-      "pipedriveDealName": "Michels - Dudelange",
-      "url": "https://trello.com/c/8ZcDRA29/7811-set-listing-as-sold-michels-dudelange-sandy",
-      "lastModified": "2025-03-05T18:03:05.610Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67c8d0617ae61b89e5fab9c6",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -152,22 +136,6 @@
       "lastModified": "2025-03-05T22:29:56.119Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "67c91fb71f29b926c17cf276",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Set listing as sold: El Kenzi - Gasperich (Romain)",
-      "nameShort": "Set listing as sold",
-      "pipedriveDealName": "El Kenzi - Gasperich",
-      "url": "https://trello.com/c/ODQJSDgI/7813-set-listing-as-sold-el-kenzi-gasperich-romain",
-      "lastModified": "2025-03-06T04:08:26.242Z",
-      "associatedAdviser": "Romain",
-      "slackUserId": "U7BGBRJGH",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

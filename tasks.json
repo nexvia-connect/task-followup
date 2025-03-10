@@ -93,6 +93,22 @@
       ]
     },
     {
+      "id": "67cb5c1a5a056aeba477552c",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Missing deal Pipedrive information: Delano - Kirchberg (Maeva)",
+      "nameShort": "Missing deal Pipedrive information",
+      "pipedriveDealName": "Delano - Kirchberg",
+      "url": "https://trello.com/c/AboOfHIh/7847-missing-deal-pipedrive-information-delano-kirchberg-maeva",
+      "lastModified": "2025-03-07T20:50:37.381Z",
+      "associatedAdviser": "Maeva",
+      "slackUserId": "U044CKLT9HD",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
       "id": "67cab5d44eb72a53948d3548",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -125,19 +141,51 @@
       ]
     },
     {
-      "id": "67c83b833ef686c139483acb",
+      "id": "67cc2055d1383a66d781fce1",
       "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
+        "5ce414ac7678a40557510d74"
       ],
-      "name": "Upload Giraffe assets to drive: Broegas Amaro - Bonnevoie (Carolina)",
-      "nameShort": "Upload Giraffe assets to drive",
-      "pipedriveDealName": "Broegas Amaro - Bonnevoie",
-      "url": "https://trello.com/c/IwQzs3JA/7803-upload-giraffe-assets-to-drive-broegas-amaro-bonnevoie-carolina",
-      "lastModified": "2025-03-05T11:54:46.144Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
+      "name": "Format change (Task)",
+      "nameShort": "Format change",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/xHczdqIN/7848-format-change-task",
+      "lastModified": "2025-03-08T10:47:51.044Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67ce24efe71acf4211f9aebc",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing creation: Distefano - Wellenstein (Süleyman)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": "Distefano - Wellenstein",
+      "url": "https://trello.com/c/6Pi4Y2Fi/7849-listing-creation-distefano-wellenstein-s%C3%BCleyman",
+      "lastModified": "2025-03-09T23:32:04.835Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67ce9c6dfd5bcb7819d30c27",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Unpublish listing: Goldstein - Fentange (Maéva)",
+      "nameShort": "Unpublish listing",
+      "pipedriveDealName": "Goldstein - Fentange",
+      "url": "https://trello.com/c/FHU2TwgF/7850-unpublish-listing-goldstein-fentange-ma%C3%A9va",
+      "lastModified": "2025-03-10T08:01:51.870Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
@@ -157,22 +205,6 @@
       ]
     },
     {
-      "id": "67c990e6d1f9c9370914d58a",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Upload Giraffe assets to drive: Broegas Amaro - Bonnevoie (Carolina)",
-      "nameShort": "Upload Giraffe assets to drive",
-      "pipedriveDealName": "Broegas Amaro - Bonnevoie",
-      "url": "https://trello.com/c/raX9Ou81/7823-upload-giraffe-assets-to-drive-broegas-amaro-bonnevoie-carolina",
-      "lastModified": "2025-03-06T12:11:20.200Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
       "id": "67c9bd75f9c690d8d5896516",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -182,38 +214,6 @@
       "pipedriveDealName": "Sacré - Sandweiler",
       "url": "https://trello.com/c/7BFiveTP/7828-upload-giraffe-assets-to-drive-sacr%C3%A9-sandweiler-romain",
       "lastModified": "2025-03-06T15:21:27.545Z",
-      "associatedAdviser": "Romain",
-      "slackUserId": "U7BGBRJGH",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
-      "id": "67c9e7eb5f95d61e6ae3e6fd",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Upload Giraffe assets to drive: Broegas Amaro - Bonnevoie (Carolina)",
-      "nameShort": "Upload Giraffe assets to drive",
-      "pipedriveDealName": "Broegas Amaro - Bonnevoie",
-      "url": "https://trello.com/c/iw8jr1l6/7831-upload-giraffe-assets-to-drive-broegas-amaro-bonnevoie-carolina",
-      "lastModified": "2025-03-06T18:22:38.277Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
-      "id": "67caa20f751ebc25572c2285",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Upload Giraffe assets to drive: Sacré - Sandweiler (Romain)",
-      "nameShort": "Upload Giraffe assets to drive",
-      "pipedriveDealName": "Sacré - Sandweiler",
-      "url": "https://trello.com/c/FsEEI8mt/7835-upload-giraffe-assets-to-drive-sacr%C3%A9-sandweiler-romain",
-      "lastModified": "2025-03-07T07:36:50.097Z",
       "associatedAdviser": "Romain",
       "slackUserId": "U7BGBRJGH",
       "avatarUrls": [
@@ -261,7 +261,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-03-07T13:01:12.532Z",
+      "lastModified": "2025-03-10T08:02:04.730Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

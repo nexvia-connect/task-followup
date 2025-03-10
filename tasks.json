@@ -173,31 +173,15 @@
       ]
     },
     {
-      "id": "67ceb437746b3d6f034be4c8",
+      "id": "67ceb49847e65036ab1b7b4d",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Set listing as sold: Maas - Blaschette (Süleyman)",
+      "name": "Set listing as sold: Collot - Gare (Süleyman)",
       "nameShort": "Set listing as sold",
-      "pipedriveDealName": "Maas - Blaschette",
-      "url": "https://trello.com/c/nJiQXrOP/7853-set-listing-as-sold-maas-blaschette-s%C3%BCleyman",
-      "lastModified": "2025-03-10T09:43:22.703Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "67ceb45d2139ad5c26eb7af0",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Set listing as sold: Siebenaler - Mamer (Süleyman)",
-      "nameShort": "Set listing as sold",
-      "pipedriveDealName": "Siebenaler - Mamer",
-      "url": "https://trello.com/c/80wMOSZg/7854-set-listing-as-sold-siebenaler-mamer-s%C3%BCleyman",
-      "lastModified": "2025-03-10T09:44:00.173Z",
+      "pipedriveDealName": "Collot - Gare",
+      "url": "https://trello.com/c/RFUvTCCu/7855-set-listing-as-sold-collot-gare-s%C3%BCleyman",
+      "lastModified": "2025-03-10T09:44:59.498Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
@@ -237,6 +221,22 @@
       ]
     },
     {
+      "id": "67ceb52439e88bb69ff9ba81",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload Giraffe assets to drive: Bououden - Tuntange (Rudy)",
+      "nameShort": "Upload Giraffe assets to drive",
+      "pipedriveDealName": "Bououden - Tuntange",
+      "url": "https://trello.com/c/o00mjLQq/7856-upload-giraffe-assets-to-drive-bououden-tuntange-rudy",
+      "lastModified": "2025-03-10T09:47:19.072Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -245,7 +245,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-03-10T08:02:04.730Z",
+      "lastModified": "2025-03-10T09:54:36.272Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

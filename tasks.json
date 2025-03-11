@@ -61,6 +61,22 @@
       ]
     },
     {
+      "id": "67d024c3f88f920ccf555b38",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Purchase item (Vinciane)",
+      "nameShort": "Purchase item",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/XgtfUdyH/7875-purchase-item-vinciane",
+      "lastModified": "2025-03-11T11:55:49.657Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "67cf3cb2fcbfb65be18bd55f",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -77,17 +93,33 @@
       ]
     },
     {
-      "id": "67cf3cb6989a9ffce8e97acf",
+      "id": "67d0255451f3d9ebdf427ec6",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Set listing as signed: Cintrão - Clemency (Sandy)",
-      "nameShort": "Set listing as signed",
-      "pipedriveDealName": "Cintrão - Clemency",
-      "url": "https://trello.com/c/lO4TcaiE/7869-set-listing-as-signed-cintr%C3%A3o-clemency-sandy",
-      "lastModified": "2025-03-10T19:25:45.951Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
+      "name": "Listing modification: Distefano - Wellenstein (Süleyman)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "Distefano - Wellenstein",
+      "url": "https://trello.com/c/konUgkhO/7876-listing-modification-distefano-wellenstein-s%C3%BCleyman",
+      "lastModified": "2025-03-11T11:58:14.877Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67d02a9bb4e370841549ede8",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Schedule newsletter: Distefano - Wellenstein (Süleyman)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Distefano - Wellenstein",
+      "url": "https://trello.com/c/9OZ9KmpK/7877-schedule-newsletter-distefano-wellenstein-s%C3%BCleyman",
+      "lastModified": "2025-03-11T12:20:46.807Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -102,6 +134,86 @@
       "pipedriveDealName": "Thill - R - Bonnevoie",
       "url": "https://trello.com/c/vmsAabUY/7859-complete-photo-session-thill-r-bonnevoie-omer",
       "lastModified": "2025-03-10T10:21:20.053Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67d018a38c889b20264c01f8",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload Giraffe assets to drive: Thill - R - Bonnevoie (Omer)",
+      "nameShort": "Upload Giraffe assets to drive",
+      "pipedriveDealName": "Thill - R - Bonnevoie",
+      "url": "https://trello.com/c/C5s3NRyR/7872-upload-giraffe-assets-to-drive-thill-r-bonnevoie-omer",
+      "lastModified": "2025-03-11T11:04:05.430Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67d023b69c49db6234c3f2f6",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Floor plan surface change: Distefano - Wellenstein (Süleyman)",
+      "nameShort": "Floor plan surface change",
+      "pipedriveDealName": "Distefano - Wellenstein",
+      "url": "https://trello.com/c/9UXRrwjd/7873-floor-plan-surface-change-distefano-wellenstein-s%C3%BCleyman",
+      "lastModified": "2025-03-11T11:51:20.962Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67d024238aef81e23145df94",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Floor plan room name change: Distefano - Wellenstein (Süleyman)",
+      "nameShort": "Floor plan room name change",
+      "pipedriveDealName": "Distefano - Wellenstein",
+      "url": "https://trello.com/c/mZobGPMf/7874-floor-plan-room-name-change-distefano-wellenstein-s%C3%BCleyman",
+      "lastModified": "2025-03-11T11:53:09.952Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67d02a9ecd20a9bf54914cd3",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Complete photo session: Salazar - Rameldange (Vinciane)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Salazar - Rameldange",
+      "url": "https://trello.com/c/QCiyyvlS/7878-complete-photo-session-salazar-rameldange-vinciane",
+      "lastModified": "2025-03-11T12:20:49.108Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67d02cb62b6881162127d63e",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload Giraffe assets to drive: Thill - R - Bonnevoie (Omer)",
+      "nameShort": "Upload Giraffe assets to drive",
+      "pipedriveDealName": "Thill - R - Bonnevoie",
+      "url": "https://trello.com/c/ZON0wEzs/7879-upload-giraffe-assets-to-drive-thill-r-bonnevoie-omer",
+      "lastModified": "2025-03-11T12:29:45.006Z",
       "associatedAdviser": "Omer",
       "slackUserId": "U080CU2EX62",
       "avatarUrls": [

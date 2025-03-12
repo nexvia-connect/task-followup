@@ -49,38 +49,6 @@
       ]
     },
     {
-      "id": "67d1485426b72af5b3469136",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Purchase item (Victor)",
-      "nameShort": "Purchase item",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/P5Fs1VqE/7891-purchase-item-victor",
-      "lastModified": "2025-03-12T08:39:49.996Z",
-      "associatedAdviser": "Victor",
-      "slackUserId": "UU5F0BQBZ",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "67d148a511a04d7ba1c2660d",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Purchase item (Xavier)",
-      "nameShort": "Purchase item",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/z0j7Dq7B/7892-purchase-item-xavier",
-      "lastModified": "2025-03-12T08:41:10.935Z",
-      "associatedAdviser": "Xavier",
-      "slackUserId": "U44HL0DMX",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67d181bb93e614330a27cb57",
       "idMembers": [
         "5ce414ac7678a40557510d74"

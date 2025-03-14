@@ -145,22 +145,6 @@
       ]
     },
     {
-      "id": "67d3ed787436c882d7f2985d",
-      "idMembers": [
-        "4fe86ade26d156994a0bee7d"
-      ],
-      "name": "Manage Slack admin (Rachel)",
-      "nameShort": "Manage Slack admin",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/dPqRNFID/7938-manage-slack-admin-rachel",
-      "lastModified": "2025-03-14T11:56:32.430Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
-      ]
-    },
-    {
       "id": "67d3ed77f049e9f642b298b1",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -300,9 +284,7 @@
       "lastModified": "2025-03-14T09:40:25.005Z",
       "associatedAdviser": "Xavier",
       "slackUserId": "U44HL0DMX",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "67d29eeb7051aef1dfdc543c",
@@ -316,9 +298,7 @@
       "lastModified": "2025-03-13T09:01:34.363Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "67d2d74ab2a1b901569180f5",
@@ -364,9 +344,7 @@
       "lastModified": "2025-03-14T07:51:39.931Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "67d40a45af04cb1b4680b084",
@@ -378,22 +356,6 @@
       "pipedriveDealName": "Distefano - Wellenstein",
       "url": "https://trello.com/c/tuVP3Yj6/7950-publish-listing-to-platforms-distefano-wellenstein-s%C3%BCleyman",
       "lastModified": "2025-03-14T10:52:57.490Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "67d418e75b884362ea31f171",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Schedule newsletter: Muller - Reichlange (Süleyman)",
-      "nameShort": "Schedule newsletter",
-      "pipedriveDealName": "Muller - Reichlange",
-      "url": "https://trello.com/c/85E5YXr6/7953-schedule-newsletter-muller-reichlange-s%C3%BCleyman",
-      "lastModified": "2025-03-14T11:54:18.039Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
@@ -444,9 +406,7 @@
       "lastModified": "2025-03-13T11:28:22.466Z",
       "associatedAdviser": "Omer",
       "slackUserId": "U080CU2EX62",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "67d2f10004cbc2bb37573ad7",

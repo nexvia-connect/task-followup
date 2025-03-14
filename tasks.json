@@ -49,6 +49,294 @@
       ]
     },
     {
+      "id": "67d3ed6f172fc20ecda075aa",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Manage Konica admin (Rachel)",
+      "nameShort": "Manage Konica admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/AQCnrGev/7929-manage-konica-admin-rachel",
+      "lastModified": "2025-03-14T08:49:10.617Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67d3ed70abf9a629a71f7ea5",
+      "idMembers": [
+        "4fe86ade26d156994a0bee7d"
+      ],
+      "name": "Manage Google admin (Rachel)",
+      "nameShort": "Manage Google admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/K8zy6Rg8/7930-manage-google-admin-rachel",
+      "lastModified": "2025-03-14T09:02:34.304Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
+      ]
+    },
+    {
+      "id": "67d3ed70b88a8eea44f9c4f3",
+      "idMembers": [
+        "4fe86ade26d156994a0bee7d"
+      ],
+      "name": "Manage Nexvia website + default photo + payslip system (Rachel)",
+      "nameShort": "Manage Nexvia website + default photo + payslip system",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/mOO3YmEm/7931-manage-nexvia-website-default-photo-payslip-system-rachel",
+      "lastModified": "2025-03-14T09:02:32.534Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
+      ]
+    },
+    {
+      "id": "67d3ed71e72770dc39b63719",
+      "idMembers": [
+        "4fe86ade26d156994a0bee7d"
+      ],
+      "name": "Manage Google Drive admin (Rachel)",
+      "nameShort": "Manage Google Drive admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/kEWd9kMp/7932-manage-google-drive-admin-rachel",
+      "lastModified": "2025-03-14T09:02:28.908Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
+      ]
+    },
+    {
+      "id": "67d3ed73a49351ca7f4d2f70",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Manage Microsoft admin (Rachel)",
+      "nameShort": "Manage Microsoft admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/ZSHRPuOo/7933-manage-microsoft-admin-rachel",
+      "lastModified": "2025-03-14T08:48:52.716Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67d3ed746b518214c2a17585",
+      "idMembers": [
+        "4fe86ade26d156994a0bee7d"
+      ],
+      "name": "Manage Easysolutions admin (Rachel)",
+      "nameShort": "Manage Easysolutions admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/LQkv5S5s/7934-manage-easysolutions-admin-rachel",
+      "lastModified": "2025-03-14T09:02:26.265Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
+      ]
+    },
+    {
+      "id": "67d3ed751245583c6d45b667",
+      "idMembers": [
+        "4fe86ade26d156994a0bee7d"
+      ],
+      "name": "Manage Pipedrive admin (Rachel)",
+      "nameShort": "Manage Pipedrive admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/H5z4S1g4/7935-manage-pipedrive-admin-rachel",
+      "lastModified": "2025-03-14T09:02:22.973Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
+      ]
+    },
+    {
+      "id": "67d3ed7611bda4082873bfda",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Manage Nuki admin (Rachel)",
+      "nameShort": "Manage Nuki admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/q9Sq4g9x/7936-manage-nuki-admin-rachel",
+      "lastModified": "2025-03-14T08:48:55.736Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67d3ed77f049e9f642b298b1",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Manage Mailchimp admin (Rachel)",
+      "nameShort": "Manage Mailchimp admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/bR0qtcr9/7937-manage-mailchimp-admin-rachel",
+      "lastModified": "2025-03-14T08:48:57.334Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67d3ed787436c882d7f2985d",
+      "idMembers": [
+        "4fe86ade26d156994a0bee7d"
+      ],
+      "name": "Manage Slack admin (Rachel)",
+      "nameShort": "Manage Slack admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/dPqRNFID/7938-manage-slack-admin-rachel",
+      "lastModified": "2025-03-14T09:02:19.739Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/4fe86ade26d156994a0bee7d/3f9ad45b57586d4be8b328b0be459b89/170.png"
+      ]
+    },
+    {
+      "id": "67d3ed7a731fa9c045c20277",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Manage YCBM admin (Rachel)",
+      "nameShort": "Manage YCBM admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/pB9QnAPn/7939-manage-ycbm-admin-rachel",
+      "lastModified": "2025-03-14T08:48:59.794Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67d3ed7b4a819f0c7d3ed0c0",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Manage Giraffe admin (Rachel)",
+      "nameShort": "Manage Giraffe admin",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/LiFfhojq/7940-manage-giraffe-admin-rachel",
+      "lastModified": "2025-03-14T08:49:01.182Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67d3ed82850506f865579ee8",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Buy new laptop (Task)",
+      "nameShort": "Buy new laptop",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/VxKCugS1/7941-buy-new-laptop-task",
+      "lastModified": "2025-03-14T08:49:34.646Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67d3edba4101d2e518ddbe63",
+      "idMembers": [
+        "56f10d02921bc403c6d626d1"
+      ],
+      "name": "Buy new phone (Task)",
+      "nameShort": "Buy new phone",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/D6bvM8OH/7942-buy-new-phone-task",
+      "lastModified": "2025-03-14T08:50:18.204Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
+      ]
+    },
+    {
+      "id": "67d3ede6494cc18320faf60f",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Assign transponder (Task)",
+      "nameShort": "Assign transponder",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/KkCBXAxa/7943-assign-transponder-task",
+      "lastModified": "2025-03-14T08:51:00.877Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67d3ee0def896e178fef4bf0",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Assign laser (Task)",
+      "nameShort": "Assign laser",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/BaDNbD8b/7945-assign-laser-task",
+      "lastModified": "2025-03-14T08:51:26.669Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67d3f95d44127847a68ddc6d",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Transport item Royal>Theatre (Victor)",
+      "nameShort": "Transport item Royal>Theatre",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/CVclODkW/7947-transport-item-royaltheatre-victor",
+      "lastModified": "2025-03-14T09:39:43.466Z",
+      "associatedAdviser": "Victor",
+      "slackUserId": "UU5F0BQBZ",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67d3f98611bd06ad5324b698",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Transport item Royal>Theatre (Xavier)",
+      "nameShort": "Transport item Royal>Theatre",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/Qm0tqtdz/7948-transport-item-royaltheatre-xavier",
+      "lastModified": "2025-03-14T09:40:25.005Z",
+      "associatedAdviser": "Xavier",
+      "slackUserId": "U44HL0DMX",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "67d29eeb7051aef1dfdc543c",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -78,6 +366,70 @@
       "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67d3807c85f6133cd17d238c",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing creation: Garcia - Merl (Süleyman)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": "Garcia - Merl",
+      "url": "https://trello.com/c/0XjtJJGz/7924-listing-creation-garcia-merl-s%C3%BCleyman",
+      "lastModified": "2025-03-14T01:04:01.834Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67d3c17c87b4aa473eb5a502",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Unhide listing: Broegas Amaro - Bonnevoie (Carolina)",
+      "nameShort": "Unhide listing",
+      "pipedriveDealName": "Broegas Amaro - Bonnevoie",
+      "url": "https://trello.com/c/0jaRWJOQ/7926-unhide-listing-broegas-amaro-bonnevoie-carolina",
+      "lastModified": "2025-03-14T05:41:19.973Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67d3dff8bc44d3cfc8bd7771",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Publish listing to platforms: Broegas Amaro - Bonnevoie (Carolina)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Broegas Amaro - Bonnevoie",
+      "url": "https://trello.com/c/SjfLG4Kd/7927-publish-listing-to-platforms-broegas-amaro-bonnevoie-carolina",
+      "lastModified": "2025-03-14T07:51:39.931Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67d3fc5b44c67bbedfe0ddde",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Goos - Grevenmacher (Carolina)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "Goos - Grevenmacher",
+      "url": "https://trello.com/c/9rhvs8sE/7949-listing-modification-goos-grevenmacher-carolina",
+      "lastModified": "2025-03-14T09:52:31.211Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
@@ -145,6 +497,22 @@
       ]
     },
     {
+      "id": "67d3ee050e6bcb9a5d4395f7",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Complete photo session: Nedog - Lorentzweiler (Thomas)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Nedog - Lorentzweiler",
+      "url": "https://trello.com/c/EpeLoREm/7944-complete-photo-session-nedog-lorentzweiler-thomas",
+      "lastModified": "2025-03-14T08:51:19.388Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -172,6 +540,22 @@
       "lastModified": "2025-02-25T13:06:55.660Z",
       "associatedAdviser": "Aurore",
       "slackUserId": "U079GJ0BU1E",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67d3e02efbad07ebdf2ec424",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Broegas Amaro - Bonnevoie (Carolina)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Broegas Amaro - Bonnevoie",
+      "url": "https://trello.com/c/37DUCBzl/7928-put-listing-in-window-displays-broegas-amaro-bonnevoie-carolina",
+      "lastModified": "2025-03-14T08:26:26.111Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

@@ -369,22 +369,6 @@
       ]
     },
     {
-      "id": "67d3c17c87b4aa473eb5a502",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Unhide listing: Broegas Amaro - Bonnevoie (Carolina)",
-      "nameShort": "Unhide listing",
-      "pipedriveDealName": "Broegas Amaro - Bonnevoie",
-      "url": "https://trello.com/c/0jaRWJOQ/7926-unhide-listing-broegas-amaro-bonnevoie-carolina",
-      "lastModified": "2025-03-14T05:41:19.973Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67d3dff8bc44d3cfc8bd7771",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -410,22 +394,6 @@
       "pipedriveDealName": "Distefano - Wellenstein",
       "url": "https://trello.com/c/tuVP3Yj6/7950-publish-listing-to-platforms-distefano-wellenstein-s%C3%BCleyman",
       "lastModified": "2025-03-14T10:52:57.490Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "67d4186198e7a78050dd20cb",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Listing modification: Muller - Reichlange (Süleyman)",
-      "nameShort": "Listing modification",
-      "pipedriveDealName": "Muller - Reichlange",
-      "url": "https://trello.com/c/fXjhC7ed/7952-listing-modification-muller-reichlange-s%C3%BCleyman",
-      "lastModified": "2025-03-14T11:52:04.524Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [

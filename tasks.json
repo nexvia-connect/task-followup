@@ -337,6 +337,22 @@
       ]
     },
     {
+      "id": "67d428b96132b20063b08f7c",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Share listing to FB + Linkedin: Broegas Amaro - Bonnevoie (Carolina)",
+      "nameShort": "Share listing to FB + Linkedin",
+      "pipedriveDealName": "Broegas Amaro - Bonnevoie",
+      "url": "https://trello.com/c/JWUNH1Ds/7954-share-listing-to-fb-linkedin-broegas-amaro-bonnevoie-carolina",
+      "lastModified": "2025-03-14T13:01:48.428Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "67d2bb5441f834ba68159254",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -385,38 +401,6 @@
       ]
     },
     {
-      "id": "67d2f10004cbc2bb37573ad7",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Complete photo session: Vandras - P - Mamer (Süleyman)",
-      "nameShort": "Complete photo session",
-      "pipedriveDealName": "Vandras - P - Mamer",
-      "url": "https://trello.com/c/l7PXcJIe/7922-complete-photo-session-vandras-p-mamer-s%C3%BCleyman",
-      "lastModified": "2025-03-13T14:51:46.736Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
-      "id": "67d3ee050e6bcb9a5d4395f7",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Complete photo session: Nedog - Lorentzweiler (Thomas)",
-      "nameShort": "Complete photo session",
-      "pipedriveDealName": "Nedog - Lorentzweiler",
-      "url": "https://trello.com/c/EpeLoREm/7944-complete-photo-session-nedog-lorentzweiler-thomas",
-      "lastModified": "2025-03-14T08:51:19.388Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -425,7 +409,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-03-13T13:01:01.484Z",
+      "lastModified": "2025-03-14T13:00:33.915Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

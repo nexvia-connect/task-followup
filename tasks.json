@@ -369,22 +369,6 @@
       ]
     },
     {
-      "id": "67d7b5d31fdc647a649dcf9a",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Unhide listing: Muller - Reichlange (Süleyman)",
-      "nameShort": "Unhide listing",
-      "pipedriveDealName": "Muller - Reichlange",
-      "url": "https://trello.com/c/lx2HB46H/7970-unhide-listing-muller-reichlange-s%C3%BCleyman",
-      "lastModified": "2025-03-17T05:40:38.842Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67d7ddf758b2e7c098b1ed1d",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -398,6 +382,22 @@
       "slackUserId": "U01S0CAN9QT",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67d7e4eac92cb1a455f867ce",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Share listing to FB + Linkedin: Muller - Reichlange (Süleyman)",
+      "nameShort": "Share listing to FB + Linkedin",
+      "pipedriveDealName": "Muller - Reichlange",
+      "url": "https://trello.com/c/kg0R4cvt/7972-share-listing-to-fb-linkedin-muller-reichlange-s%C3%BCleyman",
+      "lastModified": "2025-03-17T09:01:34.287Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
       ]
     },
     {
@@ -505,7 +505,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-03-17T08:32:06.175Z",
+      "lastModified": "2025-03-17T09:00:56.861Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

@@ -9,7 +9,7 @@
       "nameShort": "Statistics report",
       "pipedriveDealName": "Flahaut - Capellen",
       "url": "https://trello.com/c/M5AsNfgR/7867-statistics-report-flahaut-capellen-vinciane",
-      "lastModified": "2025-03-17T12:49:58.061Z",
+      "lastModified": "2025-03-17T12:56:08.344Z",
       "associatedAdviser": "Vinciane",
       "slackUserId": "U01S0CAN9QT",
       "avatarUrls": [
@@ -90,22 +90,6 @@
       "pipedriveDealName": null,
       "url": "https://trello.com/c/q9Sq4g9x/7936-manage-nuki-admin-rachel",
       "lastModified": "2025-03-14T08:48:55.736Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67d3ed77f049e9f642b298b1",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Manage Mailchimp admin (Rachel)",
-      "nameShort": "Manage Mailchimp admin",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/bR0qtcr9/7937-manage-mailchimp-admin-rachel",
-      "lastModified": "2025-03-14T08:48:57.334Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

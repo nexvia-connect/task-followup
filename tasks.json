@@ -225,6 +225,22 @@
       ]
     },
     {
+      "id": "67d8364b74683905a245c0cc",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Format change (Task)",
+      "nameShort": "Format change",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/dRi3JMjv/7979-format-change-task",
+      "lastModified": "2025-03-17T14:48:44.361Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "67d2c0b43b59a9de29c7eae6",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -334,22 +350,6 @@
       "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "67cf16913dcf8718722645ab",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Statistics report: Flahaut - Capellen (Vinciane)",
-      "nameShort": "Statistics report",
-      "pipedriveDealName": "Flahaut - Capellen",
-      "url": "https://trello.com/c/M5AsNfgR/7867-statistics-report-flahaut-capellen-vinciane",
-      "lastModified": "2025-03-17T13:23:43.042Z",
-      "associatedAdviser": "Vinciane",
-      "slackUserId": "U01S0CAN9QT",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
       ]
     },
     {

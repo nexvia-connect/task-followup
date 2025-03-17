@@ -81,22 +81,6 @@
       ]
     },
     {
-      "id": "67d3ed7b4a819f0c7d3ed0c0",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Manage Giraffe admin (Rachel)",
-      "nameShort": "Manage Giraffe admin",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/LiFfhojq/7940-manage-giraffe-admin-rachel",
-      "lastModified": "2025-03-14T08:49:01.182Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "67d3ede6494cc18320faf60f",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -158,38 +142,6 @@
       "slackUserId": "U44HL0DMX",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
-      "id": "67d45e0ea17ebd69c09d5e2b",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Missing deal Pipedrive information: Hoorelbeke - Gasperich (Maeva)",
-      "nameShort": "Missing deal Pipedrive information",
-      "pipedriveDealName": "Hoorelbeke - Gasperich",
-      "url": "https://trello.com/c/vGI249yo/7959-missing-deal-pipedrive-information-hoorelbeke-gasperich-maeva",
-      "lastModified": "2025-03-14T16:49:21.806Z",
-      "associatedAdviser": "Maeva",
-      "slackUserId": "U044CKLT9HD",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67d45f11ace153123d295f9b",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Missing deal Pipedrive information: Hoorelbeke - Gasperich (Maeva)",
-      "nameShort": "Missing deal Pipedrive information",
-      "pipedriveDealName": "Hoorelbeke - Gasperich",
-      "url": "https://trello.com/c/dddUMliu/7960-missing-deal-pipedrive-information-hoorelbeke-gasperich-maeva",
-      "lastModified": "2025-03-14T16:53:40.899Z",
-      "associatedAdviser": "Maeva",
-      "slackUserId": "U044CKLT9HD",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
       ]
     },
     {

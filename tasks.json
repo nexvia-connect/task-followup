@@ -209,6 +209,22 @@
       ]
     },
     {
+      "id": "67d93637d95951e1b5dee56c",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Share listing to FB + Linkedin: Garcia - Merl (Süleyman)",
+      "nameShort": "Share listing to FB + Linkedin",
+      "pipedriveDealName": "Garcia - Merl",
+      "url": "https://trello.com/c/lWerz2cZ/7983-share-listing-to-fb-linkedin-garcia-merl-s%C3%BCleyman",
+      "lastModified": "2025-03-18T09:00:42.337Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "67d2c0b43b59a9de29c7eae6",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -281,7 +297,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-03-17T12:29:14.180Z",
+      "lastModified": "2025-03-18T09:00:01.746Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

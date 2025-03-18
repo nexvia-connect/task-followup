@@ -9,7 +9,7 @@
       "nameShort": "Order business cards",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/jWXcUmGq/7480-order-business-cards-antoine",
-      "lastModified": "2025-02-10T15:01:35.190Z",
+      "lastModified": "2025-03-18T10:56:01.064Z",
       "associatedAdviser": "Antoine",
       "slackUserId": "U08B25V2ABV",
       "avatarUrls": [
@@ -193,6 +193,22 @@
       ]
     },
     {
+      "id": "67d96079b23c452d3c5fd0e1",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Prepare notary documents: Feller - Schifflange (Süleyman)",
+      "nameShort": "Prepare notary documents",
+      "pipedriveDealName": "Feller - Schifflange",
+      "url": "https://trello.com/c/BLkq7EjG/7990-prepare-notary-documents-feller-schifflange-s%C3%BCleyman",
+      "lastModified": "2025-03-18T12:01:01.277Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "67d93637d95951e1b5dee56c",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -225,35 +241,35 @@
       ]
     },
     {
-      "id": "67d2c0b43b59a9de29c7eae6",
+      "id": "67d9501002112ef4d0d489bc",
       "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
+        "5ce414ac7678a40557510d74"
       ],
-      "name": "3D render request: Thill - R - Bonnevoie (Omer)",
-      "nameShort": "3D render request",
-      "pipedriveDealName": "Thill - R - Bonnevoie",
-      "url": "https://trello.com/c/JQ8MLqox/7917-3d-render-request-thill-r-bonnevoie-omer",
-      "lastModified": "2025-03-18T08:34:08.290Z",
-      "associatedAdviser": "Omer",
-      "slackUserId": "U080CU2EX62",
+      "name": "Publish listing to platforms: Muller - Reichlange (Süleyman)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Muller - Reichlange",
+      "url": "https://trello.com/c/Ubu4B179/7986-publish-listing-to-platforms-muller-reichlange-s%C3%BCleyman",
+      "lastModified": "2025-03-18T10:51:14.905Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
-      "id": "67d2c153c1d4062f32a0745c",
+      "id": "67d9504fee334c2febdc99bc",
       "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
+        "5ce414ac7678a40557510d74"
       ],
-      "name": "3D render request: Thill - R - Bonnevoie (Omer)",
-      "nameShort": "3D render request",
-      "pipedriveDealName": "Thill - R - Bonnevoie",
-      "url": "https://trello.com/c/grjREE9b/7918-3d-render-request-thill-r-bonnevoie-omer",
-      "lastModified": "2025-03-18T08:34:07.374Z",
-      "associatedAdviser": "Omer",
-      "slackUserId": "U080CU2EX62",
+      "name": "Put listing in window displays: Muller - Reichlange (Süleyman)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Muller - Reichlange",
+      "url": "https://trello.com/c/tAiVExVB/7987-put-listing-in-window-displays-muller-reichlange-s%C3%BCleyman",
+      "lastModified": "2025-03-18T10:52:07.697Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
@@ -273,17 +289,49 @@
       ]
     },
     {
-      "id": "67d92bab02112ef4d086fcbb",
+      "id": "67d947b1456dd64b15fff754",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
       ],
-      "name": "Upload Giraffe assets to drive: Vandras - P - Mamer (Süleyman)",
+      "name": "Upload Giraffe assets to drive: Sousa - Esch-sur-Alzette (Omer)",
       "nameShort": "Upload Giraffe assets to drive",
-      "pipedriveDealName": "Vandras - P - Mamer",
-      "url": "https://trello.com/c/fOw2aDET/7982-upload-giraffe-assets-to-drive-vandras-p-mamer-s%C3%BCleyman",
-      "lastModified": "2025-03-18T08:15:41.214Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
+      "pipedriveDealName": "Sousa - Esch-sur-Alzette",
+      "url": "https://trello.com/c/pXYKFF9l/7985-upload-giraffe-assets-to-drive-sousa-esch-sur-alzette-omer",
+      "lastModified": "2025-03-18T10:15:15.805Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67d953d1376c00060db05ed6",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload Giraffe assets to drive (Task)",
+      "nameShort": "Upload Giraffe assets to drive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/HPAagiDk/7988-upload-giraffe-assets-to-drive-task",
+      "lastModified": "2025-03-18T11:06:59.299Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67d957ab02cc4bd3c99eb71e",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload Giraffe assets to drive (Task)",
+      "nameShort": "Upload Giraffe assets to drive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/ImjASGQN/7989-upload-giraffe-assets-to-drive-task",
+      "lastModified": "2025-03-18T11:23:24.693Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
       ]

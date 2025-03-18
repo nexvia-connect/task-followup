@@ -233,7 +233,7 @@
       "nameShort": "3D render request",
       "pipedriveDealName": "Thill - R - Bonnevoie",
       "url": "https://trello.com/c/JQ8MLqox/7917-3d-render-request-thill-r-bonnevoie-omer",
-      "lastModified": "2025-03-13T11:25:42.501Z",
+      "lastModified": "2025-03-18T08:34:08.290Z",
       "associatedAdviser": "Omer",
       "slackUserId": "U080CU2EX62",
       "avatarUrls": [
@@ -249,41 +249,9 @@
       "nameShort": "3D render request",
       "pipedriveDealName": "Thill - R - Bonnevoie",
       "url": "https://trello.com/c/grjREE9b/7918-3d-render-request-thill-r-bonnevoie-omer",
-      "lastModified": "2025-03-13T11:28:22.466Z",
+      "lastModified": "2025-03-18T08:34:07.374Z",
       "associatedAdviser": "Omer",
       "slackUserId": "U080CU2EX62",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
-      "id": "67d444f3d64e4549612f29d7",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Upload Giraffe assets to drive: Vandras - P - Mamer (Süleyman)",
-      "nameShort": "Upload Giraffe assets to drive",
-      "pipedriveDealName": "Vandras - P - Mamer",
-      "url": "https://trello.com/c/4IRzbJs5/7958-upload-giraffe-assets-to-drive-vandras-p-mamer-s%C3%BCleyman",
-      "lastModified": "2025-03-14T15:02:14.050Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
-      "id": "67d46dc3836a04ab574d06e6",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Upload Giraffe assets to drive: Vandras - P - Mamer (Süleyman)",
-      "nameShort": "Upload Giraffe assets to drive",
-      "pipedriveDealName": "Vandras - P - Mamer",
-      "url": "https://trello.com/c/fSiRnj8z/7961-upload-giraffe-assets-to-drive-vandras-p-mamer-s%C3%BCleyman",
-      "lastModified": "2025-03-14T17:56:21.343Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
       ]
@@ -316,6 +284,22 @@
       "lastModified": "2025-03-17T13:51:55.024Z",
       "associatedAdviser": "Omer",
       "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67d92bab02112ef4d086fcbb",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload Giraffe assets to drive: Vandras - P - Mamer (Süleyman)",
+      "nameShort": "Upload Giraffe assets to drive",
+      "pipedriveDealName": "Vandras - P - Mamer",
+      "url": "https://trello.com/c/fOw2aDET/7982-upload-giraffe-assets-to-drive-vandras-p-mamer-s%C3%BCleyman",
+      "lastModified": "2025-03-18T08:15:41.214Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
       ]

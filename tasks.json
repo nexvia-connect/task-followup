@@ -209,22 +209,6 @@
       ]
     },
     {
-      "id": "67d9501002112ef4d0d489bc",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Publish listing to platforms: Muller - Reichlange (Süleyman)",
-      "nameShort": "Publish listing to platforms",
-      "pipedriveDealName": "Muller - Reichlange",
-      "url": "https://trello.com/c/Ubu4B179/7986-publish-listing-to-platforms-muller-reichlange-s%C3%BCleyman",
-      "lastModified": "2025-03-18T10:51:14.905Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67daa19f75d2de5eae68f7d7",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -268,6 +252,22 @@
       "lastModified": "2025-03-19T15:13:07.558Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67dae3a823366177748e2d10",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing creation: Thill - R - Bonnevoie (Omer)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": "Thill - R - Bonnevoie",
+      "url": "https://trello.com/c/v9Wf4c9e/8007-listing-creation-thill-r-bonnevoie-omer",
+      "lastModified": "2025-03-19T15:33:01.769Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

@@ -305,6 +305,22 @@
       ]
     },
     {
+      "id": "67dbda668ae63be14b96cddd",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Share listing to FB + Linkedin: Salazar - Rameldange (Vinciane)",
+      "nameShort": "Share listing to FB + Linkedin",
+      "pipedriveDealName": "Salazar - Rameldange",
+      "url": "https://trello.com/c/1U0Ufisr/8018-share-listing-to-fb-linkedin-salazar-rameldange-vinciane",
+      "lastModified": "2025-03-20T09:05:45.153Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "67d947b1456dd64b15fff754",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -369,22 +385,6 @@
       ]
     },
     {
-      "id": "67db43b51532c325364ba471",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Photoshop: Vandras - P - Mamer (Süleyman)",
-      "nameShort": "Photoshop",
-      "pipedriveDealName": "Vandras - P - Mamer",
-      "url": "https://trello.com/c/GbEpAKDv/8015-photoshop-vandras-p-mamer-s%C3%BCleyman",
-      "lastModified": "2025-03-19T22:23:00.281Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -393,7 +393,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-03-18T09:00:01.746Z",
+      "lastModified": "2025-03-20T09:05:09.313Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

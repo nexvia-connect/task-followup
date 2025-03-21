@@ -17,22 +17,6 @@
       ]
     },
     {
-      "id": "67d037bff0a3803d52fa99ab",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Set e-mail signature (Antoine)",
-      "nameShort": "Set e-mail signature",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/x0yHXDr0/7880-set-e-mail-signature-antoine",
-      "lastModified": "2025-03-11T13:16:49.006Z",
-      "associatedAdviser": "Antoine",
-      "slackUserId": "U08B25V2ABV",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
       "id": "67d3ed6f172fc20ecda075aa",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -337,6 +321,38 @@
       ]
     },
     {
+      "id": "67dd2863518d89cf66e3a004",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Complete photo session: Bogaert - Junglinster (Vinciane)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Bogaert - Junglinster",
+      "url": "https://trello.com/c/e4OPHJde/8041-complete-photo-session-bogaert-junglinster-vinciane",
+      "lastModified": "2025-03-21T08:50:45.772Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67dd318784b212053989a8aa",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Floor plan surface change: Sousa - Esch-sur-Alzette (Omer)",
+      "nameShort": "Floor plan surface change",
+      "pipedriveDealName": "Sousa - Esch-sur-Alzette",
+      "url": "https://trello.com/c/POuC6wKQ/8042-floor-plan-surface-change-sousa-esch-sur-alzette-omer",
+      "lastModified": "2025-03-21T09:29:45.848Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -345,7 +361,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-03-20T13:45:24.297Z",
+      "lastModified": "2025-03-21T09:00:06.689Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

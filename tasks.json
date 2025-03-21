@@ -337,22 +337,6 @@
       ]
     },
     {
-      "id": "67dd67c1e85671a21907987c",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Upload render assets to drive: Thill - R - Bonnevoie (Omer)",
-      "nameShort": "Upload render assets to drive",
-      "pipedriveDealName": "Thill - R - Bonnevoie",
-      "url": "https://trello.com/c/Q77kjqMG/8054-upload-render-assets-to-drive-thill-r-bonnevoie-omer",
-      "lastModified": "2025-03-21T13:21:08.792Z",
-      "associatedAdviser": "Omer",
-      "slackUserId": "U080CU2EX62",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
       "id": "67dd6891ce60294e40aae6fd",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -362,6 +346,22 @@
       "pipedriveDealName": "De La Concha - Walferdange",
       "url": "https://trello.com/c/5uO3onEp/8055-upload-giraffe-assets-to-drive-de-la-concha-walferdange-s%C3%BCleyman",
       "lastModified": "2025-03-21T13:24:36.222Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67dd7ca8e1ce718639f5a5a3",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload Giraffe assets to drive: De La Concha - Walferdange (Süleyman)",
+      "nameShort": "Upload Giraffe assets to drive",
+      "pipedriveDealName": "De La Concha - Walferdange",
+      "url": "https://trello.com/c/o0ulQepo/8056-upload-giraffe-assets-to-drive-de-la-concha-walferdange-s%C3%BCleyman",
+      "lastModified": "2025-03-21T14:50:18.670Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [

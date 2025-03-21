@@ -65,54 +65,6 @@
       ]
     },
     {
-      "id": "67d3f95d44127847a68ddc6d",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Transport item Royal>Theatre (Victor)",
-      "nameShort": "Transport item Royal>Theatre",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/CVclODkW/7947-transport-item-royaltheatre-victor",
-      "lastModified": "2025-03-14T09:39:43.466Z",
-      "associatedAdviser": "Victor",
-      "slackUserId": "UU5F0BQBZ",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
-      "id": "67d3f98611bd06ad5324b698",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Transport item Royal>Theatre (Xavier)",
-      "nameShort": "Transport item Royal>Theatre",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/Qm0tqtdz/7948-transport-item-royaltheatre-xavier",
-      "lastModified": "2025-03-14T09:40:25.005Z",
-      "associatedAdviser": "Xavier",
-      "slackUserId": "U44HL0DMX",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
-      "id": "67d756267f0b38de53cd9bf8",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Set-up phone security (Task)",
-      "nameShort": "Set-up phone security",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/Udf1sg47/7967-set-up-phone-security-task",
-      "lastModified": "2025-03-16T22:52:37.869Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "67d75647fd3bf5038a68a944",
       "idMembers": [
         "56f10d02921bc403c6d626d1"

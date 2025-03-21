@@ -193,22 +193,6 @@
       ]
     },
     {
-      "id": "67dbda668ae63be14b96cddd",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Share listing to FB + Linkedin: Salazar - Rameldange (Vinciane)",
-      "nameShort": "Share listing to FB + Linkedin",
-      "pipedriveDealName": "Salazar - Rameldange",
-      "url": "https://trello.com/c/1U0Ufisr/8018-share-listing-to-fb-linkedin-salazar-rameldange-vinciane",
-      "lastModified": "2025-03-20T09:05:45.153Z",
-      "associatedAdviser": "Vinciane",
-      "slackUserId": "U01S0CAN9QT",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
       "id": "67dc3058954ef2e65607105b",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -332,6 +316,22 @@
       "lastModified": "2025-03-20T12:51:09.663Z",
       "associatedAdviser": "Omer",
       "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67dd268af21486bbad840ec4",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload Giraffe assets to drive: Machuron - Neudorf (Rudy)",
+      "nameShort": "Upload Giraffe assets to drive",
+      "pipedriveDealName": "Machuron - Neudorf",
+      "url": "https://trello.com/c/aZ3CVaUY/8040-upload-giraffe-assets-to-drive-machuron-neudorf-rudy",
+      "lastModified": "2025-03-21T08:42:52.504Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
       ]

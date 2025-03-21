@@ -97,22 +97,6 @@
       ]
     },
     {
-      "id": "67dd1a72541e158bb957daad",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Publish listing to platforms: Vandras - P - Mamer (Süleyman)",
-      "nameShort": "Publish listing to platforms",
-      "pipedriveDealName": "Vandras - P - Mamer",
-      "url": "https://trello.com/c/8VMDeW9L/8036-publish-listing-to-platforms-vandras-p-mamer-s%C3%BCleyman",
-      "lastModified": "2025-03-21T07:51:34.186Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67dd1a7385e17c831aab0b6f",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -330,6 +314,22 @@
       "pipedriveDealName": "Vandras - P - Mamer",
       "url": "https://trello.com/c/fxnlJvXU/8038-put-listing-in-window-displays-vandras-p-mamer-s%C3%BCleyman",
       "lastModified": "2025-03-21T11:49:52.947Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67dd1a72541e158bb957daad",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Publish listing to platforms: Vandras - P - Mamer (Süleyman)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Vandras - P - Mamer",
+      "url": "https://trello.com/c/8VMDeW9L/8036-publish-listing-to-platforms-vandras-p-mamer-s%C3%BCleyman",
+      "lastModified": "2025-03-21T17:02:42.379Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [

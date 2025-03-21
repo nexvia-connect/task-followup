@@ -177,17 +177,17 @@
       ]
     },
     {
-      "id": "67dc3058954ef2e65607105b",
+      "id": "67dd4c0e233184e2927c2fe2",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Schedule newsletter: Thill - R - Bonnevoie (Omer)",
-      "nameShort": "Schedule newsletter",
-      "pipedriveDealName": "Thill - R - Bonnevoie",
-      "url": "https://trello.com/c/Kwqbfe9m/8030-schedule-newsletter-thill-r-bonnevoie-omer",
-      "lastModified": "2025-03-20T15:12:27.587Z",
-      "associatedAdviser": "Omer",
-      "slackUserId": "U080CU2EX62",
+      "name": "Purchase item (Xavier)",
+      "nameShort": "Purchase item",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/7OUPNduc/8049-purchase-item-xavier",
+      "lastModified": "2025-03-21T11:22:56.769Z",
+      "associatedAdviser": "Xavier",
+      "slackUserId": "U44HL0DMX",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -257,33 +257,81 @@
       ]
     },
     {
-      "id": "67dd1aa8f15c82c66daf6d7b",
+      "id": "67dd430d431b9fcdc062b8b9",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Put listing in window displays: Vandras - P - Mamer (Süleyman)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Vandras - P - Mamer",
-      "url": "https://trello.com/c/fxnlJvXU/8038-put-listing-in-window-displays-vandras-p-mamer-s%C3%BCleyman",
-      "lastModified": "2025-03-21T07:52:17.465Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
+      "name": "Listing creation: Sousa - Esch-sur-Alzette (Omer)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": "Sousa - Esch-sur-Alzette",
+      "url": "https://trello.com/c/zjtP5YCC/8044-listing-creation-sousa-esch-sur-alzette-omer",
+      "lastModified": "2025-03-21T10:44:35.158Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {
-      "id": "67dd1aa97ed7eb11b11423b3",
+      "id": "67dd43b7402c2bc233457a8b",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Put listing in window displays: Thill - R - Bonnevoie (Omer)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Thill - R - Bonnevoie",
-      "url": "https://trello.com/c/ARPY85i6/8039-put-listing-in-window-displays-thill-r-bonnevoie-omer",
-      "lastModified": "2025-03-21T07:52:22.381Z",
-      "associatedAdviser": "Omer",
-      "slackUserId": "U080CU2EX62",
+      "name": "Format change (Task)",
+      "nameShort": "Format change",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/t8aSXQo5/8045-format-change-task",
+      "lastModified": "2025-03-21T10:47:20.980Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67dd449d61a448859ce4a813",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Publish listing to platforms: Salazar - Rameldange (Vinciane)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Salazar - Rameldange",
+      "url": "https://trello.com/c/kPoP3ArU/8046-publish-listing-to-platforms-salazar-rameldange-vinciane",
+      "lastModified": "2025-03-21T10:51:28.885Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67dd4e71469835975c8fe900",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Set listing as signed: Rita - Bonnevoie (Maéva)",
+      "nameShort": "Set listing as signed",
+      "pipedriveDealName": "Rita - Bonnevoie",
+      "url": "https://trello.com/c/KOwlfyoP/8050-set-listing-as-signed-rita-bonnevoie-ma%C3%A9va",
+      "lastModified": "2025-03-21T11:33:08.746Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67dd519fa7a20db6559025c4",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Change listing price: Willaime-Teeuwen - Cessange (Vinciane)",
+      "nameShort": "Change listing price",
+      "pipedriveDealName": "Willaime-Teeuwen - Cessange",
+      "url": "https://trello.com/c/tCISiQQs/8052-change-listing-price-willaime-teeuwen-cessange-vinciane",
+      "lastModified": "2025-03-21T11:46:43.646Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -348,6 +396,54 @@
       "lastModified": "2025-03-21T09:29:45.848Z",
       "associatedAdviser": "Omer",
       "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67dd42244bc7d8dc89b4af61",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing photo modifications: Thill - R - Bonnevoie (Omer)",
+      "nameShort": "Listing photo modifications",
+      "pipedriveDealName": "Thill - R - Bonnevoie",
+      "url": "https://trello.com/c/YBaqgIo5/8043-listing-photo-modifications-thill-r-bonnevoie-omer",
+      "lastModified": "2025-03-21T10:40:39.100Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67dd45a30f31c05b4790b9d6",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload Giraffe assets to drive: Machuron - Neudorf (Rudy)",
+      "nameShort": "Upload Giraffe assets to drive",
+      "pipedriveDealName": "Machuron - Neudorf",
+      "url": "https://trello.com/c/1cQ1zLHC/8048-upload-giraffe-assets-to-drive-machuron-neudorf-rudy",
+      "lastModified": "2025-03-21T10:55:33.252Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67dd50c66a8f9ae6ee576983",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Upload Giraffe assets to drive: Didier - Sprinkange (Sandy)",
+      "nameShort": "Upload Giraffe assets to drive",
+      "pipedriveDealName": "Didier - Sprinkange",
+      "url": "https://trello.com/c/2lKkQPTT/8051-upload-giraffe-assets-to-drive-didier-sprinkange-sandy",
+      "lastModified": "2025-03-21T11:43:05.069Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -426,6 +522,54 @@
       "pipedriveDealName": "Garcia - Merl",
       "url": "https://trello.com/c/zGOme31p/8001-put-listing-in-window-displays-garcia-merl-s%C3%BCleyman",
       "lastModified": "2025-03-20T11:29:11.986Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67dd44d08dd0b6474dbf993b",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Salazar - Rameldange (Vinciane)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Salazar - Rameldange",
+      "url": "https://trello.com/c/w8lAwxMO/8047-put-listing-in-window-displays-salazar-rameldange-vinciane",
+      "lastModified": "2025-03-21T11:49:37.958Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67dd1aa97ed7eb11b11423b3",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Thill - R - Bonnevoie (Omer)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Thill - R - Bonnevoie",
+      "url": "https://trello.com/c/ARPY85i6/8039-put-listing-in-window-displays-thill-r-bonnevoie-omer",
+      "lastModified": "2025-03-21T11:49:47.392Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67dd1aa8f15c82c66daf6d7b",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Vandras - P - Mamer (Süleyman)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Vandras - P - Mamer",
+      "url": "https://trello.com/c/fxnlJvXU/8038-put-listing-in-window-displays-vandras-p-mamer-s%C3%BCleyman",
+      "lastModified": "2025-03-21T11:49:52.947Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [

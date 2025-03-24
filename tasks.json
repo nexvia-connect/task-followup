@@ -81,22 +81,6 @@
       ]
     },
     {
-      "id": "67dffceff7e683e2752a1bc6",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Transport item Royal>Theatre (Xavier)",
-      "nameShort": "Transport item Royal>Theatre",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/Pj1I2WQX/8060-transport-item-royaltheatre-xavier",
-      "lastModified": "2025-03-23T12:22:09.083Z",
-      "associatedAdviser": "Xavier",
-      "slackUserId": "U44HL0DMX",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
       "id": "67dd6304af9eccf999eed5ef",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -129,17 +113,49 @@
       ]
     },
     {
-      "id": "67e0e8a89c1eef122a94b981",
+      "id": "67e1215fe702a624f0f4e35b",
       "idMembers": [
         "5ce414ac7678a40557510d74"
       ],
-      "name": "Prepare weekly newsletter (Task)",
-      "nameShort": "Prepare weekly newsletter",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/TRyxkId0/8062-prepare-weekly-newsletter-task",
-      "lastModified": "2025-03-24T05:07:53.746Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
+      "name": "Listing creation: Nedog - Lorentzweiler (Maéva)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": "Nedog - Lorentzweiler",
+      "url": "https://trello.com/c/V4g8urLK/8064-listing-creation-nedog-lorentzweiler-ma%C3%A9va",
+      "lastModified": "2025-03-24T09:09:57.449Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67e1399c0565ea9e91450b35",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing creation: Machuron - Neudorf (Rudy)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": "Machuron - Neudorf",
+      "url": "https://trello.com/c/R3rvSvrD/8070-listing-creation-machuron-neudorf-rudy",
+      "lastModified": "2025-03-24T10:53:21.800Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67e1492c4a232932a93ed87c",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Unpublish listing: Marroyen - Bridel (Süleyman)",
+      "nameShort": "Unpublish listing",
+      "pipedriveDealName": "Marroyen - Bridel",
+      "url": "https://trello.com/c/6rh20hJn/8071-unpublish-listing-marroyen-bridel-s%C3%BCleyman",
+      "lastModified": "2025-03-24T11:59:43.265Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
@@ -241,6 +257,38 @@
       ]
     },
     {
+      "id": "67e1238fe12e8f6b7c7cde1c",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload Giraffe assets to drive: Bourg - Beaufort (Omer)",
+      "nameShort": "Upload Giraffe assets to drive",
+      "pipedriveDealName": "Bourg - Beaufort",
+      "url": "https://trello.com/c/OAxhdZ5B/8065-upload-giraffe-assets-to-drive-bourg-beaufort-omer",
+      "lastModified": "2025-03-24T09:19:14.030Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67e12b0ee77ff6c7acb50b94",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Complete photo session: Sousa - Esch-sur-Alzette - Libération (Omer)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Sousa - Esch-sur-Alzette - Libération",
+      "url": "https://trello.com/c/whwTiJCA/8069-complete-photo-session-sousa-esch-sur-alzette-lib%C3%A9ration-omer",
+      "lastModified": "2025-03-24T09:51:12.583Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -249,7 +297,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-03-21T12:59:56.142Z",
+      "lastModified": "2025-03-24T12:03:18.733Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

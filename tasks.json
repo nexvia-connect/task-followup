@@ -33,22 +33,6 @@
       ]
     },
     {
-      "id": "67d3ede6494cc18320faf60f",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Assign transponder (Task)",
-      "nameShort": "Assign transponder",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/KkCBXAxa/7943-assign-transponder-task",
-      "lastModified": "2025-03-14T08:51:00.877Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67dd188cc5d563e6105f0a4a",
       "idMembers": [
         "5ce414ac7678a40557510d74"

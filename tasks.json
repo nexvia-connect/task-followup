@@ -65,38 +65,6 @@
       ]
     },
     {
-      "id": "67e1646f0ea89eca73051966",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Purchase item on Amazon.fr (Rachel)",
-      "nameShort": "Purchase item on Amazon.fr",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/oIJBnthU/8074-purchase-item-on-amazonfr-rachel",
-      "lastModified": "2025-03-24T13:56:01.962Z",
-      "associatedAdviser": "Rachel",
-      "slackUserId": "U08HQ4MQHN1",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
-      "id": "67e164de0ca4ae8d92e32622",
-      "idMembers": [
-        "56f10d02921bc403c6d626d1"
-      ],
-      "name": "Purchase item on Amazon.fr (Rachel)",
-      "nameShort": "Purchase item on Amazon.fr",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/6jrxuIoV/8075-purchase-item-on-amazonfr-rachel",
-      "lastModified": "2025-03-24T13:57:53.711Z",
-      "associatedAdviser": "Rachel",
-      "slackUserId": "U08HQ4MQHN1",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/56f10d02921bc403c6d626d1/32d0011b8f2a29099fe967d859738a16/170.png"
-      ]
-    },
-    {
       "id": "67e33176067a7c0e3214e50a",
       "idMembers": [
         "56f10d02921bc403c6d626d1"
@@ -145,6 +113,54 @@
       ]
     },
     {
+      "id": "67e3ef6fa047961694ea175c",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Schedule newsletter: Nedog - Lorentzweiler (Maéva)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Nedog - Lorentzweiler",
+      "url": "https://trello.com/c/TQnpNSxB/8122-schedule-newsletter-nedog-lorentzweiler-ma%C3%A9va",
+      "lastModified": "2025-03-26T12:13:38.179Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67e3fac7a12c5e577417b83b",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Set listing as signed: Mendes - Gosseldange (Vinciane)",
+      "nameShort": "Set listing as signed",
+      "pipedriveDealName": "Mendes - Gosseldange",
+      "url": "https://trello.com/c/NoOvCENb/8123-set-listing-as-signed-mendes-gosseldange-vinciane",
+      "lastModified": "2025-03-26T13:02:02.452Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67e3fae8853983e2f0ca8274",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Share listing to FB + Linkedin: Verbeek - Septfontaines (Carolina)",
+      "nameShort": "Share listing to FB + Linkedin",
+      "pipedriveDealName": "Verbeek - Septfontaines",
+      "url": "https://trello.com/c/swYeeH1j/8124-share-listing-to-fb-linkedin-verbeek-septfontaines-carolina",
+      "lastModified": "2025-03-26T13:02:35.122Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "67e3cdeb38605617e3108bdf",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -161,6 +177,38 @@
       ]
     },
     {
+      "id": "67e3ebc5d2ae8d7f38107520",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Upload Giraffe assets to drive (Task)",
+      "nameShort": "Upload Giraffe assets to drive",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/LIdeSyIm/8120-upload-giraffe-assets-to-drive-task",
+      "lastModified": "2025-03-26T11:57:59.015Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67e3ebf171874f00f720bf16",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Complete photo session: Nollet - Verlorenkost (Rudy)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Nollet - Verlorenkost",
+      "url": "https://trello.com/c/vdhcpeDC/8121-complete-photo-session-nollet-verlorenkost-rudy",
+      "lastModified": "2025-03-26T11:58:43.579Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -169,7 +217,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-03-25T21:43:46.182Z",
+      "lastModified": "2025-03-26T13:01:09.583Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

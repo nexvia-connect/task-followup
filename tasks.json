@@ -129,49 +129,33 @@
       ]
     },
     {
-      "id": "67e3cdeb38605617e3108bdf",
+      "id": "67e513dae2017539c4292460",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
       ],
-      "name": "Complete photo session: Pupeikyte - Limpertsberg (Carolina)",
-      "nameShort": "Complete photo session",
+      "name": "Share listing to FB + Linkedin: Schneider - Kirchberg (Romain)",
+      "nameShort": "Share listing to FB + Linkedin",
+      "pipedriveDealName": "Schneider - Kirchberg",
+      "url": "https://trello.com/c/9G0U61Z5/8133-share-listing-to-fb-linkedin-schneider-kirchberg-romain",
+      "lastModified": "2025-03-27T09:01:17.433Z",
+      "associatedAdviser": "Romain",
+      "slackUserId": "U7BGBRJGH",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67e5209ffb6a15b346d4cc9b",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload Giraffe assets to drive: Pupeikyte - Limpertsberg (Carolina)",
+      "nameShort": "Upload Giraffe assets to drive",
       "pipedriveDealName": "Pupeikyte - Limpertsberg",
-      "url": "https://trello.com/c/RtacG6zp/8118-complete-photo-session-pupeikyte-limpertsberg-carolina",
-      "lastModified": "2025-03-26T09:50:37.945Z",
+      "url": "https://trello.com/c/mVmwbbQV/8134-upload-giraffe-assets-to-drive-pupeikyte-limpertsberg-carolina",
+      "lastModified": "2025-03-27T09:55:45.633Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
-      "id": "67e40dee738230a6ce3485b7",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Upload Giraffe assets to drive: Ciaffone - Bascharage (Rudy)",
-      "nameShort": "Upload Giraffe assets to drive",
-      "pipedriveDealName": "Ciaffone - Bascharage",
-      "url": "https://trello.com/c/bONkrMCT/8127-upload-giraffe-assets-to-drive-ciaffone-bascharage-rudy",
-      "lastModified": "2025-03-26T14:23:44.262Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
-      "id": "67e50db3d56014d7dff20c77",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Upload Giraffe assets to drive: Ciaffone - Bascharage (Rudy)",
-      "nameShort": "Upload Giraffe assets to drive",
-      "pipedriveDealName": "Ciaffone - Bascharage",
-      "url": "https://trello.com/c/U368KN3w/8132-upload-giraffe-assets-to-drive-ciaffone-bascharage-rudy",
-      "lastModified": "2025-03-27T08:35:02.029Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
       ]
@@ -185,7 +169,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-03-26T13:01:09.583Z",
+      "lastModified": "2025-03-27T09:00:19.633Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

@@ -1,22 +1,6 @@
 {
   "cards": [
     {
-      "id": "67d3ed6f172fc20ecda075aa",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Manage Konica admin (Rachel)",
-      "nameShort": "Manage Konica admin",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/AQCnrGev/7929-manage-konica-admin-rachel",
-      "lastModified": "2025-03-24T16:33:52.042Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67d3ed70b88a8eea44f9c4f3",
       "idMembers": [
         "4fe86ade26d156994a0bee7d"

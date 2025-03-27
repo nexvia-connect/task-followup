@@ -81,6 +81,38 @@
       ]
     },
     {
+      "id": "67e54c56c28858b1c20ce912",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Share listing to FB + Linkedin: Sousa - Esch-sur-Alzette (Omer)",
+      "nameShort": "Share listing to FB + Linkedin",
+      "pipedriveDealName": "Sousa - Esch-sur-Alzette",
+      "url": "https://trello.com/c/0RLD2mhq/8139-share-listing-to-fb-linkedin-sousa-esch-sur-alzette-omer",
+      "lastModified": "2025-03-27T13:02:17.075Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67e552993421c03fb0368c58",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Schedule newsletter: Veston Dev One - Bertrange (Omer)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Veston Dev One - Bertrange",
+      "url": "https://trello.com/c/SmjmbnOT/8141-schedule-newsletter-veston-dev-one-bertrange-omer",
+      "lastModified": "2025-03-27T13:29:00.349Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "67e5209ffb6a15b346d4cc9b",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -105,9 +137,57 @@
       "nameShort": "Photoshop",
       "pipedriveDealName": "Bogaert - Junglinster",
       "url": "https://trello.com/c/EfbjUBgD/8136-photoshop-bogaert-junglinster-vinciane",
-      "lastModified": "2025-03-27T11:36:42.647Z",
+      "lastModified": "2025-03-27T13:48:36.842Z",
       "associatedAdviser": "Vinciane",
       "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67e549df4698d26699664595",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Complete photo session: Habassi - Hollerich (Romain)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Habassi - Hollerich",
+      "url": "https://trello.com/c/qR3zgW25/8138-complete-photo-session-habassi-hollerich-romain",
+      "lastModified": "2025-03-27T12:51:45.705Z",
+      "associatedAdviser": "Romain",
+      "slackUserId": "U7BGBRJGH",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
+      "id": "67e550bad94973162fae7af8",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Complete photo session: Chef - Schifflange (Sandy)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Chef - Schifflange",
+      "url": "https://trello.com/c/CXkHH7a4/8140-complete-photo-session-chef-schifflange-sandy",
+      "lastModified": "2025-03-27T13:21:00.538Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67e55b7e89b7594c4dbf1f7b",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload Giraffe assets to drive: Pupeikyte - Limpertsberg (Carolina)",
+      "nameShort": "Upload Giraffe assets to drive",
+      "pipedriveDealName": "Pupeikyte - Limpertsberg",
+      "url": "https://trello.com/c/RrngHw8S/8143-upload-giraffe-assets-to-drive-pupeikyte-limpertsberg-carolina",
+      "lastModified": "2025-03-27T14:06:56.805Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
       ]
@@ -121,7 +201,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-03-27T09:00:19.633Z",
+      "lastModified": "2025-03-27T13:01:16.686Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

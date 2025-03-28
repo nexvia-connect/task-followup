@@ -305,6 +305,38 @@
       ]
     },
     {
+      "id": "67e690923c81d37c7d10812f",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Schedule newsletter: Gomes - Berdorf (Süleyman)",
+      "nameShort": "Schedule newsletter",
+      "pipedriveDealName": "Gomes - Berdorf",
+      "url": "https://trello.com/c/xQ4KA3V5/8178-schedule-newsletter-gomes-berdorf-s%C3%BCleyman",
+      "lastModified": "2025-03-28T12:05:41.254Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67e69d9d2a2d5399a556840c",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Share listing to FB + Linkedin: Nedog - Lorentzweiler (Maéva)",
+      "nameShort": "Share listing to FB + Linkedin",
+      "pipedriveDealName": "Nedog - Lorentzweiler",
+      "url": "https://trello.com/c/qZDmN8Wa/8179-share-listing-to-fb-linkedin-nedog-lorentzweiler-ma%C3%A9va",
+      "lastModified": "2025-03-28T13:01:20.128Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "67e5209ffb6a15b346d4cc9b",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -348,22 +380,6 @@
       "lastModified": "2025-03-27T18:08:03.883Z",
       "associatedAdviser": "Thomas",
       "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
-      "id": "67e5cdcf2b92c813a201a1ca",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Photoshop: De La Concha - Walferdange (Süleyman)",
-      "nameShort": "Photoshop",
-      "pipedriveDealName": "De La Concha - Walferdange",
-      "url": "https://trello.com/c/loEGAr3j/8154-photoshop-de-la-concha-walferdange-s%C3%BCleyman",
-      "lastModified": "2025-03-27T22:14:52.582Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
       ]
@@ -433,6 +449,22 @@
       ]
     },
     {
+      "id": "67e5cdcf2b92c813a201a1ca",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Photoshop: De La Concha - Walferdange (Süleyman)",
+      "nameShort": "Photoshop",
+      "pipedriveDealName": "De La Concha - Walferdange",
+      "url": "https://trello.com/c/loEGAr3j/8154-photoshop-de-la-concha-walferdange-s%C3%BCleyman",
+      "lastModified": "2025-03-28T12:58:21.449Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -441,7 +473,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-03-28T10:44:04.271Z",
+      "lastModified": "2025-03-28T13:00:14.591Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

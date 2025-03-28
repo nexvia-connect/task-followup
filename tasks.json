@@ -177,22 +177,6 @@
       ]
     },
     {
-      "id": "67e5f7304d038faaee4308b5",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Listing modification: Marroyen - Bridel (Süleyman)",
-      "nameShort": "Listing modification",
-      "pipedriveDealName": "Marroyen - Bridel",
-      "url": "https://trello.com/c/eGPIVwdT/8160-listing-modification-marroyen-bridel-s%C3%BCleyman",
-      "lastModified": "2025-03-28T01:11:14.996Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67e63652eab61a743174ef1a",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -337,6 +321,38 @@
       ]
     },
     {
+      "id": "67e67f2cd62e26535b31d2e9",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Publish listing to platforms: Schneider - Kirchberg (Romain)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Schneider - Kirchberg",
+      "url": "https://trello.com/c/dTPOtOWq/8175-publish-listing-to-platforms-schneider-kirchberg-romain",
+      "lastModified": "2025-03-28T10:51:42.761Z",
+      "associatedAdviser": "Romain",
+      "slackUserId": "U7BGBRJGH",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67e67f63817717179741dbe9",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Schneider - Kirchberg (Romain)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Schneider - Kirchberg",
+      "url": "https://trello.com/c/MimFtvxQ/8176-put-listing-in-window-displays-schneider-kirchberg-romain",
+      "lastModified": "2025-03-28T10:52:27.908Z",
+      "associatedAdviser": "Romain",
+      "slackUserId": "U7BGBRJGH",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "67e5209ffb6a15b346d4cc9b",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -473,7 +489,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-03-28T09:00:28.927Z",
+      "lastModified": "2025-03-28T10:44:04.271Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

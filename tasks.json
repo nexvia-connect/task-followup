@@ -193,38 +193,6 @@
       ]
     },
     {
-      "id": "67e5f5c428cc93f0b878e4db",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Set listing as sold: Schmitz - Holzem (Süleyman)",
-      "nameShort": "Set listing as sold",
-      "pipedriveDealName": "Schmitz - Holzem",
-      "url": "https://trello.com/c/iAOQv4Dp/8158-set-listing-as-sold-schmitz-holzem-s%C3%BCleyman",
-      "lastModified": "2025-03-28T01:05:11.939Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "67e5f61f4c228ef133db5311",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Remove old listing as sold (Task)",
-      "nameShort": "Remove old listing as sold",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/n9zhthuy/8159-remove-old-listing-as-sold-task",
-      "lastModified": "2025-03-28T01:06:40.204Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67e5f7304d038faaee4308b5",
       "idMembers": [
         "5ce414ac7678a40557510d74"

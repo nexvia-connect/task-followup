@@ -273,22 +273,6 @@
       ]
     },
     {
-      "id": "67e64ca00ee50a601ab6bbfd",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Listing modification: Ciaffone - Bascharage (Rudy)",
-      "nameShort": "Listing modification",
-      "pipedriveDealName": "Ciaffone - Bascharage",
-      "url": "https://trello.com/c/Mytwa4ME/8165-listing-modification-ciaffone-bascharage-rudy",
-      "lastModified": "2025-03-28T07:15:47.392Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67e64e9e74c13e5bf8c3ee24",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -382,6 +366,22 @@
       "slackUserId": "UDK48MWPN",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67e66e047afd71b34e719e5b",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Listing modification: Machuron - Neudorf (Rudy)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "Machuron - Neudorf",
+      "url": "https://trello.com/c/IJ23MZEP/8174-listing-modification-machuron-neudorf-rudy",
+      "lastModified": "2025-03-28T09:38:14.947Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]
     },
     {

@@ -204,9 +204,7 @@
       "lastModified": "2025-03-27T14:06:56.805Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "67e593f75d6f203fb6063224",
@@ -236,9 +234,7 @@
       "lastModified": "2025-03-27T22:18:26.872Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "67e5d0282c912d74826391c0",
@@ -316,9 +312,7 @@
       "lastModified": "2025-03-28T12:58:21.449Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "64243606c586efdda6b161fc",
@@ -332,9 +326,7 @@
       "lastModified": "2025-03-28T16:46:35.804Z",
       "associatedAdviser": null,
       "slackUserId": null,
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     },
     {
       "id": "6720f237450b19e776708a7c",
@@ -348,9 +340,7 @@
       "lastModified": "2025-02-25T13:06:55.660Z",
       "associatedAdviser": "Aurore",
       "slackUserId": "U079GJ0BU1E",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
+      "avatarUrls": []
     }
   ]
 }

@@ -113,22 +113,6 @@
       ]
     },
     {
-      "id": "67e64aac2b01e22afca61e98",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Schedule newsletter: Nollet - Verlorenkost (Rudy)",
-      "nameShort": "Schedule newsletter",
-      "pipedriveDealName": "Nollet - Verlorenkost",
-      "url": "https://trello.com/c/noGUFxvq/8164-schedule-newsletter-nollet-verlorenkost-rudy",
-      "lastModified": "2025-03-28T07:07:27.557Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67e654cd8a8817333ca86d28",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -234,22 +218,6 @@
       "pipedriveDealName": "Sousa - Esch-sur-Alzette",
       "url": "https://trello.com/c/cwfDRnDt/8181-publish-listing-to-platforms-sousa-esch-sur-alzette-omer",
       "lastModified": "2025-03-28T14:51:21.179Z",
-      "associatedAdviser": "Omer",
-      "slackUserId": "U080CU2EX62",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
-      "id": "67e6b78e99c3101c5cbc2403",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Put listing in window displays: Sousa - Esch-sur-Alzette (Omer)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Sousa - Esch-sur-Alzette",
-      "url": "https://trello.com/c/yt5ExQ9h/8182-put-listing-in-window-displays-sousa-esch-sur-alzette-omer",
-      "lastModified": "2025-03-28T14:52:09.680Z",
       "associatedAdviser": "Omer",
       "slackUserId": "U080CU2EX62",
       "avatarUrls": [
@@ -492,6 +460,22 @@
       "lastModified": "2025-03-28T14:12:22.490Z",
       "associatedAdviser": "Romain",
       "slackUserId": "U7BGBRJGH",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67e6b78e99c3101c5cbc2403",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Put listing in window displays: Sousa - Esch-sur-Alzette (Omer)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Sousa - Esch-sur-Alzette",
+      "url": "https://trello.com/c/yt5ExQ9h/8182-put-listing-in-window-displays-sousa-esch-sur-alzette-omer",
+      "lastModified": "2025-03-28T15:48:54.878Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
       ]

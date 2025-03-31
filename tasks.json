@@ -81,22 +81,6 @@
       ]
     },
     {
-      "id": "67ea39c8d3ea0dadb74b06c1",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Upload Giraffe assets to drive: Chef - Schifflange (Sandy)",
-      "nameShort": "Upload Giraffe assets to drive",
-      "pipedriveDealName": "Chef - Schifflange",
-      "url": "https://trello.com/c/qVwma4HI/8190-upload-giraffe-assets-to-drive-chef-schifflange-sandy",
-      "lastModified": "2025-03-31T06:44:26.951Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
       "id": "67ea73829be02808a40af7f3",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -142,38 +126,6 @@
       "slackUserId": "U080CU2EX62",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
-      "id": "67ea937ac92396cfc2b385f4",
-      "idMembers": [
-        "67d94fb0140f0119bda14530"
-      ],
-      "name": "Upload Giraffe assets to drive: Habassi - Hollerich (Romain)",
-      "nameShort": "Upload Giraffe assets to drive",
-      "pipedriveDealName": "Habassi - Hollerich",
-      "url": "https://trello.com/c/HvY47o5U/8196-upload-giraffe-assets-to-drive-habassi-hollerich-romain",
-      "lastModified": "2025-03-31T13:07:08.770Z",
-      "associatedAdviser": "Romain",
-      "slackUserId": "U7BGBRJGH",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
-      ]
-    },
-    {
-      "id": "67ea9585085aea60e4e13bd0",
-      "idMembers": [
-        "67d94fb0140f0119bda14530"
-      ],
-      "name": "Upload Giraffe assets to drive: Habassi - Hollerich (Romain)",
-      "nameShort": "Upload Giraffe assets to drive",
-      "pipedriveDealName": "Habassi - Hollerich",
-      "url": "https://trello.com/c/oXnQNKNl/8197-upload-giraffe-assets-to-drive-habassi-hollerich-romain",
-      "lastModified": "2025-03-31T13:15:52.020Z",
-      "associatedAdviser": "Romain",
-      "slackUserId": "U7BGBRJGH",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
       ]
     },
     {

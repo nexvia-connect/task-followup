@@ -81,22 +81,6 @@
       ]
     },
     {
-      "id": "67ea66b2b5a7760a9314b292",
-      "idMembers": [
-        "5ce414ac7678a40557510d74"
-      ],
-      "name": "Unpublish listing: Bovha - Kirchberg (Carolina)",
-      "nameShort": "Unpublish listing",
-      "pipedriveDealName": "Bovha - Kirchberg",
-      "url": "https://trello.com/c/6iZ0UAdT/8192-unpublish-listing-bovha-kirchberg-carolina",
-      "lastModified": "2025-03-31T09:56:05.504Z",
-      "associatedAdviser": "Carolina",
-      "slackUserId": "UPMGXCR7H",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
-      ]
-    },
-    {
       "id": "67e5ceb0f89b5ac9862b5291",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -172,6 +156,38 @@
       "lastModified": "2025-03-31T10:50:44.814Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67ea7da1664a46ddc0515c2c",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload Giraffe assets to drive: De La Concha - Walferdange (Süleyman)",
+      "nameShort": "Upload Giraffe assets to drive",
+      "pipedriveDealName": "De La Concha - Walferdange",
+      "url": "https://trello.com/c/8l28n2Xz/8194-upload-giraffe-assets-to-drive-de-la-concha-walferdange-s%C3%BCleyman",
+      "lastModified": "2025-03-31T11:33:56.038Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67ea7f7fe9fd2716a0e24d46",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload Giraffe assets to drive: Fondation Jean Hamilius Junior - Berg (Omer)",
+      "nameShort": "Upload Giraffe assets to drive",
+      "pipedriveDealName": "Fondation Jean Hamilius Junior - Berg",
+      "url": "https://trello.com/c/lfddyZls/8195-upload-giraffe-assets-to-drive-fondation-jean-hamilius-junior-berg-omer",
+      "lastModified": "2025-03-31T11:41:53.752Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
       ]

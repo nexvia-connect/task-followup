@@ -33,6 +33,54 @@
       ]
     },
     {
+      "id": "67ebb5f3ede4174ded2943cd",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Clean Giraffe lens (Task)",
+      "nameShort": "Clean Giraffe lens",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/ia6Aq1h2/8219-clean-giraffe-lens-task",
+      "lastModified": "2025-04-01T09:46:28.536Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
+      "id": "67ebb609d633e4516a649f80",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Update inventory (Task)",
+      "nameShort": "Update inventory",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/czcntZAu/8220-update-inventory-task",
+      "lastModified": "2025-04-01T09:46:50.531Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
+      "id": "67ebb612c40a78b8e1a71fae",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Descale coffee machines (Task)",
+      "nameShort": "Descale coffee machines",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/nc7yHddt/8221-descale-coffee-machines-task",
+      "lastModified": "2025-04-01T09:46:59.873Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
       "id": "67eb1be74859ee90cd6b863c",
       "idMembers": [
         "67d94fb0140f0119bda14530"
@@ -49,17 +97,105 @@
       ]
     },
     {
-      "id": "67eb7c82abdc9f02fefaf55f",
+      "id": "67eb9d91012a56d88ff39b8c",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Share listing to FB + Linkedin: Veston Dev One - Bertrange (Omer)",
+      "nameShort": "Share listing to FB + Linkedin",
+      "pipedriveDealName": "Veston Dev One - Bertrange",
+      "url": "https://trello.com/c/CzbDmgb2/8210-share-listing-to-fb-linkedin-veston-dev-one-bertrange-omer",
+      "lastModified": "2025-04-01T08:02:28.129Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67ebafb1b2e9aded519e24e7",
+      "idMembers": [],
+      "name": "Listing modification: Bourg - Beaufort (Omer)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "Bourg - Beaufort",
+      "url": "https://trello.com/c/OKUq5ONF/8211-listing-modification-bourg-beaufort-omer",
+      "lastModified": "2025-04-01T09:19:47.505Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": []
+    },
+    {
+      "id": "67ebb03731741a2361026c89",
+      "idMembers": [],
+      "name": "Listing creation: Bourg - Beaufort (Omer)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": "Bourg - Beaufort",
+      "url": "https://trello.com/c/UuCAo4Hf/8212-listing-creation-bourg-beaufort-omer",
+      "lastModified": "2025-04-01T09:22:04.886Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": []
+    },
+    {
+      "id": "67ebb6fb61a37098454532fe",
       "idMembers": [
         "67d94fb0140f0119bda14530"
       ],
-      "name": "Unhide listing: Bogaert - Junglinster (Vinciane)",
-      "nameShort": "Unhide listing",
-      "pipedriveDealName": "Bogaert - Junglinster",
-      "url": "https://trello.com/c/8GLXWi6q/8205-unhide-listing-bogaert-junglinster-vinciane",
-      "lastModified": "2025-04-01T05:41:25.502Z",
-      "associatedAdviser": "Vinciane",
-      "slackUserId": "U01S0CAN9QT",
+      "name": "Publish listing to platforms: Nollet - Verlorenkost (Rudy)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Nollet - Verlorenkost",
+      "url": "https://trello.com/c/iITImLe2/8222-publish-listing-to-platforms-nollet-verlorenkost-rudy",
+      "lastModified": "2025-04-01T09:51:15.904Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
+      "id": "67ebb73a27090d3d9b5c8134",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Put listing in window displays: Nollet - Verlorenkost (Rudy)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Nollet - Verlorenkost",
+      "url": "https://trello.com/c/ExTJjqF9/8223-put-listing-in-window-displays-nollet-verlorenkost-rudy",
+      "lastModified": "2025-04-01T09:52:04.525Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
+      "id": "67ebc919a733eb80b821cd67",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Change listing price: Di Iacovo - Frisange (Rudy)",
+      "nameShort": "Change listing price",
+      "pipedriveDealName": "Di Iacovo - Frisange",
+      "url": "https://trello.com/c/wZx36amX/8225-change-listing-price-di-iacovo-frisange-rudy",
+      "lastModified": "2025-04-01T11:08:12.577Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
+      "id": "67ebcc4e00d1d968071606d1",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Set listing as signed: Distefano - Wellenstein (Süleyman)",
+      "nameShort": "Set listing as signed",
+      "pipedriveDealName": "Distefano - Wellenstein",
+      "url": "https://trello.com/c/psE4DdgB/8226-set-listing-as-signed-distefano-wellenstein-s%C3%BCleyman",
+      "lastModified": "2025-04-01T11:21:53.700Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
       ]
@@ -129,6 +265,38 @@
       ]
     },
     {
+      "id": "67ebb0e64fce26dee530694b",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Floor plan structural change: Bourg - Beaufort (Omer)",
+      "nameShort": "Floor plan structural change",
+      "pipedriveDealName": "Bourg - Beaufort",
+      "url": "https://trello.com/c/aJBPRDaE/8213-floor-plan-structural-change-bourg-beaufort-omer",
+      "lastModified": "2025-04-01T09:24:57.000Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67ebc5275cdd1f305963d624",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Complete photo session: Theisen - Schifflange (Antoine)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Theisen - Schifflange",
+      "url": "https://trello.com/c/m1Cpm8td/8224-complete-photo-session-theisen-schifflange-antoine",
+      "lastModified": "2025-04-01T10:51:21.422Z",
+      "associatedAdviser": "Antoine",
+      "slackUserId": "U08B25V2ABV",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -137,7 +305,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-03-31T11:00:50.106Z",
+      "lastModified": "2025-04-01T08:01:04.851Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

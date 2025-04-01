@@ -81,6 +81,22 @@
       ]
     },
     {
+      "id": "67ebdf29819c6f378413904b",
+      "idMembers": [
+        "5ce414ac7678a40557510d74"
+      ],
+      "name": "Check tenant payment: Hartmann - Bettange-sur-mess (Maeva)",
+      "nameShort": "Check tenant payment",
+      "pipedriveDealName": "Hartmann - Bettange-sur-mess",
+      "url": "https://trello.com/c/Aa9ED6UM/8230-check-tenant-payment-hartmann-bettange-sur-mess-maeva",
+      "lastModified": "2025-04-01T12:43:12.640Z",
+      "associatedAdviser": "Maeva",
+      "slackUserId": "U044CKLT9HD",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
       "id": "67eb9d91012a56d88ff39b8c",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -230,22 +246,6 @@
       "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
-      ]
-    },
-    {
-      "id": "67ebb0e64fce26dee530694b",
-      "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
-      ],
-      "name": "Floor plan structural change: Bourg - Beaufort (Omer)",
-      "nameShort": "Floor plan structural change",
-      "pipedriveDealName": "Bourg - Beaufort",
-      "url": "https://trello.com/c/aJBPRDaE/8213-floor-plan-structural-change-bourg-beaufort-omer",
-      "lastModified": "2025-04-01T09:24:57.000Z",
-      "associatedAdviser": "Omer",
-      "slackUserId": "U080CU2EX62",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
       ]
     },
     {

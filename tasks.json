@@ -137,22 +137,6 @@
       "avatarUrls": []
     },
     {
-      "id": "67ebb6fb61a37098454532fe",
-      "idMembers": [
-        "67d94fb0140f0119bda14530"
-      ],
-      "name": "Publish listing to platforms: Nollet - Verlorenkost (Rudy)",
-      "nameShort": "Publish listing to platforms",
-      "pipedriveDealName": "Nollet - Verlorenkost",
-      "url": "https://trello.com/c/iITImLe2/8222-publish-listing-to-platforms-nollet-verlorenkost-rudy",
-      "lastModified": "2025-04-01T09:51:15.904Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
-      ]
-    },
-    {
       "id": "67ebb73a27090d3d9b5c8134",
       "idMembers": [
         "67d94fb0140f0119bda14530"
@@ -185,19 +169,51 @@
       ]
     },
     {
-      "id": "67ebcc4e00d1d968071606d1",
+      "id": "67ebce2fe6164f569ef4f5a0",
       "idMembers": [
         "67d94fb0140f0119bda14530"
       ],
-      "name": "Set listing as signed: Distefano - Wellenstein (Süleyman)",
+      "name": "Set listing as signed: Muller - Reichlange (Süleyman)",
       "nameShort": "Set listing as signed",
-      "pipedriveDealName": "Distefano - Wellenstein",
-      "url": "https://trello.com/c/psE4DdgB/8226-set-listing-as-signed-distefano-wellenstein-s%C3%BCleyman",
-      "lastModified": "2025-04-01T11:21:53.700Z",
+      "pipedriveDealName": "Muller - Reichlange",
+      "url": "https://trello.com/c/HNYvVPDd/8227-set-listing-as-signed-muller-reichlange-s%C3%BCleyman",
+      "lastModified": "2025-04-01T11:29:54.742Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
+      "id": "67ebcec90782420958084577",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Listing modification: De La Concha - Walferdange (Süleyman)",
+      "nameShort": "Listing modification",
+      "pipedriveDealName": "De La Concha - Walferdange",
+      "url": "https://trello.com/c/pfwO7K73/8228-listing-modification-de-la-concha-walferdange-s%C3%BCleyman",
+      "lastModified": "2025-04-01T11:32:28.332Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
+      "id": "67ebd5df9716d7ff877f0584",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Share listing to FB + Linkedin: Bogaert - Junglinster (Vinciane)",
+      "nameShort": "Share listing to FB + Linkedin",
+      "pipedriveDealName": "Bogaert - Junglinster",
+      "url": "https://trello.com/c/niLJ9FGS/8229-share-listing-to-fb-linkedin-bogaert-junglinster-vinciane",
+      "lastModified": "2025-04-01T12:02:43.233Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
       ]
     },
     {
@@ -305,7 +321,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-04-01T08:01:04.851Z",
+      "lastModified": "2025-04-01T12:01:22.600Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [
@@ -326,6 +342,22 @@
       "slackUserId": "U079GJ0BU1E",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/5ce414ac7678a40557510d74/9b3409a680245ddd4a9aa3390971cb70/170.png"
+      ]
+    },
+    {
+      "id": "67ebb6fb61a37098454532fe",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Publish listing to platforms: Nollet - Verlorenkost (Rudy)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Nollet - Verlorenkost",
+      "url": "https://trello.com/c/iITImLe2/8222-publish-listing-to-platforms-nollet-verlorenkost-rudy",
+      "lastModified": "2025-04-01T12:15:46.250Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
       ]
     }
   ]

@@ -233,6 +233,54 @@
       ]
     },
     {
+      "id": "67ed138cf3eedcd0df0addfd",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Set listing as sold: Calçada - Bertrange (Vinciane)",
+      "nameShort": "Set listing as sold",
+      "pipedriveDealName": "Calçada - Bertrange",
+      "url": "https://trello.com/c/uVKjQmF9/8252-set-listing-as-sold-cal%C3%A7ada-bertrange-vinciane",
+      "lastModified": "2025-04-02T10:38:07.844Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
+      "id": "67ed1397dd79f309cd2f75e7",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Set listing as signed: Salazar - Rameldange (Vinciane)",
+      "nameShort": "Set listing as signed",
+      "pipedriveDealName": "Salazar - Rameldange",
+      "url": "https://trello.com/c/UE6Mw3AW/8253-set-listing-as-signed-salazar-rameldange-vinciane",
+      "lastModified": "2025-04-02T10:38:18.359Z",
+      "associatedAdviser": "Vinciane",
+      "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
+      "id": "67ed13e613ffa337f94e52a7",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Remove old listing as sold (Task)",
+      "nameShort": "Remove old listing as sold",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/4ipXWXOv/8254-remove-old-listing-as-sold-task",
+      "lastModified": "2025-04-02T10:39:36.036Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
       "id": "67ec408f7fa58d1405541e5c",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -265,22 +313,6 @@
       ]
     },
     {
-      "id": "67ecffb6815741b2db9483b5",
-      "idMembers": [
-        "67d94fb0140f0119bda14530"
-      ],
-      "name": "Upload Giraffe assets to drive: Hajdu - Lintgen (Thomas)",
-      "nameShort": "Upload Giraffe assets to drive",
-      "pipedriveDealName": "Hajdu - Lintgen",
-      "url": "https://trello.com/c/lWeqSlNH/8245-upload-giraffe-assets-to-drive-hajdu-lintgen-thomas",
-      "lastModified": "2025-04-02T09:13:28.930Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
-      ]
-    },
-    {
       "id": "67ed11ddbcbf79f5200b6b90",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -297,6 +329,38 @@
       ]
     },
     {
+      "id": "67ed1416d40077c328cafa12",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload Giraffe assets to drive: Verbeek - Septfontaines (Carolina)",
+      "nameShort": "Upload Giraffe assets to drive",
+      "pipedriveDealName": "Verbeek - Septfontaines",
+      "url": "https://trello.com/c/C3LrkeMd/8255-upload-giraffe-assets-to-drive-verbeek-septfontaines-carolina",
+      "lastModified": "2025-04-02T10:40:26.378Z",
+      "associatedAdviser": "Carolina",
+      "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67ed148df9619ef446d8e300",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload Giraffe assets to drive: Theisen - Schifflange (Antoine)",
+      "nameShort": "Upload Giraffe assets to drive",
+      "pipedriveDealName": "Theisen - Schifflange",
+      "url": "https://trello.com/c/EGTj9HfB/8256-upload-giraffe-assets-to-drive-theisen-schifflange-antoine",
+      "lastModified": "2025-04-02T10:42:24.268Z",
+      "associatedAdviser": "Antoine",
+      "slackUserId": "U08B25V2ABV",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -305,7 +369,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-04-02T08:01:22.283Z",
+      "lastModified": "2025-04-02T10:34:24.778Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

@@ -249,33 +249,49 @@
       ]
     },
     {
-      "id": "67ed1397dd79f309cd2f75e7",
+      "id": "67ed21103e735d3cbf821933",
       "idMembers": [
         "67d94fb0140f0119bda14530"
       ],
-      "name": "Set listing as signed: Salazar - Rameldange (Vinciane)",
-      "nameShort": "Set listing as signed",
-      "pipedriveDealName": "Salazar - Rameldange",
-      "url": "https://trello.com/c/UE6Mw3AW/8253-set-listing-as-signed-salazar-rameldange-vinciane",
-      "lastModified": "2025-04-02T10:38:18.359Z",
-      "associatedAdviser": "Vinciane",
-      "slackUserId": "U01S0CAN9QT",
+      "name": "Listing creation: Didier - Sprinkange (Sandy)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": "Didier - Sprinkange",
+      "url": "https://trello.com/c/HLtoEI7H/8258-listing-creation-didier-sprinkange-sandy",
+      "lastModified": "2025-04-02T11:35:50.616Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
       ]
     },
     {
-      "id": "67ed13e613ffa337f94e52a7",
+      "id": "67ed271039de14534dd25736",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Share listing to FB + Linkedin: Ciaffone - Bascharage (Rudy)",
+      "nameShort": "Share listing to FB + Linkedin",
+      "pipedriveDealName": "Ciaffone - Bascharage",
+      "url": "https://trello.com/c/9GFYee8i/8260-share-listing-to-fb-linkedin-ciaffone-bascharage-rudy",
+      "lastModified": "2025-04-02T12:01:23.929Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67ed2b8bc7d2255ff8128b2d",
       "idMembers": [
         "67d94fb0140f0119bda14530"
       ],
-      "name": "Remove old listing as sold (Task)",
-      "nameShort": "Remove old listing as sold",
-      "pipedriveDealName": null,
-      "url": "https://trello.com/c/4ipXWXOv/8254-remove-old-listing-as-sold-task",
-      "lastModified": "2025-04-02T10:39:36.036Z",
-      "associatedAdviser": null,
-      "slackUserId": null,
+      "name": "Change listing price: Zimmer - Moutfort (Thomas)",
+      "nameShort": "Change listing price",
+      "pipedriveDealName": "Zimmer - Moutfort",
+      "url": "https://trello.com/c/aa8VvFNl/8262-change-listing-price-zimmer-moutfort-thomas",
+      "lastModified": "2025-04-02T12:20:30.073Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
       ]
@@ -361,6 +377,54 @@
       ]
     },
     {
+      "id": "67ed1d6839211bd4831336e9",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload Giraffe assets to drive: De La Concha - Walferdange (Süleyman)",
+      "nameShort": "Upload Giraffe assets to drive",
+      "pipedriveDealName": "De La Concha - Walferdange",
+      "url": "https://trello.com/c/mP3CVWfd/8257-upload-giraffe-assets-to-drive-de-la-concha-walferdange-s%C3%BCleyman",
+      "lastModified": "2025-04-02T11:20:11.833Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67ed248a878067e31ca16e9f",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Complete photo session: Hinkels - Bertrange (Omer)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Hinkels - Bertrange",
+      "url": "https://trello.com/c/CJfgZ7uA/8259-complete-photo-session-hinkels-bertrange-omer",
+      "lastModified": "2025-04-02T11:50:36.898Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67ed2ac6059d49ce156ff0fe",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Upload Giraffe assets to drive: Hajdu - Lintgen (Thomas)",
+      "nameShort": "Upload Giraffe assets to drive",
+      "pipedriveDealName": "Hajdu - Lintgen",
+      "url": "https://trello.com/c/b6itaqKE/8261-upload-giraffe-assets-to-drive-hajdu-lintgen-thomas",
+      "lastModified": "2025-04-02T12:17:12.647Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -369,7 +433,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-04-02T10:34:24.778Z",
+      "lastModified": "2025-04-02T12:21:07.031Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

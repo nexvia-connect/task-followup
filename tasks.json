@@ -137,22 +137,6 @@
       "avatarUrls": []
     },
     {
-      "id": "67ece0afc071c28d33c4adc5",
-      "idMembers": [
-        "67d94fb0140f0119bda14530"
-      ],
-      "name": "Schedule newsletter: Rodrigues - Kehlen (Thomas)",
-      "nameShort": "Schedule newsletter",
-      "pipedriveDealName": "Rodrigues - Kehlen",
-      "url": "https://trello.com/c/URoDxN6X/8242-schedule-newsletter-rodrigues-kehlen-thomas",
-      "lastModified": "2025-04-02T07:01:06.755Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
-      ]
-    },
-    {
       "id": "67ecef5a666ec40b44e01df1",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -178,22 +162,6 @@
       "pipedriveDealName": "Veston Dev One - Bertrange",
       "url": "https://trello.com/c/k1ysxHHB/8248-publish-listing-to-platforms-veston-dev-one-bertrange-omer",
       "lastModified": "2025-04-02T09:52:33.748Z",
-      "associatedAdviser": "Omer",
-      "slackUserId": "U080CU2EX62",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
-      ]
-    },
-    {
-      "id": "67ed0937f9a8f51405080a40",
-      "idMembers": [
-        "67d94fb0140f0119bda14530"
-      ],
-      "name": "Put listing in window displays: Veston Dev One - Bertrange (Omer)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Veston Dev One - Bertrange",
-      "url": "https://trello.com/c/9Ad8mCLs/8249-put-listing-in-window-displays-veston-dev-one-bertrange-omer",
-      "lastModified": "2025-04-02T09:54:09.044Z",
       "associatedAdviser": "Omer",
       "slackUserId": "U080CU2EX62",
       "avatarUrls": [
@@ -420,6 +388,22 @@
       "lastModified": "2025-04-01T15:02:46.715Z",
       "associatedAdviser": "Carolina",
       "slackUserId": "UPMGXCR7H",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
+      "id": "67ed0937f9a8f51405080a40",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Put listing in window displays: Veston Dev One - Bertrange (Omer)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Veston Dev One - Bertrange",
+      "url": "https://trello.com/c/9Ad8mCLs/8249-put-listing-in-window-displays-veston-dev-one-bertrange-omer",
+      "lastModified": "2025-04-02T12:46:21.592Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
       ]

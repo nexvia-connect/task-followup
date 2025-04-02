@@ -265,22 +265,6 @@
       ]
     },
     {
-      "id": "67ed2b8bc7d2255ff8128b2d",
-      "idMembers": [
-        "67d94fb0140f0119bda14530"
-      ],
-      "name": "Change listing price: Zimmer - Moutfort (Thomas)",
-      "nameShort": "Change listing price",
-      "pipedriveDealName": "Zimmer - Moutfort",
-      "url": "https://trello.com/c/aa8VvFNl/8262-change-listing-price-zimmer-moutfort-thomas",
-      "lastModified": "2025-04-02T12:20:30.073Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
-      ]
-    },
-    {
       "id": "67ec408f7fa58d1405541e5c",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -390,22 +374,6 @@
       "slackUserId": "U080CU2EX62",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
-      ]
-    },
-    {
-      "id": "67ed2ac6059d49ce156ff0fe",
-      "idMembers": [
-        "67d94fb0140f0119bda14530"
-      ],
-      "name": "Upload Giraffe assets to drive: Hajdu - Lintgen (Thomas)",
-      "nameShort": "Upload Giraffe assets to drive",
-      "pipedriveDealName": "Hajdu - Lintgen",
-      "url": "https://trello.com/c/b6itaqKE/8261-upload-giraffe-assets-to-drive-hajdu-lintgen-thomas",
-      "lastModified": "2025-04-02T12:17:12.647Z",
-      "associatedAdviser": "Thomas",
-      "slackUserId": "U03BV8C9G5B",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
       ]
     },
     {

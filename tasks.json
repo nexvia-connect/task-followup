@@ -201,22 +201,6 @@
       ]
     },
     {
-      "id": "67ee45232139b847bb495e40",
-      "idMembers": [
-        "67d94fb0140f0119bda14530"
-      ],
-      "name": "Set listing as signed: Vandras - Mamer (Süleyman)",
-      "nameShort": "Set listing as signed",
-      "pipedriveDealName": "Vandras - Mamer",
-      "url": "https://trello.com/c/WStB6511/8274-set-listing-as-signed-vandras-mamer-s%C3%BCleyman",
-      "lastModified": "2025-04-03T08:21:58.459Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
-      ]
-    },
-    {
       "id": "67ee5969e935bd1a817dc992",
       "idMembers": [
         "67d94fb0140f0119bda14530"
@@ -276,6 +260,38 @@
       "lastModified": "2025-04-03T11:26:16.722Z",
       "associatedAdviser": "Vinciane",
       "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
+      "id": "67ee7a20b5d1dd8b4f27d2c4",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Share listing to FB + Linkedin: Bourg - Beaufort (Omer)",
+      "nameShort": "Share listing to FB + Linkedin",
+      "pipedriveDealName": "Bourg - Beaufort",
+      "url": "https://trello.com/c/HFCQcZRq/8282-share-listing-to-fb-linkedin-bourg-beaufort-omer",
+      "lastModified": "2025-04-03T12:08:03.638Z",
+      "associatedAdviser": "Omer",
+      "slackUserId": "U080CU2EX62",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67ee801d350c986776abc29d",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Listing creation: Chef - Schifflange (Sandy)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": "Chef - Schifflange",
+      "url": "https://trello.com/c/r3ohBCoD/8283-listing-creation-chef-schifflange-sandy",
+      "lastModified": "2025-04-03T12:33:38.760Z",
+      "associatedAdviser": "Sandy",
+      "slackUserId": "UBK5HTKFF",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
       ]
@@ -353,7 +369,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-04-03T11:26:55.464Z",
+      "lastModified": "2025-04-03T12:06:54.902Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

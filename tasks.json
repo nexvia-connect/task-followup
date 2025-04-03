@@ -169,22 +169,6 @@
       "avatarUrls": []
     },
     {
-      "id": "67ed6e9507307cb20a16ccea",
-      "idMembers": [
-        "67d94fb0140f0119bda14530"
-      ],
-      "name": "Listing modification: Didier - Sprinkange (Sandy)",
-      "nameShort": "Listing modification",
-      "pipedriveDealName": "Didier - Sprinkange",
-      "url": "https://trello.com/c/vbLrnOhQ/8268-listing-modification-didier-sprinkange-sandy",
-      "lastModified": "2025-04-02T17:06:31.755Z",
-      "associatedAdviser": "Sandy",
-      "slackUserId": "UBK5HTKFF",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
-      ]
-    },
-    {
       "id": "67ee41056412b0934b2a5601",
       "idMembers": [
         "67a1df874b56ef7d61dadcbd"
@@ -226,22 +210,6 @@
       "pipedriveDealName": "Gomes - Berdorf",
       "url": "https://trello.com/c/hEq3XDR6/8277-publish-listing-to-platforms-gomes-berdorf-s%C3%BCleyman",
       "lastModified": "2025-04-03T09:52:19.282Z",
-      "associatedAdviser": "Süleyman",
-      "slackUserId": "U034BAYA2KY",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
-      ]
-    },
-    {
-      "id": "67ee5aadc4dea2cb6e7df043",
-      "idMembers": [
-        "67d94fb0140f0119bda14530"
-      ],
-      "name": "Put listing in window displays: Gomes - Berdorf (Süleyman)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Gomes - Berdorf",
-      "url": "https://trello.com/c/QKrK3YEu/8278-put-listing-in-window-displays-gomes-berdorf-s%C3%BCleyman",
-      "lastModified": "2025-04-03T09:53:58.477Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
@@ -322,22 +290,6 @@
       "pipedriveDealName": "Ciaffone - Bascharage",
       "url": "https://trello.com/c/MUMVXtDI/8286-publish-listing-to-platforms-ciaffone-bascharage-rudy",
       "lastModified": "2025-04-03T13:52:26.207Z",
-      "associatedAdviser": "Rudy",
-      "slackUserId": "UDK48MWPN",
-      "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
-      ]
-    },
-    {
-      "id": "67ee92fafe0eb0f6ae130bf6",
-      "idMembers": [
-        "67d94fb0140f0119bda14530"
-      ],
-      "name": "Put listing in window displays: Ciaffone - Bascharage (Rudy)",
-      "nameShort": "Put listing in window displays",
-      "pipedriveDealName": "Ciaffone - Bascharage",
-      "url": "https://trello.com/c/3s21nrHh/8287-put-listing-in-window-displays-ciaffone-bascharage-rudy",
-      "lastModified": "2025-04-03T13:54:11.861Z",
       "associatedAdviser": "Rudy",
       "slackUserId": "UDK48MWPN",
       "avatarUrls": [
@@ -500,6 +452,38 @@
       "lastModified": "2025-04-02T14:09:15.477Z",
       "associatedAdviser": "Vinciane",
       "slackUserId": "U01S0CAN9QT",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
+      "id": "67ee92fafe0eb0f6ae130bf6",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Put listing in window displays: Ciaffone - Bascharage (Rudy)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Ciaffone - Bascharage",
+      "url": "https://trello.com/c/3s21nrHh/8287-put-listing-in-window-displays-ciaffone-bascharage-rudy",
+      "lastModified": "2025-04-03T14:58:27.263Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
+      "id": "67ee5aadc4dea2cb6e7df043",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Put listing in window displays: Gomes - Berdorf (Süleyman)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Gomes - Berdorf",
+      "url": "https://trello.com/c/QKrK3YEu/8278-put-listing-in-window-displays-gomes-berdorf-s%C3%BCleyman",
+      "lastModified": "2025-04-03T14:58:34.338Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
       ]

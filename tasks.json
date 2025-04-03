@@ -1,6 +1,22 @@
 {
   "cards": [
     {
+      "id": "67ee5ae08cd39ed385e88d0c",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Statistics report: Goldstein - Fentange (Maéva)",
+      "nameShort": "Statistics report",
+      "pipedriveDealName": "Goldstein - Fentange",
+      "url": "https://trello.com/c/9QNpC12T/8279-statistics-report-goldstein-fentange-ma%C3%A9va",
+      "lastModified": "2025-04-03T09:54:43.254Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "67d3ed70b88a8eea44f9c4f3",
       "idMembers": [
         "4fe86ade26d156994a0bee7d"
@@ -185,15 +201,79 @@
       ]
     },
     {
-      "id": "67ee38e1a6b495b6975a19a6",
+      "id": "67ee41056412b0934b2a5601",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Share listing to FB + Linkedin: De La Concha - Walferdange (Süleyman)",
+      "nameShort": "Share listing to FB + Linkedin",
+      "pipedriveDealName": "De La Concha - Walferdange",
+      "url": "https://trello.com/c/jM089FQ6/8272-share-listing-to-fb-linkedin-de-la-concha-walferdange-s%C3%BCleyman",
+      "lastModified": "2025-04-03T08:04:24.678Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67ee45232139b847bb495e40",
       "idMembers": [
         "67d94fb0140f0119bda14530"
       ],
-      "name": "Listing modification: De La Concha - Walferdange (Süleyman)",
-      "nameShort": "Listing modification",
-      "pipedriveDealName": "De La Concha - Walferdange",
-      "url": "https://trello.com/c/pVgWEgQe/8271-listing-modification-de-la-concha-walferdange-s%C3%BCleyman",
-      "lastModified": "2025-04-03T07:29:40.146Z",
+      "name": "Set listing as signed: Vandras - Mamer (Süleyman)",
+      "nameShort": "Set listing as signed",
+      "pipedriveDealName": "Vandras - Mamer",
+      "url": "https://trello.com/c/WStB6511/8274-set-listing-as-signed-vandras-mamer-s%C3%BCleyman",
+      "lastModified": "2025-04-03T08:21:58.459Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
+      "id": "67ee5969e935bd1a817dc992",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Format change (Task)",
+      "nameShort": "Format change",
+      "pipedriveDealName": null,
+      "url": "https://trello.com/c/HhbdKmNY/8276-format-change-task",
+      "lastModified": "2025-04-03T09:48:26.932Z",
+      "associatedAdviser": null,
+      "slackUserId": null,
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
+      "id": "67ee5a0fce8c4c8f8dddf767",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Publish listing to platforms: Gomes - Berdorf (Süleyman)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Gomes - Berdorf",
+      "url": "https://trello.com/c/hEq3XDR6/8277-publish-listing-to-platforms-gomes-berdorf-s%C3%BCleyman",
+      "lastModified": "2025-04-03T09:52:19.282Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
+      "id": "67ee5aadc4dea2cb6e7df043",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Put listing in window displays: Gomes - Berdorf (Süleyman)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Gomes - Berdorf",
+      "url": "https://trello.com/c/QKrK3YEu/8278-put-listing-in-window-displays-gomes-berdorf-s%C3%BCleyman",
+      "lastModified": "2025-04-03T09:53:58.477Z",
       "associatedAdviser": "Süleyman",
       "slackUserId": "U034BAYA2KY",
       "avatarUrls": [
@@ -217,6 +297,54 @@
       ]
     },
     {
+      "id": "67ee44faa13582c6a93865bc",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Complete photo session: Manry - Schoenfels (Süleyman)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Manry - Schoenfels",
+      "url": "https://trello.com/c/Y2EVqJEK/8273-complete-photo-session-manry-schoenfels-s%C3%BCleyman",
+      "lastModified": "2025-04-03T08:21:16.469Z",
+      "associatedAdviser": "Süleyman",
+      "slackUserId": "U034BAYA2KY",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67ee4befaf3e8afa059a43d7",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Complete photo session: Zaradzki - Grosbous (Thomas)",
+      "nameShort": "Complete photo session",
+      "pipedriveDealName": "Zaradzki - Grosbous",
+      "url": "https://trello.com/c/IMrxvVCg/8275-complete-photo-session-zaradzki-grosbous-thomas",
+      "lastModified": "2025-04-03T08:50:57.587Z",
+      "associatedAdviser": "Thomas",
+      "slackUserId": "U03BV8C9G5B",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
+      "id": "67ee5fb782bae6f328177511",
+      "idMembers": [
+        "67a1df874b56ef7d61dadcbd"
+      ],
+      "name": "Upload Giraffe assets to drive: Gallezot - Schifflange (Maéva)",
+      "nameShort": "Upload Giraffe assets to drive",
+      "pipedriveDealName": "Gallezot - Schifflange",
+      "url": "https://trello.com/c/B20gfqhr/8280-upload-giraffe-assets-to-drive-gallezot-schifflange-ma%C3%A9va",
+      "lastModified": "2025-04-03T10:15:21.504Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
       "id": "64243606c586efdda6b161fc",
       "idMembers": [
         "5ce414ac7678a40557510d74"
@@ -225,7 +353,7 @@
       "nameShort": "Weekly newsletter",
       "pipedriveDealName": null,
       "url": "https://trello.com/c/4biQLlJs/70-%F0%9F%94%92-weekly-newsletter-do-not-move",
-      "lastModified": "2025-04-02T12:21:07.031Z",
+      "lastModified": "2025-04-03T08:03:24.603Z",
       "associatedAdviser": null,
       "slackUserId": null,
       "avatarUrls": [

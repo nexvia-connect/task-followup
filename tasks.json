@@ -297,19 +297,51 @@
       ]
     },
     {
-      "id": "67ed148df9619ef446d8e300",
+      "id": "67ee863edc9db2196436e0f5",
       "idMembers": [
-        "67a1df874b56ef7d61dadcbd"
+        "67d94fb0140f0119bda14530"
       ],
-      "name": "Upload Giraffe assets to drive: Theisen - Schifflange (Antoine)",
-      "nameShort": "Upload Giraffe assets to drive",
-      "pipedriveDealName": "Theisen - Schifflange",
-      "url": "https://trello.com/c/EGTj9HfB/8256-upload-giraffe-assets-to-drive-theisen-schifflange-antoine",
-      "lastModified": "2025-04-02T10:42:24.268Z",
-      "associatedAdviser": "Antoine",
-      "slackUserId": "U08B25V2ABV",
+      "name": "Listing creation: Gallezot - Schifflange (Maéva)",
+      "nameShort": "Listing creation",
+      "pipedriveDealName": "Gallezot - Schifflange",
+      "url": "https://trello.com/c/0OMpijS5/8284-listing-creation-gallezot-schifflange-ma%C3%A9va",
+      "lastModified": "2025-04-03T12:59:48.820Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
       "avatarUrls": [
-        "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
+      "id": "67ee9255b5a7b9a773401b07",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Publish listing to platforms: Ciaffone - Bascharage (Rudy)",
+      "nameShort": "Publish listing to platforms",
+      "pipedriveDealName": "Ciaffone - Bascharage",
+      "url": "https://trello.com/c/MUMVXtDI/8286-publish-listing-to-platforms-ciaffone-bascharage-rudy",
+      "lastModified": "2025-04-03T13:52:26.207Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
+      ]
+    },
+    {
+      "id": "67ee92fafe0eb0f6ae130bf6",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Put listing in window displays: Ciaffone - Bascharage (Rudy)",
+      "nameShort": "Put listing in window displays",
+      "pipedriveDealName": "Ciaffone - Bascharage",
+      "url": "https://trello.com/c/3s21nrHh/8287-put-listing-in-window-displays-ciaffone-bascharage-rudy",
+      "lastModified": "2025-04-03T13:54:11.861Z",
+      "associatedAdviser": "Rudy",
+      "slackUserId": "UDK48MWPN",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
       ]
     },
     {
@@ -358,6 +390,22 @@
       "slackUserId": "U080Y7JP9T3",
       "avatarUrls": [
         "https://trello-members.s3.amazonaws.com/67a1df874b56ef7d61dadcbd/f928dc57d5c0a52e175256f0890209a6/170.png"
+      ]
+    },
+    {
+      "id": "67ee8689fc951facd8df0b73",
+      "idMembers": [
+        "67d94fb0140f0119bda14530"
+      ],
+      "name": "Floor plan room name change: Gallezot - Schifflange (Maéva)",
+      "nameShort": "Floor plan room name change",
+      "pipedriveDealName": "Gallezot - Schifflange",
+      "url": "https://trello.com/c/zkgiuuAg/8285-floor-plan-room-name-change-gallezot-schifflange-ma%C3%A9va",
+      "lastModified": "2025-04-03T13:01:00.479Z",
+      "associatedAdviser": "Maéva",
+      "slackUserId": "U080Y7JP9T3",
+      "avatarUrls": [
+        "https://trello-members.s3.amazonaws.com/67d94fb0140f0119bda14530/eee6f9c458a0ad98570713bf30f47d3c/170.png"
       ]
     },
     {
